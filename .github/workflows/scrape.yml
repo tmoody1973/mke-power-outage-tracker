@@ -1,0 +1,47 @@
+name: Scrape We Energies outage feed
+
+on:
+  schedule:
+    # Every 15 minutes. GitHub Actions cron is best-effort and can slip
+    # during high load, but this matches the source's own 10-minute
+    # refresh interval closely enough not to miss short outages.
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch current outages
+        run: python scripts/fetch_outages.py
+
+      - name: Rebuild GeoJSON + summary
+        run: python scripts/build_geojson.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "outage-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: outage snapshot $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          else
+            echo "No changes to commit."
+          fi

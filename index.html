@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Milwaukee-area We Energies Outage Tracker</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<style>
+  html, body { height: 100%; margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+  #app { display: flex; flex-direction: column; height: 100%; }
+  header { padding: 12px 16px; background: #111827; color: white; }
+  header h1 { font-size: 16px; margin: 0 0 4px 0; }
+  header p { font-size: 12px; margin: 0; color: #9ca3af; }
+  #summary { display: flex; gap: 16px; padding: 8px 16px; background: #1f2937; color: #e5e7eb; font-size: 12px; flex-wrap: wrap; }
+  #summary span strong { color: #fff; }
+  #map { flex: 1; }
+  .legend { background: white; padding: 8px 10px; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.3); font-size: 12px; line-height: 1.5; }
+  .legend i { width: 12px; height: 12px; display: inline-block; margin-right: 6px; border-radius: 50%; vertical-align: middle; }
+  #empty-state { padding: 24px 16px; color: #6b7280; font-size: 13px; max-width: 640px; }
+</style>
+</head>
+<body>
+<div id="app">
+  <header>
+    <h1>Milwaukee-area We Energies Outage Tracker</h1>
+    <p>Tracking public outage-map data going forward. No pre-existing history exists; every point below was captured by this project's own scraper.</p>
+  </header>
+  <div id="summary">
+    <span>Tracking since: <strong id="s-since">–</strong></span>
+    <span>Last updated: <strong id="s-updated">–</strong></span>
+    <span>Distinct outage events logged: <strong id="s-total">–</strong></span>
+    <span>Currently active: <strong id="s-active">–</strong></span>
+    <span>Cumulative customer-impact: <strong id="s-impact">–</strong></span>
+  </div>
+  <div id="map"></div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+  const map = L.map('map').setView([43.0389, -87.9065], 11); // centered on Milwaukee
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors'
+  }).addTo(map);
+
+  function colorFor(impact) {
+    if (impact >= 5000) return '#7f1d1d';
+    if (impact >= 1000) return '#dc2626';
+    if (impact >= 250) return '#f97316';
+    if (impact >= 50) return '#facc15';
+    return '#60a5fa';
+  }
+  function radiusFor(impact) {
+    return Math.max(5, Math.min(28, Math.sqrt(impact || 1) * 1.4));
+  }
+
+  async function load() {
+    try {
+      const [geoRes, summaryRes] = await Promise.all([
+        fetch('data/outage_events.geojson', { cache: 'no-store' }),
+        fetch('data/summary.json', { cache: 'no-store' })
+      ]);
+      if (summaryRes.ok) {
+        const s = await summaryRes.json();
+        document.getElementById('s-since').textContent = s.tracking_since ? new Date(s.tracking_since).toLocaleString() : '–';
+        document.getElementById('s-updated').textContent = s.last_updated ? new Date(s.last_updated).toLocaleString() : '–';
+        document.getElementById('s-total').textContent = s.total_distinct_outage_events ?? '–';
+        document.getElementById('s-active').textContent = s.currently_active_events ?? '–';
+        document.getElementById('s-impact').textContent = (s.cumulative_customer_impact ?? 0).toLocaleString();
+      }
+      if (!geoRes.ok) throw new Error('no geojson yet');
+      const geo = await geoRes.json();
+      if (!geo.features || geo.features.length === 0) {
+        showEmptyState();
+        return;
+      }
+      L.geoJSON(geo, {
+        pointToLayer: (feature, latlng) => {
+          const p = feature.properties;
+          return L.circleMarker(latlng, {
+            radius: radiusFor(p.max_affected_customers),
+            fillColor: colorFor(p.max_affected_customers),
+            color: p.still_active ? '#111827' : '#9ca3af',
+            weight: p.still_active ? 2 : 1,
+            fillOpacity: 0.75
+          });
+        },
+        onEachFeature: (feature, layer) => {
+          const p = feature.properties;
+          layer.bindPopup(`
+            <strong>${p.city || 'Unknown city'}, ${p.zip || ''}</strong><br/>
+            Cause: ${p.cause || 'Not yet determined'}<br/>
+            Off since: ${p.off_time || '–'}<br/>
+            Peak customers affected: ${(p.max_affected_customers || 0).toLocaleString()}<br/>
+            First seen: ${new Date(p.first_seen_at).toLocaleString()}<br/>
+            Last seen: ${new Date(p.last_seen_at).toLocaleString()}<br/>
+            Status: ${p.still_active ? 'Active' : 'Resolved / no longer listed'}
+          `);
+        }
+      }).addTo(map);
+
+      const legend = L.control({ position: 'bottomright' });
+      legend.onAdd = () => {
+        const div = L.DomUtil.create('div', 'legend');
+        div.innerHTML = `
+          <strong>Peak customers affected</strong><br/>
+          <i style="background:#7f1d1d"></i> 5,000+<br/>
+          <i style="background:#dc2626"></i> 1,000–4,999<br/>
+          <i style="background:#f97316"></i> 250–999<br/>
+          <i style="background:#facc15"></i> 50–249<br/>
+          <i style="background:#60a5fa"></i> under 50
+        `;
+        return div;
+      };
+      legend.addTo(map);
+    } catch (e) {
+      console.error(e);
+      showEmptyState();
+    }
+  }
+
+  function showEmptyState() {
+    const el = document.createElement('div');
+    el.id = 'empty-state';
+    el.innerHTML = `No outage data has been captured yet. The scraper runs every 15 minutes via GitHub Actions —
+      check back after the first scheduled run, or trigger the "Scrape We Energies outage feed" workflow manually
+      from the Actions tab.`;
+    document.getElementById('map').replaceWith(el);
+  }
+
+  load();
+</script>
+</body>
+</html>
