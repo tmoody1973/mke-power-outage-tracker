@@ -1,16 +1,138 @@
 {
-  "captured_at": "2026-07-27T13:48:02+00:00",
+  "captured_at": "2026-07-27T14:59:02+00:00",
   "events": [
     {
-      "Latitude": 46.18996293193086,
-      "Longitude": -89.40237031903337,
-      "OffTime": "Jul 27, 8:36 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "On the way",
+      "Latitude": 46.12559448427575,
+      "Longitude": -89.20620883033271,
+      "OffTime": "Jul 27, 8:45 a.m.",
+      "ETR": "Jul 27, 11:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 27, 8:40 a.m.",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
       "IsGlobal": false,
       "Slices": [
+        {
+          "AffectedCusts": 125,
+          "City": "conover",
+          "CityCusts": 2091,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54519",
+          "ZipCusts": 2091,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "conover",
+          "CityCusts": 2091,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54510",
+          "ZipCusts": 1,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        },
+        {
+          "AffectedCusts": 9,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54540",
+          "ZipCusts": 1705,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 46.16370875445644,
+      "Longitude": -89.2042010109546,
+      "OffTime": "Jul 27, 8:20 a.m.",
+      "ETR": "Jul 27, 11:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "watersmeet",
+          "CityCusts": 2008,
+          "County": "ontonagon",
+          "CountyCusts": 1706,
+          "Zip": "49969",
+          "ZipCusts": 2004,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54590",
+          "ZipCusts": 1,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54521",
+          "ZipCusts": 507,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        },
+        {
+          "AffectedCusts": 2,
+          "City": "watersmeet",
+          "CityCusts": 2008,
+          "County": "gogebic",
+          "CountyCusts": 2013,
+          "Zip": "49989",
+          "ZipCusts": 2,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        },
+        {
+          "AffectedCusts": 11,
+          "City": "marenisco",
+          "CityCusts": 11,
+          "County": "gogebic",
+          "CountyCusts": 2013,
+          "Zip": "49947",
+          "ZipCusts": 11,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        },
+        {
+          "AffectedCusts": 3,
+          "City": "bruce crossing",
+          "CityCusts": 712,
+          "County": "ontonagon",
+          "CountyCusts": 1706,
+          "Zip": "49912",
+          "ZipCusts": 789,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        },
+        {
+          "AffectedCusts": 38,
+          "City": "paulding",
+          "CityCusts": 72,
+          "County": "ontonagon",
+          "CountyCusts": 1706,
+          "Zip": "49912",
+          "ZipCusts": 789,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        },
         {
           "AffectedCusts": 1,
           "City": "watersmeet",
@@ -45,24 +167,13 @@
           "RegionCusts": 41371
         },
         {
-          "AffectedCusts": 2,
+          "AffectedCusts": 1,
           "City": "watersmeet",
           "CityCusts": 2008,
           "County": "gogebic",
           "CountyCusts": 2013,
-          "Zip": "49989",
-          "ZipCusts": 2,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41371
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "land o lakes",
-          "CityCusts": 1707,
-          "County": "vilas",
-          "CountyCusts": 6266,
-          "Zip": "54590",
-          "ZipCusts": 1,
+          "Zip": "49912",
+          "ZipCusts": 789,
           "Region": "upper peninsula mi",
           "RegionCusts": 41371
         },
@@ -74,39 +185,6 @@
           "CountyCusts": 6266,
           "Zip": "54540",
           "ZipCusts": 1705,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41371
-        },
-        {
-          "AffectedCusts": 38,
-          "City": "paulding",
-          "CityCusts": 72,
-          "County": "ontonagon",
-          "CountyCusts": 1706,
-          "Zip": "49912",
-          "ZipCusts": 789,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41371
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "watersmeet",
-          "CityCusts": 2008,
-          "County": "ontonagon",
-          "CountyCusts": 1706,
-          "Zip": "49912",
-          "ZipCusts": 789,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41371
-        },
-        {
-          "AffectedCusts": 11,
-          "City": "marenisco",
-          "CityCusts": 11,
-          "County": "gogebic",
-          "CountyCusts": 2013,
-          "Zip": "49947",
-          "ZipCusts": 11,
           "Region": "upper peninsula mi",
           "RegionCusts": 41371
         },
@@ -125,68 +203,12 @@
           "AffectedCusts": 1,
           "City": "watersmeet",
           "CityCusts": 2008,
-          "County": "gogebic",
-          "CountyCusts": 2013,
-          "Zip": "49912",
-          "ZipCusts": 789,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41371
-        },
-        {
-          "AffectedCusts": 3,
-          "City": "bruce crossing",
-          "CityCusts": 712,
           "County": "ontonagon",
           "CountyCusts": 1706,
           "Zip": "49912",
           "ZipCusts": 789,
           "Region": "upper peninsula mi",
           "RegionCusts": 41371
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "land o lakes",
-          "CityCusts": 1707,
-          "County": "vilas",
-          "CountyCusts": 6266,
-          "Zip": "54521",
-          "ZipCusts": 507,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41371
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "watersmeet",
-          "CityCusts": 2008,
-          "County": "ontonagon",
-          "CountyCusts": 1706,
-          "Zip": "49969",
-          "ZipCusts": 2004,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41371
-        }
-      ]
-    },
-    {
-      "Latitude": 43.17838716533012,
-      "Longitude": -88.02611528065064,
-      "OffTime": "Jul 27, 8:01 a.m.",
-      "ETR": "Jul 27, 11:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 27, 8:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352101,
-          "County": "milwaukee",
-          "CountyCusts": 479577,
-          "Zip": "53224",
-          "ZipCusts": 9521,
-          "Region": "southeast wi",
-          "RegionCusts": 1073426
         }
       ]
     },
@@ -194,55 +216,66 @@
       "Latitude": 43.091840513683046,
       "Longitude": -87.93658479059665,
       "OffTime": "Jul 27, 5:26 a.m.",
-      "ETR": "Jul 27, 11:00 a.m.",
+      "ETR": "Jul 27, 11:30 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 27, 8:40 a.m.",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 635,
-          "City": "milwaukee",
-          "CityCusts": 352101,
-          "County": "milwaukee",
-          "CountyCusts": 479577,
-          "Zip": "53216",
-          "ZipCusts": 14832,
-          "Region": "southeast wi",
-          "RegionCusts": 1073426
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352101,
-          "County": "milwaukee",
-          "CountyCusts": 479577,
-          "Zip": "53215",
-          "ZipCusts": 22323,
-          "Region": "southeast wi",
-          "RegionCusts": 1073426
-        },
-        {
-          "AffectedCusts": 2,
-          "City": "kenosha",
-          "CityCusts": 54280,
-          "County": "kenosha",
-          "CountyCusts": 80103,
-          "Zip": "53140",
-          "ZipCusts": 14887,
-          "Region": "southeast wi",
-          "RegionCusts": 1073426
-        },
-        {
-          "AffectedCusts": 30,
-          "City": "milwaukee",
-          "CityCusts": 352101,
+          "AffectedCusts": 7,
+          "City": "glendale",
+          "CityCusts": 3704,
           "County": "milwaukee",
           "CountyCusts": 479577,
           "Zip": "53212",
           "ZipCusts": 17005,
           "Region": "southeast wi",
-          "RegionCusts": 1073426
+          "RegionCusts": 1073428
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352103,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53222",
+          "ZipCusts": 13598,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        },
+        {
+          "AffectedCusts": 18,
+          "City": "milwaukee",
+          "CityCusts": 352103,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53218",
+          "ZipCusts": 17054,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        },
+        {
+          "AffectedCusts": 635,
+          "City": "milwaukee",
+          "CityCusts": 352103,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53216",
+          "ZipCusts": 14832,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352103,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53233",
+          "ZipCusts": 6699,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
         },
         {
           "AffectedCusts": 1,
@@ -253,18 +286,62 @@
           "Zip": "53211",
           "ZipCusts": 18158,
           "Region": "southeast wi",
-          "RegionCusts": 1073426
+          "RegionCusts": 1073428
         },
         {
           "AffectedCusts": 1,
           "City": "milwaukee",
-          "CityCusts": 352101,
+          "CityCusts": 352103,
           "County": "milwaukee",
           "CountyCusts": 479577,
           "Zip": "53208",
           "ZipCusts": 15447,
           "Region": "southeast wi",
-          "RegionCusts": 1073426
+          "RegionCusts": 1073428
+        },
+        {
+          "AffectedCusts": 3090,
+          "City": "milwaukee",
+          "CityCusts": 352103,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53206",
+          "ZipCusts": 10782,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        },
+        {
+          "AffectedCusts": 30,
+          "City": "milwaukee",
+          "CityCusts": 352103,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53212",
+          "ZipCusts": 17005,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        },
+        {
+          "AffectedCusts": 7137,
+          "City": "milwaukee",
+          "CityCusts": 352103,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53209",
+          "ZipCusts": 23836,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352103,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53215",
+          "ZipCusts": 22323,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
         },
         {
           "AffectedCusts": 83,
@@ -273,166 +350,237 @@
           "County": "milwaukee",
           "CountyCusts": 479577,
           "Zip": "53209",
-          "ZipCusts": 23835,
+          "ZipCusts": 23836,
           "Region": "southeast wi",
-          "RegionCusts": 1073426
+          "RegionCusts": 1073428
         },
         {
-          "AffectedCusts": 7137,
-          "City": "milwaukee",
-          "CityCusts": 352101,
-          "County": "milwaukee",
-          "CountyCusts": 479577,
-          "Zip": "53209",
-          "ZipCusts": 23835,
+          "AffectedCusts": 2,
+          "City": "kenosha",
+          "CityCusts": 54280,
+          "County": "kenosha",
+          "CountyCusts": 80103,
+          "Zip": "53140",
+          "ZipCusts": 14887,
           "Region": "southeast wi",
-          "RegionCusts": 1073426
-        },
-        {
-          "AffectedCusts": 7,
-          "City": "glendale",
-          "CityCusts": 3704,
-          "County": "milwaukee",
-          "CountyCusts": 479577,
-          "Zip": "53212",
-          "ZipCusts": 17005,
-          "Region": "southeast wi",
-          "RegionCusts": 1073426
-        },
+          "RegionCusts": 1073428
+        }
+      ]
+    },
+    {
+      "Latitude": 43.15697764670123,
+      "Longitude": -88.00744531485618,
+      "OffTime": "Jul 27, 9:43 a.m.",
+      "ETR": "Jul 27, 12:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
         {
           "AffectedCusts": 1,
           "City": "milwaukee",
-          "CityCusts": 352101,
+          "CityCusts": 352103,
           "County": "milwaukee",
           "CountyCusts": 479577,
-          "Zip": "53222",
-          "ZipCusts": 13598,
+          "Zip": "53223",
+          "ZipCusts": 14121,
           "Region": "southeast wi",
-          "RegionCusts": 1073426
+          "RegionCusts": 1073428
+        }
+      ]
+    },
+    {
+      "Latitude": 46.03322411384139,
+      "Longitude": -89.09880942999692,
+      "OffTime": "Jul 27, 9:09 a.m.",
+      "ETR": "Jul 27, 12:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 31,
+          "City": "phelps",
+          "CityCusts": 2047,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54554",
+          "ZipCusts": 2044,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 46.155546774905346,
+      "Longitude": -89.29938595413492,
+      "OffTime": "Jul 27, 8:40 a.m.",
+      "ETR": "Jul 27, 12:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54554",
+          "ZipCusts": 2044,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
         },
         {
-          "AffectedCusts": 18,
+          "AffectedCusts": 327,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54540",
+          "ZipCusts": 1705,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 44.83230568397971,
+      "Longitude": -88.43845811976564,
+      "OffTime": "Jul 27, 9:36 a.m.",
+      "ETR": "Jul 27, 12:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "cecil",
+          "CityCusts": 1374,
+          "County": "shawano",
+          "CountyCusts": 8362,
+          "Zip": "54111",
+          "ZipCusts": 1376,
+          "Region": "fox valley wi",
+          "RegionCusts": 143261
+        }
+      ]
+    },
+    {
+      "Latitude": 46.15515710761031,
+      "Longitude": -89.29427145234891,
+      "OffTime": "Jul 27, 8:40 a.m.",
+      "ETR": "Jul 27, 11:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54540",
+          "ZipCusts": 1705,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "53540",
+          "ZipCusts": 1,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 43.159169522385525,
+      "Longitude": -88.03346850600839,
+      "OffTime": "Jul 27, 8:50 a.m.",
+      "ETR": "Jul 27, 11:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
           "City": "milwaukee",
-          "CityCusts": 352101,
+          "CityCusts": 352103,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53224",
+          "ZipCusts": 9521,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        }
+      ]
+    },
+    {
+      "Latitude": 43.10727103518167,
+      "Longitude": -87.98442820899174,
+      "OffTime": "Jul 27, 9:18 a.m.",
+      "ETR": "Jul 27, 12:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352103,
           "County": "milwaukee",
           "CountyCusts": 479577,
           "Zip": "53218",
           "ZipCusts": 17054,
           "Region": "southeast wi",
-          "RegionCusts": 1073426
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352101,
-          "County": "milwaukee",
-          "CountyCusts": 479577,
-          "Zip": "53233",
-          "ZipCusts": 6699,
-          "Region": "southeast wi",
-          "RegionCusts": 1073426
-        },
-        {
-          "AffectedCusts": 3089,
-          "City": "milwaukee",
-          "CityCusts": 352101,
-          "County": "milwaukee",
-          "CountyCusts": 479577,
-          "Zip": "53206",
-          "ZipCusts": 10781,
-          "Region": "southeast wi",
-          "RegionCusts": 1073426
+          "RegionCusts": 1073428
         }
       ]
     },
     {
-      "Latitude": 43.105109896016856,
-      "Longitude": -87.91628593221711,
-      "OffTime": "Jul 27, 8:25 a.m.",
-      "ETR": "Jul 27, 11:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 27, 8:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "glendale",
-          "CityCusts": 3704,
-          "County": "milwaukee",
-          "CountyCusts": 479577,
-          "Zip": "53217",
-          "ZipCusts": 15178,
-          "Region": "southeast wi",
-          "RegionCusts": 1073426
-        }
-      ]
-    },
-    {
-      "Latitude": 42.91714812979378,
-      "Longitude": -88.09114151222707,
-      "OffTime": "Jul 27, 8:36 a.m.",
-      "ETR": "Jul 27, 11:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 27, 8:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "muskego",
-          "CityCusts": 12250,
-          "County": "waukesha",
-          "CountyCusts": 203418,
-          "Zip": "53150",
-          "ZipCusts": 12250,
-          "Region": "southeast wi",
-          "RegionCusts": 1073426
-        }
-      ]
-    },
-    {
-      "Latitude": 43.06676088163361,
-      "Longitude": -88.03140921584199,
-      "OffTime": "Jul 27, 8:28 a.m.",
+      "Latitude": 46.14132810038093,
+      "Longitude": -89.33381518354626,
+      "OffTime": "Jul 27, 8:40 a.m.",
       "ETR": "Jul 27, 11:30 a.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 27, 8:40 a.m.",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 4,
-          "City": "milwaukee",
-          "CityCusts": 352101,
-          "County": "milwaukee",
-          "CountyCusts": 479577,
-          "Zip": "53222",
-          "ZipCusts": 13598,
-          "Region": "southeast wi",
-          "RegionCusts": 1073426
+          "AffectedCusts": 102,
+          "City": "conover",
+          "CityCusts": 2091,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54519",
+          "ZipCusts": 2091,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
         },
         {
-          "AffectedCusts": 3,
-          "City": "wauwatosa",
-          "CityCusts": 10472,
-          "County": "milwaukee",
-          "CountyCusts": 479577,
-          "Zip": "53226",
-          "ZipCusts": 10888,
-          "Region": "southeast wi",
-          "RegionCusts": 1073426
-        },
-        {
-          "AffectedCusts": 13,
-          "City": "milwaukee",
-          "CityCusts": 352101,
-          "County": "milwaukee",
-          "CountyCusts": 479577,
-          "Zip": "53226",
-          "ZipCusts": 10888,
-          "Region": "southeast wi",
-          "RegionCusts": 1073426
+          "AffectedCusts": 36,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54540",
+          "ZipCusts": 1705,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
         }
       ]
     },
@@ -440,34 +588,12 @@
       "Latitude": 43.091744857464896,
       "Longitude": -87.93657325950738,
       "OffTime": "Jul 27, 5:26 a.m.",
-      "ETR": "Jul 27, 10:30 a.m.",
-      "CrewStatus": "On the way",
+      "ETR": "Jul 27, 11:30 a.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 27, 8:40 a.m.",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
       "IsGlobal": false,
       "Slices": [
-        {
-          "AffectedCusts": 1776,
-          "City": "milwaukee",
-          "CityCusts": 352101,
-          "County": "milwaukee",
-          "CountyCusts": 479577,
-          "Zip": "53209",
-          "ZipCusts": 23835,
-          "Region": "southeast wi",
-          "RegionCusts": 1073426
-        },
-        {
-          "AffectedCusts": 2,
-          "City": "milwaukee",
-          "CityCusts": 352101,
-          "County": "milwaukee",
-          "CountyCusts": 479577,
-          "Zip": "53210",
-          "ZipCusts": 12251,
-          "Region": "southeast wi",
-          "RegionCusts": 1073426
-        },
         {
           "AffectedCusts": 2,
           "City": "glendale",
@@ -477,131 +603,553 @@
           "Zip": "53217",
           "ZipCusts": 15178,
           "Region": "southeast wi",
-          "RegionCusts": 1073426
+          "RegionCusts": 1073428
         },
         {
           "AffectedCusts": 936,
           "City": "milwaukee",
-          "CityCusts": 352101,
+          "CityCusts": 352103,
           "County": "milwaukee",
           "CountyCusts": 479577,
           "Zip": "53206",
-          "ZipCusts": 10781,
+          "ZipCusts": 10782,
           "Region": "southeast wi",
-          "RegionCusts": 1073426
+          "RegionCusts": 1073428
         },
         {
           "AffectedCusts": 2761,
           "City": "milwaukee",
-          "CityCusts": 352101,
+          "CityCusts": 352103,
           "County": "milwaukee",
           "CountyCusts": 479577,
           "Zip": "53212",
           "ZipCusts": 17005,
           "Region": "southeast wi",
-          "RegionCusts": 1073426
-        },
-        {
-          "AffectedCusts": 3,
-          "City": "milwaukee",
-          "CityCusts": 352101,
-          "County": "milwaukee",
-          "CountyCusts": 479577,
-          "Zip": "53216",
-          "ZipCusts": 14832,
-          "Region": "southeast wi",
-          "RegionCusts": 1073426
-        },
-        {
-          "AffectedCusts": 1633,
-          "City": "milwaukee",
-          "CityCusts": 352101,
-          "County": "milwaukee",
-          "CountyCusts": 479577,
-          "Zip": "53218",
-          "ZipCusts": 17054,
-          "Region": "southeast wi",
-          "RegionCusts": 1073426
+          "RegionCusts": 1073428
         },
         {
           "AffectedCusts": 1,
           "City": "milwaukee",
-          "CityCusts": 352101,
+          "CityCusts": 352103,
           "County": "milwaukee",
           "CountyCusts": 479577,
           "Zip": "53221",
           "ZipCusts": 18454,
           "Region": "southeast wi",
-          "RegionCusts": 1073426
-        }
-      ]
-    },
-    {
-      "Latitude": 43.07809879622156,
-      "Longitude": -87.91681980770092,
-      "OffTime": "Jul 27, 6:25 a.m.",
-      "ETR": "Jul 27, 9:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 27, 8:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
+          "RegionCusts": 1073428
+        },
         {
-          "AffectedCusts": 1,
+          "AffectedCusts": 1634,
           "City": "milwaukee",
-          "CityCusts": 352101,
+          "CityCusts": 352103,
           "County": "milwaukee",
           "CountyCusts": 479577,
-          "Zip": "53212",
-          "ZipCusts": 17005,
+          "Zip": "53218",
+          "ZipCusts": 17054,
           "Region": "southeast wi",
-          "RegionCusts": 1073426
-        }
-      ]
-    },
-    {
-      "Latitude": 43.09286847962883,
-      "Longitude": -88.00003675088045,
-      "OffTime": "Jul 27, 8:28 a.m.",
-      "ETR": "Jul 27, 11:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 27, 8:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
+          "RegionCusts": 1073428
+        },
         {
-          "AffectedCusts": 1,
+          "AffectedCusts": 1776,
           "City": "milwaukee",
-          "CityCusts": 352101,
+          "CityCusts": 352103,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53209",
+          "ZipCusts": 23836,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        },
+        {
+          "AffectedCusts": 3,
+          "City": "milwaukee",
+          "CityCusts": 352103,
           "County": "milwaukee",
           "CountyCusts": 479577,
           "Zip": "53216",
           "ZipCusts": 14832,
           "Region": "southeast wi",
-          "RegionCusts": 1073426
+          "RegionCusts": 1073428
+        },
+        {
+          "AffectedCusts": 2,
+          "City": "milwaukee",
+          "CityCusts": 352103,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53210",
+          "ZipCusts": 12251,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
         }
       ]
     },
     {
-      "Latitude": 42.702814770811315,
-      "Longitude": -88.09195566725384,
-      "OffTime": "Jul 27, 7:18 a.m.",
-      "ETR": "Jul 27, 10:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Jul 27, 8:40 a.m.",
+      "Latitude": 42.901616921430545,
+      "Longitude": -87.90158760294827,
+      "OffTime": "Jul 27, 9:45 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 2,
-          "City": "kansasville",
-          "CityCusts": 1748,
-          "County": "racine",
-          "CountyCusts": 102363,
-          "Zip": "53139",
-          "ZipCusts": 1755,
+          "AffectedCusts": 1,
+          "City": "oak creek",
+          "CityCusts": 19948,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53154",
+          "ZipCusts": 19940,
           "Region": "southeast wi",
-          "RegionCusts": 1073426
+          "RegionCusts": 1073428
+        }
+      ]
+    },
+    {
+      "Latitude": 43.089129304959634,
+      "Longitude": -87.97890255688034,
+      "OffTime": "Jul 27, 9:10 a.m.",
+      "ETR": "Jul 27, 12:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352103,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53216",
+          "ZipCusts": 14832,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        }
+      ]
+    },
+    {
+      "Latitude": 46.05497327247188,
+      "Longitude": -89.17134146562705,
+      "OffTime": "Jul 27, 8:46 a.m.",
+      "ETR": "Jul 27, 11:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1114,
+          "City": "conover",
+          "CityCusts": 2091,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54519",
+          "ZipCusts": 2091,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "phelps",
+          "CityCusts": 2047,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54554",
+          "ZipCusts": 2044,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 46.13640662140938,
+      "Longitude": -89.32947146966094,
+      "OffTime": "Jul 27, 9:42 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54540",
+          "ZipCusts": 1705,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 43.17169029251241,
+      "Longitude": -88.044973055002,
+      "OffTime": "Jul 27, 9:46 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352103,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53224",
+          "ZipCusts": 9521,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        }
+      ]
+    },
+    {
+      "Latitude": 43.06721896618996,
+      "Longitude": -88.00669508250418,
+      "OffTime": "Jul 27, 9:37 a.m.",
+      "ETR": "Jul 27, 12:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352103,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53210",
+          "ZipCusts": 12251,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        }
+      ]
+    },
+    {
+      "Latitude": 46.00421775709299,
+      "Longitude": -89.19285232963252,
+      "OffTime": "Jul 27, 8:54 a.m.",
+      "ETR": "Jul 27, 11:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 6,
+          "City": "phelps",
+          "CityCusts": 2047,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54554",
+          "ZipCusts": 2044,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        },
+        {
+          "AffectedCusts": 23,
+          "City": "conover",
+          "CityCusts": 2091,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54519",
+          "ZipCusts": 2091,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        },
+        {
+          "AffectedCusts": 3,
+          "City": "eagle river",
+          "CityCusts": 505,
+          "County": "florence",
+          "CountyCusts": 3049,
+          "Zip": "54521",
+          "ZipCusts": 507,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        },
+        {
+          "AffectedCusts": 384,
+          "City": "eagle river",
+          "CityCusts": 505,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54521",
+          "ZipCusts": 507,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 46.0652146223991,
+      "Longitude": -87.82690809895729,
+      "OffTime": "Jul 27, 9:41 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "iron mountain",
+          "CityCusts": 7095,
+          "County": "dickinson",
+          "CountyCusts": 14076,
+          "Zip": "49831",
+          "ZipCusts": 482,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 43.08870272134347,
+      "Longitude": -87.94530498865186,
+      "OffTime": "Jul 27, 9:44 a.m.",
+      "ETR": "Jul 27, 12:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352103,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53206",
+          "ZipCusts": 10782,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        }
+      ]
+    },
+    {
+      "Latitude": 43.39640037243295,
+      "Longitude": -87.87189421174844,
+      "OffTime": "Jul 27, 9:28 a.m.",
+      "ETR": "Jul 27, 12:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 5,
+          "City": "port washington",
+          "CityCusts": 3227,
+          "County": "ozaukee",
+          "CountyCusts": 42593,
+          "Zip": "53074",
+          "ZipCusts": 7475,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        },
+        {
+          "AffectedCusts": 15,
+          "City": "prt washingtn",
+          "CityCusts": 4256,
+          "County": "ozaukee",
+          "CountyCusts": 42593,
+          "Zip": "53074",
+          "ZipCusts": 7475,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        }
+      ]
+    },
+    {
+      "Latitude": 45.739487370768664,
+      "Longitude": -88.70346650633267,
+      "OffTime": "Jul 27, 9:22 a.m.",
+      "ETR": "Jul 27, 12:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "newald",
+          "CityCusts": 190,
+          "County": "forest",
+          "CountyCusts": 740,
+          "Zip": "54511",
+          "ZipCusts": 254,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 46.13266710104466,
+      "Longitude": -89.33317137420089,
+      "OffTime": "Jul 27, 9:36 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54540",
+          "ZipCusts": 1705,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 43.18213169719358,
+      "Longitude": -88.01635886187077,
+      "OffTime": "Jul 27, 9:25 a.m.",
+      "ETR": "Jul 27, 12:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352103,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53224",
+          "ZipCusts": 9521,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        }
+      ]
+    },
+    {
+      "Latitude": 46.03989801020574,
+      "Longitude": -89.09791644680553,
+      "OffTime": "Jul 27, 8:54 a.m.",
+      "ETR": "Jul 27, 12:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 326,
+          "City": "phelps",
+          "CityCusts": 2047,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54554",
+          "ZipCusts": 2044,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 43.05007616562305,
+      "Longitude": -87.90663752048526,
+      "OffTime": "Jul 27, 9:26 a.m.",
+      "ETR": "Jul 27, 12:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352103,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53202",
+          "ZipCusts": 22389,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        }
+      ]
+    },
+    {
+      "Latitude": 43.102772879621156,
+      "Longitude": -87.97853841614827,
+      "OffTime": "Jul 27, 9:20 a.m.",
+      "ETR": "Jul 27, 12:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352103,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53218",
+          "ZipCusts": 17054,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        }
+      ]
+    },
+    {
+      "Latitude": 46.149475766094405,
+      "Longitude": -89.34124181548158,
+      "OffTime": "Jul 27, 8:40 a.m.",
+      "ETR": "Jul 27, 12:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 40,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54540",
+          "ZipCusts": 1705,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 43.042910590065794,
+      "Longitude": -87.93479226641212,
+      "OffTime": "Jul 27, 9:43 a.m.",
+      "ETR": "Jul 27, 12:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352103,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53206",
+          "ZipCusts": 10782,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
         }
       ]
     },
@@ -612,7 +1160,7 @@
       "ETR": "Jul 27, 11:30 a.m.",
       "CrewStatus": "On site",
       "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Jul 27, 8:40 a.m.",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -624,99 +1172,524 @@
           "Zip": "53402",
           "ZipCusts": 16000,
           "Region": "southeast wi",
-          "RegionCusts": 1073426
+          "RegionCusts": 1073428
         }
       ]
     },
     {
-      "Latitude": 43.11593823075209,
-      "Longitude": -87.9928446729058,
-      "OffTime": "Jul 27, 8:26 a.m.",
-      "ETR": "Jul 27, 11:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 27, 8:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352101,
-          "County": "milwaukee",
-          "CountyCusts": 479577,
-          "Zip": "53218",
-          "ZipCusts": 17054,
-          "Region": "southeast wi",
-          "RegionCusts": 1073426
-        }
-      ]
-    },
-    {
-      "Latitude": 43.05466044179827,
-      "Longitude": -87.9630018496113,
-      "OffTime": "Jul 27, 8:37 a.m.",
+      "Latitude": 46.06298481506022,
+      "Longitude": -89.13234210379115,
+      "OffTime": "Jul 27, 9:43 a.m.",
       "ETR": "Not yet determined",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 27, 8:40 a.m.",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352101,
-          "County": "milwaukee",
-          "CountyCusts": 479577,
-          "Zip": "53218",
-          "ZipCusts": 17054,
-          "Region": "southeast wi",
-          "RegionCusts": 1073426
+          "City": "conover",
+          "CityCusts": 2091,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54519",
+          "ZipCusts": 2091,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
         }
       ]
     },
     {
-      "Latitude": 43.10587691541693,
-      "Longitude": -87.97707090060612,
-      "OffTime": "Jul 27, 8:07 a.m.",
-      "ETR": "Jul 27, 11:00 a.m.",
+      "Latitude": 46.16285005212846,
+      "Longitude": -89.21682793479653,
+      "OffTime": "Jul 27, 8:40 a.m.",
+      "ETR": "Jul 27, 10:00 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Equipment damaged by lightning",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 76,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54540",
+          "ZipCusts": 1705,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        },
+        {
+          "AffectedCusts": 5,
+          "City": "watersmeet",
+          "CityCusts": 2008,
+          "County": "gogebic",
+          "CountyCusts": 2013,
+          "Zip": "49969",
+          "ZipCusts": 2004,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 44.62192362656845,
+      "Longitude": -88.42550798630639,
+      "OffTime": "Jul 27, 8:39 a.m.",
+      "ETR": "Jul 27, 11:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "pulaski",
+          "CityCusts": 2762,
+          "County": "shawano",
+          "CountyCusts": 8362,
+          "Zip": "54162",
+          "ZipCusts": 2763,
+          "Region": "fox valley wi",
+          "RegionCusts": 143261
+        }
+      ]
+    },
+    {
+      "Latitude": 46.13939216546029,
+      "Longitude": -89.33350579259671,
+      "OffTime": "Jul 27, 8:42 a.m.",
+      "ETR": "Jul 27, 11:30 a.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 27, 8:40 a.m.",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54540",
+          "ZipCusts": 1705,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 46.03775930263416,
+      "Longitude": -89.18145935031707,
+      "OffTime": "Jul 27, 8:55 a.m.",
+      "ETR": "Jul 27, 11:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "conover",
+          "CityCusts": 2091,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54519",
+          "ZipCusts": 2091,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 43.12506486909495,
+      "Longitude": -87.99159347600876,
+      "OffTime": "Jul 27, 9:47 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
           "City": "milwaukee",
-          "CityCusts": 352101,
+          "CityCusts": 352103,
           "County": "milwaukee",
           "CountyCusts": 479577,
           "Zip": "53218",
           "ZipCusts": 17054,
           "Region": "southeast wi",
-          "RegionCusts": 1073426
+          "RegionCusts": 1073428
         }
       ]
     },
     {
-      "Latitude": 43.071975149704514,
-      "Longitude": -87.90717063148955,
-      "OffTime": "Jul 27, 6:26 a.m.",
-      "ETR": "Jul 27, 9:00 a.m.",
-      "CrewStatus": "On the way",
+      "Latitude": 43.072778322512214,
+      "Longitude": -87.92327529527292,
+      "OffTime": "Jul 27, 8:48 a.m.",
+      "ETR": "Jul 27, 11:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 27, 8:40 a.m.",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
           "City": "milwaukee",
-          "CityCusts": 352101,
+          "CityCusts": 352103,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53206",
+          "ZipCusts": 10782,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        }
+      ]
+    },
+    {
+      "Latitude": 46.06467140646152,
+      "Longitude": -87.83285261537614,
+      "OffTime": "Jul 27, 9:34 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "felch",
+          "CityCusts": 452,
+          "County": "dickinson",
+          "CountyCusts": 14076,
+          "Zip": "49831",
+          "ZipCusts": 482,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 43.08445714578443,
+      "Longitude": -88.36012622044545,
+      "OffTime": "Jul 27, 9:22 a.m.",
+      "ETR": "Jul 27, 12:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "hartland",
+          "CityCusts": 11252,
+          "County": "waukesha",
+          "CountyCusts": 203418,
+          "Zip": "53029",
+          "ZipCusts": 11360,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        }
+      ]
+    },
+    {
+      "Latitude": 43.07952830590513,
+      "Longitude": -87.90831015470461,
+      "OffTime": "Jul 27, 9:21 a.m.",
+      "ETR": "Jul 27, 12:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352103,
           "County": "milwaukee",
           "CountyCusts": 479577,
           "Zip": "53212",
           "ZipCusts": 17005,
           "Region": "southeast wi",
-          "RegionCusts": 1073426
+          "RegionCusts": 1073428
+        }
+      ]
+    },
+    {
+      "Latitude": 42.91714812979378,
+      "Longitude": -88.09114151222707,
+      "OffTime": "Jul 27, 8:36 a.m.",
+      "ETR": "Jul 27, 11:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "muskego",
+          "CityCusts": 12250,
+          "County": "waukesha",
+          "CountyCusts": 203418,
+          "Zip": "53150",
+          "ZipCusts": 12250,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        }
+      ]
+    },
+    {
+      "Latitude": 43.08000236913418,
+      "Longitude": -87.94169074749645,
+      "OffTime": "Jul 27, 8:56 a.m.",
+      "ETR": "Jul 27, 11:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 19,
+          "City": "milwaukee",
+          "CityCusts": 352103,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53206",
+          "ZipCusts": 10782,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        }
+      ]
+    },
+    {
+      "Latitude": 42.92743521905809,
+      "Longitude": -87.90826544211309,
+      "OffTime": "Jul 27, 8:55 a.m.",
+      "ETR": "Jul 27, 11:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "oak creek",
+          "CityCusts": 19948,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53154",
+          "ZipCusts": 19940,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        }
+      ]
+    },
+    {
+      "Latitude": 43.0810075664354,
+      "Longitude": -87.92550693520519,
+      "OffTime": "Jul 27, 9:20 a.m.",
+      "ETR": "Jul 27, 12:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352103,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53206",
+          "ZipCusts": 10782,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        }
+      ]
+    },
+    {
+      "Latitude": 46.15517441516619,
+      "Longitude": -89.32591908207621,
+      "OffTime": "Jul 27, 8:48 a.m.",
+      "ETR": "Jul 27, 11:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54540",
+          "ZipCusts": 1705,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 45.78625201982656,
+      "Longitude": -88.0139286545738,
+      "OffTime": "Jul 27, 9:22 a.m.",
+      "ETR": "Jul 27, 12:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 6,
+          "City": "niagara",
+          "CityCusts": 2256,
+          "County": "marinette",
+          "CountyCusts": 1616,
+          "Zip": "54151",
+          "ZipCusts": 2265,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 45.812367335646016,
+      "Longitude": -88.05590790887854,
+      "OffTime": "Jul 27, 9:15 a.m.",
+      "ETR": "Jul 27, 12:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 11,
+          "City": "iron mountain",
+          "CityCusts": 7095,
+          "County": "dickinson",
+          "CountyCusts": 14076,
+          "Zip": "49801",
+          "ZipCusts": 7096,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 43.14476853553045,
+      "Longitude": -88.03608358340281,
+      "OffTime": "Jul 27, 9:37 a.m.",
+      "ETR": "Jul 27, 12:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352103,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53224",
+          "ZipCusts": 9521,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        }
+      ]
+    },
+    {
+      "Latitude": 46.048860804148084,
+      "Longitude": -89.09692647668135,
+      "OffTime": "Jul 27, 9:18 a.m.",
+      "ETR": "Jul 27, 12:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "phelps",
+          "CityCusts": 2047,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54554",
+          "ZipCusts": 2044,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 43.05429351641346,
+      "Longitude": -87.92634168723129,
+      "OffTime": "Jul 27, 9:26 a.m.",
+      "ETR": "Jul 27, 12:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352103,
+          "County": "milwaukee",
+          "CountyCusts": 479577,
+          "Zip": "53205",
+          "ZipCusts": 4124,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        }
+      ]
+    },
+    {
+      "Latitude": 42.983231156421056,
+      "Longitude": -88.67334034922222,
+      "OffTime": "Jul 27, 9:43 a.m.",
+      "ETR": "Jul 27, 12:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "helenville",
+          "CityCusts": 972,
+          "County": "jefferson",
+          "CountyCusts": 35172,
+          "Zip": "53137",
+          "ZipCusts": 975,
+          "Region": "southeast wi",
+          "RegionCusts": 1073428
+        }
+      ]
+    },
+    {
+      "Latitude": 46.14937950774068,
+      "Longitude": -89.34218697731079,
+      "OffTime": "Jul 27, 9:00 a.m.",
+      "ETR": "Jul 27, 12:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 27, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54540",
+          "ZipCusts": 1705,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
         }
       ]
     }
