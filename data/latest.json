@@ -1,6 +1,29 @@
 {
-  "captured_at": "2026-07-30T09:01:10+00:00",
+  "captured_at": "2026-07-30T10:02:24+00:00",
   "events": [
+    {
+      "Latitude": 44.26544818318471,
+      "Longitude": -88.36663306660168,
+      "OffTime": "Jul 27, 12:56 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54915",
+          "ZipCusts": 20160,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
     {
       "Latitude": 44.23628684999982,
       "Longitude": -88.40339106323403,
@@ -8,39 +31,17 @@
       "ETR": "Jul 30, 3:00 p.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 161,
+          "AffectedCusts": 103,
           "City": "menasha",
           "CityCusts": 4805,
           "County": "winnebago",
           "CountyCusts": 27761,
           "Zip": "54952",
           "ZipCusts": 4818,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "menasha",
-          "CityCusts": 4805,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54952",
-          "ZipCusts": 4818,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        },
-        {
-          "AffectedCusts": 364,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54915",
-          "ZipCusts": 20160,
           "Region": "fox valley wi",
           "RegionCusts": 143258
         },
@@ -57,247 +58,17 @@
         },
         {
           "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62922,
+          "City": "menasha",
+          "CityCusts": 4805,
           "County": "outagamie",
           "CountyCusts": 80061,
-          "Zip": "54911",
-          "ZipCusts": 13388,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.38189481384105,
-      "Longitude": -88.2952686637203,
-      "OffTime": "Jul 27, 6:33 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 55,
-          "City": "kaukauna",
-          "CityCusts": 2383,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54130",
-          "ZipCusts": 2966,
+          "Zip": "54952",
+          "ZipCusts": 4818,
           "Region": "fox valley wi",
           "RegionCusts": 143258
         },
         {
-          "AffectedCusts": 6,
-          "City": "freedom",
-          "CityCusts": 1095,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54130",
-          "ZipCusts": 2966,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 46.19530625255846,
-      "Longitude": -89.43602448549268,
-      "OffTime": "Jul 27, 10:37 a.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "land o lakes",
-          "CityCusts": 1707,
-          "County": "vilas",
-          "CountyCusts": 6266,
-          "Zip": "54540",
-          "ZipCusts": 1705,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41371
-        }
-      ]
-    },
-    {
-      "Latitude": 44.19782015461245,
-      "Longitude": -88.30364479582266,
-      "OffTime": "Jul 27, 7:50 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 16,
-          "City": "menasha",
-          "CityCusts": 4805,
-          "County": "calumet",
-          "CountyCusts": 14434,
-          "Zip": "54952",
-          "ZipCusts": 4818,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.1864833827727,
-      "Longitude": -88.44977192100875,
-      "OffTime": "Jul 28, 7:54 a.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 6,
-          "City": "neenah",
-          "CityCusts": 21390,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54956",
-          "ZipCusts": 21384,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.225361947802824,
-      "Longitude": -88.4461011685799,
-      "OffTime": "Jul 27, 12:05 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "menasha",
-          "CityCusts": 4805,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54952",
-          "ZipCusts": 4818,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.17475499102124,
-      "Longitude": -88.46805292426465,
-      "OffTime": "Jul 29, 2:05 p.m.",
-      "ETR": "Jul 30, 7:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
           "AffectedCusts": 1,
-          "City": "neenah",
-          "CityCusts": 21390,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54956",
-          "ZipCusts": 21384,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.23640224705053,
-      "Longitude": -88.44688502008944,
-      "OffTime": "Jul 27, 12:05 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 5,
-          "City": "menasha",
-          "CityCusts": 4805,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54952",
-          "ZipCusts": 4818,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.19056606281736,
-      "Longitude": -88.46180734177801,
-      "OffTime": "Jul 27, 1:18 p.m.",
-      "ETR": "Jul 30, 3:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "neenah",
-          "CityCusts": 21390,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54956",
-          "ZipCusts": 21384,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 46.08488755458246,
-      "Longitude": -89.3479543893136,
-      "OffTime": "Jul 29, 6:10 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "We Energies fuse problem",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "conover",
-          "CityCusts": 2091,
-          "County": "vilas",
-          "CountyCusts": 6266,
-          "Zip": "54519",
-          "ZipCusts": 2091,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41371
-        }
-      ]
-    },
-    {
-      "Latitude": 44.28459357970111,
-      "Longitude": -88.41296635911378,
-      "OffTime": "Jul 27, 12:08 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 26,
           "City": "appleton",
           "CityCusts": 62922,
           "County": "outagamie",
@@ -306,94 +77,13 @@
           "ZipCusts": 13388,
           "Region": "fox valley wi",
           "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.24336164391485,
-      "Longitude": -88.42323561454656,
-      "OffTime": "Jul 29, 2:17 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
+        },
         {
-          "AffectedCusts": 1,
+          "AffectedCusts": 213,
           "City": "appleton",
           "CityCusts": 62922,
           "County": "winnebago",
           "CountyCusts": 27761,
-          "Zip": "54915",
-          "ZipCusts": 20160,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.26285307729841,
-      "Longitude": -88.39216967980718,
-      "OffTime": "Jul 27, 12:24 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 17,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54911",
-          "ZipCusts": 13388,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.15652952064046,
-      "Longitude": -88.46601101325322,
-      "OffTime": "Jul 27, 12:31 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 38,
-          "City": "neenah",
-          "CityCusts": 21390,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54956",
-          "ZipCusts": 21384,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.249787418115005,
-      "Longitude": -88.3953990812794,
-      "OffTime": "Jul 29, 2:41 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
           "Zip": "54915",
           "ZipCusts": 20160,
           "Region": "fox valley wi",
@@ -408,7 +98,7 @@
       "ETR": "Not yet determined",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -425,26 +115,312 @@
       ]
     },
     {
+      "Latitude": 44.27112595360519,
+      "Longitude": -88.42199210446834,
+      "OffTime": "Jul 27, 12:37 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 20,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54914",
+          "ZipCusts": 16317,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.229044934385975,
+      "Longitude": -88.44827430590026,
+      "OffTime": "Jul 27, 12:05 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 9,
+          "City": "menasha",
+          "CityCusts": 4805,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54952",
+          "ZipCusts": 4818,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.22560492992673,
+      "Longitude": -88.4472190946209,
+      "OffTime": "Jul 27, 12:05 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 6,
+          "City": "menasha",
+          "CityCusts": 4805,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54952",
+          "ZipCusts": 4818,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.236286342496854,
+      "Longitude": -88.40335476164684,
+      "OffTime": "Jul 27, 11:51 a.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 19,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "calumet",
+          "CountyCusts": 14434,
+          "Zip": "54915",
+          "ZipCusts": 20160,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.165120091415346,
+      "Longitude": -88.45038667735814,
+      "OffTime": "Jul 27, 12:55 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 44,
+          "City": "neenah",
+          "CityCusts": 21390,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54956",
+          "ZipCusts": 21384,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 46.155927741762056,
+      "Longitude": -89.29416187804968,
+      "OffTime": "Jul 27, 8:36 a.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 23,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54540",
+          "ZipCusts": 1705,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 44.2362855950098,
+      "Longitude": -88.4035588989685,
+      "OffTime": "Jul 27, 12:01 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Equipment damaged by wind",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "neenah",
+          "CityCusts": 21390,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54956",
+          "ZipCusts": 21384,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        },
+        {
+          "AffectedCusts": 809,
+          "City": "menasha",
+          "CityCusts": 4805,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54952",
+          "ZipCusts": 4818,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "greenville",
+          "CityCusts": 4871,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54942",
+          "ZipCusts": 4856,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.35518694887499,
+      "Longitude": -88.49609978020891,
+      "OffTime": "Jul 27, 12:27 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "hortonville",
+          "CityCusts": 4663,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54944",
+          "ZipCusts": 4669,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54913",
+          "ZipCusts": 13886,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.23170592221239,
+      "Longitude": -88.4577558167983,
+      "OffTime": "Jul 28, 4:02 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54914",
+          "ZipCusts": 16317,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.237106751122965,
+      "Longitude": -88.44182985341392,
+      "OffTime": "Jul 27, 12:03 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 40,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54915",
+          "ZipCusts": 20160,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        },
+        {
+          "AffectedCusts": 7,
+          "City": "menasha",
+          "CityCusts": 4805,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54952",
+          "ZipCusts": 4818,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.25795975601131,
+      "Longitude": -88.55759987880309,
+      "OffTime": "Jul 27, 12:10 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 30,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54914",
+          "ZipCusts": 16317,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
       "Latitude": 46.21336279526601,
       "Longitude": -89.41186580607486,
       "OffTime": "Jul 27, 8:20 a.m.",
       "ETR": "Jul 30, 3:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "watersmeet",
-          "CityCusts": 2008,
-          "County": "gogebic",
-          "CountyCusts": 2013,
-          "Zip": "49979",
-          "ZipCusts": 1,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41371
-        },
         {
           "AffectedCusts": 1,
           "City": "watersmeet",
@@ -468,17 +444,6 @@
           "RegionCusts": 41371
         },
         {
-          "AffectedCusts": 1,
-          "City": "watersmeet",
-          "CityCusts": 2008,
-          "County": "ontonagon",
-          "CountyCusts": 1706,
-          "Zip": "49912",
-          "ZipCusts": 789,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41371
-        },
-        {
           "AffectedCusts": 662,
           "City": "watersmeet",
           "CityCusts": 2008,
@@ -490,9 +455,53 @@
           "RegionCusts": 41371
         },
         {
+          "AffectedCusts": 1,
+          "City": "watersmeet",
+          "CityCusts": 2008,
+          "County": "gogebic",
+          "CountyCusts": 2013,
+          "Zip": "49935",
+          "ZipCusts": 1762,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        },
+        {
           "AffectedCusts": 38,
           "City": "paulding",
           "CityCusts": 72,
+          "County": "ontonagon",
+          "CountyCusts": 1706,
+          "Zip": "49912",
+          "ZipCusts": 789,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "watersmeet",
+          "CityCusts": 2008,
+          "County": "gogebic",
+          "CountyCusts": 2013,
+          "Zip": "49979",
+          "ZipCusts": 1,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "watersmeet",
+          "CityCusts": 2008,
+          "County": "ontonagon",
+          "CountyCusts": 1706,
+          "Zip": "49969",
+          "ZipCusts": 2004,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "watersmeet",
+          "CityCusts": 2008,
           "County": "ontonagon",
           "CountyCusts": 1706,
           "Zip": "49912",
@@ -510,49 +519,50 @@
           "ZipCusts": 789,
           "Region": "upper peninsula mi",
           "RegionCusts": 41371
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "watersmeet",
-          "CityCusts": 2008,
-          "County": "gogebic",
-          "CountyCusts": 2013,
-          "Zip": "49935",
-          "ZipCusts": 1762,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41371
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "watersmeet",
-          "CityCusts": 2008,
-          "County": "ontonagon",
-          "CountyCusts": 1706,
-          "Zip": "49969",
-          "ZipCusts": 2004,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41371
         }
       ]
     },
     {
-      "Latitude": 44.32990244215482,
-      "Longitude": -88.88052219395779,
-      "OffTime": "Jul 29, 11:38 p.m.",
-      "ETR": "Jul 30, 5:00 a.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 44.24722829236863,
+      "Longitude": -88.44139227758365,
+      "OffTime": "Jul 29, 12:10 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 21,
-          "City": "weyauwega",
-          "CityCusts": 2737,
-          "County": "waupaca",
-          "CountyCusts": 8895,
-          "Zip": "54983",
-          "ZipCusts": 2738,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54914",
+          "ZipCusts": 16317,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.240741449921046,
+      "Longitude": -88.42771888462617,
+      "OffTime": "Jul 29, 10:05 a.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54915",
+          "ZipCusts": 20160,
           "Region": "fox valley wi",
           "RegionCusts": 143258
         }
@@ -565,20 +575,9 @@
       "ETR": "Jul 30, 3:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
-        {
-          "AffectedCusts": 140,
-          "City": "land o lakes",
-          "CityCusts": 1707,
-          "County": "vilas",
-          "CountyCusts": 6266,
-          "Zip": "54540",
-          "ZipCusts": 1705,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41371
-        },
         {
           "AffectedCusts": 11,
           "City": "marenisco",
@@ -589,124 +588,9 @@
           "ZipCusts": 11,
           "Region": "upper peninsula mi",
           "RegionCusts": 41371
-        }
-      ]
-    },
-    {
-      "Latitude": 44.24464150937343,
-      "Longitude": -88.3576054327159,
-      "OffTime": "Jul 28, 11:27 a.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "calumet",
-          "CountyCusts": 14434,
-          "Zip": "54915",
-          "ZipCusts": 20160,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
         },
         {
-          "AffectedCusts": 7,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54915",
-          "ZipCusts": 20160,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.2662186221532,
-      "Longitude": -88.4282087063873,
-      "OffTime": "Jul 27, 12:05 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "We Energies equipment problem",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 6,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54914",
-          "ZipCusts": 16317,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.24845582151277,
-      "Longitude": -88.44254472976685,
-      "OffTime": "Jul 28, 10:41 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 12,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54914",
-          "ZipCusts": 16317,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.277405338045476,
-      "Longitude": -88.43394675863685,
-      "OffTime": "Jul 29, 3:50 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 18,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54914",
-          "ZipCusts": 16317,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 46.19017717685044,
-      "Longitude": -89.43822943998575,
-      "OffTime": "Jul 27, 8:29 a.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
+          "AffectedCusts": 140,
           "City": "land o lakes",
           "CityCusts": 1707,
           "County": "vilas",
@@ -719,13 +603,13 @@
       ]
     },
     {
-      "Latitude": 44.23056126867291,
-      "Longitude": -88.46461108522033,
-      "OffTime": "Jul 28, 1:06 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
+      "Latitude": 44.18863473043486,
+      "Longitude": -88.44835041475861,
+      "OffTime": "Jul 29, 8:56 a.m.",
+      "ETR": "Not yet determined",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -742,62 +626,17 @@
       ]
     },
     {
-      "Latitude": 44.2362855950098,
-      "Longitude": -88.4035588989685,
-      "OffTime": "Jul 27, 12:01 p.m.",
+      "Latitude": 44.245099202349,
+      "Longitude": -88.44305163263097,
+      "OffTime": "Jul 27, 12:54 p.m.",
       "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "neenah",
-          "CityCusts": 21390,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54956",
-          "ZipCusts": 21384,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "greenville",
-          "CityCusts": 4871,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54942",
-          "ZipCusts": 4856,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        },
-        {
-          "AffectedCusts": 809,
-          "City": "menasha",
-          "CityCusts": 4805,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54952",
-          "ZipCusts": 4818,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.248823006155106,
-      "Longitude": -88.43844681614962,
-      "OffTime": "Jul 28, 10:41 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 74,
+          "AffectedCusts": 4,
           "City": "appleton",
           "CityCusts": 62922,
           "County": "outagamie",
@@ -810,13 +649,82 @@
       ]
     },
     {
-      "Latitude": 44.276303270857106,
-      "Longitude": -88.41306927036884,
-      "OffTime": "Jul 27, 6:52 p.m.",
+      "Latitude": 46.19530625255846,
+      "Longitude": -89.43602448549268,
+      "OffTime": "Jul 27, 10:37 a.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54540",
+          "ZipCusts": 1705,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 44.24837748923614,
+      "Longitude": -88.44254429227016,
+      "OffTime": "Jul 28, 10:42 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 17,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54914",
+          "ZipCusts": 16317,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.1864833827727,
+      "Longitude": -88.44977192100875,
+      "OffTime": "Jul 28, 7:54 a.m.",
       "ETR": "Jul 30, 3:00 p.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 6,
+          "City": "neenah",
+          "CityCusts": 21390,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54956",
+          "ZipCusts": 21384,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.24738385121846,
+      "Longitude": -88.44005927862473,
+      "OffTime": "Jul 29, 8:50 p.m.",
+      "ETR": "Jul 30, 8:30 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -825,284 +733,8 @@
           "CityCusts": 62922,
           "County": "outagamie",
           "CountyCusts": 80061,
-          "Zip": "54911",
-          "ZipCusts": 13388,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.248128796173944,
-      "Longitude": -88.43738803388017,
-      "OffTime": "Jul 28, 10:43 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 11,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
           "Zip": "54914",
           "ZipCusts": 16317,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.23661196255565,
-      "Longitude": -88.42466316414819,
-      "OffTime": "Jul 29, 1:37 p.m.",
-      "ETR": "Jul 30, 6:00 a.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "menasha",
-          "CityCusts": 4805,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54952",
-          "ZipCusts": 4818,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.26544818318471,
-      "Longitude": -88.36663306660168,
-      "OffTime": "Jul 27, 12:56 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54915",
-          "ZipCusts": 20160,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.229044934385975,
-      "Longitude": -88.44827430590026,
-      "OffTime": "Jul 27, 12:05 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 9,
-          "City": "menasha",
-          "CityCusts": 4805,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54952",
-          "ZipCusts": 4818,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.265587084142254,
-      "Longitude": -88.3921552774186,
-      "OffTime": "Jul 29, 1:02 p.m.",
-      "ETR": "Jul 30, 8:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54911",
-          "ZipCusts": 13388,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.165120091415346,
-      "Longitude": -88.45038667735814,
-      "OffTime": "Jul 27, 12:55 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 44,
-          "City": "neenah",
-          "CityCusts": 21390,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54956",
-          "ZipCusts": 21384,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.275528121824465,
-      "Longitude": -88.39618475470971,
-      "OffTime": "Jul 28, 3:10 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54911",
-          "ZipCusts": 13388,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.2886860607771,
-      "Longitude": -88.45983105598656,
-      "OffTime": "Jul 28, 5:19 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54914",
-          "ZipCusts": 16317,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.28675673291245,
-      "Longitude": -88.41839891915708,
-      "OffTime": "Jul 29, 9:42 p.m.",
-      "ETR": "Jul 30, 7:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54914",
-          "ZipCusts": 16317,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.35871957000268,
-      "Longitude": -88.4830906145951,
-      "OffTime": "Jul 27, 7:21 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "black creek",
-          "CityCusts": 2431,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54106",
-          "ZipCusts": 2433,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 46.1336974813391,
-      "Longitude": -89.28938286282254,
-      "OffTime": "Jul 28, 5:55 a.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact with We Energies equipment",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 33,
-          "City": "land o lakes",
-          "CityCusts": 1707,
-          "County": "vilas",
-          "CountyCusts": 6266,
-          "Zip": "54540",
-          "ZipCusts": 1705,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41371
-        }
-      ]
-    },
-    {
-      "Latitude": 44.240741449921046,
-      "Longitude": -88.42771888462617,
-      "OffTime": "Jul 29, 10:05 a.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54915",
-          "ZipCusts": 20160,
           "Region": "fox valley wi",
           "RegionCusts": 143258
         }
@@ -1115,7 +747,7 @@
       "ETR": "Jul 30, 3:00 p.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -1132,212 +764,17 @@
       ]
     },
     {
-      "Latitude": 44.23170592221239,
-      "Longitude": -88.4577558167983,
-      "OffTime": "Jul 28, 4:02 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54914",
-          "ZipCusts": 16317,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.19017648351432,
-      "Longitude": -88.44593128159534,
-      "OffTime": "Jul 28, 1:56 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "neenah",
-          "CityCusts": 21390,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54956",
-          "ZipCusts": 21384,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.24425276644994,
-      "Longitude": -88.44760397373057,
-      "OffTime": "Jul 27, 2:33 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54914",
-          "ZipCusts": 16317,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        },
-        {
-          "AffectedCusts": 2,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54914",
-          "ZipCusts": 16317,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.193431352728844,
-      "Longitude": -88.43980798973034,
-      "OffTime": "Jul 27, 12:07 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 11,
-          "City": "neenah",
-          "CityCusts": 21390,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54956",
-          "ZipCusts": 21384,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.2616309811237,
-      "Longitude": -88.3739561075077,
-      "OffTime": "Jul 28, 9:43 a.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54915",
-          "ZipCusts": 20160,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.24722829236863,
-      "Longitude": -88.44139227758365,
-      "OffTime": "Jul 29, 12:10 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 21,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54914",
-          "ZipCusts": 16317,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.14211640508546,
-      "Longitude": -88.47179173097128,
-      "OffTime": "Jul 27, 12:23 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact with We Energies equipment",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 6,
-          "City": "neenah",
-          "CityCusts": 21390,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54956",
-          "ZipCusts": 21384,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.27359526136025,
-      "Longitude": -88.43283001097939,
-      "OffTime": "Jul 29, 12:31 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54914",
-          "ZipCusts": 16317,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.23210322939091,
-      "Longitude": -88.4474100749302,
+      "Latitude": 44.225361947802824,
+      "Longitude": -88.4461011685799,
       "OffTime": "Jul 27, 12:05 p.m.",
       "ETR": "Jul 30, 3:00 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 8,
+          "AffectedCusts": 3,
           "City": "menasha",
           "CityCusts": 4805,
           "County": "winnebago",
@@ -1356,7 +793,7 @@
       "ETR": "Jul 30, 3:00 p.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Tree contact with We Energies equipment",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -1373,211 +810,17 @@
       ]
     },
     {
-      "Latitude": 44.18837404338576,
-      "Longitude": -88.44977240479568,
-      "OffTime": "Jul 28, 3:26 a.m.",
+      "Latitude": 44.24847727815189,
+      "Longitude": -88.43844594536696,
+      "OffTime": "Jul 28, 10:44 p.m.",
       "ETR": "Jul 30, 3:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 13,
-          "City": "neenah",
-          "CityCusts": 21390,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54956",
-          "ZipCusts": 21384,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 42.687489974622316,
-      "Longitude": -87.82437934541001,
-      "OffTime": "Jul 29, 11:46 p.m.",
-      "ETR": "Jul 30, 6:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 8,
-          "City": "racine",
-          "CityCusts": 58857,
-          "County": "racine",
-          "CountyCusts": 102375,
-          "Zip": "53405",
-          "ZipCusts": 11771,
-          "Region": "southeast wi",
-          "RegionCusts": 1073462
-        }
-      ]
-    },
-    {
-      "Latitude": 44.1958680242858,
-      "Longitude": -88.30374836935293,
-      "OffTime": "Jul 27, 7:57 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Equipment damaged by lightning",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "sherwood",
-          "CityCusts": 1464,
-          "County": "calumet",
-          "CountyCusts": 14434,
-          "Zip": "54169",
-          "ZipCusts": 1463,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        },
-        {
-          "AffectedCusts": 42,
-          "City": "menasha",
-          "CityCusts": 4805,
-          "County": "calumet",
-          "CountyCusts": 14434,
-          "Zip": "54952",
-          "ZipCusts": 4818,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.38127694449608,
-      "Longitude": -88.29639631854147,
-      "OffTime": "Jul 27, 7:23 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Equipment damaged by lightning",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 7,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54913",
-          "ZipCusts": 13886,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        },
-        {
-          "AffectedCusts": 2,
-          "City": "freedom",
-          "CityCusts": 1095,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54913",
-          "ZipCusts": 13886,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 42.86655044464521,
-      "Longitude": -88.42830805413122,
-      "OffTime": "Jul 30, 2:51 a.m.",
-      "ETR": "Jul 30, 7:30 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 6,
-          "City": "mukwonago",
-          "CityCusts": 9876,
-          "County": "waukesha",
-          "CountyCusts": 203411,
-          "Zip": "53149",
-          "ZipCusts": 9892,
-          "Region": "southeast wi",
-          "RegionCusts": 1073462
-        }
-      ]
-    },
-    {
-      "Latitude": 44.27052931564122,
-      "Longitude": -88.41382235521736,
-      "OffTime": "Jul 28, 7:41 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 19,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54911",
-          "ZipCusts": 13388,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.35518694887499,
-      "Longitude": -88.49609978020891,
-      "OffTime": "Jul 27, 12:27 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54913",
-          "ZipCusts": 13886,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "hortonville",
-          "CityCusts": 4663,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54944",
-          "ZipCusts": 4669,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.24837748923614,
-      "Longitude": -88.44254429227016,
-      "OffTime": "Jul 28, 10:42 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 17,
+          "AffectedCusts": 22,
           "City": "appleton",
           "CityCusts": 62922,
           "County": "outagamie",
@@ -1590,36 +833,13 @@
       ]
     },
     {
-      "Latitude": 44.172455170624154,
-      "Longitude": -88.44920886372378,
-      "OffTime": "Jul 29, 10:42 a.m.",
+      "Latitude": 44.2616309811237,
+      "Longitude": -88.3739561075077,
+      "OffTime": "Jul 28, 9:43 a.m.",
       "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 8,
-          "City": "neenah",
-          "CityCusts": 21390,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54956",
-          "ZipCusts": 21384,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.24660325762482,
-      "Longitude": -88.35810567726159,
-      "OffTime": "Jul 29, 3:35 p.m.",
-      "ETR": "Jul 30, 7:30 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -1636,40 +856,40 @@
       ]
     },
     {
-      "Latitude": 44.22560492992673,
-      "Longitude": -88.4472190946209,
-      "OffTime": "Jul 27, 12:05 p.m.",
+      "Latitude": 44.24854570363343,
+      "Longitude": -88.43778781772636,
+      "OffTime": "Jul 28, 10:39 p.m.",
       "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "CrewStatus": "Specialized crew needed",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 6,
-          "City": "menasha",
-          "CityCusts": 4805,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54952",
-          "ZipCusts": 4818,
+          "AffectedCusts": 22,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54914",
+          "ZipCusts": 16317,
           "Region": "fox valley wi",
           "RegionCusts": 143258
         }
       ]
     },
     {
-      "Latitude": 44.282634935926836,
-      "Longitude": -88.43590071167388,
-      "OffTime": "Jul 29, 5:37 a.m.",
+      "Latitude": 44.2886860607771,
+      "Longitude": -88.45983105598656,
+      "OffTime": "Jul 28, 5:19 p.m.",
       "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "Specialized crew needed",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 22,
+          "AffectedCusts": 1,
           "City": "appleton",
           "CityCusts": 62922,
           "County": "outagamie",
@@ -1688,7 +908,7 @@
       "ETR": "Jul 30, 3:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -1705,13 +925,162 @@
       ]
     },
     {
-      "Latitude": 44.24462784796796,
-      "Longitude": -88.35865910528833,
-      "OffTime": "Jul 29, 12:06 p.m.",
+      "Latitude": 44.23707599159534,
+      "Longitude": -88.43911574490453,
+      "OffTime": "Jul 27, 12:04 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 6,
+          "City": "menasha",
+          "CityCusts": 4805,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54952",
+          "ZipCusts": 4818,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.2662186221532,
+      "Longitude": -88.4282087063873,
+      "OffTime": "Jul 27, 12:05 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 6,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54914",
+          "ZipCusts": 16317,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.172455170624154,
+      "Longitude": -88.44920886372378,
+      "OffTime": "Jul 29, 10:42 a.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 8,
+          "City": "neenah",
+          "CityCusts": 21390,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54956",
+          "ZipCusts": 21384,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.19303507169465,
+      "Longitude": -88.45822810318826,
+      "OffTime": "Jul 30, 3:51 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "neenah",
+          "CityCusts": 21390,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54956",
+          "ZipCusts": 21384,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.24464150937343,
+      "Longitude": -88.3576054327159,
+      "OffTime": "Jul 28, 11:27 a.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Equipment damaged by wind",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 7,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54915",
+          "ZipCusts": 20160,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "calumet",
+          "CountyCusts": 14434,
+          "Zip": "54915",
+          "ZipCusts": 20160,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.23640224705053,
+      "Longitude": -88.44688502008944,
+      "OffTime": "Jul 27, 12:05 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 5,
+          "City": "menasha",
+          "CityCusts": 4805,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54952",
+          "ZipCusts": 4818,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.24660325762482,
+      "Longitude": -88.35810567726159,
+      "OffTime": "Jul 29, 3:35 p.m.",
       "ETR": "Jul 30, 7:30 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -1728,17 +1097,120 @@
       ]
     },
     {
-      "Latitude": 44.244234344967005,
-      "Longitude": -88.4458523204288,
-      "OffTime": "Jul 29, 8:43 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "Latitude": 44.23710844997592,
+      "Longitude": -88.44228438268593,
+      "OffTime": "Jul 27, 12:03 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 47,
+          "AffectedCusts": 29,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54915",
+          "ZipCusts": 20160,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        },
+        {
+          "AffectedCusts": 20,
+          "City": "menasha",
+          "CityCusts": 4805,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54952",
+          "ZipCusts": 4818,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 46.162836049620104,
+      "Longitude": -89.35649853179441,
+      "OffTime": "Jul 27, 8:36 a.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 104,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54540",
+          "ZipCusts": 1705,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 42.86655044464521,
+      "Longitude": -88.42830805413122,
+      "OffTime": "Jul 30, 2:51 a.m.",
+      "ETR": "Jul 30, 7:30 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Squirrel contact with equipment",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 6,
+          "City": "mukwonago",
+          "CityCusts": 9876,
+          "County": "waukesha",
+          "CountyCusts": 203411,
+          "Zip": "53149",
+          "ZipCusts": 9892,
+          "Region": "southeast wi",
+          "RegionCusts": 1073462
+        }
+      ]
+    },
+    {
+      "Latitude": 46.19017717685044,
+      "Longitude": -89.43822943998575,
+      "OffTime": "Jul 27, 8:29 a.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54540",
+          "ZipCusts": 1705,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 44.246186251169796,
+      "Longitude": -88.44367423340512,
+      "OffTime": "Jul 29, 2:18 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
           "City": "appleton",
           "CityCusts": 62922,
           "County": "outagamie",
@@ -1751,13 +1223,13 @@
       ]
     },
     {
-      "Latitude": 44.165153923483224,
-      "Longitude": -88.4498942482646,
-      "OffTime": "Jul 27, 12:57 p.m.",
+      "Latitude": 44.19017648351432,
+      "Longitude": -88.44593128159534,
+      "OffTime": "Jul 28, 1:56 p.m.",
       "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -1774,17 +1246,40 @@
       ]
     },
     {
-      "Latitude": 44.28357369902225,
-      "Longitude": -88.41946940404529,
-      "OffTime": "Jul 29, 8:07 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "Latitude": 44.17780476170907,
+      "Longitude": -88.48021386648195,
+      "OffTime": "Jul 27, 12:09 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
+          "AffectedCusts": 95,
+          "City": "neenah",
+          "CityCusts": 21390,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54956",
+          "ZipCusts": 21384,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.284183141853575,
+      "Longitude": -88.43587842166724,
+      "OffTime": "Jul 27, 12:00 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 44,
           "City": "appleton",
           "CityCusts": 62922,
           "County": "outagamie",
@@ -1797,17 +1292,40 @@
       ]
     },
     {
-      "Latitude": 46.21520835431005,
-      "Longitude": -89.39660198605235,
-      "OffTime": "Jul 30, 1:37 a.m.",
-      "ETR": "Jul 30, 6:30 a.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 44.24858722938406,
+      "Longitude": -88.39449609198904,
+      "OffTime": "Jul 28, 3:35 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54915",
+          "ZipCusts": 20160,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 46.17613605687388,
+      "Longitude": -89.38639027811043,
+      "OffTime": "Jul 27, 8:35 a.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 8,
           "City": "watersmeet",
           "CityCusts": 2008,
           "County": "gogebic",
@@ -1816,136 +1334,32 @@
           "ZipCusts": 2004,
           "Region": "upper peninsula mi",
           "RegionCusts": 41371
-        }
-      ]
-    },
-    {
-      "Latitude": 44.26416966871255,
-      "Longitude": -88.38817103915918,
-      "OffTime": "Jul 27, 1:13 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
+        },
         {
-          "AffectedCusts": 3,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54911",
-          "ZipCusts": 13388,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
+          "AffectedCusts": 18,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54540",
+          "ZipCusts": 1705,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
         }
       ]
     },
     {
-      "Latitude": 44.176240929424,
-      "Longitude": -88.45119500843988,
-      "OffTime": "Jul 27, 12:23 p.m.",
-      "ETR": "Jul 30, 12:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 13,
-          "City": "neenah",
-          "CityCusts": 21390,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54956",
-          "ZipCusts": 21384,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.25974018971786,
-      "Longitude": -88.42704091000134,
-      "OffTime": "Jul 29, 5:58 p.m.",
-      "ETR": "Jul 30, 7:00 a.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 21,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54914",
-          "ZipCusts": 16317,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.24641819417404,
-      "Longitude": -88.43975665898415,
-      "OffTime": "Jul 29, 8:02 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54914",
-          "ZipCusts": 16317,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.18863473043486,
-      "Longitude": -88.44835041475861,
-      "OffTime": "Jul 29, 8:56 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "neenah",
-          "CityCusts": 21390,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54956",
-          "ZipCusts": 21384,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.17470558391693,
-      "Longitude": -88.45329801768062,
-      "OffTime": "Jul 27, 12:16 p.m.",
+      "Latitude": 44.1753393936443,
+      "Longitude": -88.44924709594399,
+      "OffTime": "Jul 27, 1:09 p.m.",
       "ETR": "Jul 30, 3:00 p.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 72,
+          "AffectedCusts": 4,
           "City": "neenah",
           "CityCusts": 21390,
           "County": "winnebago",
@@ -1964,7 +1378,7 @@
       "ETR": "Jul 30, 3:00 p.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -1981,17 +1395,17 @@
       ]
     },
     {
-      "Latitude": 44.248797647606594,
-      "Longitude": -88.44074210099214,
-      "OffTime": "Jul 29, 1:57 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "Latitude": 44.24828642369793,
+      "Longitude": -88.43574933735033,
+      "OffTime": "Jul 29, 3:45 p.m.",
+      "ETR": "Jul 30, 8:30 a.m.",
       "CrewStatus": "Specialized crew needed",
-      "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
+          "AffectedCusts": 6,
           "City": "appleton",
           "CityCusts": 62922,
           "County": "outagamie",
@@ -2010,7 +1424,7 @@
       "ETR": "Jul 30, 3:00 p.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Equipment damaged by lightning",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -2038,13 +1452,13 @@
       ]
     },
     {
-      "Latitude": 44.25260379649763,
-      "Longitude": -88.40022891295062,
-      "OffTime": "Jul 28, 9:48 p.m.",
-      "ETR": "Not yet determined",
+      "Latitude": 44.275528121824465,
+      "Longitude": -88.39618475470971,
+      "OffTime": "Jul 28, 3:10 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -2053,48 +1467,48 @@
           "CityCusts": 62922,
           "County": "outagamie",
           "CountyCusts": 80061,
-          "Zip": "54915",
-          "ZipCusts": 20160,
+          "Zip": "54911",
+          "ZipCusts": 13388,
           "Region": "fox valley wi",
           "RegionCusts": 143258
         }
       ]
     },
     {
-      "Latitude": 44.1988764886942,
-      "Longitude": -88.47635707796357,
-      "OffTime": "Jul 27, 12:06 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
+      "Latitude": 44.25875413554966,
+      "Longitude": -88.44795021251188,
+      "OffTime": "Jul 29, 8:04 a.m.",
+      "ETR": "Jul 30, 8:00 a.m.",
       "CrewStatus": "Specialized crew needed",
-      "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 271,
-          "City": "neenah",
-          "CityCusts": 21390,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54956",
-          "ZipCusts": 21384,
+          "AffectedCusts": 4,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54914",
+          "ZipCusts": 16317,
           "Region": "fox valley wi",
           "RegionCusts": 143258
         }
       ]
     },
     {
-      "Latitude": 44.22445765145947,
-      "Longitude": -88.44872161457333,
-      "OffTime": "Jul 27, 12:02 p.m.",
+      "Latitude": 44.23210322939091,
+      "Longitude": -88.4474100749302,
+      "OffTime": "Jul 27, 12:05 p.m.",
       "ETR": "Jul 30, 3:00 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 13,
+          "AffectedCusts": 8,
           "City": "menasha",
           "CityCusts": 4805,
           "County": "winnebago",
@@ -2107,13 +1521,105 @@
       ]
     },
     {
-      "Latitude": 44.251284186417685,
-      "Longitude": -88.47204203259709,
-      "OffTime": "Jul 29, 10:04 a.m.",
-      "ETR": "Jul 30, 8:00 a.m.",
+      "Latitude": 44.32990244215482,
+      "Longitude": -88.88052219395779,
+      "OffTime": "Jul 29, 11:38 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "Assigned",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 21,
+          "City": "weyauwega",
+          "CityCusts": 2737,
+          "County": "waupaca",
+          "CountyCusts": 8895,
+          "Zip": "54983",
+          "ZipCusts": 2738,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.26285307729841,
+      "Longitude": -88.39216967980718,
+      "OffTime": "Jul 27, 12:24 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 17,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54911",
+          "ZipCusts": 13388,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.25701134533725,
+      "Longitude": -88.42625432973362,
+      "OffTime": "Jul 27, 11:59 a.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Equipment damaged by wind",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 325,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54914",
+          "ZipCusts": 16317,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.17470558391693,
+      "Longitude": -88.45329801768062,
+      "OffTime": "Jul 27, 12:16 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 72,
+          "City": "neenah",
+          "CityCusts": 21390,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54956",
+          "ZipCusts": 21384,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.27359526136025,
+      "Longitude": -88.43283001097939,
+      "OffTime": "Jul 29, 12:31 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -2130,13 +1636,461 @@
       ]
     },
     {
-      "Latitude": 44.26841840891922,
-      "Longitude": -88.43255789596724,
-      "OffTime": "Jul 29, 3:10 p.m.",
+      "Latitude": 44.263530524609926,
+      "Longitude": -88.42065311357108,
+      "OffTime": "Jul 28, 3:22 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 29,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54914",
+          "ZipCusts": 16317,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.22422115428253,
+      "Longitude": -88.45006871548262,
+      "OffTime": "Jul 27, 12:05 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "menasha",
+          "CityCusts": 4805,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54952",
+          "ZipCusts": 4818,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.23709572372792,
+      "Longitude": -88.4401646253909,
+      "OffTime": "Jul 27, 12:03 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 23,
+          "City": "menasha",
+          "CityCusts": 4805,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54952",
+          "ZipCusts": 4818,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        },
+        {
+          "AffectedCusts": 82,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54915",
+          "ZipCusts": 20160,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.25260379649763,
+      "Longitude": -88.40022891295062,
+      "OffTime": "Jul 28, 9:48 p.m.",
       "ETR": "Not yet determined",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54915",
+          "ZipCusts": 20160,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.15652952064046,
+      "Longitude": -88.46601101325322,
+      "OffTime": "Jul 27, 12:31 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 38,
+          "City": "neenah",
+          "CityCusts": 21390,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54956",
+          "ZipCusts": 21384,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.28459357970111,
+      "Longitude": -88.41296635911378,
+      "OffTime": "Jul 27, 12:08 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 26,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54911",
+          "ZipCusts": 13388,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.27052931564122,
+      "Longitude": -88.41382235521736,
+      "OffTime": "Jul 28, 7:41 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 19,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54911",
+          "ZipCusts": 13388,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.145897630354135,
+      "Longitude": -88.46045360667753,
+      "OffTime": "Jul 27, 12:26 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Tree contact with We Energies equipment",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 20,
+          "City": "neenah",
+          "CityCusts": 21390,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54956",
+          "ZipCusts": 21384,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.16575950754469,
+      "Longitude": -88.46788556372826,
+      "OffTime": "Jul 27, 12:19 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Equipment damaged by wind",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 24,
+          "City": "neenah",
+          "CityCusts": 21390,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54956",
+          "ZipCusts": 21384,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.19782015461245,
+      "Longitude": -88.30364479582266,
+      "OffTime": "Jul 27, 7:50 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 16,
+          "City": "menasha",
+          "CityCusts": 4805,
+          "County": "calumet",
+          "CountyCusts": 14434,
+          "Zip": "54952",
+          "ZipCusts": 4818,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.24349227067101,
+      "Longitude": -88.44398448646503,
+      "OffTime": "Jul 29, 8:33 p.m.",
+      "ETR": "Jul 30, 8:30 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54914",
+          "ZipCusts": 16317,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.22445765145947,
+      "Longitude": -88.44872161457333,
+      "OffTime": "Jul 27, 12:02 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 13,
+          "City": "menasha",
+          "CityCusts": 4805,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54952",
+          "ZipCusts": 4818,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.258303924850466,
+      "Longitude": -88.41737564075443,
+      "OffTime": "Jul 30, 3:20 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54914",
+          "ZipCusts": 16317,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.193431352728844,
+      "Longitude": -88.43980798973034,
+      "OffTime": "Jul 27, 12:07 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Equipment damaged by wind",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 11,
+          "City": "neenah",
+          "CityCusts": 21390,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54956",
+          "ZipCusts": 21384,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.18837404338576,
+      "Longitude": -88.44977240479568,
+      "OffTime": "Jul 28, 3:26 a.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 13,
+          "City": "neenah",
+          "CityCusts": 21390,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54956",
+          "ZipCusts": 21384,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.251284186417685,
+      "Longitude": -88.47204203259709,
+      "OffTime": "Jul 29, 10:04 a.m.",
+      "ETR": "Jul 30, 8:00 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54914",
+          "ZipCusts": 16317,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.248823006155106,
+      "Longitude": -88.43844681614962,
+      "OffTime": "Jul 28, 10:41 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 74,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54914",
+          "ZipCusts": 16317,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.2370557912268,
+      "Longitude": -88.43935045336671,
+      "OffTime": "Jul 30, 4:21 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "menasha",
+          "CityCusts": 4805,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54952",
+          "ZipCusts": 4818,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.249787418115005,
+      "Longitude": -88.3953990812794,
+      "OffTime": "Jul 29, 2:41 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54915",
+          "ZipCusts": 20160,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.24641819417404,
+      "Longitude": -88.43975665898415,
+      "OffTime": "Jul 29, 8:02 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -2159,7 +2113,7 @@
       "ETR": "Jul 30, 3:00 p.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -2176,17 +2130,17 @@
       ]
     },
     {
-      "Latitude": 44.27112595360519,
-      "Longitude": -88.42199210446834,
-      "OffTime": "Jul 27, 12:37 p.m.",
+      "Latitude": 44.282634935926836,
+      "Longitude": -88.43590071167388,
+      "OffTime": "Jul 29, 5:37 a.m.",
       "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 20,
+          "AffectedCusts": 22,
           "City": "appleton",
           "CityCusts": 62922,
           "County": "outagamie",
@@ -2199,13 +2153,220 @@
       ]
     },
     {
-      "Latitude": 44.28501080594819,
-      "Longitude": -88.4257436729446,
-      "OffTime": "Jul 27, 12:25 p.m.",
+      "Latitude": 44.276303270857106,
+      "Longitude": -88.41306927036884,
+      "OffTime": "Jul 27, 6:52 p.m.",
       "ETR": "Jul 30, 3:00 p.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 13,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54911",
+          "ZipCusts": 13388,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.25974018971786,
+      "Longitude": -88.42704091000134,
+      "OffTime": "Jul 29, 5:58 p.m.",
+      "ETR": "Jul 30, 7:00 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 21,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54914",
+          "ZipCusts": 16317,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.176240929424,
+      "Longitude": -88.45119500843988,
+      "OffTime": "Jul 27, 12:23 p.m.",
+      "ETR": "Jul 30, 12:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Equipment damaged by wind",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 13,
+          "City": "neenah",
+          "CityCusts": 21390,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54956",
+          "ZipCusts": 21384,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.24462784796796,
+      "Longitude": -88.35865910528833,
+      "OffTime": "Jul 29, 12:06 p.m.",
+      "ETR": "Jul 30, 7:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54915",
+          "ZipCusts": 20160,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.24336164391485,
+      "Longitude": -88.42323561454656,
+      "OffTime": "Jul 29, 2:17 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54915",
+          "ZipCusts": 20160,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.270333985762456,
+      "Longitude": -88.38600153193279,
+      "OffTime": "Jul 27, 1:36 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 4,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54911",
+          "ZipCusts": 13388,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 46.1336974813391,
+      "Longitude": -89.28938286282254,
+      "OffTime": "Jul 28, 5:55 a.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Tree contact with We Energies equipment",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 33,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54540",
+          "ZipCusts": 1705,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 44.17199984694937,
+      "Longitude": -88.44730443352178,
+      "OffTime": "Jul 29, 8:13 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "neenah",
+          "CityCusts": 21390,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54956",
+          "ZipCusts": 21384,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.35871957000268,
+      "Longitude": -88.4830906145951,
+      "OffTime": "Jul 27, 7:21 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "black creek",
+          "CityCusts": 2431,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54106",
+          "ZipCusts": 2433,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.281288023701634,
+      "Longitude": -88.4349100776179,
+      "OffTime": "Jul 29, 1:10 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -2222,143 +2383,17 @@
       ]
     },
     {
-      "Latitude": 44.24854570363343,
-      "Longitude": -88.43778781772636,
-      "OffTime": "Jul 28, 10:39 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
+      "Latitude": 44.277405338045476,
+      "Longitude": -88.43394675863685,
+      "OffTime": "Jul 29, 3:50 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
-        {
-          "AffectedCusts": 22,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54914",
-          "ZipCusts": 16317,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 46.162836049620104,
-      "Longitude": -89.35649853179441,
-      "OffTime": "Jul 27, 8:36 a.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 104,
-          "City": "land o lakes",
-          "CityCusts": 1707,
-          "County": "vilas",
-          "CountyCusts": 6266,
-          "Zip": "54540",
-          "ZipCusts": 1705,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41371
-        }
-      ]
-    },
-    {
-      "Latitude": 44.25875413554966,
-      "Longitude": -88.44795021251188,
-      "OffTime": "Jul 29, 8:04 a.m.",
-      "ETR": "Jul 30, 8:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 4,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54914",
-          "ZipCusts": 16317,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.24847727815189,
-      "Longitude": -88.43844594536696,
-      "OffTime": "Jul 28, 10:44 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 22,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54914",
-          "ZipCusts": 16317,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 46.17613605687388,
-      "Longitude": -89.38639027811043,
-      "OffTime": "Jul 27, 8:35 a.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 8,
-          "City": "watersmeet",
-          "CityCusts": 2008,
-          "County": "gogebic",
-          "CountyCusts": 2013,
-          "Zip": "49969",
-          "ZipCusts": 2004,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41371
-        },
         {
           "AffectedCusts": 18,
-          "City": "land o lakes",
-          "CityCusts": 1707,
-          "County": "vilas",
-          "CountyCusts": 6266,
-          "Zip": "54540",
-          "ZipCusts": 1705,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41371
-        }
-      ]
-    },
-    {
-      "Latitude": 44.284183141853575,
-      "Longitude": -88.43587842166724,
-      "OffTime": "Jul 27, 12:00 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 44,
           "City": "appleton",
           "CityCusts": 62922,
           "County": "outagamie",
@@ -2371,17 +2406,40 @@
       ]
     },
     {
-      "Latitude": 44.263530524609926,
-      "Longitude": -88.42065311357108,
-      "OffTime": "Jul 28, 3:22 p.m.",
-      "ETR": "Not yet determined",
+      "Latitude": 44.23661196255565,
+      "Longitude": -88.42466316414819,
+      "OffTime": "Jul 29, 1:37 p.m.",
+      "ETR": "Jul 30, 6:00 a.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 29,
+          "AffectedCusts": 1,
+          "City": "menasha",
+          "CityCusts": 4805,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54952",
+          "ZipCusts": 4818,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.26841840891922,
+      "Longitude": -88.43255789596724,
+      "OffTime": "Jul 29, 3:10 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
           "City": "appleton",
           "CityCusts": 62922,
           "County": "outagamie",
@@ -2394,17 +2452,74 @@
       ]
     },
     {
-      "Latitude": 44.145897630354135,
-      "Longitude": -88.46045360667753,
-      "OffTime": "Jul 27, 12:26 p.m.",
+      "Latitude": 44.26416966871255,
+      "Longitude": -88.38817103915918,
+      "OffTime": "Jul 27, 1:13 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54911",
+          "ZipCusts": 13388,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.38127694449608,
+      "Longitude": -88.29639631854147,
+      "OffTime": "Jul 27, 7:23 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Equipment damaged by lightning",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "freedom",
+          "CityCusts": 1095,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54913",
+          "ZipCusts": 13886,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        },
+        {
+          "AffectedCusts": 7,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54913",
+          "ZipCusts": 13886,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.14211640508546,
+      "Longitude": -88.47179173097128,
+      "OffTime": "Jul 27, 12:23 p.m.",
       "ETR": "Jul 30, 3:00 p.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Tree contact with We Energies equipment",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 20,
+          "AffectedCusts": 6,
           "City": "neenah",
           "CityCusts": 21390,
           "County": "winnebago",
@@ -2423,7 +2538,7 @@
       "ETR": "Jul 30, 3:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -2440,40 +2555,224 @@
       ]
     },
     {
-      "Latitude": 44.22422115428253,
-      "Longitude": -88.45006871548262,
-      "OffTime": "Jul 27, 12:05 p.m.",
+      "Latitude": 44.190179162682746,
+      "Longitude": -88.44374773544384,
+      "OffTime": "Jul 29, 8:06 a.m.",
       "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 3,
-          "City": "menasha",
-          "CityCusts": 4805,
+          "AffectedCusts": 1,
+          "City": "neenah",
+          "CityCusts": 21390,
           "County": "winnebago",
           "CountyCusts": 27761,
-          "Zip": "54952",
-          "ZipCusts": 4818,
+          "Zip": "54956",
+          "ZipCusts": 21384,
           "Region": "fox valley wi",
           "RegionCusts": 143258
         }
       ]
     },
     {
-      "Latitude": 44.281288023701634,
-      "Longitude": -88.4349100776179,
-      "OffTime": "Jul 29, 1:10 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 44.265587084142254,
+      "Longitude": -88.3921552774186,
+      "OffTime": "Jul 29, 1:02 p.m.",
+      "ETR": "Jul 30, 8:00 a.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54911",
+          "ZipCusts": 13388,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.28501080594819,
+      "Longitude": -88.4257436729446,
+      "OffTime": "Jul 27, 12:25 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54914",
+          "ZipCusts": 16317,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.23056126867291,
+      "Longitude": -88.46461108522033,
+      "OffTime": "Jul 28, 1:06 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "neenah",
+          "CityCusts": 21390,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54956",
+          "ZipCusts": 21384,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 46.21520835431005,
+      "Longitude": -89.39660198605235,
+      "OffTime": "Jul 30, 1:37 a.m.",
+      "ETR": "Jul 30, 6:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "watersmeet",
+          "CityCusts": 2008,
+          "County": "gogebic",
+          "CountyCusts": 2013,
+          "Zip": "49969",
+          "ZipCusts": 2004,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41371
+        }
+      ]
+    },
+    {
+      "Latitude": 44.28357369902225,
+      "Longitude": -88.41946940404529,
+      "OffTime": "Jul 29, 8:07 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62922,
+          "County": "outagamie",
+          "CountyCusts": 80061,
+          "Zip": "54914",
+          "ZipCusts": 16317,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.1988764886942,
+      "Longitude": -88.47635707796357,
+      "OffTime": "Jul 27, 12:06 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Equipment damaged by wind",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 271,
+          "City": "neenah",
+          "CityCusts": 21390,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54956",
+          "ZipCusts": 21384,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 42.687489974622316,
+      "Longitude": -87.82437934541001,
+      "OffTime": "Jul 29, 11:46 p.m.",
+      "ETR": "Jul 30, 6:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 8,
+          "City": "racine",
+          "CityCusts": 58857,
+          "County": "racine",
+          "CountyCusts": 102375,
+          "Zip": "53405",
+          "ZipCusts": 11771,
+          "Region": "southeast wi",
+          "RegionCusts": 1073462
+        }
+      ]
+    },
+    {
+      "Latitude": 44.165153923483224,
+      "Longitude": -88.4498942482646,
+      "OffTime": "Jul 27, 12:57 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "neenah",
+          "CityCusts": 21390,
+          "County": "winnebago",
+          "CountyCusts": 27761,
+          "Zip": "54956",
+          "ZipCusts": 21384,
+          "Region": "fox valley wi",
+          "RegionCusts": 143258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.248128796173944,
+      "Longitude": -88.43738803388017,
+      "OffTime": "Jul 28, 10:43 p.m.",
+      "ETR": "Jul 30, 3:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 11,
           "City": "appleton",
           "CityCusts": 62922,
           "County": "outagamie",
@@ -2492,471 +2791,11 @@
       "ETR": "Jul 30, 3:00 p.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
+      "LastUpdated": "Jul 30, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 7,
-          "City": "neenah",
-          "CityCusts": 21390,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54956",
-          "ZipCusts": 21384,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.190179162682746,
-      "Longitude": -88.44374773544384,
-      "OffTime": "Jul 29, 8:06 a.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "neenah",
-          "CityCusts": 21390,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54956",
-          "ZipCusts": 21384,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.16575950754469,
-      "Longitude": -88.46788556372826,
-      "OffTime": "Jul 27, 12:19 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 24,
-          "City": "neenah",
-          "CityCusts": 21390,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54956",
-          "ZipCusts": 21384,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.245099202349,
-      "Longitude": -88.44305163263097,
-      "OffTime": "Jul 27, 12:54 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 4,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54914",
-          "ZipCusts": 16317,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.281266580123,
-      "Longitude": -88.43393690404294,
-      "OffTime": "Jul 29, 6:46 p.m.",
-      "ETR": "Jul 30, 7:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54914",
-          "ZipCusts": 16317,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.246186251169796,
-      "Longitude": -88.44367423340512,
-      "OffTime": "Jul 29, 2:18 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54914",
-          "ZipCusts": 16317,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 42.775457888483366,
-      "Longitude": -87.78680013168972,
-      "OffTime": "Jul 29, 4:04 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "On the way",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 5,
-          "City": "racine",
-          "CityCusts": 58857,
-          "County": "racine",
-          "CountyCusts": 102375,
-          "Zip": "53402",
-          "ZipCusts": 16000,
-          "Region": "southeast wi",
-          "RegionCusts": 1073462
-        }
-      ]
-    },
-    {
-      "Latitude": 44.270333985762456,
-      "Longitude": -88.38600153193279,
-      "OffTime": "Jul 27, 1:36 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 4,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54911",
-          "ZipCusts": 13388,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.19303507169465,
-      "Longitude": -88.45822810318826,
-      "OffTime": "Jul 30, 3:51 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "neenah",
-          "CityCusts": 21390,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54956",
-          "ZipCusts": 21384,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.24858722938406,
-      "Longitude": -88.39449609198904,
-      "OffTime": "Jul 28, 3:35 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54915",
-          "ZipCusts": 20160,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 46.155927741762056,
-      "Longitude": -89.29416187804968,
-      "OffTime": "Jul 27, 8:36 a.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 23,
-          "City": "land o lakes",
-          "CityCusts": 1707,
-          "County": "vilas",
-          "CountyCusts": 6266,
-          "Zip": "54540",
-          "ZipCusts": 1705,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41371
-        }
-      ]
-    },
-    {
-      "Latitude": 44.258303924850466,
-      "Longitude": -88.41737564075443,
-      "OffTime": "Jul 30, 3:20 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54914",
-          "ZipCusts": 16317,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.17780476170907,
-      "Longitude": -88.48021386648195,
-      "OffTime": "Jul 27, 12:09 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 95,
-          "City": "neenah",
-          "CityCusts": 21390,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54956",
-          "ZipCusts": 21384,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.25701134533725,
-      "Longitude": -88.42625432973362,
-      "OffTime": "Jul 27, 11:59 a.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 325,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54914",
-          "ZipCusts": 16317,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.24349227067101,
-      "Longitude": -88.44398448646503,
-      "OffTime": "Jul 29, 8:33 p.m.",
-      "ETR": "Jul 30, 8:30 a.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54914",
-          "ZipCusts": 16317,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.236286342496854,
-      "Longitude": -88.40335476164684,
-      "OffTime": "Jul 27, 11:51 a.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 19,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "calumet",
-          "CountyCusts": 14434,
-          "Zip": "54915",
-          "ZipCusts": 20160,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.1753393936443,
-      "Longitude": -88.44924709594399,
-      "OffTime": "Jul 27, 1:09 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 4,
-          "City": "neenah",
-          "CityCusts": 21390,
-          "County": "winnebago",
-          "CountyCusts": 27761,
-          "Zip": "54956",
-          "ZipCusts": 21384,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.25795975601131,
-      "Longitude": -88.55759987880309,
-      "OffTime": "Jul 27, 12:10 p.m.",
-      "ETR": "Jul 30, 3:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 30,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54914",
-          "ZipCusts": 16317,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.24738385121846,
-      "Longitude": -88.44005927862473,
-      "OffTime": "Jul 29, 8:50 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 13,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54914",
-          "ZipCusts": 16317,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.24828642369793,
-      "Longitude": -88.43574933735033,
-      "OffTime": "Jul 29, 3:45 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 6,
-          "City": "appleton",
-          "CityCusts": 62922,
-          "County": "outagamie",
-          "CountyCusts": 80061,
-          "Zip": "54914",
-          "ZipCusts": 16317,
-          "Region": "fox valley wi",
-          "RegionCusts": 143258
-        }
-      ]
-    },
-    {
-      "Latitude": 44.17199984694937,
-      "Longitude": -88.44730443352178,
-      "OffTime": "Jul 29, 8:13 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 30, 4:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
           "City": "neenah",
           "CityCusts": 21390,
           "County": "winnebago",
