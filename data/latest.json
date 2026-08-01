@@ -1,130 +1,16 @@
 {
-  "captured_at": "2026-08-01T02:37:49+00:00",
+  "captured_at": "2026-08-01T03:56:36+00:00",
   "events": [
-    {
-      "Latitude": 44.24972595873504,
-      "Longitude": -88.43771899331043,
-      "OffTime": "Jul 31, 8:52 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62920,
-          "County": "outagamie",
-          "CountyCusts": 80062,
-          "Zip": "54914",
-          "ZipCusts": 16318,
-          "Region": "fox valley wi",
-          "RegionCusts": 143257
-        }
-      ]
-    },
-    {
-      "Latitude": 42.70760471406335,
-      "Longitude": -87.81785974924276,
-      "OffTime": "Jul 31, 4:24 p.m.",
-      "ETR": "Jul 31, 11:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Vehicle accident",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 58855,
-          "County": "racine",
-          "CountyCusts": 102382,
-          "Zip": "53405",
-          "ZipCusts": 11771,
-          "Region": "southeast wi",
-          "RegionCusts": 1073540
-        }
-      ]
-    },
-    {
-      "Latitude": 42.774759204706115,
-      "Longitude": -88.5571566187054,
-      "OffTime": "Jul 31, 8:34 p.m.",
-      "ETR": "Aug 1, 12:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 52,
-          "City": "elkhorn",
-          "CityCusts": 5959,
-          "County": "walworth",
-          "CountyCusts": 24198,
-          "Zip": "53121",
-          "ZipCusts": 5963,
-          "Region": "southeast wi",
-          "RegionCusts": 1073540
-        }
-      ]
-    },
-    {
-      "Latitude": 43.17668027735901,
-      "Longitude": -88.75067070383041,
-      "OffTime": "Jul 31, 7:56 p.m.",
-      "ETR": "Jul 31, 10:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 81,
-          "City": "watertown",
-          "CityCusts": 16249,
-          "County": "jefferson",
-          "CountyCusts": 35178,
-          "Zip": "53094",
-          "ZipCusts": 10263,
-          "Region": "southeast wi",
-          "RegionCusts": 1073540
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "muskego",
-          "CityCusts": 12251,
-          "County": "waukesha",
-          "CountyCusts": 203425,
-          "Zip": "53150",
-          "ZipCusts": 12251,
-          "Region": "southeast wi",
-          "RegionCusts": 1073540
-        }
-      ]
-    },
     {
       "Latitude": 44.23700880732321,
       "Longitude": -88.42785086591029,
       "OffTime": "Jul 27, 12:04 p.m.",
       "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "On site",
-      "Cause": "",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Equipment damaged by wind",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
       "IsGlobal": false,
       "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "menasha",
-          "CityCusts": 4805,
-          "County": "winnebago",
-          "CountyCusts": 27759,
-          "Zip": "54952",
-          "ZipCusts": 4818,
-          "Region": "fox valley wi",
-          "RegionCusts": 143257
-        },
         {
           "AffectedCusts": 1,
           "City": "appleton",
@@ -135,124 +21,9 @@
           "ZipCusts": 20159,
           "Region": "fox valley wi",
           "RegionCusts": 143257
-        }
-      ]
-    },
-    {
-      "Latitude": 42.581745809607604,
-      "Longitude": -87.83341933057774,
-      "OffTime": "Jul 31, 4:23 p.m.",
-      "ETR": "Jul 31, 10:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54294,
-          "County": "kenosha",
-          "CountyCusts": 80120,
-          "Zip": "53140",
-          "ZipCusts": 14890,
-          "Region": "southeast wi",
-          "RegionCusts": 1073540
-        }
-      ]
-    },
-    {
-      "Latitude": 44.23704603333782,
-      "Longitude": -88.43258971175688,
-      "OffTime": "Jul 27, 12:04 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Assigned",
-      "Cause": "",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "menasha",
-          "CityCusts": 4805,
-          "County": "winnebago",
-          "CountyCusts": 27759,
-          "Zip": "54952",
-          "ZipCusts": 4818,
-          "Region": "fox valley wi",
-          "RegionCusts": 143257
-        }
-      ]
-    },
-    {
-      "Latitude": 44.226123218760186,
-      "Longitude": -88.4478602820545,
-      "OffTime": "Jul 27, 12:02 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 25,
-          "City": "menasha",
-          "CityCusts": 4805,
-          "County": "winnebago",
-          "CountyCusts": 27759,
-          "Zip": "54952",
-          "ZipCusts": 4818,
-          "Region": "fox valley wi",
-          "RegionCusts": 143257
-        }
-      ]
-    },
-    {
-      "Latitude": 44.22744276109087,
-      "Longitude": -88.43773520506802,
-      "OffTime": "Jul 31, 7:28 p.m.",
-      "ETR": "Aug 1, 12:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "menasha",
-          "CityCusts": 4805,
-          "County": "winnebago",
-          "CountyCusts": 27759,
-          "Zip": "54952",
-          "ZipCusts": 4818,
-          "Region": "fox valley wi",
-          "RegionCusts": 143257
-        }
-      ]
-    },
-    {
-      "Latitude": 44.23710844997592,
-      "Longitude": -88.44228438268593,
-      "OffTime": "Jul 27, 12:03 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 27,
-          "City": "appleton",
-          "CityCusts": 62920,
-          "County": "winnebago",
-          "CountyCusts": 27759,
-          "Zip": "54915",
-          "ZipCusts": 20159,
-          "Region": "fox valley wi",
-          "RegionCusts": 143257
         },
         {
-          "AffectedCusts": 20,
+          "AffectedCusts": 1,
           "City": "menasha",
           "CityCusts": 4805,
           "County": "winnebago",
@@ -265,13 +36,13 @@
       ]
     },
     {
-      "Latitude": 43.17779262263291,
-      "Longitude": -87.91009197055568,
-      "OffTime": "Jul 31, 7:13 p.m.",
-      "ETR": "Jul 31, 10:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
+      "Latitude": 43.018184577845304,
+      "Longitude": -87.95357257046103,
+      "OffTime": "Jul 31, 9:34 p.m.",
+      "ETR": "Aug 1, 12:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -280,77 +51,131 @@
           "CityCusts": 352093,
           "County": "milwaukee",
           "CountyCusts": 479612,
-          "Zip": "53217",
-          "ZipCusts": 15178,
+          "Zip": "53215",
+          "ZipCusts": 22324,
           "Region": "southeast wi",
           "RegionCusts": 1073540
         }
       ]
     },
     {
-      "Latitude": 44.23489878390257,
-      "Longitude": -88.44397809229565,
-      "OffTime": "Jul 27, 12:04 p.m.",
-      "ETR": "Jul 31, 10:30 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "menasha",
-          "CityCusts": 4805,
-          "County": "winnebago",
-          "CountyCusts": 27759,
-          "Zip": "54952",
-          "ZipCusts": 4818,
-          "Region": "fox valley wi",
-          "RegionCusts": 143257
-        }
-      ]
-    },
-    {
-      "Latitude": 42.57979360273788,
-      "Longitude": -87.87869296101884,
-      "OffTime": "Jul 31, 9:21 p.m.",
-      "ETR": "Aug 1, 12:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 43.17408074018574,
+      "Longitude": -88.11102550477692,
+      "OffTime": "Jul 31, 8:36 p.m.",
+      "ETR": "Jul 31, 11:30 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54294,
-          "County": "kenosha",
-          "CountyCusts": 80120,
-          "Zip": "53142",
-          "ZipCusts": 15161,
+          "City": "menomonee fls",
+          "CityCusts": 15628,
+          "County": "waukesha",
+          "CountyCusts": 203425,
+          "Zip": "53051",
+          "ZipCusts": 21604,
           "Region": "southeast wi",
           "RegionCusts": 1073540
         }
       ]
     },
     {
-      "Latitude": 43.17548578161888,
-      "Longitude": -88.76355597487189,
-      "OffTime": "Jul 31, 7:59 p.m.",
-      "ETR": "Jul 31, 11:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 43.85533924932165,
+      "Longitude": -88.04006447671877,
+      "OffTime": "Jul 31, 9:52 p.m.",
+      "ETR": "Aug 1, 12:30 a.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
+          "AffectedCusts": 21,
+          "City": "elkhart lake",
+          "CityCusts": 2474,
+          "County": "manitowic",
+          "CountyCusts": 1416,
+          "Zip": "53020",
+          "ZipCusts": 2480,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        },
+        {
+          "AffectedCusts": 20,
+          "City": "kiel",
+          "CityCusts": 293,
+          "County": "manitowic",
+          "CountyCusts": 1416,
+          "Zip": "53042",
+          "ZipCusts": 295,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        },
+        {
+          "AffectedCusts": 13,
+          "City": "newton",
+          "CityCusts": 58,
+          "County": "manitowic",
+          "CountyCusts": 1416,
+          "Zip": "53063",
+          "ZipCusts": 58,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        },
+        {
+          "AffectedCusts": 385,
+          "City": "cleveland",
+          "CityCusts": 1052,
+          "County": "manitowic",
+          "CountyCusts": 1416,
+          "Zip": "53015",
+          "ZipCusts": 1052,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        },
+        {
+          "AffectedCusts": 140,
+          "City": "elkhart lake",
+          "CityCusts": 2474,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53020",
+          "ZipCusts": 2480,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        },
+        {
+          "AffectedCusts": 4,
+          "City": "kiel",
+          "CityCusts": 293,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53042",
+          "ZipCusts": 295,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        },
+        {
           "AffectedCusts": 1,
-          "City": "watertown",
-          "CityCusts": 16249,
-          "County": "jefferson",
-          "CountyCusts": 35178,
-          "Zip": "53094",
-          "ZipCusts": 10263,
+          "City": "rhine",
+          "CityCusts": 8,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53020",
+          "ZipCusts": 2480,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        },
+        {
+          "AffectedCusts": 6,
+          "City": "cleveland",
+          "CityCusts": 1052,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53015",
+          "ZipCusts": 1052,
           "Region": "southeast wi",
           "RegionCusts": 1073540
         }
@@ -363,7 +188,7 @@
       "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "Assigned",
       "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -380,13 +205,308 @@
       ]
     },
     {
+      "Latitude": 42.645893619916535,
+      "Longitude": -88.41793728395221,
+      "OffTime": "Jul 31, 10:06 p.m.",
+      "ETR": "Aug 1, 1:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "lyons",
+          "CityCusts": 103,
+          "County": "walworth",
+          "CountyCusts": 24198,
+          "Zip": "53148",
+          "ZipCusts": 81,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        }
+      ]
+    },
+    {
+      "Latitude": 44.23710844997592,
+      "Longitude": -88.44228438268593,
+      "OffTime": "Jul 27, 12:03 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Equipment damaged by wind",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 20,
+          "City": "menasha",
+          "CityCusts": 4805,
+          "County": "winnebago",
+          "CountyCusts": 27759,
+          "Zip": "54952",
+          "ZipCusts": 4818,
+          "Region": "fox valley wi",
+          "RegionCusts": 143257
+        },
+        {
+          "AffectedCusts": 27,
+          "City": "appleton",
+          "CityCusts": 62920,
+          "County": "winnebago",
+          "CountyCusts": 27759,
+          "Zip": "54915",
+          "ZipCusts": 20159,
+          "Region": "fox valley wi",
+          "RegionCusts": 143257
+        }
+      ]
+    },
+    {
+      "Latitude": 42.75754848038433,
+      "Longitude": -88.57326054623293,
+      "OffTime": "Jul 31, 8:03 p.m.",
+      "ETR": "Jul 31, 11:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "elkhorn",
+          "CityCusts": 5959,
+          "County": "walworth",
+          "CountyCusts": 24198,
+          "Zip": "53121",
+          "ZipCusts": 5963,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        }
+      ]
+    },
+    {
+      "Latitude": 43.85533924932165,
+      "Longitude": -88.04006447671877,
+      "OffTime": "Jul 31, 9:51 p.m.",
+      "ETR": "Aug 1, 12:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 90,
+          "City": "elkhart lake",
+          "CityCusts": 2474,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53020",
+          "ZipCusts": 2480,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        },
+        {
+          "AffectedCusts": 343,
+          "City": "cleveland",
+          "CityCusts": 1052,
+          "County": "manitowic",
+          "CountyCusts": 1416,
+          "Zip": "53015",
+          "ZipCusts": 1052,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        },
+        {
+          "AffectedCusts": 30,
+          "City": "newton",
+          "CityCusts": 58,
+          "County": "manitowic",
+          "CountyCusts": 1416,
+          "Zip": "53063",
+          "ZipCusts": 58,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "plymouth",
+          "CityCusts": 1491,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53073",
+          "ZipCusts": 1487,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        },
+        {
+          "AffectedCusts": 8,
+          "City": "elkhart lake",
+          "CityCusts": 2474,
+          "County": "manitowic",
+          "CountyCusts": 1416,
+          "Zip": "53020",
+          "ZipCusts": 2480,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        },
+        {
+          "AffectedCusts": 182,
+          "City": "kiel",
+          "CityCusts": 293,
+          "County": "manitowic",
+          "CountyCusts": 1416,
+          "Zip": "53042",
+          "ZipCusts": 295,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "kiel",
+          "CityCusts": 293,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53042",
+          "ZipCusts": 295,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        },
+        {
+          "AffectedCusts": 2,
+          "City": "cleveland",
+          "CityCusts": 1052,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53015",
+          "ZipCusts": 1052,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        }
+      ]
+    },
+    {
+      "Latitude": 42.70760471406335,
+      "Longitude": -87.81785974924276,
+      "OffTime": "Jul 31, 4:24 p.m.",
+      "ETR": "Jul 31, 11:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Vehicle accident",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 58855,
+          "County": "racine",
+          "CountyCusts": 102382,
+          "Zip": "53405",
+          "ZipCusts": 11771,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        }
+      ]
+    },
+    {
+      "Latitude": 43.915763282800725,
+      "Longitude": -87.72500869911609,
+      "OffTime": "Jul 31, 9:54 p.m.",
+      "ETR": "Aug 1, 12:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "cleveland",
+          "CityCusts": 1052,
+          "County": "manitowic",
+          "CountyCusts": 1416,
+          "Zip": "53015",
+          "ZipCusts": 1052,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        }
+      ]
+    },
+    {
+      "Latitude": 43.1850901305969,
+      "Longitude": -88.74807131733859,
+      "OffTime": "Jul 31, 10:31 p.m.",
+      "ETR": "Aug 1, 1:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "watertown",
+          "CityCusts": 16249,
+          "County": "jefferson",
+          "CountyCusts": 35178,
+          "Zip": "53094",
+          "ZipCusts": 10263,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        }
+      ]
+    },
+    {
+      "Latitude": 44.23853354625968,
+      "Longitude": -88.44122239368437,
+      "OffTime": "Jul 27, 12:04 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Equipment damaged by wind",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 8,
+          "City": "appleton",
+          "CityCusts": 62920,
+          "County": "winnebago",
+          "CountyCusts": 27759,
+          "Zip": "54915",
+          "ZipCusts": 20159,
+          "Region": "fox valley wi",
+          "RegionCusts": 143257
+        }
+      ]
+    },
+    {
+      "Latitude": 42.9584887833082,
+      "Longitude": -87.94793817991416,
+      "OffTime": "Jul 31, 10:22 p.m.",
+      "ETR": "Aug 1, 1:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352093,
+          "County": "milwaukee",
+          "CountyCusts": 479612,
+          "Zip": "53221",
+          "ZipCusts": 18454,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        }
+      ]
+    },
+    {
       "Latitude": 44.23709572372792,
       "Longitude": -88.4401646253909,
       "OffTime": "Jul 27, 12:03 p.m.",
       "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -414,384 +534,17 @@
       ]
     },
     {
-      "Latitude": 42.707672249596676,
-      "Longitude": -87.82528975173959,
-      "OffTime": "Jul 31, 5:28 p.m.",
-      "ETR": "Aug 1, 1:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 58855,
-          "County": "racine",
-          "CountyCusts": 102382,
-          "Zip": "53405",
-          "ZipCusts": 11771,
-          "Region": "southeast wi",
-          "RegionCusts": 1073540
-        }
-      ]
-    },
-    {
-      "Latitude": 44.23853354625968,
-      "Longitude": -88.44122239368437,
-      "OffTime": "Jul 27, 12:04 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 8,
-          "City": "appleton",
-          "CityCusts": 62920,
-          "County": "winnebago",
-          "CountyCusts": 27759,
-          "Zip": "54915",
-          "ZipCusts": 20159,
-          "Region": "fox valley wi",
-          "RegionCusts": 143257
-        }
-      ]
-    },
-    {
-      "Latitude": 44.237106751122965,
-      "Longitude": -88.44182985341392,
-      "OffTime": "Jul 27, 12:03 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 7,
-          "City": "menasha",
-          "CityCusts": 4805,
-          "County": "winnebago",
-          "CountyCusts": 27759,
-          "Zip": "54952",
-          "ZipCusts": 4818,
-          "Region": "fox valley wi",
-          "RegionCusts": 143257
-        },
-        {
-          "AffectedCusts": 32,
-          "City": "appleton",
-          "CityCusts": 62920,
-          "County": "winnebago",
-          "CountyCusts": 27759,
-          "Zip": "54915",
-          "ZipCusts": 20159,
-          "Region": "fox valley wi",
-          "RegionCusts": 143257
-        }
-      ]
-    },
-    {
-      "Latitude": 43.17408074018574,
-      "Longitude": -88.11102550477692,
-      "OffTime": "Jul 31, 8:36 p.m.",
-      "ETR": "Jul 31, 11:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "menomonee fls",
-          "CityCusts": 15628,
-          "County": "waukesha",
-          "CountyCusts": 203425,
-          "Zip": "53051",
-          "ZipCusts": 21604,
-          "Region": "southeast wi",
-          "RegionCusts": 1073540
-        }
-      ]
-    },
-    {
-      "Latitude": 44.23705686976126,
-      "Longitude": -88.43416728302455,
-      "OffTime": "Jul 31, 4:31 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "menasha",
-          "CityCusts": 4805,
-          "County": "winnebago",
-          "CountyCusts": 27759,
-          "Zip": "54952",
-          "ZipCusts": 4818,
-          "Region": "fox valley wi",
-          "RegionCusts": 143257
-        },
-        {
-          "AffectedCusts": 5,
-          "City": "appleton",
-          "CityCusts": 62920,
-          "County": "winnebago",
-          "CountyCusts": 27759,
-          "Zip": "54915",
-          "ZipCusts": 20159,
-          "Region": "fox valley wi",
-          "RegionCusts": 143257
-        }
-      ]
-    },
-    {
-      "Latitude": 44.324043194690006,
-      "Longitude": -88.81509432990731,
-      "OffTime": "Jul 31, 6:55 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "new london",
-          "CityCusts": 3685,
-          "County": "waupaca",
-          "CountyCusts": 8895,
-          "Zip": "54961",
-          "ZipCusts": 3693,
-          "Region": "fox valley wi",
-          "RegionCusts": 143257
-        }
-      ]
-    },
-    {
-      "Latitude": 44.23702610194923,
-      "Longitude": -88.42747222027968,
-      "OffTime": "Jul 27, 12:03 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Assigned",
-      "Cause": "",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "menasha",
-          "CityCusts": 4805,
-          "County": "winnebago",
-          "CountyCusts": 27759,
-          "Zip": "54952",
-          "ZipCusts": 4818,
-          "Region": "fox valley wi",
-          "RegionCusts": 143257
-        }
-      ]
-    },
-    {
-      "Latitude": 44.23703492249051,
-      "Longitude": -88.43519347317974,
-      "OffTime": "Jul 30, 7:43 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "menasha",
-          "CityCusts": 4805,
-          "County": "winnebago",
-          "CountyCusts": 27759,
-          "Zip": "54952",
-          "ZipCusts": 4818,
-          "Region": "fox valley wi",
-          "RegionCusts": 143257
-        }
-      ]
-    },
-    {
-      "Latitude": 44.23690376942862,
-      "Longitude": -88.43797698001283,
-      "OffTime": "Jul 27, 12:04 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 8,
-          "City": "menasha",
-          "CityCusts": 4805,
-          "County": "winnebago",
-          "CountyCusts": 27759,
-          "Zip": "54952",
-          "ZipCusts": 4818,
-          "Region": "fox valley wi",
-          "RegionCusts": 143257
-        }
-      ]
-    },
-    {
-      "Latitude": 42.75754848038433,
-      "Longitude": -88.57326054623293,
-      "OffTime": "Jul 31, 8:03 p.m.",
-      "ETR": "Jul 31, 11:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "elkhorn",
-          "CityCusts": 5959,
-          "County": "walworth",
-          "CountyCusts": 24198,
-          "Zip": "53121",
-          "ZipCusts": 5963,
-          "Region": "southeast wi",
-          "RegionCusts": 1073540
-        }
-      ]
-    },
-    {
-      "Latitude": 44.260404854994476,
-      "Longitude": -88.4222939976001,
-      "OffTime": "Jul 31, 4:09 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62920,
-          "County": "outagamie",
-          "CountyCusts": 80062,
-          "Zip": "54914",
-          "ZipCusts": 16318,
-          "Region": "fox valley wi",
-          "RegionCusts": 143257
-        }
-      ]
-    },
-    {
-      "Latitude": 44.22374490914932,
-      "Longitude": -88.43541168522681,
-      "OffTime": "Jul 31, 6:45 p.m.",
-      "ETR": "Jul 31, 11:30 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "menasha",
-          "CityCusts": 4805,
-          "County": "winnebago",
-          "CountyCusts": 27759,
-          "Zip": "54952",
-          "ZipCusts": 4818,
-          "Region": "fox valley wi",
-          "RegionCusts": 143257
-        }
-      ]
-    },
-    {
-      "Latitude": 42.70691732570276,
-      "Longitude": -87.8253686196575,
-      "OffTime": "Jul 31, 8:37 p.m.",
-      "ETR": "Jul 31, 11:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 11,
-          "City": "racine",
-          "CityCusts": 58855,
-          "County": "racine",
-          "CountyCusts": 102382,
-          "Zip": "53405",
-          "ZipCusts": 11771,
-          "Region": "southeast wi",
-          "RegionCusts": 1073540
-        }
-      ]
-    },
-    {
-      "Latitude": 44.225361947802824,
-      "Longitude": -88.4461011685799,
-      "OffTime": "Jul 31, 3:48 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "On site",
-      "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "menasha",
-          "CityCusts": 4805,
-          "County": "winnebago",
-          "CountyCusts": 27759,
-          "Zip": "54952",
-          "ZipCusts": 4818,
-          "Region": "fox valley wi",
-          "RegionCusts": 143257
-        }
-      ]
-    },
-    {
-      "Latitude": 44.192010969853975,
-      "Longitude": -88.44855461925667,
-      "OffTime": "Jul 31, 7:24 p.m.",
-      "ETR": "Aug 1, 12:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "neenah",
-          "CityCusts": 21389,
-          "County": "winnebago",
-          "CountyCusts": 27759,
-          "Zip": "54956",
-          "ZipCusts": 21383,
-          "Region": "fox valley wi",
-          "RegionCusts": 143257
-        }
-      ]
-    },
-    {
       "Latitude": 44.23628684999982,
       "Longitude": -88.40339106323403,
       "OffTime": "Jul 27, 12:00 p.m.",
       "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 151,
+          "AffectedCusts": 130,
           "City": "appleton",
           "CityCusts": 62920,
           "County": "winnebago",
@@ -826,40 +579,97 @@
       ]
     },
     {
-      "Latitude": 44.15276297455621,
-      "Longitude": -88.46336004088019,
-      "OffTime": "Jul 31, 7:52 p.m.",
+      "Latitude": 44.23704603333782,
+      "Longitude": -88.43258971175688,
+      "OffTime": "Jul 27, 12:04 p.m.",
       "ETR": "Aug 1, 12:00 a.m.",
       "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
+      "Cause": "",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 71,
-          "City": "neenah",
-          "CityCusts": 21389,
+          "AffectedCusts": 3,
+          "City": "menasha",
+          "CityCusts": 4805,
           "County": "winnebago",
           "CountyCusts": 27759,
-          "Zip": "54956",
-          "ZipCusts": 21383,
+          "Zip": "54952",
+          "ZipCusts": 4818,
           "Region": "fox valley wi",
           "RegionCusts": 143257
         }
       ]
     },
     {
-      "Latitude": 43.17668027735901,
-      "Longitude": -88.75067070383041,
-      "OffTime": "Jul 31, 7:56 p.m.",
-      "ETR": "Jul 31, 10:30 p.m.",
+      "Latitude": 45.955750182024524,
+      "Longitude": -87.07054185651462,
+      "OffTime": "Jul 31, 10:04 p.m.",
+      "ETR": "Aug 1, 1:00 a.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 92,
+          "AffectedCusts": 11,
+          "City": "brampton",
+          "CityCusts": 138,
+          "County": "delta",
+          "CountyCusts": 1711,
+          "Zip": "49837",
+          "ZipCusts": 429,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41374
+        },
+        {
+          "AffectedCusts": 5,
+          "City": "gladstone",
+          "CityCusts": 295,
+          "County": "delta",
+          "CountyCusts": 1711,
+          "Zip": "49837",
+          "ZipCusts": 429,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41374
+        }
+      ]
+    },
+    {
+      "Latitude": 42.98878016050834,
+      "Longitude": -87.87752766060449,
+      "OffTime": "Jul 31, 10:28 p.m.",
+      "ETR": "Aug 1, 1:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 55,
+          "City": "milwaukee",
+          "CityCusts": 352093,
+          "County": "milwaukee",
+          "CountyCusts": 479612,
+          "Zip": "53207",
+          "ZipCusts": 20429,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        }
+      ]
+    },
+    {
+      "Latitude": 43.17668027735901,
+      "Longitude": -88.75067070383041,
+      "OffTime": "Jul 31, 9:41 p.m.",
+      "ETR": "Aug 1, 12:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
           "City": "watertown",
           "CityCusts": 16249,
           "County": "jefferson",
@@ -872,94 +682,25 @@
       ]
     },
     {
-      "Latitude": 44.22981577844363,
-      "Longitude": -88.43417150501604,
-      "OffTime": "Jul 27, 12:05 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 39,
-          "City": "menasha",
-          "CityCusts": 4805,
-          "County": "winnebago",
-          "CountyCusts": 27759,
-          "Zip": "54952",
-          "ZipCusts": 4818,
-          "Region": "fox valley wi",
-          "RegionCusts": 143257
-        }
-      ]
-    },
-    {
-      "Latitude": 43.09996688218204,
-      "Longitude": -87.93762048792182,
-      "OffTime": "Jul 31, 8:40 p.m.",
-      "ETR": "Jul 31, 11:30 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 43.16468668725696,
+      "Longitude": -87.9329330616344,
+      "OffTime": "Jul 31, 10:01 p.m.",
+      "ETR": "Aug 1, 1:00 a.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 50,
-          "City": "milwaukee",
-          "CityCusts": 352093,
-          "County": "milwaukee",
-          "CountyCusts": 479612,
-          "Zip": "53209",
-          "ZipCusts": 23833,
-          "Region": "southeast wi",
-          "RegionCusts": 1073540
-        }
-      ]
-    },
-    {
-      "Latitude": 43.064614196006985,
-      "Longitude": -87.94899603775036,
-      "OffTime": "Jul 31, 9:14 p.m.",
-      "ETR": "Aug 1, 12:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352093,
+          "City": "river hills",
+          "CityCusts": 474,
           "County": "milwaukee",
           "CountyCusts": 479612,
-          "Zip": "53210",
-          "ZipCusts": 12250,
+          "Zip": "53217",
+          "ZipCusts": 15178,
           "Region": "southeast wi",
           "RegionCusts": 1073540
-        }
-      ]
-    },
-    {
-      "Latitude": 46.02251190508687,
-      "Longitude": -89.35204982303854,
-      "OffTime": "Jul 31, 5:30 p.m.",
-      "ETR": "Jul 31, 10:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 6,
-          "City": "conover",
-          "CityCusts": 2091,
-          "County": "vilas",
-          "CountyCusts": 6267,
-          "Zip": "54519",
-          "ZipCusts": 2091,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41374
         }
       ]
     },
@@ -970,7 +711,7 @@
       "ETR": "Not yet determined",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -987,25 +728,25 @@
       ]
     },
     {
-      "Latitude": 44.2370557912268,
-      "Longitude": -88.43935045336671,
-      "OffTime": "Jul 30, 4:21 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Equipment damaged by lightning",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
+      "Latitude": 42.64701744529031,
+      "Longitude": -88.41826012118028,
+      "OffTime": "Jul 31, 9:42 p.m.",
+      "ETR": "Aug 1, 12:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 2,
-          "City": "menasha",
-          "CityCusts": 4805,
-          "County": "winnebago",
-          "CountyCusts": 27759,
-          "Zip": "54952",
-          "ZipCusts": 4818,
-          "Region": "fox valley wi",
-          "RegionCusts": 143257
+          "AffectedCusts": 1,
+          "City": "lyons",
+          "CityCusts": 103,
+          "County": "walworth",
+          "CountyCusts": 24198,
+          "Zip": "53147",
+          "ZipCusts": 249,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
         }
       ]
     },
@@ -1014,9 +755,9 @@
       "Longitude": -88.40009767874432,
       "OffTime": "Jul 31, 9:24 p.m.",
       "ETR": "Aug 1, 12:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -1044,17 +785,17 @@
       ]
     },
     {
-      "Latitude": 44.23707599159534,
-      "Longitude": -88.43911574490453,
-      "OffTime": "Jul 27, 12:04 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
+      "Latitude": 44.22744276109087,
+      "Longitude": -88.43773520506802,
+      "OffTime": "Jul 31, 7:28 p.m.",
+      "ETR": "Aug 1, 12:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 6,
+          "AffectedCusts": 1,
           "City": "menasha",
           "CityCusts": 4805,
           "County": "winnebago",
@@ -1067,13 +808,116 @@
       ]
     },
     {
+      "Latitude": 44.23489878390257,
+      "Longitude": -88.44397809229565,
+      "OffTime": "Jul 27, 12:04 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Equipment damaged by wind",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "menasha",
+          "CityCusts": 4805,
+          "County": "winnebago",
+          "CountyCusts": 27759,
+          "Zip": "54952",
+          "ZipCusts": 4818,
+          "Region": "fox valley wi",
+          "RegionCusts": 143257
+        }
+      ]
+    },
+    {
+      "Latitude": 44.237106751122965,
+      "Longitude": -88.44182985341392,
+      "OffTime": "Jul 27, 12:03 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Equipment damaged by wind",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 32,
+          "City": "appleton",
+          "CityCusts": 62920,
+          "County": "winnebago",
+          "CountyCusts": 27759,
+          "Zip": "54915",
+          "ZipCusts": 20159,
+          "Region": "fox valley wi",
+          "RegionCusts": 143257
+        },
+        {
+          "AffectedCusts": 7,
+          "City": "menasha",
+          "CityCusts": 4805,
+          "County": "winnebago",
+          "CountyCusts": 27759,
+          "Zip": "54952",
+          "ZipCusts": 4818,
+          "Region": "fox valley wi",
+          "RegionCusts": 143257
+        }
+      ]
+    },
+    {
+      "Latitude": 44.226123218760186,
+      "Longitude": -88.4478602820545,
+      "OffTime": "Jul 27, 12:02 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Equipment damaged by wind",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 25,
+          "City": "menasha",
+          "CityCusts": 4805,
+          "County": "winnebago",
+          "CountyCusts": 27759,
+          "Zip": "54952",
+          "ZipCusts": 4818,
+          "Region": "fox valley wi",
+          "RegionCusts": 143257
+        }
+      ]
+    },
+    {
+      "Latitude": 44.15619545170493,
+      "Longitude": -88.50010485914153,
+      "OffTime": "Jul 31, 9:55 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 34,
+          "City": "neenah",
+          "CityCusts": 21389,
+          "County": "winnebago",
+          "CountyCusts": 27759,
+          "Zip": "54956",
+          "ZipCusts": 21383,
+          "Region": "fox valley wi",
+          "RegionCusts": 143257
+        }
+      ]
+    },
+    {
       "Latitude": 43.02887424733888,
       "Longitude": -88.2100950580356,
       "OffTime": "Jul 31, 6:54 p.m.",
-      "ETR": "Jul 31, 10:00 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "Assigned",
       "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -1090,17 +934,465 @@
       ]
     },
     {
+      "Latitude": 44.24972595873504,
+      "Longitude": -88.43771899331043,
+      "OffTime": "Jul 31, 8:52 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62920,
+          "County": "outagamie",
+          "CountyCusts": 80062,
+          "Zip": "54914",
+          "ZipCusts": 16318,
+          "Region": "fox valley wi",
+          "RegionCusts": 143257
+        }
+      ]
+    },
+    {
+      "Latitude": 44.23702610194923,
+      "Longitude": -88.42747222027968,
+      "OffTime": "Jul 27, 12:03 p.m.",
+      "ETR": "Jul 31, 11:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Equipment damaged by wind",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "menasha",
+          "CityCusts": 4805,
+          "County": "winnebago",
+          "CountyCusts": 27759,
+          "Zip": "54952",
+          "ZipCusts": 4818,
+          "Region": "fox valley wi",
+          "RegionCusts": 143257
+        }
+      ]
+    },
+    {
+      "Latitude": 44.225361947802824,
+      "Longitude": -88.4461011685799,
+      "OffTime": "Jul 31, 3:48 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "We Energies overhead line problem",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "menasha",
+          "CityCusts": 4805,
+          "County": "winnebago",
+          "CountyCusts": 27759,
+          "Zip": "54952",
+          "ZipCusts": 4818,
+          "Region": "fox valley wi",
+          "RegionCusts": 143257
+        }
+      ]
+    },
+    {
+      "Latitude": 44.23705686976126,
+      "Longitude": -88.43416728302455,
+      "OffTime": "Jul 31, 4:31 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "We Energies overhead line problem",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "menasha",
+          "CityCusts": 4805,
+          "County": "winnebago",
+          "CountyCusts": 27759,
+          "Zip": "54952",
+          "ZipCusts": 4818,
+          "Region": "fox valley wi",
+          "RegionCusts": 143257
+        },
+        {
+          "AffectedCusts": 5,
+          "City": "appleton",
+          "CityCusts": 62920,
+          "County": "winnebago",
+          "CountyCusts": 27759,
+          "Zip": "54915",
+          "ZipCusts": 20159,
+          "Region": "fox valley wi",
+          "RegionCusts": 143257
+        }
+      ]
+    },
+    {
+      "Latitude": 44.22981577844363,
+      "Longitude": -88.43417150501604,
+      "OffTime": "Jul 27, 12:05 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 39,
+          "City": "menasha",
+          "CityCusts": 4805,
+          "County": "winnebago",
+          "CountyCusts": 27759,
+          "Zip": "54952",
+          "ZipCusts": 4818,
+          "Region": "fox valley wi",
+          "RegionCusts": 143257
+        }
+      ]
+    },
+    {
+      "Latitude": 43.02621494953952,
+      "Longitude": -88.24290450779962,
+      "OffTime": "Jul 31, 9:50 p.m.",
+      "ETR": "Aug 1, 12:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "waukesha",
+          "CityCusts": 48418,
+          "County": "waukesha",
+          "CountyCusts": 203425,
+          "Zip": "53188",
+          "ZipCusts": 17755,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        }
+      ]
+    },
+    {
+      "Latitude": 42.707672249596676,
+      "Longitude": -87.82528975173959,
+      "OffTime": "Jul 31, 5:28 p.m.",
+      "ETR": "Aug 1, 1:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 58855,
+          "County": "racine",
+          "CountyCusts": 102382,
+          "Zip": "53405",
+          "ZipCusts": 11771,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        }
+      ]
+    },
+    {
+      "Latitude": 42.99803206776748,
+      "Longitude": -88.09126043844269,
+      "OffTime": "Jul 31, 10:47 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "new berlin",
+          "CityCusts": 20458,
+          "County": "waukesha",
+          "CountyCusts": 203425,
+          "Zip": "53151",
+          "ZipCusts": 16752,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        }
+      ]
+    },
+    {
+      "Latitude": 44.324043194690006,
+      "Longitude": -88.81509432990731,
+      "OffTime": "Jul 31, 6:55 a.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "new london",
+          "CityCusts": 3685,
+          "County": "waupaca",
+          "CountyCusts": 8895,
+          "Zip": "54961",
+          "ZipCusts": 3693,
+          "Region": "fox valley wi",
+          "RegionCusts": 143257
+        }
+      ]
+    },
+    {
+      "Latitude": 44.15276297455621,
+      "Longitude": -88.46336004088019,
+      "OffTime": "Jul 31, 7:52 p.m.",
+      "ETR": "Aug 1, 12:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 71,
+          "City": "neenah",
+          "CityCusts": 21389,
+          "County": "winnebago",
+          "CountyCusts": 27759,
+          "Zip": "54956",
+          "ZipCusts": 21383,
+          "Region": "fox valley wi",
+          "RegionCusts": 143257
+        }
+      ]
+    },
+    {
+      "Latitude": 43.235269384567,
+      "Longitude": -88.95340243345645,
+      "OffTime": "Jul 31, 10:19 p.m.",
+      "ETR": "Aug 1, 1:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 19,
+          "City": "waterloo",
+          "CityCusts": 867,
+          "County": "dodge",
+          "CountyCusts": 17201,
+          "Zip": "53594",
+          "ZipCusts": 866,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        }
+      ]
+    },
+    {
+      "Latitude": 42.76157983703244,
+      "Longitude": -88.70619520969854,
+      "OffTime": "Jul 31, 10:41 p.m.",
+      "ETR": "Aug 1, 1:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "whitewater",
+          "CityCusts": 9479,
+          "County": "walworth",
+          "CountyCusts": 24198,
+          "Zip": "53190",
+          "ZipCusts": 9482,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        }
+      ]
+    },
+    {
       "Latitude": 44.22422115428253,
       "Longitude": -88.45006871548262,
       "OffTime": "Jul 27, 12:05 p.m.",
       "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Not yet determined",
-      "LastUpdated": "Jul 31, 9:30 p.m.",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 3,
+          "City": "menasha",
+          "CityCusts": 4805,
+          "County": "winnebago",
+          "CountyCusts": 27759,
+          "Zip": "54952",
+          "ZipCusts": 4818,
+          "Region": "fox valley wi",
+          "RegionCusts": 143257
+        }
+      ]
+    },
+    {
+      "Latitude": 43.17779262263291,
+      "Longitude": -87.91009197055568,
+      "OffTime": "Jul 31, 7:13 p.m.",
+      "ETR": "Aug 1, 6:00 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352093,
+          "County": "milwaukee",
+          "CountyCusts": 479612,
+          "Zip": "53217",
+          "ZipCusts": 15178,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        }
+      ]
+    },
+    {
+      "Latitude": 43.91411220142662,
+      "Longitude": -87.74887097371811,
+      "OffTime": "Jul 31, 9:58 p.m.",
+      "ETR": "Aug 1, 1:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "cleveland",
+          "CityCusts": 1052,
+          "County": "manitowic",
+          "CountyCusts": 1416,
+          "Zip": "53015",
+          "ZipCusts": 1052,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        }
+      ]
+    },
+    {
+      "Latitude": 44.23703492249051,
+      "Longitude": -88.43519347317974,
+      "OffTime": "Jul 30, 7:43 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "menasha",
+          "CityCusts": 4805,
+          "County": "winnebago",
+          "CountyCusts": 27759,
+          "Zip": "54952",
+          "ZipCusts": 4818,
+          "Region": "fox valley wi",
+          "RegionCusts": 143257
+        }
+      ]
+    },
+    {
+      "Latitude": 44.2370557912268,
+      "Longitude": -88.43935045336671,
+      "OffTime": "Jul 30, 4:21 a.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Equipment damaged by lightning",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "menasha",
+          "CityCusts": 4805,
+          "County": "winnebago",
+          "CountyCusts": 27759,
+          "Zip": "54952",
+          "ZipCusts": 4818,
+          "Region": "fox valley wi",
+          "RegionCusts": 143257
+        }
+      ]
+    },
+    {
+      "Latitude": 44.23690376942862,
+      "Longitude": -88.43797698001283,
+      "OffTime": "Jul 27, 12:04 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 8,
+          "City": "menasha",
+          "CityCusts": 4805,
+          "County": "winnebago",
+          "CountyCusts": 27759,
+          "Zip": "54952",
+          "ZipCusts": 4818,
+          "Region": "fox valley wi",
+          "RegionCusts": 143257
+        }
+      ]
+    },
+    {
+      "Latitude": 42.70691732570276,
+      "Longitude": -87.8253686196575,
+      "OffTime": "Jul 31, 8:37 p.m.",
+      "ETR": "Jul 31, 11:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 11,
+          "City": "racine",
+          "CityCusts": 58855,
+          "County": "racine",
+          "CountyCusts": 102382,
+          "Zip": "53405",
+          "ZipCusts": 11771,
+          "Region": "southeast wi",
+          "RegionCusts": 1073540
+        }
+      ]
+    },
+    {
+      "Latitude": 44.23707599159534,
+      "Longitude": -88.43911574490453,
+      "OffTime": "Jul 27, 12:04 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Equipment damaged by wind",
+      "LastUpdated": "Jul 31, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 6,
           "City": "menasha",
           "CityCusts": 4805,
           "County": "winnebago",
