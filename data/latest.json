@@ -1,24 +1,81 @@
 {
-  "captured_at": "2026-08-03T06:36:45+00:00",
+  "captured_at": "2026-08-03T07:54:53+00:00",
   "events": [
     {
-      "Latitude": 42.571620818231885,
-      "Longitude": -87.82631480715133,
-      "OffTime": "Aug 3, 12:32 a.m.",
-      "ETR": "Aug 3, 5:00 a.m.",
-      "CrewStatus": "On the way",
+      "Latitude": 46.02336358941661,
+      "Longitude": -89.20742396464107,
+      "OffTime": "Aug 3, 2:48 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 3, 1:30 a.m.",
+      "LastUpdated": "Aug 3, 2:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54294,
-          "County": "kenosha",
-          "CountyCusts": 80120,
-          "Zip": "53143",
-          "ZipCusts": 10247,
+          "City": "conover",
+          "CityCusts": 2091,
+          "County": "vilas",
+          "CountyCusts": 6267,
+          "Zip": "54519",
+          "ZipCusts": 2091,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41374
+        }
+      ]
+    },
+    {
+      "Latitude": 43.06987988315886,
+      "Longitude": -88.06049658430459,
+      "OffTime": "Aug 3, 2:46 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 3, 2:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "wauwatosa",
+          "CityCusts": 10504,
+          "County": "milwaukee",
+          "CountyCusts": 479612,
+          "Zip": "53222",
+          "ZipCusts": 13595,
+          "Region": "southeast wi",
+          "RegionCusts": 1073541
+        },
+        {
+          "AffectedCusts": 5,
+          "City": "milwaukee",
+          "CityCusts": 352094,
+          "County": "milwaukee",
+          "CountyCusts": 479612,
+          "Zip": "53222",
+          "ZipCusts": 13595,
+          "Region": "southeast wi",
+          "RegionCusts": 1073541
+        }
+      ]
+    },
+    {
+      "Latitude": 43.084755608197305,
+      "Longitude": -87.88988530475939,
+      "OffTime": "Aug 3, 1:22 a.m.",
+      "ETR": "Aug 3, 4:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Aug 3, 2:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "shorewood",
+          "CityCusts": 2478,
+          "County": "milwaukee",
+          "CountyCusts": 479612,
+          "Zip": "53211",
+          "ZipCusts": 18154,
           "Region": "southeast wi",
           "RegionCusts": 1073541
         }
@@ -29,9 +86,9 @@
       "Longitude": -88.35550341737685,
       "OffTime": "Aug 3, 12:07 a.m.",
       "ETR": "Aug 3, 4:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 3, 1:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "We Energies fuse problem",
+      "LastUpdated": "Aug 3, 2:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -54,7 +111,7 @@
       "ETR": "Aug 3, 12:00 p.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "",
-      "LastUpdated": "Aug 3, 1:30 a.m.",
+      "LastUpdated": "Aug 3, 2:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -71,23 +128,23 @@
       ]
     },
     {
-      "Latitude": 43.084755608197305,
-      "Longitude": -87.88988530475939,
-      "OffTime": "Aug 3, 1:22 a.m.",
-      "ETR": "Aug 3, 4:00 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 3, 1:30 a.m.",
+      "Latitude": 42.571620818231885,
+      "Longitude": -87.82631480715133,
+      "OffTime": "Aug 3, 12:32 a.m.",
+      "ETR": "Aug 3, 5:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Aug 3, 2:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "shorewood",
-          "CityCusts": 2478,
-          "County": "milwaukee",
-          "CountyCusts": 479612,
-          "Zip": "53211",
-          "ZipCusts": 18154,
+          "City": "kenosha",
+          "CityCusts": 54294,
+          "County": "kenosha",
+          "CountyCusts": 80120,
+          "Zip": "53143",
+          "ZipCusts": 10247,
           "Region": "southeast wi",
           "RegionCusts": 1073541
         }
