@@ -1,41 +1,18 @@
 {
-  "captured_at": "2026-08-04T02:39:52+00:00",
+  "captured_at": "2026-08-04T03:50:53+00:00",
   "events": [
     {
-      "Latitude": 44.24041180821589,
-      "Longitude": -88.43524796879846,
-      "OffTime": "Aug 3, 4:02 p.m.",
-      "ETR": "Aug 3, 10:00 p.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 44.222741271885766,
+      "Longitude": -88.43746520513457,
+      "OffTime": "Aug 3, 3:26 p.m.",
+      "ETR": "Aug 4, 12:30 a.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 3, 9:30 p.m.",
+      "LastUpdated": "Aug 3, 10:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62920,
-          "County": "winnebago",
-          "CountyCusts": 27759,
-          "Zip": "54915",
-          "ZipCusts": 20158,
-          "Region": "fox valley wi",
-          "RegionCusts": 143264
-        }
-      ]
-    },
-    {
-      "Latitude": 44.22744276109087,
-      "Longitude": -88.43773520506802,
-      "OffTime": "Aug 3, 3:11 p.m.",
-      "ETR": "Aug 3, 10:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 3, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 7,
           "City": "menasha",
           "CityCusts": 4805,
           "County": "winnebago",
@@ -48,59 +25,13 @@
       ]
     },
     {
-      "Latitude": 42.985684190154835,
-      "Longitude": -87.92707296692294,
-      "OffTime": "Aug 3, 9:24 p.m.",
-      "ETR": "Aug 4, 12:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 44.228934302358226,
+      "Longitude": -88.44232975301131,
+      "OffTime": "Aug 3, 8:15 p.m.",
+      "ETR": "Aug 3, 11:00 p.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 3, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352123,
-          "County": "milwaukee",
-          "CountyCusts": 479642,
-          "Zip": "53215",
-          "ZipCusts": 22338,
-          "Region": "southeast wi",
-          "RegionCusts": 1073588
-        }
-      ]
-    },
-    {
-      "Latitude": 44.24828642369793,
-      "Longitude": -88.43574933735033,
-      "OffTime": "Aug 3, 7:47 p.m.",
-      "ETR": "Aug 3, 10:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 3, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62920,
-          "County": "outagamie",
-          "CountyCusts": 80064,
-          "Zip": "54914",
-          "ZipCusts": 16319,
-          "Region": "fox valley wi",
-          "RegionCusts": 143264
-        }
-      ]
-    },
-    {
-      "Latitude": 44.222741271885766,
-      "Longitude": -88.43746520513457,
-      "OffTime": "Aug 3, 3:26 p.m.",
-      "ETR": "Aug 3, 10:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 3, 9:30 p.m.",
+      "LastUpdated": "Aug 3, 10:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -120,10 +51,10 @@
       "Latitude": 42.99486033470834,
       "Longitude": -88.02409169788473,
       "OffTime": "Aug 3, 7:21 p.m.",
-      "ETR": "Aug 3, 10:00 p.m.",
-      "CrewStatus": "Assigned",
+      "ETR": "Aug 3, 11:00 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 3, 9:30 p.m.",
+      "LastUpdated": "Aug 3, 10:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -140,59 +71,13 @@
       ]
     },
     {
-      "Latitude": 44.26841658590406,
-      "Longitude": -88.44044767766606,
-      "OffTime": "Aug 3, 5:32 p.m.",
-      "ETR": "Aug 3, 10:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Aug 3, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62920,
-          "County": "outagamie",
-          "CountyCusts": 80064,
-          "Zip": "54914",
-          "ZipCusts": 16319,
-          "Region": "fox valley wi",
-          "RegionCusts": 143264
-        }
-      ]
-    },
-    {
-      "Latitude": 44.228934302358226,
-      "Longitude": -88.44232975301131,
-      "OffTime": "Aug 3, 8:15 p.m.",
-      "ETR": "Aug 3, 11:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 3, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "menasha",
-          "CityCusts": 4805,
-          "County": "winnebago",
-          "CountyCusts": 27759,
-          "Zip": "54952",
-          "ZipCusts": 4818,
-          "Region": "fox valley wi",
-          "RegionCusts": 143264
-        }
-      ]
-    },
-    {
-      "Latitude": 44.258303924850466,
-      "Longitude": -88.41737564075443,
-      "OffTime": "Aug 3, 7:28 p.m.",
-      "ETR": "Aug 3, 10:30 p.m.",
+      "Latitude": 44.24828642369793,
+      "Longitude": -88.43574933735033,
+      "OffTime": "Aug 3, 7:47 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "On site",
       "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 3, 9:30 p.m.",
+      "LastUpdated": "Aug 3, 10:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -205,29 +90,6 @@
           "ZipCusts": 16319,
           "Region": "fox valley wi",
           "RegionCusts": 143264
-        }
-      ]
-    },
-    {
-      "Latitude": 43.102150901736636,
-      "Longitude": -87.9609985702964,
-      "OffTime": "Aug 3, 9:21 p.m.",
-      "ETR": "Aug 4, 12:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 3, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352123,
-          "County": "milwaukee",
-          "CountyCusts": 479642,
-          "Zip": "53209",
-          "ZipCusts": 23844,
-          "Region": "southeast wi",
-          "RegionCusts": 1073588
         }
       ]
     }
