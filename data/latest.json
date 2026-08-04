@@ -1,24 +1,47 @@
 {
-  "captured_at": "2026-08-04T12:35:51+00:00",
+  "captured_at": "2026-08-04T13:19:23+00:00",
   "events": [
     {
-      "Latitude": 43.00376134861284,
-      "Longitude": -87.95732613151166,
-      "OffTime": "Aug 4, 6:54 a.m.",
-      "ETR": "Aug 4, 9:30 a.m.",
-      "CrewStatus": "On the way",
+      "Latitude": 42.50841864914578,
+      "Longitude": -88.15424253830753,
+      "OffTime": "Aug 4, 7:35 a.m.",
+      "ETR": "Aug 4, 10:30 a.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 7:30 a.m.",
+      "LastUpdated": "Aug 4, 8:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 25,
-          "City": "milwaukee",
-          "CityCusts": 352130,
-          "County": "milwaukee",
-          "CountyCusts": 479670,
-          "Zip": "53215",
-          "ZipCusts": 22339,
+          "AffectedCusts": 1,
+          "City": "trevor",
+          "CityCusts": 2959,
+          "County": "kenosha",
+          "CountyCusts": 80123,
+          "Zip": "53179",
+          "ZipCusts": 2964,
+          "Region": "southeast wi",
+          "RegionCusts": 1073628
+        }
+      ]
+    },
+    {
+      "Latitude": 43.55062180373009,
+      "Longitude": -88.18551671639617,
+      "OffTime": "Aug 4, 8:03 a.m.",
+      "ETR": "Aug 4, 11:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 4, 8:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kewaskum",
+          "CityCusts": 4405,
+          "County": "fond du lac",
+          "CountyCusts": 6944,
+          "Zip": "53040",
+          "ZipCusts": 4411,
           "Region": "southeast wi",
           "RegionCusts": 1073628
         }
@@ -31,7 +54,7 @@
       "ETR": "Aug 4, 9:00 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 7:30 a.m.",
+      "LastUpdated": "Aug 4, 8:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,46 +71,46 @@
       ]
     },
     {
-      "Latitude": 43.06728854702428,
-      "Longitude": -87.95926632785894,
-      "OffTime": "Aug 4, 7:23 a.m.",
-      "ETR": "Aug 4, 10:00 a.m.",
+      "Latitude": 43.548872751005774,
+      "Longitude": -88.22030378450287,
+      "OffTime": "Aug 4, 8:05 a.m.",
+      "ETR": "Aug 4, 11:00 a.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 7:30 a.m.",
+      "LastUpdated": "Aug 4, 8:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352130,
-          "County": "milwaukee",
-          "CountyCusts": 479670,
-          "Zip": "53210",
-          "ZipCusts": 12249,
+          "AffectedCusts": 3,
+          "City": "kewaskum",
+          "CityCusts": 4405,
+          "County": "fond du lac",
+          "CountyCusts": 6944,
+          "Zip": "53040",
+          "ZipCusts": 4411,
           "Region": "southeast wi",
           "RegionCusts": 1073628
         }
       ]
     },
     {
-      "Latitude": 42.594587927917644,
-      "Longitude": -88.04796161464608,
-      "OffTime": "Aug 4, 7:23 a.m.",
-      "ETR": "Aug 4, 10:00 a.m.",
+      "Latitude": 43.517783986992804,
+      "Longitude": -88.23018213399601,
+      "OffTime": "Aug 4, 7:55 a.m.",
+      "ETR": "Aug 4, 10:30 a.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 7:30 a.m.",
+      "LastUpdated": "Aug 4, 8:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 3,
-          "City": "bristol",
-          "CityCusts": 3589,
-          "County": "kenosha",
-          "CountyCusts": 80123,
-          "Zip": "53104",
-          "ZipCusts": 3581,
+          "AffectedCusts": 1,
+          "City": "kewaskum",
+          "CityCusts": 4405,
+          "County": "washington",
+          "CountyCusts": 61638,
+          "Zip": "53040",
+          "ZipCusts": 4411,
           "Region": "southeast wi",
           "RegionCusts": 1073628
         }
@@ -98,9 +121,9 @@
       "Longitude": -88.23050627463796,
       "OffTime": "Aug 4, 6:14 a.m.",
       "ETR": "Aug 4, 9:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Aug 4, 7:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Aug 4, 8:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -111,6 +134,29 @@
           "CountyCusts": 203425,
           "Zip": "53186",
           "ZipCusts": 17762,
+          "Region": "southeast wi",
+          "RegionCusts": 1073628
+        }
+      ]
+    },
+    {
+      "Latitude": 42.594587927917644,
+      "Longitude": -88.04796161464608,
+      "OffTime": "Aug 4, 7:23 a.m.",
+      "ETR": "Aug 4, 10:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 4, 8:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "bristol",
+          "CityCusts": 3589,
+          "County": "kenosha",
+          "CountyCusts": 80123,
+          "Zip": "53104",
+          "ZipCusts": 3581,
           "Region": "southeast wi",
           "RegionCusts": 1073628
         }
