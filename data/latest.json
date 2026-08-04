@@ -1,4 +1,51 @@
 {
-  "captured_at": "2026-08-04T11:06:29+00:00",
-  "events": []
+  "captured_at": "2026-08-04T11:54:33+00:00",
+  "events": [
+    {
+      "Latitude": 42.992142524320705,
+      "Longitude": -88.23050627463796,
+      "OffTime": "Aug 4, 6:14 a.m.",
+      "ETR": "Aug 4, 9:00 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 4, 6:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "waukesha",
+          "CityCusts": 48426,
+          "County": "waukesha",
+          "CountyCusts": 203425,
+          "Zip": "53186",
+          "ZipCusts": 17762,
+          "Region": "southeast wi",
+          "RegionCusts": 1073628
+        }
+      ]
+    },
+    {
+      "Latitude": 42.74263125610937,
+      "Longitude": -87.7987539237684,
+      "OffTime": "Aug 4, 6:20 a.m.",
+      "ETR": "Aug 4, 9:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 4, 6:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 58857,
+          "County": "racine",
+          "CountyCusts": 102390,
+          "Zip": "53404",
+          "ZipCusts": 7235,
+          "Region": "southeast wi",
+          "RegionCusts": 1073628
+        }
+      ]
+    }
+  ]
 }
