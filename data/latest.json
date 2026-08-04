@@ -1,14 +1,60 @@
 {
-  "captured_at": "2026-08-04T19:01:54+00:00",
+  "captured_at": "2026-08-04T19:49:51+00:00",
   "events": [
+    {
+      "Latitude": 44.18486170187914,
+      "Longitude": -88.46683025021139,
+      "OffTime": "Aug 4, 2:32 p.m.",
+      "ETR": "Aug 4, 5:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 4, 2:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "neenah",
+          "CityCusts": 21390,
+          "County": "winnebago",
+          "CountyCusts": 27758,
+          "Zip": "54956",
+          "ZipCusts": 21384,
+          "Region": "fox valley wi",
+          "RegionCusts": 143264
+        }
+      ]
+    },
+    {
+      "Latitude": 42.69996282915071,
+      "Longitude": -87.795801425476,
+      "OffTime": "Aug 4, 2:19 p.m.",
+      "ETR": "Aug 4, 5:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 4, 2:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 58857,
+          "County": "racine",
+          "CountyCusts": 102390,
+          "Zip": "53403",
+          "ZipCusts": 14380,
+          "Region": "southeast wi",
+          "RegionCusts": 1073628
+        }
+      ]
+    },
     {
       "Latitude": 42.96840409445083,
       "Longitude": -87.98432164355451,
       "OffTime": "Aug 4, 12:51 p.m.",
-      "ETR": "Aug 4, 3:30 p.m.",
+      "ETR": "Aug 4, 3:00 p.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 2:00 p.m.",
+      "LastUpdated": "Aug 4, 2:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,46 +71,23 @@
       ]
     },
     {
-      "Latitude": 43.25389149452481,
-      "Longitude": -87.9367813501505,
-      "OffTime": "Aug 4, 1:45 p.m.",
-      "ETR": "Aug 4, 4:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 42.56142856040041,
+      "Longitude": -87.81735716489742,
+      "OffTime": "Aug 4, 10:35 a.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 2:00 p.m.",
+      "LastUpdated": "Aug 4, 2:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "mequon",
-          "CityCusts": 12356,
-          "County": "ozaukee",
-          "CountyCusts": 42607,
-          "Zip": "53097",
-          "ZipCusts": 2853,
-          "Region": "southeast wi",
-          "RegionCusts": 1073628
-        }
-      ]
-    },
-    {
-      "Latitude": 43.02148845316987,
-      "Longitude": -87.9415303405904,
-      "OffTime": "Aug 4, 1:57 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 2:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352130,
-          "County": "milwaukee",
-          "CountyCusts": 479670,
-          "Zip": "53204",
-          "ZipCusts": 17658,
+          "City": "kenosha",
+          "CityCusts": 54294,
+          "County": "kenosha",
+          "CountyCusts": 80123,
+          "Zip": "53143",
+          "ZipCusts": 10246,
           "Region": "southeast wi",
           "RegionCusts": 1073628
         }
@@ -77,7 +100,7 @@
       "ETR": "Aug 4, 3:30 p.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 4, 2:00 p.m.",
+      "LastUpdated": "Aug 4, 2:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -94,93 +117,13 @@
       ]
     },
     {
-      "Latitude": 43.148994805205085,
-      "Longitude": -88.0338563438939,
-      "OffTime": "Aug 4, 1:56 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 2:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352130,
-          "County": "milwaukee",
-          "CountyCusts": 479670,
-          "Zip": "53224",
-          "ZipCusts": 9521,
-          "Region": "southeast wi",
-          "RegionCusts": 1073628
-        }
-      ]
-    },
-    {
-      "Latitude": 44.23769206151281,
-      "Longitude": -88.44249814970546,
-      "OffTime": "Aug 4, 12:37 p.m.",
-      "ETR": "Aug 4, 3:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 2:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62921,
-          "County": "winnebago",
-          "CountyCusts": 27758,
-          "Zip": "54915",
-          "ZipCusts": 20158,
-          "Region": "fox valley wi",
-          "RegionCusts": 143264
-        }
-      ]
-    },
-    {
-      "Latitude": 43.05938430757688,
-      "Longitude": -88.065349058223,
-      "OffTime": "Aug 4, 12:23 p.m.",
-      "ETR": "Aug 4, 3:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 2:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 6,
-          "City": "wauwatosa",
-          "CityCusts": 10525,
-          "County": "milwaukee",
-          "CountyCusts": 479670,
-          "Zip": "53226",
-          "ZipCusts": 10940,
-          "Region": "southeast wi",
-          "RegionCusts": 1073628
-        },
-        {
-          "AffectedCusts": 3,
-          "City": "milwaukee",
-          "CityCusts": 352130,
-          "County": "milwaukee",
-          "CountyCusts": 479670,
-          "Zip": "53226",
-          "ZipCusts": 10940,
-          "Region": "southeast wi",
-          "RegionCusts": 1073628
-        }
-      ]
-    },
-    {
       "Latitude": 42.78004482695989,
       "Longitude": -87.96478066698289,
       "OffTime": "Aug 4, 10:11 a.m.",
       "ETR": "Aug 4, 3:00 p.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Transformer problem",
-      "LastUpdated": "Aug 4, 2:00 p.m.",
+      "LastUpdated": "Aug 4, 2:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -201,13 +144,13 @@
       "Longitude": -88.0652763492613,
       "OffTime": "Aug 4, 12:22 p.m.",
       "ETR": "Aug 4, 3:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 2:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Aug 4, 2:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 6,
+          "AffectedCusts": 10,
           "City": "wauwatosa",
           "CityCusts": 10525,
           "County": "milwaukee",
@@ -220,23 +163,23 @@
       ]
     },
     {
-      "Latitude": 42.56142856040041,
-      "Longitude": -87.81735716489742,
-      "OffTime": "Aug 4, 10:35 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Assigned",
+      "Latitude": 43.066598862194134,
+      "Longitude": -87.91913393044814,
+      "OffTime": "Aug 4, 2:21 p.m.",
+      "ETR": "Aug 4, 5:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 2:00 p.m.",
+      "LastUpdated": "Aug 4, 2:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54294,
-          "County": "kenosha",
-          "CountyCusts": 80123,
-          "Zip": "53143",
-          "ZipCusts": 10246,
+          "City": "milwaukee",
+          "CityCusts": 352130,
+          "County": "milwaukee",
+          "CountyCusts": 479670,
+          "Zip": "53212",
+          "ZipCusts": 17006,
           "Region": "southeast wi",
           "RegionCusts": 1073628
         }
@@ -249,7 +192,7 @@
       "ETR": "Aug 4, 4:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 2:00 p.m.",
+      "LastUpdated": "Aug 4, 2:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
