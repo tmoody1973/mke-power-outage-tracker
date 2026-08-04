@@ -1,118 +1,72 @@
 {
-  "captured_at": "2026-08-04T13:19:23+00:00",
+  "captured_at": "2026-08-04T14:15:05+00:00",
   "events": [
     {
-      "Latitude": 42.50841864914578,
-      "Longitude": -88.15424253830753,
-      "OffTime": "Aug 4, 7:35 a.m.",
-      "ETR": "Aug 4, 10:30 a.m.",
+      "Latitude": 42.594587927917644,
+      "Longitude": -88.04796161464608,
+      "OffTime": "Aug 4, 7:23 a.m.",
+      "ETR": "Aug 4, 10:00 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 8:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "trevor",
-          "CityCusts": 2959,
-          "County": "kenosha",
-          "CountyCusts": 80123,
-          "Zip": "53179",
-          "ZipCusts": 2964,
-          "Region": "southeast wi",
-          "RegionCusts": 1073628
-        }
-      ]
-    },
-    {
-      "Latitude": 43.55062180373009,
-      "Longitude": -88.18551671639617,
-      "OffTime": "Aug 4, 8:03 a.m.",
-      "ETR": "Aug 4, 11:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 8:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "kewaskum",
-          "CityCusts": 4405,
-          "County": "fond du lac",
-          "CountyCusts": 6944,
-          "Zip": "53040",
-          "ZipCusts": 4411,
-          "Region": "southeast wi",
-          "RegionCusts": 1073628
-        }
-      ]
-    },
-    {
-      "Latitude": 42.74263125610937,
-      "Longitude": -87.7987539237684,
-      "OffTime": "Aug 4, 6:20 a.m.",
-      "ETR": "Aug 4, 9:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 8:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 58857,
-          "County": "racine",
-          "CountyCusts": 102390,
-          "Zip": "53404",
-          "ZipCusts": 7235,
-          "Region": "southeast wi",
-          "RegionCusts": 1073628
-        }
-      ]
-    },
-    {
-      "Latitude": 43.548872751005774,
-      "Longitude": -88.22030378450287,
-      "OffTime": "Aug 4, 8:05 a.m.",
-      "ETR": "Aug 4, 11:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 8:10 a.m.",
+      "LastUpdated": "Aug 4, 9:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 3,
-          "City": "kewaskum",
-          "CityCusts": 4405,
-          "County": "fond du lac",
-          "CountyCusts": 6944,
-          "Zip": "53040",
-          "ZipCusts": 4411,
+          "City": "bristol",
+          "CityCusts": 3589,
+          "County": "kenosha",
+          "CountyCusts": 80123,
+          "Zip": "53104",
+          "ZipCusts": 3581,
           "Region": "southeast wi",
           "RegionCusts": 1073628
         }
       ]
     },
     {
-      "Latitude": 43.517783986992804,
-      "Longitude": -88.23018213399601,
-      "OffTime": "Aug 4, 7:55 a.m.",
-      "ETR": "Aug 4, 10:30 a.m.",
+      "Latitude": 42.73205935576691,
+      "Longitude": -87.94259016472395,
+      "OffTime": "Aug 4, 8:14 a.m.",
+      "ETR": "Aug 4, 11:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 4, 9:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "mount pleasant",
+          "CityCusts": 5469,
+          "County": "racine",
+          "CountyCusts": 102390,
+          "Zip": "53177",
+          "ZipCusts": 4678,
+          "Region": "southeast wi",
+          "RegionCusts": 1073628
+        }
+      ]
+    },
+    {
+      "Latitude": 44.22159057217941,
+      "Longitude": -88.43417049264242,
+      "OffTime": "Aug 4, 9:01 a.m.",
+      "ETR": "Aug 4, 12:00 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 8:10 a.m.",
+      "LastUpdated": "Aug 4, 9:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "kewaskum",
-          "CityCusts": 4405,
-          "County": "washington",
-          "CountyCusts": 61638,
-          "Zip": "53040",
-          "ZipCusts": 4411,
-          "Region": "southeast wi",
-          "RegionCusts": 1073628
+          "City": "menasha",
+          "CityCusts": 4804,
+          "County": "winnebago",
+          "CountyCusts": 27758,
+          "Zip": "54952",
+          "ZipCusts": 4817,
+          "Region": "fox valley wi",
+          "RegionCusts": 143264
         }
       ]
     },
@@ -120,10 +74,10 @@
       "Latitude": 42.992142524320705,
       "Longitude": -88.23050627463796,
       "OffTime": "Aug 4, 6:14 a.m.",
-      "ETR": "Aug 4, 9:00 a.m.",
-      "CrewStatus": "Assigned",
+      "ETR": "Aug 4, 10:30 a.m.",
+      "CrewStatus": "On site",
       "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 4, 8:10 a.m.",
+      "LastUpdated": "Aug 4, 9:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -140,23 +94,92 @@
       ]
     },
     {
-      "Latitude": 42.594587927917644,
-      "Longitude": -88.04796161464608,
-      "OffTime": "Aug 4, 7:23 a.m.",
-      "ETR": "Aug 4, 10:00 a.m.",
+      "Latitude": 44.24239467931823,
+      "Longitude": -88.43521168003797,
+      "OffTime": "Aug 4, 8:33 a.m.",
+      "ETR": "Aug 4, 11:30 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 8:10 a.m.",
+      "LastUpdated": "Aug 4, 9:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 3,
-          "City": "bristol",
-          "CityCusts": 3589,
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62921,
+          "County": "winnebago",
+          "CountyCusts": 27758,
+          "Zip": "54915",
+          "ZipCusts": 20158,
+          "Region": "fox valley wi",
+          "RegionCusts": 143264
+        }
+      ]
+    },
+    {
+      "Latitude": 42.72113507353986,
+      "Longitude": -88.05361196090892,
+      "OffTime": "Aug 4, 9:00 a.m.",
+      "ETR": "Aug 4, 12:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 4, 9:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "union grove",
+          "CityCusts": 5251,
+          "County": "racine",
+          "CountyCusts": 102390,
+          "Zip": "53182",
+          "ZipCusts": 5251,
+          "Region": "southeast wi",
+          "RegionCusts": 1073628
+        }
+      ]
+    },
+    {
+      "Latitude": 43.02138141340169,
+      "Longitude": -88.18086369404065,
+      "OffTime": "Aug 4, 9:06 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 4, 9:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "waukesha",
+          "CityCusts": 48426,
+          "County": "waukesha",
+          "CountyCusts": 203425,
+          "Zip": "53186",
+          "ZipCusts": 17762,
+          "Region": "southeast wi",
+          "RegionCusts": 1073628
+        }
+      ]
+    },
+    {
+      "Latitude": 42.50841864914578,
+      "Longitude": -88.15424253830753,
+      "OffTime": "Aug 4, 7:35 a.m.",
+      "ETR": "Aug 4, 10:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 4, 9:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "trevor",
+          "CityCusts": 2959,
           "County": "kenosha",
           "CountyCusts": 80123,
-          "Zip": "53104",
-          "ZipCusts": 3581,
+          "Zip": "53179",
+          "ZipCusts": 2964,
           "Region": "southeast wi",
           "RegionCusts": 1073628
         }
