@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-08-05T10:15:08+00:00",
+  "captured_at": "2026-08-05T12:17:41+00:00",
   "events": [
     {
       "Latitude": 42.748608310822455,
       "Longitude": -87.80515608555602,
       "OffTime": "Aug 5, 2:03 a.m.",
       "ETR": "Aug 5, 8:00 a.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On the way",
       "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 5, 5:10 a.m.",
+      "LastUpdated": "Aug 5, 7:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,23 +25,92 @@
       ]
     },
     {
-      "Latitude": 42.618983223493196,
-      "Longitude": -87.83494963483838,
-      "OffTime": "Aug 4, 11:11 p.m.",
-      "ETR": "Aug 5, 7:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Aug 5, 5:10 a.m.",
+      "Latitude": 42.723549811820284,
+      "Longitude": -87.8047148978286,
+      "OffTime": "Aug 5, 7:01 a.m.",
+      "ETR": "Aug 5, 10:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 5, 7:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 11,
-          "City": "kenosha",
-          "CityCusts": 54283,
-          "County": "kenosha",
-          "CountyCusts": 80112,
-          "Zip": "53140",
-          "ZipCusts": 14886,
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 58851,
+          "County": "racine",
+          "CountyCusts": 102379,
+          "Zip": "53404",
+          "ZipCusts": 7235,
+          "Region": "southeast wi",
+          "RegionCusts": 1073423
+        }
+      ]
+    },
+    {
+      "Latitude": 43.00193225393687,
+      "Longitude": -88.06905745524946,
+      "OffTime": "Aug 5, 7:06 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 5, 7:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "new berlin",
+          "CityCusts": 20455,
+          "County": "waukesha",
+          "CountyCusts": 203383,
+          "Zip": "53227",
+          "ZipCusts": 12592,
+          "Region": "southeast wi",
+          "RegionCusts": 1073423
+        }
+      ]
+    },
+    {
+      "Latitude": 42.920927413957756,
+      "Longitude": -88.07758261714561,
+      "OffTime": "Aug 5, 5:44 a.m.",
+      "ETR": "Aug 5, 9:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Aug 5, 7:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 30,
+          "City": "muskego",
+          "CityCusts": 12249,
+          "County": "waukesha",
+          "CountyCusts": 203383,
+          "Zip": "53150",
+          "ZipCusts": 12249,
+          "Region": "southeast wi",
+          "RegionCusts": 1073423
+        }
+      ]
+    },
+    {
+      "Latitude": 43.409332494827765,
+      "Longitude": -88.18870267572375,
+      "OffTime": "Aug 5, 7:02 a.m.",
+      "ETR": "Aug 5, 10:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 5, 7:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 5,
+          "City": "west bend",
+          "CityCusts": 26107,
+          "County": "washington",
+          "CountyCusts": 61640,
+          "Zip": "53095",
+          "ZipCusts": 15583,
           "Region": "southeast wi",
           "RegionCusts": 1073423
         }
