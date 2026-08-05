@@ -1,72 +1,49 @@
 {
-  "captured_at": "2026-08-05T07:36:28+00:00",
+  "captured_at": "2026-08-05T10:15:08+00:00",
   "events": [
-    {
-      "Latitude": 42.618983223493196,
-      "Longitude": -87.83494963483838,
-      "OffTime": "Aug 4, 11:11 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Assigned",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Aug 5, 2:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 11,
-          "City": "kenosha",
-          "CityCusts": 54294,
-          "County": "kenosha",
-          "CountyCusts": 80123,
-          "Zip": "53140",
-          "ZipCusts": 14888,
-          "Region": "southeast wi",
-          "RegionCusts": 1073628
-        }
-      ]
-    },
     {
       "Latitude": 42.748608310822455,
       "Longitude": -87.80515608555602,
       "OffTime": "Aug 5, 2:03 a.m.",
-      "ETR": "Aug 5, 5:00 a.m.",
+      "ETR": "Aug 5, 8:00 a.m.",
       "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 5, 2:30 a.m.",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Aug 5, 5:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
           "City": "racine",
-          "CityCusts": 58857,
+          "CityCusts": 58851,
           "County": "racine",
-          "CountyCusts": 102390,
+          "CountyCusts": 102379,
           "Zip": "53404",
           "ZipCusts": 7235,
           "Region": "southeast wi",
-          "RegionCusts": 1073628
+          "RegionCusts": 1073423
         }
       ]
     },
     {
-      "Latitude": 42.5710595210424,
-      "Longitude": -87.82568370737171,
-      "OffTime": "Aug 5, 1:50 a.m.",
-      "ETR": "Aug 5, 4:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 5, 2:30 a.m.",
+      "Latitude": 42.618983223493196,
+      "Longitude": -87.83494963483838,
+      "OffTime": "Aug 4, 11:11 p.m.",
+      "ETR": "Aug 5, 7:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Transformer problem",
+      "LastUpdated": "Aug 5, 5:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
+          "AffectedCusts": 11,
           "City": "kenosha",
-          "CityCusts": 54294,
+          "CityCusts": 54283,
           "County": "kenosha",
-          "CountyCusts": 80123,
-          "Zip": "53143",
-          "ZipCusts": 10246,
+          "CountyCusts": 80112,
+          "Zip": "53140",
+          "ZipCusts": 14886,
           "Region": "southeast wi",
-          "RegionCusts": 1073628
+          "RegionCusts": 1073423
         }
       ]
     }
