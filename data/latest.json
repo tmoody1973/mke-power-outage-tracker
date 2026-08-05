@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-08-05T04:57:32+00:00",
+  "captured_at": "2026-08-05T07:36:28+00:00",
   "events": [
     {
       "Latitude": 42.618983223493196,
       "Longitude": -87.83494963483838,
       "OffTime": "Aug 4, 11:11 p.m.",
-      "ETR": "Aug 5, 2:00 a.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "Assigned",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Aug 4, 11:50 p.m.",
+      "Cause": "Transformer problem",
+      "LastUpdated": "Aug 5, 2:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,274 +25,46 @@
       ]
     },
     {
-      "Latitude": 42.6991303057955,
-      "Longitude": -87.91139362350181,
-      "OffTime": "Aug 4, 11:05 p.m.",
-      "ETR": "Aug 5, 2:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 42.748608310822455,
+      "Longitude": -87.80515608555602,
+      "OffTime": "Aug 5, 2:03 a.m.",
+      "ETR": "Aug 5, 5:00 a.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 11:50 p.m.",
+      "LastUpdated": "Aug 5, 2:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "sturtevant",
-          "CityCusts": 4034,
-          "County": "racine",
-          "CountyCusts": 102390,
-          "Zip": "53177",
-          "ZipCusts": 4678,
-          "Region": "southeast wi",
-          "RegionCusts": 1073628
-        }
-      ]
-    },
-    {
-      "Latitude": 42.705725921812046,
-      "Longitude": -87.86778457105262,
-      "OffTime": "Aug 4, 9:43 p.m.",
-      "ETR": "Aug 5, 12:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 11:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
           "City": "racine",
           "CityCusts": 58857,
           "County": "racine",
           "CountyCusts": 102390,
-          "Zip": "53406",
-          "ZipCusts": 14445,
-          "Region": "southeast wi",
-          "RegionCusts": 1073628
-        },
-        {
-          "AffectedCusts": 2,
-          "City": "mount pleasant",
-          "CityCusts": 5469,
-          "County": "racine",
-          "CountyCusts": 102390,
-          "Zip": "53177",
-          "ZipCusts": 4678,
-          "Region": "southeast wi",
-          "RegionCusts": 1073628
-        },
-        {
-          "AffectedCusts": 2,
-          "City": "sturtevant",
-          "CityCusts": 4034,
-          "County": "racine",
-          "CountyCusts": 102390,
-          "Zip": "53177",
-          "ZipCusts": 4678,
-          "Region": "southeast wi",
-          "RegionCusts": 1073628
-        },
-        {
-          "AffectedCusts": 3,
-          "City": "mount pleasant",
-          "CityCusts": 5469,
-          "County": "racine",
-          "CountyCusts": 102390,
-          "Zip": "53406",
-          "ZipCusts": 14445,
+          "Zip": "53404",
+          "ZipCusts": 7235,
           "Region": "southeast wi",
           "RegionCusts": 1073628
         }
       ]
     },
     {
-      "Latitude": 42.72019081678071,
-      "Longitude": -87.8544389072224,
-      "OffTime": "Aug 4, 9:52 p.m.",
-      "ETR": "Aug 5, 12:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 11:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "racine",
-          "CityCusts": 58857,
-          "County": "racine",
-          "CountyCusts": 102390,
-          "Zip": "53406",
-          "ZipCusts": 14445,
-          "Region": "southeast wi",
-          "RegionCusts": 1073628
-        },
-        {
-          "AffectedCusts": 13,
-          "City": "mount pleasant",
-          "CityCusts": 5469,
-          "County": "racine",
-          "CountyCusts": 102390,
-          "Zip": "53406",
-          "ZipCusts": 14445,
-          "Region": "southeast wi",
-          "RegionCusts": 1073628
-        }
-      ]
-    },
-    {
-      "Latitude": 46.06608471675296,
-      "Longitude": -89.31315508050828,
-      "OffTime": "Aug 4, 8:47 p.m.",
-      "ETR": "Aug 5, 12:30 a.m.",
+      "Latitude": 42.5710595210424,
+      "Longitude": -87.82568370737171,
+      "OffTime": "Aug 5, 1:50 a.m.",
+      "ETR": "Aug 5, 4:30 a.m.",
       "CrewStatus": "On site",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 4, 11:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "conover",
-          "CityCusts": 2091,
-          "County": "vilas",
-          "CountyCusts": 6266,
-          "Zip": "54519",
-          "ZipCusts": 2091,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41372
-        }
-      ]
-    },
-    {
-      "Latitude": 42.72073960249402,
-      "Longitude": -87.88968087901343,
-      "OffTime": "Aug 4, 9:48 p.m.",
-      "ETR": "Aug 5, 12:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 11:50 p.m.",
+      "LastUpdated": "Aug 5, 2:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "mount pleasant",
-          "CityCusts": 5469,
-          "County": "racine",
-          "CountyCusts": 102390,
-          "Zip": "53406",
-          "ZipCusts": 14445,
-          "Region": "southeast wi",
-          "RegionCusts": 1073628
-        }
-      ]
-    },
-    {
-      "Latitude": 42.70085406332592,
-      "Longitude": -87.9013086124401,
-      "OffTime": "Aug 4, 9:43 p.m.",
-      "ETR": "Aug 5, 12:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 11:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "sturtevant",
-          "CityCusts": 4034,
-          "County": "racine",
-          "CountyCusts": 102390,
-          "Zip": "53177",
-          "ZipCusts": 4678,
-          "Region": "southeast wi",
-          "RegionCusts": 1073628
-        }
-      ]
-    },
-    {
-      "Latitude": 42.69889490353617,
-      "Longitude": -87.9048674914279,
-      "OffTime": "Aug 4, 9:44 p.m.",
-      "ETR": "Aug 5, 12:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 11:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 9,
-          "City": "sturtevant",
-          "CityCusts": 4034,
-          "County": "racine",
-          "CountyCusts": 102390,
-          "Zip": "53177",
-          "ZipCusts": 4678,
-          "Region": "southeast wi",
-          "RegionCusts": 1073628
-        }
-      ]
-    },
-    {
-      "Latitude": 42.720841162650586,
-      "Longitude": -87.89514879921245,
-      "OffTime": "Aug 4, 9:52 p.m.",
-      "ETR": "Aug 5, 12:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 11:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 58857,
-          "County": "racine",
-          "CountyCusts": 102390,
-          "Zip": "53406",
-          "ZipCusts": 14445,
-          "Region": "southeast wi",
-          "RegionCusts": 1073628
-        }
-      ]
-    },
-    {
-      "Latitude": 42.7375120763914,
-      "Longitude": -87.8996545003339,
-      "OffTime": "Aug 4, 10:43 p.m.",
-      "ETR": "Aug 5, 1:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 11:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 58857,
-          "County": "racine",
-          "CountyCusts": 102390,
-          "Zip": "53406",
-          "ZipCusts": 14445,
-          "Region": "southeast wi",
-          "RegionCusts": 1073628
-        }
-      ]
-    },
-    {
-      "Latitude": 42.69805445838234,
-      "Longitude": -87.89547453884245,
-      "OffTime": "Aug 4, 9:43 p.m.",
-      "ETR": "Aug 5, 12:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 4, 11:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 5,
-          "City": "sturtevant",
-          "CityCusts": 4034,
-          "County": "racine",
-          "CountyCusts": 102390,
-          "Zip": "53177",
-          "ZipCusts": 4678,
+          "City": "kenosha",
+          "CityCusts": 54294,
+          "County": "kenosha",
+          "CountyCusts": 80123,
+          "Zip": "53143",
+          "ZipCusts": 10246,
           "Region": "southeast wi",
           "RegionCusts": 1073628
         }
