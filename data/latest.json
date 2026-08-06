@@ -1,14 +1,60 @@
 {
-  "captured_at": "2026-08-06T13:18:10+00:00",
+  "captured_at": "2026-08-06T15:40:16+00:00",
   "events": [
+    {
+      "Latitude": 42.74601370415124,
+      "Longitude": -87.82965387189579,
+      "OffTime": "Aug 6, 9:40 a.m.",
+      "ETR": "Aug 6, 12:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 6, 10:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 58853,
+          "County": "racine",
+          "CountyCusts": 102386,
+          "Zip": "53405",
+          "ZipCusts": 11771,
+          "Region": "southeast wi",
+          "RegionCusts": 1073485
+        }
+      ]
+    },
+    {
+      "Latitude": 43.33650850656329,
+      "Longitude": -87.9268846833671,
+      "OffTime": "Aug 6, 10:05 a.m.",
+      "ETR": "Aug 6, 1:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 6, 10:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "grafton",
+          "CityCusts": 10507,
+          "County": "ozaukee",
+          "CountyCusts": 42603,
+          "Zip": "53024",
+          "ZipCusts": 10528,
+          "Region": "southeast wi",
+          "RegionCusts": 1073485
+        }
+      ]
+    },
     {
       "Latitude": 43.05537140217665,
       "Longitude": -88.20508678109,
       "OffTime": "Aug 6, 8:08 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
+      "ETR": "Aug 6, 11:00 a.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 6, 8:10 a.m.",
+      "LastUpdated": "Aug 6, 10:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,25 +71,105 @@
       ]
     },
     {
-      "Latitude": 43.44563548268571,
-      "Longitude": -88.1891012339832,
-      "OffTime": "Aug 6, 4:38 a.m.",
-      "ETR": "Aug 6, 8:30 a.m.",
-      "CrewStatus": "On site",
+      "Latitude": 43.065499787308205,
+      "Longitude": -88.42271915449722,
+      "OffTime": "Aug 6, 8:53 a.m.",
+      "ETR": "Aug 6, 11:30 a.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 6, 8:10 a.m.",
+      "LastUpdated": "Aug 6, 10:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 6,
-          "City": "west bend",
-          "CityCusts": 26108,
-          "County": "washington",
-          "CountyCusts": 61640,
-          "Zip": "53090",
-          "ZipCusts": 10556,
+          "AffectedCusts": 2,
+          "City": "oconomowoc",
+          "CityCusts": 8547,
+          "County": "waukesha",
+          "CountyCusts": 203382,
+          "Zip": "53066",
+          "ZipCusts": 8872,
           "Region": "southeast wi",
           "RegionCusts": 1073485
+        },
+        {
+          "AffectedCusts": 33,
+          "City": "delafield",
+          "CityCusts": 4270,
+          "County": "waukesha",
+          "CountyCusts": 203382,
+          "Zip": "53018",
+          "ZipCusts": 4212,
+          "Region": "southeast wi",
+          "RegionCusts": 1073485
+        }
+      ]
+    },
+    {
+      "Latitude": 43.00471818656266,
+      "Longitude": -87.94273226800604,
+      "OffTime": "Aug 6, 10:23 a.m.",
+      "ETR": "Aug 6, 1:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 6, 10:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352036,
+          "County": "milwaukee",
+          "CountyCusts": 479580,
+          "Zip": "53215",
+          "ZipCusts": 22338,
+          "Region": "southeast wi",
+          "RegionCusts": 1073485
+        }
+      ]
+    },
+    {
+      "Latitude": 43.03142528287186,
+      "Longitude": -88.23799822728145,
+      "OffTime": "Aug 6, 9:49 a.m.",
+      "ETR": "Aug 6, 12:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 6, 10:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "waukesha",
+          "CityCusts": 48413,
+          "County": "waukesha",
+          "CountyCusts": 203382,
+          "Zip": "53188",
+          "ZipCusts": 17759,
+          "Region": "southeast wi",
+          "RegionCusts": 1073485
+        }
+      ]
+    },
+    {
+      "Latitude": 44.23670859100541,
+      "Longitude": -88.43037340270355,
+      "OffTime": "Aug 6, 9:47 a.m.",
+      "ETR": "Aug 6, 12:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 6, 10:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "menasha",
+          "CityCusts": 4804,
+          "County": "winnebago",
+          "CountyCusts": 27755,
+          "Zip": "54952",
+          "ZipCusts": 4817,
+          "Region": "fox valley wi",
+          "RegionCusts": 143263
         }
       ]
     }
