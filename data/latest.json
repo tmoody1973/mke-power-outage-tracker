@@ -1,4 +1,62 @@
 {
-  "captured_at": "2026-08-06T09:28:39+00:00",
-  "events": []
+  "captured_at": "2026-08-06T11:40:43+00:00",
+  "events": [
+    {
+      "Latitude": 43.014882868104294,
+      "Longitude": -88.03238056273037,
+      "OffTime": "Aug 6, 6:03 a.m.",
+      "ETR": "Aug 6, 9:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 6, 6:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 13,
+          "City": "west allis",
+          "CityCusts": 15157,
+          "County": "milwaukee",
+          "CountyCusts": 479580,
+          "Zip": "53214",
+          "ZipCusts": 19756,
+          "Region": "southeast wi",
+          "RegionCusts": 1073485
+        },
+        {
+          "AffectedCusts": 5,
+          "City": "milwaukee",
+          "CityCusts": 352036,
+          "County": "milwaukee",
+          "CountyCusts": 479580,
+          "Zip": "53214",
+          "ZipCusts": 19756,
+          "Region": "southeast wi",
+          "RegionCusts": 1073485
+        }
+      ]
+    },
+    {
+      "Latitude": 43.44563548268571,
+      "Longitude": -88.1891012339832,
+      "OffTime": "Aug 6, 4:38 a.m.",
+      "ETR": "Aug 6, 7:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 6, 6:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 6,
+          "City": "west bend",
+          "CityCusts": 26108,
+          "County": "washington",
+          "CountyCusts": 61640,
+          "Zip": "53090",
+          "ZipCusts": 10556,
+          "Region": "southeast wi",
+          "RegionCusts": 1073485
+        }
+      ]
+    }
+  ]
 }
