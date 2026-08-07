@@ -1,18 +1,18 @@
 {
-  "captured_at": "2026-08-07T22:16:52+00:00",
+  "captured_at": "2026-08-07T23:02:47+00:00",
   "events": [
     {
       "Latitude": 42.96379520717183,
       "Longitude": -88.02807700490452,
       "OffTime": "Aug 7, 4:54 p.m.",
-      "ETR": "Aug 7, 7:30 p.m.",
+      "ETR": "Aug 7, 8:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 5:10 p.m.",
+      "LastUpdated": "Aug 7, 6:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 26,
+          "AffectedCusts": 19,
           "City": "greenfield",
           "CityCusts": 12569,
           "County": "milwaukee",
@@ -23,7 +23,7 @@
           "RegionCusts": 1073624
         },
         {
-          "AffectedCusts": 30,
+          "AffectedCusts": 27,
           "City": "milwaukee",
           "CityCusts": 352079,
           "County": "milwaukee",
@@ -36,13 +36,36 @@
       ]
     },
     {
+      "Latitude": 42.989287118753005,
+      "Longitude": -87.90493443088364,
+      "OffTime": "Aug 7, 5:17 p.m.",
+      "ETR": "Aug 7, 8:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 7, 6:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 39,
+          "City": "milwaukee",
+          "CityCusts": 352079,
+          "County": "milwaukee",
+          "CountyCusts": 479642,
+          "Zip": "53207",
+          "ZipCusts": 20423,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
       "Latitude": 43.05006076082922,
       "Longitude": -88.09150252054681,
       "OffTime": "Aug 7, 2:43 p.m.",
-      "ETR": "Aug 7, 5:30 p.m.",
-      "CrewStatus": "On the way",
+      "ETR": "Aug 7, 7:00 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 5:10 p.m.",
+      "LastUpdated": "Aug 7, 6:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -65,7 +88,7 @@
       "ETR": "Aug 7, 6:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 5:10 p.m.",
+      "LastUpdated": "Aug 7, 6:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -76,6 +99,52 @@
           "CountyCusts": 203413,
           "Zip": "53149",
           "ZipCusts": 9894,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 43.44465364837201,
+      "Longitude": -88.13106487630536,
+      "OffTime": "Aug 7, 5:18 p.m.",
+      "ETR": "Aug 7, 8:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 7, 6:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 61,
+          "City": "west bend",
+          "CityCusts": 26110,
+          "County": "washington",
+          "CountyCusts": 61643,
+          "Zip": "53090",
+          "ZipCusts": 10557,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 43.7606635613053,
+      "Longitude": -88.11616104315722,
+      "OffTime": "Aug 7, 5:12 p.m.",
+      "ETR": "Aug 7, 8:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 7, 6:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "glenbeulah",
+          "CityCusts": 688,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53023",
+          "ZipCusts": 690,
           "Region": "southeast wi",
           "RegionCusts": 1073624
         }
