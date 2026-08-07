@@ -1,60 +1,14 @@
 {
-  "captured_at": "2026-08-07T03:37:39+00:00",
+  "captured_at": "2026-08-07T05:22:08+00:00",
   "events": [
-    {
-      "Latitude": 46.022263500050684,
-      "Longitude": -89.26376840308042,
-      "OffTime": "Aug 6, 7:48 p.m.",
-      "ETR": "Aug 6, 11:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Aug 6, 10:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 25,
-          "City": "conover",
-          "CityCusts": 2091,
-          "County": "vilas",
-          "CountyCusts": 6266,
-          "Zip": "54519",
-          "ZipCusts": 2091,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41378
-        }
-      ]
-    },
-    {
-      "Latitude": 43.03252530350796,
-      "Longitude": -87.90413014656107,
-      "OffTime": "Aug 6, 10:26 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 6, 10:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352036,
-          "County": "milwaukee",
-          "CountyCusts": 479580,
-          "Zip": "53202",
-          "ZipCusts": 22371,
-          "Region": "southeast wi",
-          "RegionCusts": 1073485
-        }
-      ]
-    },
     {
       "Latitude": 43.2513299869118,
       "Longitude": -88.12487610119602,
       "OffTime": "Aug 6, 3:55 p.m.",
-      "ETR": "Aug 7, 12:00 a.m.",
-      "CrewStatus": "On site",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Specialized crew needed",
       "Cause": "Third-party damage",
-      "LastUpdated": "Aug 6, 10:30 p.m.",
+      "LastUpdated": "Aug 7, 12:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -67,6 +21,29 @@
           "ZipCusts": 10391,
           "Region": "southeast wi",
           "RegionCusts": 1073485
+        }
+      ]
+    },
+    {
+      "Latitude": 44.33718605304137,
+      "Longitude": -88.66751621958133,
+      "OffTime": "Aug 6, 11:49 p.m.",
+      "ETR": "Aug 7, 2:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 7, 12:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "hortonville",
+          "CityCusts": 4663,
+          "County": "outagamie",
+          "CountyCusts": 80059,
+          "Zip": "54944",
+          "ZipCusts": 4669,
+          "Region": "fox valley wi",
+          "RegionCusts": 143263
         }
       ]
     }
