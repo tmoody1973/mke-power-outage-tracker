@@ -1,72 +1,49 @@
 {
-  "captured_at": "2026-08-07T16:35:54+00:00",
+  "captured_at": "2026-08-07T17:31:55+00:00",
   "events": [
     {
-      "Latitude": 43.162502733092275,
-      "Longitude": -88.00702829259235,
-      "OffTime": "Aug 7, 11:25 a.m.",
-      "ETR": "Aug 7, 2:00 p.m.",
+      "Latitude": 42.704898524877954,
+      "Longitude": -87.84954594727247,
+      "OffTime": "Aug 7, 7:25 a.m.",
+      "ETR": "Aug 7, 4:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Aug 7, 12:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 58856,
+          "County": "racine",
+          "CountyCusts": 102391,
+          "Zip": "53406",
+          "ZipCusts": 14447,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 44.184857455623344,
+      "Longitude": -88.86307475448602,
+      "OffTime": "Aug 7, 12:01 p.m.",
+      "ETR": "Aug 7, 3:00 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 11:30 a.m.",
+      "LastUpdated": "Aug 7, 12:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352079,
-          "County": "milwaukee",
-          "CountyCusts": 479642,
-          "Zip": "53223",
-          "ZipCusts": 14099,
-          "Region": "southeast wi",
-          "RegionCusts": 1073624
-        }
-      ]
-    },
-    {
-      "Latitude": 44.240741449921046,
-      "Longitude": -88.42771888462617,
-      "OffTime": "Aug 7, 11:20 a.m.",
-      "ETR": "Aug 7, 2:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 11:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62918,
+          "City": "fremont",
+          "CityCusts": 3184,
           "County": "winnebago",
           "CountyCusts": 27752,
-          "Zip": "54915",
-          "ZipCusts": 20162,
+          "Zip": "54940",
+          "ZipCusts": 3183,
           "Region": "fox valley wi",
           "RegionCusts": 143282
-        }
-      ]
-    },
-    {
-      "Latitude": 43.15906275632503,
-      "Longitude": -87.93723583194908,
-      "OffTime": "Aug 7, 9:45 a.m.",
-      "ETR": "Aug 7, 12:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 11:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "glendale",
-          "CityCusts": 3709,
-          "County": "milwaukee",
-          "CountyCusts": 479642,
-          "Zip": "53209",
-          "ZipCusts": 23851,
-          "Region": "southeast wi",
-          "RegionCusts": 1073624
         }
       ]
     },
@@ -75,9 +52,9 @@
       "Longitude": -88.16108929027132,
       "OffTime": "Aug 7, 10:52 a.m.",
       "ETR": "Aug 7, 1:30 p.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 11:30 a.m.",
+      "LastUpdated": "Aug 7, 12:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -94,25 +71,117 @@
       ]
     },
     {
-      "Latitude": 42.704898524877954,
-      "Longitude": -87.84954594727247,
-      "OffTime": "Aug 7, 7:25 a.m.",
-      "ETR": "Aug 7, 4:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Aug 7, 11:30 a.m.",
+      "Latitude": 42.606634928943656,
+      "Longitude": -87.87434434918859,
+      "OffTime": "Aug 7, 12:14 p.m.",
+      "ETR": "Aug 7, 3:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 7, 12:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 58856,
-          "County": "racine",
-          "CountyCusts": 102391,
-          "Zip": "53406",
-          "ZipCusts": 14447,
+          "City": "kenosha",
+          "CityCusts": 54304,
+          "County": "kenosha",
+          "CountyCusts": 80148,
+          "Zip": "53144",
+          "ZipCusts": 14027,
           "Region": "southeast wi",
           "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 42.90510549586173,
+      "Longitude": -88.87625785790449,
+      "OffTime": "Aug 7, 11:40 a.m.",
+      "ETR": "Aug 7, 2:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "We Energies fuse problem",
+      "LastUpdated": "Aug 7, 12:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 142,
+          "City": "fort atkinson",
+          "CityCusts": 10612,
+          "County": "jefferson",
+          "CountyCusts": 35175,
+          "Zip": "53538",
+          "ZipCusts": 10620,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 44.18571166947437,
+      "Longitude": -88.86233264533864,
+      "OffTime": "Aug 7, 11:59 a.m.",
+      "ETR": "Aug 7, 3:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 7, 12:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "fremont",
+          "CityCusts": 3184,
+          "County": "winnebago",
+          "CountyCusts": 27752,
+          "Zip": "54940",
+          "ZipCusts": 3183,
+          "Region": "fox valley wi",
+          "RegionCusts": 143282
+        }
+      ]
+    },
+    {
+      "Latitude": 44.240741449921046,
+      "Longitude": -88.42771888462617,
+      "OffTime": "Aug 7, 11:20 a.m.",
+      "ETR": "Aug 7, 2:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Equipment damaged by wind",
+      "LastUpdated": "Aug 7, 12:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62918,
+          "County": "winnebago",
+          "CountyCusts": 27752,
+          "Zip": "54915",
+          "ZipCusts": 20162,
+          "Region": "fox valley wi",
+          "RegionCusts": 143282
+        }
+      ]
+    },
+    {
+      "Latitude": 44.13495015893212,
+      "Longitude": -88.46872131889306,
+      "OffTime": "Aug 7, 11:30 a.m.",
+      "ETR": "Aug 7, 2:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 7, 12:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "neenah",
+          "CityCusts": 21386,
+          "County": "winnebago",
+          "CountyCusts": 27752,
+          "Zip": "54956",
+          "ZipCusts": 21380,
+          "Region": "fox valley wi",
+          "RegionCusts": 143282
         }
       ]
     }
