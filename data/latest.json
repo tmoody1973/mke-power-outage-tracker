@@ -1,118 +1,26 @@
 {
-  "captured_at": "2026-08-07T18:28:34+00:00",
+  "captured_at": "2026-08-07T19:29:44+00:00",
   "events": [
     {
-      "Latitude": 42.704898524877954,
-      "Longitude": -87.84954594727247,
-      "OffTime": "Aug 7, 7:25 a.m.",
-      "ETR": "Aug 7, 4:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Aug 7, 1:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 58856,
-          "County": "racine",
-          "CountyCusts": 102391,
-          "Zip": "53406",
-          "ZipCusts": 14447,
-          "Region": "southeast wi",
-          "RegionCusts": 1073624
-        }
-      ]
-    },
-    {
-      "Latitude": 43.10545521099364,
-      "Longitude": -88.02002452853101,
-      "OffTime": "Aug 7, 1:16 p.m.",
-      "ETR": "Not yet determined",
+      "Latitude": 42.93863783999166,
+      "Longitude": -87.87919754557265,
+      "OffTime": "Aug 7, 2:13 p.m.",
+      "ETR": "Aug 7, 5:00 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 1:20 p.m.",
+      "LastUpdated": "Aug 7, 2:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352079,
+          "City": "cudahy",
+          "CityCusts": 9866,
           "County": "milwaukee",
           "CountyCusts": 479642,
-          "Zip": "53225",
-          "ZipCusts": 12028,
+          "Zip": "53110",
+          "ZipCusts": 9865,
           "Region": "southeast wi",
           "RegionCusts": 1073624
-        }
-      ]
-    },
-    {
-      "Latitude": 43.00391156035101,
-      "Longitude": -87.93759153639384,
-      "OffTime": "Aug 7, 1:12 p.m.",
-      "ETR": "Aug 7, 4:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 1:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352079,
-          "County": "milwaukee",
-          "CountyCusts": 479642,
-          "Zip": "53215",
-          "ZipCusts": 22339,
-          "Region": "southeast wi",
-          "RegionCusts": 1073624
-        }
-      ]
-    },
-    {
-      "Latitude": 42.984667565140406,
-      "Longitude": -88.23627565971863,
-      "OffTime": "Aug 7, 12:55 p.m.",
-      "ETR": "Aug 7, 3:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 1:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "waukesha",
-          "CityCusts": 48419,
-          "County": "waukesha",
-          "CountyCusts": 203413,
-          "Zip": "53189",
-          "ZipCusts": 12973,
-          "Region": "southeast wi",
-          "RegionCusts": 1073624
-        }
-      ]
-    },
-    {
-      "Latitude": 44.21748218157691,
-      "Longitude": -88.4330989018045,
-      "OffTime": "Aug 7, 12:43 p.m.",
-      "ETR": "Aug 7, 3:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 1:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "menasha",
-          "CityCusts": 4805,
-          "County": "winnebago",
-          "CountyCusts": 27752,
-          "Zip": "54952",
-          "ZipCusts": 4818,
-          "Region": "fox valley wi",
-          "RegionCusts": 143282
         }
       ]
     },
@@ -120,10 +28,10 @@
       "Latitude": 42.74229707203205,
       "Longitude": -88.16108929027132,
       "OffTime": "Aug 7, 10:52 a.m.",
-      "ETR": "Aug 7, 1:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 1:20 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Assigned",
+      "Cause": "Transformer problem",
+      "LastUpdated": "Aug 7, 2:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -140,46 +48,46 @@
       ]
     },
     {
-      "Latitude": 44.13495015893212,
-      "Longitude": -88.46872131889306,
-      "OffTime": "Aug 7, 11:30 a.m.",
-      "ETR": "Aug 7, 2:30 p.m.",
+      "Latitude": 44.21748218157691,
+      "Longitude": -88.4330989018045,
+      "OffTime": "Aug 7, 12:43 p.m.",
+      "ETR": "Aug 7, 3:30 p.m.",
       "CrewStatus": "On site",
-      "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Aug 7, 1:20 p.m.",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 7, 2:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "neenah",
-          "CityCusts": 21386,
+          "City": "menasha",
+          "CityCusts": 4805,
           "County": "winnebago",
           "CountyCusts": 27752,
-          "Zip": "54956",
-          "ZipCusts": 21380,
+          "Zip": "54952",
+          "ZipCusts": 4818,
           "Region": "fox valley wi",
           "RegionCusts": 143282
         }
       ]
     },
     {
-      "Latitude": 42.978688109245205,
-      "Longitude": -87.94292000148947,
-      "OffTime": "Aug 7, 12:54 p.m.",
-      "ETR": "Aug 7, 3:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 1:20 p.m.",
+      "Latitude": 42.704898524877954,
+      "Longitude": -87.84954594727247,
+      "OffTime": "Aug 7, 7:25 a.m.",
+      "ETR": "Aug 7, 4:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Aug 7, 2:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352079,
-          "County": "milwaukee",
-          "CountyCusts": 479642,
-          "Zip": "53221",
-          "ZipCusts": 18451,
+          "City": "racine",
+          "CityCusts": 58856,
+          "County": "racine",
+          "CountyCusts": 102391,
+          "Zip": "53406",
+          "ZipCusts": 14447,
           "Region": "southeast wi",
           "RegionCusts": 1073624
         }
