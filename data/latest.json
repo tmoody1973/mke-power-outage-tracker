@@ -1,29 +1,6 @@
 {
-  "captured_at": "2026-08-07T07:58:51+00:00",
+  "captured_at": "2026-08-07T09:00:06+00:00",
   "events": [
-    {
-      "Latitude": 42.87462448171532,
-      "Longitude": -88.18997367184814,
-      "OffTime": "Aug 7, 12:55 a.m.",
-      "ETR": "Aug 7, 3:30 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 2:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "big bend",
-          "CityCusts": 2122,
-          "County": "waukesha",
-          "CountyCusts": 203382,
-          "Zip": "53103",
-          "ZipCusts": 2125,
-          "Region": "southeast wi",
-          "RegionCusts": 1073485
-        }
-      ]
-    },
     {
       "Latitude": 44.33718605304137,
       "Longitude": -88.66751621958133,
@@ -31,7 +8,7 @@
       "ETR": "Aug 7, 5:00 a.m.",
       "CrewStatus": "On the way",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 7, 2:50 a.m.",
+      "LastUpdated": "Aug 7, 3:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,36 +25,13 @@
       ]
     },
     {
-      "Latitude": 43.072215571187535,
-      "Longitude": -88.00813965540985,
-      "OffTime": "Aug 7, 1:26 a.m.",
-      "ETR": "Aug 7, 4:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 2:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352036,
-          "County": "milwaukee",
-          "CountyCusts": 479580,
-          "Zip": "53222",
-          "ZipCusts": 13591,
-          "Region": "southeast wi",
-          "RegionCusts": 1073485
-        }
-      ]
-    },
-    {
       "Latitude": 42.98775336749455,
       "Longitude": -88.11015143631694,
       "OffTime": "Aug 7, 12:53 a.m.",
-      "ETR": "Aug 7, 3:30 a.m.",
+      "ETR": "Aug 7, 5:00 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "We Energies equipment problem",
-      "LastUpdated": "Aug 7, 2:50 a.m.",
+      "LastUpdated": "Aug 7, 3:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -88,6 +42,52 @@
           "CountyCusts": 203382,
           "Zip": "53151",
           "ZipCusts": 16751,
+          "Region": "southeast wi",
+          "RegionCusts": 1073485
+        }
+      ]
+    },
+    {
+      "Latitude": 42.87462448171532,
+      "Longitude": -88.18997367184814,
+      "OffTime": "Aug 7, 12:55 a.m.",
+      "ETR": "Aug 7, 4:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 7, 3:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "big bend",
+          "CityCusts": 2122,
+          "County": "waukesha",
+          "CountyCusts": 203382,
+          "Zip": "53103",
+          "ZipCusts": 2125,
+          "Region": "southeast wi",
+          "RegionCusts": 1073485
+        }
+      ]
+    },
+    {
+      "Latitude": 43.072215571187535,
+      "Longitude": -88.00813965540985,
+      "OffTime": "Aug 7, 1:26 a.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 7, 3:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352036,
+          "County": "milwaukee",
+          "CountyCusts": 479580,
+          "Zip": "53222",
+          "ZipCusts": 13591,
           "Region": "southeast wi",
           "RegionCusts": 1073485
         }
