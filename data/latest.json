@@ -1,52 +1,6 @@
 {
-  "captured_at": "2026-08-07T19:29:44+00:00",
+  "captured_at": "2026-08-07T20:06:47+00:00",
   "events": [
-    {
-      "Latitude": 42.93863783999166,
-      "Longitude": -87.87919754557265,
-      "OffTime": "Aug 7, 2:13 p.m.",
-      "ETR": "Aug 7, 5:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 2:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "cudahy",
-          "CityCusts": 9866,
-          "County": "milwaukee",
-          "CountyCusts": 479642,
-          "Zip": "53110",
-          "ZipCusts": 9865,
-          "Region": "southeast wi",
-          "RegionCusts": 1073624
-        }
-      ]
-    },
-    {
-      "Latitude": 42.74229707203205,
-      "Longitude": -88.16108929027132,
-      "OffTime": "Aug 7, 10:52 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Assigned",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Aug 7, 2:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "waterford",
-          "CityCusts": 7623,
-          "County": "racine",
-          "CountyCusts": 102391,
-          "Zip": "53185",
-          "ZipCusts": 9927,
-          "Region": "southeast wi",
-          "RegionCusts": 1073624
-        }
-      ]
-    },
     {
       "Latitude": 44.21748218157691,
       "Longitude": -88.4330989018045,
@@ -54,7 +8,7 @@
       "ETR": "Aug 7, 3:30 p.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 2:20 p.m.",
+      "LastUpdated": "Aug 7, 3:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -71,13 +25,82 @@
       ]
     },
     {
+      "Latitude": 44.26002515227796,
+      "Longitude": -88.85611736629842,
+      "OffTime": "Aug 7, 2:46 p.m.",
+      "ETR": "Aug 7, 5:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 7, 3:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "fremont",
+          "CityCusts": 3184,
+          "County": "waupaca",
+          "CountyCusts": 8898,
+          "Zip": "54940",
+          "ZipCusts": 3183,
+          "Region": "fox valley wi",
+          "RegionCusts": 143282
+        }
+      ]
+    },
+    {
+      "Latitude": 42.968350588934115,
+      "Longitude": -87.88571144491365,
+      "OffTime": "Aug 7, 2:26 p.m.",
+      "ETR": "Aug 7, 5:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 7, 3:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "saint francis",
+          "CityCusts": 4863,
+          "County": "milwaukee",
+          "CountyCusts": 479642,
+          "Zip": "53235",
+          "ZipCusts": 5789,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 43.05006076082922,
+      "Longitude": -88.09150252054681,
+      "OffTime": "Aug 7, 2:43 p.m.",
+      "ETR": "Aug 7, 5:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 7, 3:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "elm grove",
+          "CityCusts": 3381,
+          "County": "waukesha",
+          "CountyCusts": 203413,
+          "Zip": "53122",
+          "ZipCusts": 3380,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
       "Latitude": 42.704898524877954,
       "Longitude": -87.84954594727247,
       "OffTime": "Aug 7, 7:25 a.m.",
       "ETR": "Aug 7, 4:00 p.m.",
       "CrewStatus": "On site",
       "Cause": "Third-party damage",
-      "LastUpdated": "Aug 7, 2:20 p.m.",
+      "LastUpdated": "Aug 7, 3:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -88,6 +111,52 @@
           "CountyCusts": 102391,
           "Zip": "53406",
           "ZipCusts": 14447,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 42.74229707203205,
+      "Longitude": -88.16108929027132,
+      "OffTime": "Aug 7, 10:52 a.m.",
+      "ETR": "Aug 7, 4:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Transformer problem",
+      "LastUpdated": "Aug 7, 3:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "waterford",
+          "CityCusts": 7623,
+          "County": "racine",
+          "CountyCusts": 102391,
+          "Zip": "53185",
+          "ZipCusts": 9927,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 43.01709125702089,
+      "Longitude": -87.94542501082226,
+      "OffTime": "Aug 7, 2:34 p.m.",
+      "ETR": "Aug 7, 5:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 7, 3:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352079,
+          "County": "milwaukee",
+          "CountyCusts": 479642,
+          "Zip": "53204",
+          "ZipCusts": 17655,
           "Region": "southeast wi",
           "RegionCusts": 1073624
         }
