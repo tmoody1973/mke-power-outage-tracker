@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-07T10:04:12+00:00",
+  "captured_at": "2026-08-07T11:05:25+00:00",
   "events": [
     {
       "Latitude": 44.33718605304137,
@@ -8,19 +8,42 @@
       "ETR": "Aug 7, 8:00 a.m.",
       "CrewStatus": "On site",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 7, 5:00 a.m.",
+      "LastUpdated": "Aug 7, 6:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 3,
           "City": "hortonville",
-          "CityCusts": 4663,
+          "CityCusts": 4665,
           "County": "outagamie",
-          "CountyCusts": 80059,
+          "CountyCusts": 80072,
           "Zip": "54944",
-          "ZipCusts": 4669,
+          "ZipCusts": 4671,
           "Region": "fox valley wi",
-          "RegionCusts": 143263
+          "RegionCusts": 143282
+        }
+      ]
+    },
+    {
+      "Latitude": 42.99034930381115,
+      "Longitude": -88.1139087698487,
+      "OffTime": "Aug 7, 5:53 a.m.",
+      "ETR": "Aug 7, 8:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 7, 6:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "new berlin",
+          "CityCusts": 20461,
+          "County": "waukesha",
+          "CountyCusts": 203413,
+          "Zip": "53151",
+          "ZipCusts": 16754,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
         }
       ]
     },
@@ -28,22 +51,22 @@
       "Latitude": 42.98775336749455,
       "Longitude": -88.11015143631694,
       "OffTime": "Aug 7, 12:53 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Assigned",
+      "ETR": "Aug 7, 8:00 a.m.",
+      "CrewStatus": "On the way",
       "Cause": "We Energies equipment problem",
-      "LastUpdated": "Aug 7, 5:00 a.m.",
+      "LastUpdated": "Aug 7, 6:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 5,
           "City": "new berlin",
-          "CityCusts": 20458,
+          "CityCusts": 20461,
           "County": "waukesha",
-          "CountyCusts": 203382,
+          "CountyCusts": 203413,
           "Zip": "53151",
-          "ZipCusts": 16751,
+          "ZipCusts": 16754,
           "Region": "southeast wi",
-          "RegionCusts": 1073485
+          "RegionCusts": 1073624
         }
       ]
     }
