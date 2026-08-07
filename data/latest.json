@@ -1,24 +1,47 @@
 {
-  "captured_at": "2026-08-07T05:22:08+00:00",
+  "captured_at": "2026-08-07T06:41:41+00:00",
   "events": [
     {
-      "Latitude": 43.2513299869118,
-      "Longitude": -88.12487610119602,
-      "OffTime": "Aug 6, 3:55 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Aug 7, 12:20 a.m.",
+      "Latitude": 42.87462448171532,
+      "Longitude": -88.18997367184814,
+      "OffTime": "Aug 7, 12:55 a.m.",
+      "ETR": "Aug 7, 3:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 7, 1:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 3,
-          "City": "germantown",
-          "CityCusts": 10392,
-          "County": "washington",
-          "CountyCusts": 61640,
-          "Zip": "53022",
-          "ZipCusts": 10391,
+          "AffectedCusts": 2,
+          "City": "big bend",
+          "CityCusts": 2122,
+          "County": "waukesha",
+          "CountyCusts": 203382,
+          "Zip": "53103",
+          "ZipCusts": 2125,
+          "Region": "southeast wi",
+          "RegionCusts": 1073485
+        }
+      ]
+    },
+    {
+      "Latitude": 43.072215571187535,
+      "Longitude": -88.00813965540985,
+      "OffTime": "Aug 7, 1:26 a.m.",
+      "ETR": "Aug 7, 4:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 7, 1:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352036,
+          "County": "milwaukee",
+          "CountyCusts": 479580,
+          "Zip": "53222",
+          "ZipCusts": 13591,
           "Region": "southeast wi",
           "RegionCusts": 1073485
         }
@@ -29,9 +52,9 @@
       "Longitude": -88.66751621958133,
       "OffTime": "Aug 6, 11:49 p.m.",
       "ETR": "Aug 7, 2:30 a.m.",
-      "CrewStatus": "On the way",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 12:20 a.m.",
+      "LastUpdated": "Aug 7, 1:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -44,6 +67,29 @@
           "ZipCusts": 4669,
           "Region": "fox valley wi",
           "RegionCusts": 143263
+        }
+      ]
+    },
+    {
+      "Latitude": 42.98775336749455,
+      "Longitude": -88.11015143631694,
+      "OffTime": "Aug 7, 12:53 a.m.",
+      "ETR": "Aug 7, 3:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 7, 1:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 5,
+          "City": "new berlin",
+          "CityCusts": 20458,
+          "County": "waukesha",
+          "CountyCusts": 203382,
+          "Zip": "53151",
+          "ZipCusts": 16751,
+          "Region": "southeast wi",
+          "RegionCusts": 1073485
         }
       ]
     }
