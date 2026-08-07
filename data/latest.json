@@ -1,60 +1,14 @@
 {
-  "captured_at": "2026-08-07T11:54:49+00:00",
+  "captured_at": "2026-08-07T12:42:08+00:00",
   "events": [
-    {
-      "Latitude": 42.99034930381115,
-      "Longitude": -88.1139087698487,
-      "OffTime": "Aug 7, 5:53 a.m.",
-      "ETR": "Aug 7, 8:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 6:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "new berlin",
-          "CityCusts": 20461,
-          "County": "waukesha",
-          "CountyCusts": 203413,
-          "Zip": "53151",
-          "ZipCusts": 16754,
-          "Region": "southeast wi",
-          "RegionCusts": 1073624
-        }
-      ]
-    },
-    {
-      "Latitude": 42.98775336749455,
-      "Longitude": -88.11015143631694,
-      "OffTime": "Aug 7, 12:53 a.m.",
-      "ETR": "Aug 7, 8:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies equipment problem",
-      "LastUpdated": "Aug 7, 6:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 5,
-          "City": "new berlin",
-          "CityCusts": 20461,
-          "County": "waukesha",
-          "CountyCusts": 203413,
-          "Zip": "53151",
-          "ZipCusts": 16754,
-          "Region": "southeast wi",
-          "RegionCusts": 1073624
-        }
-      ]
-    },
     {
       "Latitude": 43.10087009825473,
       "Longitude": -88.13588666070704,
       "OffTime": "Aug 7, 6:11 a.m.",
       "ETR": "Aug 7, 9:00 a.m.",
-      "CrewStatus": "On the way",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 6:50 a.m.",
+      "LastUpdated": "Aug 7, 7:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -71,13 +25,36 @@
       ]
     },
     {
+      "Latitude": 42.98775336749455,
+      "Longitude": -88.11015143631694,
+      "OffTime": "Aug 7, 12:53 a.m.",
+      "ETR": "Aug 7, 8:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Aug 7, 7:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 5,
+          "City": "new berlin",
+          "CityCusts": 20461,
+          "County": "waukesha",
+          "CountyCusts": 203413,
+          "Zip": "53151",
+          "ZipCusts": 16754,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
       "Latitude": 42.93912593857916,
       "Longitude": -87.94809255007154,
       "OffTime": "Aug 7, 6:40 a.m.",
       "ETR": "Aug 7, 9:30 a.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 6:50 a.m.",
+      "LastUpdated": "Aug 7, 7:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -88,6 +65,29 @@
           "CountyCusts": 479642,
           "Zip": "53221",
           "ZipCusts": 18451,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 42.704898524877954,
+      "Longitude": -87.84954594727247,
+      "OffTime": "Aug 7, 7:25 a.m.",
+      "ETR": "Aug 7, 10:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 7, 7:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 58856,
+          "County": "racine",
+          "CountyCusts": 102391,
+          "Zip": "53406",
+          "ZipCusts": 14447,
           "Region": "southeast wi",
           "RegionCusts": 1073624
         }
