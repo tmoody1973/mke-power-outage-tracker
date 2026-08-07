@@ -1,63 +1,6 @@
 {
-  "captured_at": "2026-08-07T23:02:47+00:00",
+  "captured_at": "2026-08-07T23:46:18+00:00",
   "events": [
-    {
-      "Latitude": 42.96379520717183,
-      "Longitude": -88.02807700490452,
-      "OffTime": "Aug 7, 4:54 p.m.",
-      "ETR": "Aug 7, 8:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 6:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 19,
-          "City": "greenfield",
-          "CityCusts": 12569,
-          "County": "milwaukee",
-          "CountyCusts": 479642,
-          "Zip": "53228",
-          "ZipCusts": 8264,
-          "Region": "southeast wi",
-          "RegionCusts": 1073624
-        },
-        {
-          "AffectedCusts": 27,
-          "City": "milwaukee",
-          "CityCusts": 352079,
-          "County": "milwaukee",
-          "CountyCusts": 479642,
-          "Zip": "53228",
-          "ZipCusts": 8264,
-          "Region": "southeast wi",
-          "RegionCusts": 1073624
-        }
-      ]
-    },
-    {
-      "Latitude": 42.989287118753005,
-      "Longitude": -87.90493443088364,
-      "OffTime": "Aug 7, 5:17 p.m.",
-      "ETR": "Aug 7, 8:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 6:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 39,
-          "City": "milwaukee",
-          "CityCusts": 352079,
-          "County": "milwaukee",
-          "CountyCusts": 479642,
-          "Zip": "53207",
-          "ZipCusts": 20423,
-          "Region": "southeast wi",
-          "RegionCusts": 1073624
-        }
-      ]
-    },
     {
       "Latitude": 43.05006076082922,
       "Longitude": -88.09150252054681,
@@ -65,7 +8,7 @@
       "ETR": "Aug 7, 7:00 p.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 6:00 p.m.",
+      "LastUpdated": "Aug 7, 6:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -82,25 +25,82 @@
       ]
     },
     {
-      "Latitude": 42.864104124255945,
-      "Longitude": -88.31496249159439,
-      "OffTime": "Aug 7, 3:37 p.m.",
-      "ETR": "Aug 7, 6:30 p.m.",
+      "Latitude": 42.96379520717183,
+      "Longitude": -88.02807700490452,
+      "OffTime": "Aug 7, 4:54 p.m.",
+      "ETR": "Aug 7, 8:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 6:00 p.m.",
+      "LastUpdated": "Aug 7, 6:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 27,
+          "City": "milwaukee",
+          "CityCusts": 352079,
+          "County": "milwaukee",
+          "CountyCusts": 479642,
+          "Zip": "53228",
+          "ZipCusts": 8264,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        },
+        {
+          "AffectedCusts": 19,
+          "City": "greenfield",
+          "CityCusts": 12569,
+          "County": "milwaukee",
+          "CountyCusts": 479642,
+          "Zip": "53228",
+          "ZipCusts": 8264,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 43.7606635613053,
+      "Longitude": -88.11616104315722,
+      "OffTime": "Aug 7, 5:12 p.m.",
+      "ETR": "Aug 7, 8:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 7, 6:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "mukwonago",
-          "CityCusts": 9878,
-          "County": "waukesha",
-          "CountyCusts": 203413,
-          "Zip": "53149",
-          "ZipCusts": 9894,
+          "City": "glenbeulah",
+          "CityCusts": 688,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53023",
+          "ZipCusts": 690,
           "Region": "southeast wi",
           "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 46.05345859400362,
+      "Longitude": -89.3126161565335,
+      "OffTime": "Aug 7, 6:38 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 7, 6:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "conover",
+          "CityCusts": 2091,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54519",
+          "ZipCusts": 2091,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41381
         }
       ]
     },
@@ -108,10 +108,10 @@
       "Latitude": 43.44465364837201,
       "Longitude": -88.13106487630536,
       "OffTime": "Aug 7, 5:18 p.m.",
-      "ETR": "Aug 7, 8:00 p.m.",
-      "CrewStatus": "On the way",
+      "ETR": "Aug 7, 9:00 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 6:00 p.m.",
+      "LastUpdated": "Aug 7, 6:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -128,23 +128,23 @@
       ]
     },
     {
-      "Latitude": 43.7606635613053,
-      "Longitude": -88.11616104315722,
-      "OffTime": "Aug 7, 5:12 p.m.",
-      "ETR": "Aug 7, 8:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 42.864104124255945,
+      "Longitude": -88.31496249159439,
+      "OffTime": "Aug 7, 3:37 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 7, 6:00 p.m.",
+      "LastUpdated": "Aug 7, 6:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "glenbeulah",
-          "CityCusts": 688,
-          "County": "sheboygan",
-          "CountyCusts": 14257,
-          "Zip": "53023",
-          "ZipCusts": 690,
+          "City": "mukwonago",
+          "CityCusts": 9878,
+          "County": "waukesha",
+          "CountyCusts": 203413,
+          "Zip": "53149",
+          "ZipCusts": 9894,
           "Region": "southeast wi",
           "RegionCusts": 1073624
         }
