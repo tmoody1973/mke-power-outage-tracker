@@ -1,37 +1,14 @@
 {
-  "captured_at": "2026-08-08T06:36:28+00:00",
+  "captured_at": "2026-08-08T07:34:19+00:00",
   "events": [
-    {
-      "Latitude": 46.23209862674426,
-      "Longitude": -88.49209179646297,
-      "OffTime": "Aug 7, 7:18 p.m.",
-      "ETR": "Aug 8, 4:00 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 8, 1:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 4,
-          "City": "crystal falls",
-          "CityCusts": 2025,
-          "County": "iron",
-          "CountyCusts": 4265,
-          "Zip": "49920",
-          "ZipCusts": 2028,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41381
-        }
-      ]
-    },
     {
       "Latitude": 43.44465364837201,
       "Longitude": -88.13106487630536,
       "OffTime": "Aug 7, 5:18 p.m.",
-      "ETR": "Aug 8, 2:00 a.m.",
-      "CrewStatus": "On site",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Specialized crew needed",
       "Cause": "Transformer problem",
-      "LastUpdated": "Aug 8, 1:30 a.m.",
+      "LastUpdated": "Aug 8, 2:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -44,6 +21,29 @@
           "ZipCusts": 10557,
           "Region": "southeast wi",
           "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 46.23209862674426,
+      "Longitude": -88.49209179646297,
+      "OffTime": "Aug 7, 7:18 p.m.",
+      "ETR": "Aug 8, 4:00 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Aug 8, 2:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 4,
+          "City": "crystal falls",
+          "CityCusts": 2025,
+          "County": "iron",
+          "CountyCusts": 4265,
+          "Zip": "49920",
+          "ZipCusts": 2028,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41381
         }
       ]
     }
