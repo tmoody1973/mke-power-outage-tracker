@@ -1,6 +1,29 @@
 {
-  "captured_at": "2026-08-08T10:58:07+00:00",
+  "captured_at": "2026-08-08T11:27:41+00:00",
   "events": [
+    {
+      "Latitude": 42.99796063967316,
+      "Longitude": -87.95128881920877,
+      "OffTime": "Aug 8, 6:16 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 6:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 28,
+          "City": "milwaukee",
+          "CityCusts": 352079,
+          "County": "milwaukee",
+          "CountyCusts": 479642,
+          "Zip": "53215",
+          "ZipCusts": 22339,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
     {
       "Latitude": 43.44465364837201,
       "Longitude": -88.13106487630536,
@@ -8,7 +31,7 @@
       "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Transformer problem",
-      "LastUpdated": "Aug 8, 5:50 a.m.",
+      "LastUpdated": "Aug 8, 6:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
