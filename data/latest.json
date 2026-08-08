@@ -1,6 +1,29 @@
 {
-  "captured_at": "2026-08-08T22:54:42+00:00",
+  "captured_at": "2026-08-08T23:19:12+00:00",
   "events": [
+    {
+      "Latitude": 43.14812051841263,
+      "Longitude": -88.0038642733032,
+      "OffTime": "Aug 8, 5:12 p.m.",
+      "ETR": "Aug 8, 8:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 6:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352079,
+          "County": "milwaukee",
+          "CountyCusts": 479642,
+          "Zip": "53223",
+          "ZipCusts": 14099,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
     {
       "Latitude": 44.531920741696645,
       "Longitude": -88.83879688843506,
@@ -8,7 +31,7 @@
       "ETR": "Aug 8, 7:30 p.m.",
       "CrewStatus": "On site",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 8, 5:50 p.m.",
+      "LastUpdated": "Aug 8, 6:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -32,52 +55,6 @@
           "ZipCusts": 705,
           "Region": "fox valley wi",
           "RegionCusts": 143282
-        }
-      ]
-    },
-    {
-      "Latitude": 43.14812051841263,
-      "Longitude": -88.0038642733032,
-      "OffTime": "Aug 8, 5:12 p.m.",
-      "ETR": "Aug 8, 8:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 5:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352079,
-          "County": "milwaukee",
-          "CountyCusts": 479642,
-          "Zip": "53223",
-          "ZipCusts": 14099,
-          "Region": "southeast wi",
-          "RegionCusts": 1073624
-        }
-      ]
-    },
-    {
-      "Latitude": 42.989287118753005,
-      "Longitude": -87.90493443088364,
-      "OffTime": "Aug 8, 4:27 p.m.",
-      "ETR": "Aug 8, 7:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 5:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 39,
-          "City": "milwaukee",
-          "CityCusts": 352079,
-          "County": "milwaukee",
-          "CountyCusts": 479642,
-          "Zip": "53207",
-          "ZipCusts": 20423,
-          "Region": "southeast wi",
-          "RegionCusts": 1073624
         }
       ]
     }
