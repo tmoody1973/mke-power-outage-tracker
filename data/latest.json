@@ -1,27 +1,16 @@
 {
-  "captured_at": "2026-08-08T19:50:44+00:00",
+  "captured_at": "2026-08-08T20:18:22+00:00",
   "events": [
     {
       "Latitude": 44.531920741696645,
       "Longitude": -88.83879688843506,
       "OffTime": "Aug 8, 2:14 p.m.",
       "ETR": "Aug 8, 5:00 p.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 2:50 p.m.",
+      "LastUpdated": "Aug 8, 3:10 p.m.",
       "IsGlobal": false,
       "Slices": [
-        {
-          "AffectedCusts": 13,
-          "City": "clintonville",
-          "CityCusts": 495,
-          "County": "waupaca",
-          "CountyCusts": 8898,
-          "Zip": "54929",
-          "ZipCusts": 497,
-          "Region": "fox valley wi",
-          "RegionCusts": 143282
-        },
         {
           "AffectedCusts": 6,
           "City": "bear creek",
@@ -32,29 +21,17 @@
           "ZipCusts": 705,
           "Region": "fox valley wi",
           "RegionCusts": 143282
-        }
-      ]
-    },
-    {
-      "Latitude": 43.49786986852061,
-      "Longitude": -88.05149758143541,
-      "OffTime": "Aug 8, 1:38 p.m.",
-      "ETR": "Aug 8, 4:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 2:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
+        },
         {
-          "AffectedCusts": 1,
-          "City": "fredonia",
-          "CityCusts": 2467,
-          "County": "washington",
-          "CountyCusts": 61643,
-          "Zip": "53021",
-          "ZipCusts": 2527,
-          "Region": "southeast wi",
-          "RegionCusts": 1073624
+          "AffectedCusts": 13,
+          "City": "clintonville",
+          "CityCusts": 495,
+          "County": "waupaca",
+          "CountyCusts": 8898,
+          "Zip": "54929",
+          "ZipCusts": 497,
+          "Region": "fox valley wi",
+          "RegionCusts": 143282
         }
       ]
     },
@@ -63,9 +40,9 @@
       "Longitude": -87.8997272770625,
       "OffTime": "Aug 8, 2:29 p.m.",
       "ETR": "Aug 8, 5:30 p.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 2:50 p.m.",
+      "LastUpdated": "Aug 8, 3:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -88,7 +65,7 @@
       "ETR": "Aug 8, 4:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 2:50 p.m.",
+      "LastUpdated": "Aug 8, 3:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -99,6 +76,29 @@
           "CountyCusts": 479642,
           "Zip": "53212",
           "ZipCusts": 16998,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 43.49786986852061,
+      "Longitude": -88.05149758143541,
+      "OffTime": "Aug 8, 1:38 p.m.",
+      "ETR": "Aug 8, 4:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 3:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "fredonia",
+          "CityCusts": 2467,
+          "County": "washington",
+          "CountyCusts": 61643,
+          "Zip": "53021",
+          "ZipCusts": 2527,
           "Region": "southeast wi",
           "RegionCusts": 1073624
         }
