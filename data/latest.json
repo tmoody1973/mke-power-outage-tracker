@@ -1,24 +1,47 @@
 {
-  "captured_at": "2026-08-08T12:28:55+00:00",
+  "captured_at": "2026-08-08T13:26:50+00:00",
   "events": [
     {
-      "Latitude": 43.106322352490125,
-      "Longitude": -87.94598133342424,
-      "OffTime": "Aug 8, 6:43 a.m.",
-      "ETR": "Aug 8, 9:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Aug 8, 7:20 a.m.",
+      "Latitude": 42.90465524227899,
+      "Longitude": -88.82794636868286,
+      "OffTime": "Aug 8, 8:01 a.m.",
+      "ETR": "Aug 8, 11:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 8:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
+          "AffectedCusts": 3,
+          "City": "fort atkinson",
+          "CityCusts": 10612,
+          "County": "jefferson",
+          "CountyCusts": 35175,
+          "Zip": "53538",
+          "ZipCusts": 10620,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 43.002363363216034,
+      "Longitude": -87.92671449247585,
+      "OffTime": "Aug 8, 7:43 a.m.",
+      "ETR": "Aug 8, 10:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 8:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 196,
           "City": "milwaukee",
           "CityCusts": 352079,
           "County": "milwaukee",
           "CountyCusts": 479642,
-          "Zip": "53209",
-          "ZipCusts": 23851,
+          "Zip": "53215",
+          "ZipCusts": 22339,
           "Region": "southeast wi",
           "RegionCusts": 1073624
         }
