@@ -1,60 +1,14 @@
 {
-  "captured_at": "2026-08-08T15:20:37+00:00",
+  "captured_at": "2026-08-08T15:53:54+00:00",
   "events": [
-    {
-      "Latitude": 43.30473104161114,
-      "Longitude": -87.96858545989653,
-      "OffTime": "Aug 8, 8:37 a.m.",
-      "ETR": "Aug 8, 11:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 10:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "grafton",
-          "CityCusts": 10507,
-          "County": "ozaukee",
-          "CountyCusts": 42605,
-          "Zip": "53024",
-          "ZipCusts": 10528,
-          "Region": "southeast wi",
-          "RegionCusts": 1073624
-        }
-      ]
-    },
-    {
-      "Latitude": 43.38695605553641,
-      "Longitude": -88.17555898356898,
-      "OffTime": "Aug 8, 9:53 a.m.",
-      "ETR": "Aug 8, 12:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 10:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "west bend",
-          "CityCusts": 26110,
-          "County": "washington",
-          "CountyCusts": 61643,
-          "Zip": "53095",
-          "ZipCusts": 15584,
-          "Region": "southeast wi",
-          "RegionCusts": 1073624
-        }
-      ]
-    },
     {
       "Latitude": 43.01649376027624,
       "Longitude": -87.9325022911292,
       "OffTime": "Aug 8, 9:30 a.m.",
       "ETR": "Aug 8, 12:30 p.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 10:10 a.m.",
+      "LastUpdated": "Aug 8, 10:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -71,23 +25,23 @@
       ]
     },
     {
-      "Latitude": 43.16436879067413,
-      "Longitude": -88.19279753795706,
-      "OffTime": "Aug 8, 8:49 a.m.",
+      "Latitude": 43.30473104161114,
+      "Longitude": -87.96858545989653,
+      "OffTime": "Aug 8, 8:37 a.m.",
       "ETR": "Aug 8, 11:30 a.m.",
-      "CrewStatus": "On the way",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 10:10 a.m.",
+      "LastUpdated": "Aug 8, 10:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 4,
-          "City": "sussex",
-          "CityCusts": 9888,
-          "County": "waukesha",
-          "CountyCusts": 203413,
-          "Zip": "53089",
-          "ZipCusts": 10038,
+          "AffectedCusts": 1,
+          "City": "grafton",
+          "CityCusts": 10507,
+          "County": "ozaukee",
+          "CountyCusts": 42605,
+          "Zip": "53024",
+          "ZipCusts": 10528,
           "Region": "southeast wi",
           "RegionCusts": 1073624
         }
@@ -100,7 +54,7 @@
       "ETR": "Aug 8, 11:30 a.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 10:10 a.m.",
+      "LastUpdated": "Aug 8, 10:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -113,6 +67,29 @@
           "ZipCusts": 2091,
           "Region": "upper peninsula mi",
           "RegionCusts": 41381
+        }
+      ]
+    },
+    {
+      "Latitude": 43.38695605553641,
+      "Longitude": -88.17555898356898,
+      "OffTime": "Aug 8, 9:53 a.m.",
+      "ETR": "Aug 8, 12:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 10:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "west bend",
+          "CityCusts": 26110,
+          "County": "washington",
+          "CountyCusts": 61643,
+          "Zip": "53095",
+          "ZipCusts": 15584,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
         }
       ]
     }
