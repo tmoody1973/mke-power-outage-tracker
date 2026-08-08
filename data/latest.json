@@ -1,14 +1,83 @@
 {
-  "captured_at": "2026-08-08T13:26:50+00:00",
+  "captured_at": "2026-08-08T14:05:09+00:00",
   "events": [
+    {
+      "Latitude": 43.16436879067413,
+      "Longitude": -88.19279753795706,
+      "OffTime": "Aug 8, 8:49 a.m.",
+      "ETR": "Aug 8, 11:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 9:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 4,
+          "City": "sussex",
+          "CityCusts": 9888,
+          "County": "waukesha",
+          "CountyCusts": 203413,
+          "Zip": "53089",
+          "ZipCusts": 10038,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 43.30473104161114,
+      "Longitude": -87.96858545989653,
+      "OffTime": "Aug 8, 8:37 a.m.",
+      "ETR": "Aug 8, 11:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 9:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "grafton",
+          "CityCusts": 10507,
+          "County": "ozaukee",
+          "CountyCusts": 42605,
+          "Zip": "53024",
+          "ZipCusts": 10528,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 46.028018671302966,
+      "Longitude": -89.18264975647669,
+      "OffTime": "Aug 8, 8:51 a.m.",
+      "ETR": "Aug 8, 11:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 9:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "conover",
+          "CityCusts": 2091,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54519",
+          "ZipCusts": 2091,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41381
+        }
+      ]
+    },
     {
       "Latitude": 42.90465524227899,
       "Longitude": -88.82794636868286,
       "OffTime": "Aug 8, 8:01 a.m.",
       "ETR": "Aug 8, 11:00 a.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 8:20 a.m.",
+      "LastUpdated": "Aug 8, 9:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -19,29 +88,6 @@
           "CountyCusts": 35175,
           "Zip": "53538",
           "ZipCusts": 10620,
-          "Region": "southeast wi",
-          "RegionCusts": 1073624
-        }
-      ]
-    },
-    {
-      "Latitude": 43.002363363216034,
-      "Longitude": -87.92671449247585,
-      "OffTime": "Aug 8, 7:43 a.m.",
-      "ETR": "Aug 8, 10:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 8:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 196,
-          "City": "milwaukee",
-          "CityCusts": 352079,
-          "County": "milwaukee",
-          "CountyCusts": 479642,
-          "Zip": "53215",
-          "ZipCusts": 22339,
           "Region": "southeast wi",
           "RegionCusts": 1073624
         }
