@@ -1,6 +1,40 @@
 {
-  "captured_at": "2026-08-08T18:55:50+00:00",
+  "captured_at": "2026-08-08T19:23:29+00:00",
   "events": [
+    {
+      "Latitude": 44.531920741696645,
+      "Longitude": -88.83879688843506,
+      "OffTime": "Aug 8, 2:14 p.m.",
+      "ETR": "Aug 8, 5:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 2:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 13,
+          "City": "clintonville",
+          "CityCusts": 495,
+          "County": "waupaca",
+          "CountyCusts": 8898,
+          "Zip": "54929",
+          "ZipCusts": 497,
+          "Region": "fox valley wi",
+          "RegionCusts": 143282
+        },
+        {
+          "AffectedCusts": 6,
+          "City": "bear creek",
+          "CityCusts": 707,
+          "County": "waupaca",
+          "CountyCusts": 8898,
+          "Zip": "54922",
+          "ZipCusts": 705,
+          "Region": "fox valley wi",
+          "RegionCusts": 143282
+        }
+      ]
+    },
     {
       "Latitude": 46.721385071430205,
       "Longitude": -89.07360113843752,
@@ -8,7 +42,7 @@
       "ETR": "Aug 8, 4:00 p.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 1:50 p.m.",
+      "LastUpdated": "Aug 8, 2:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -29,9 +63,9 @@
       "Longitude": -88.05149758143541,
       "OffTime": "Aug 8, 1:38 p.m.",
       "ETR": "Aug 8, 4:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 1:50 p.m.",
+      "LastUpdated": "Aug 8, 2:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -42,6 +76,29 @@
           "CountyCusts": 61643,
           "Zip": "53021",
           "ZipCusts": 2527,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 43.06793746444819,
+      "Longitude": -87.90908890323678,
+      "OffTime": "Aug 8, 1:53 p.m.",
+      "ETR": "Aug 8, 4:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 2:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352079,
+          "County": "milwaukee",
+          "CountyCusts": 479642,
+          "Zip": "53212",
+          "ZipCusts": 16998,
           "Region": "southeast wi",
           "RegionCusts": 1073624
         }
