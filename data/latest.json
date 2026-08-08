@@ -1,40 +1,6 @@
 {
-  "captured_at": "2026-08-08T21:53:11+00:00",
+  "captured_at": "2026-08-08T22:19:09+00:00",
   "events": [
-    {
-      "Latitude": 44.531920741696645,
-      "Longitude": -88.83879688843506,
-      "OffTime": "Aug 8, 2:14 p.m.",
-      "ETR": "Aug 8, 5:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 8, 4:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 13,
-          "City": "clintonville",
-          "CityCusts": 495,
-          "County": "waupaca",
-          "CountyCusts": 8898,
-          "Zip": "54929",
-          "ZipCusts": 497,
-          "Region": "fox valley wi",
-          "RegionCusts": 143282
-        },
-        {
-          "AffectedCusts": 6,
-          "City": "bear creek",
-          "CityCusts": 707,
-          "County": "waupaca",
-          "CountyCusts": 8898,
-          "Zip": "54922",
-          "ZipCusts": 705,
-          "Region": "fox valley wi",
-          "RegionCusts": 143282
-        }
-      ]
-    },
     {
       "Latitude": 42.989287118753005,
       "Longitude": -87.90493443088364,
@@ -42,7 +8,7 @@
       "ETR": "Aug 8, 7:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 4:50 p.m.",
+      "LastUpdated": "Aug 8, 5:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -59,23 +25,57 @@
       ]
     },
     {
-      "Latitude": 42.59308676733312,
-      "Longitude": -87.8605696306053,
-      "OffTime": "Aug 8, 4:45 p.m.",
+      "Latitude": 44.531920741696645,
+      "Longitude": -88.83879688843506,
+      "OffTime": "Aug 8, 2:14 p.m.",
       "ETR": "Aug 8, 7:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 4:50 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 8, 5:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 6,
+          "City": "bear creek",
+          "CityCusts": 707,
+          "County": "waupaca",
+          "CountyCusts": 8898,
+          "Zip": "54922",
+          "ZipCusts": 705,
+          "Region": "fox valley wi",
+          "RegionCusts": 143282
+        },
+        {
+          "AffectedCusts": 13,
+          "City": "clintonville",
+          "CityCusts": 495,
+          "County": "waupaca",
+          "CountyCusts": 8898,
+          "Zip": "54929",
+          "ZipCusts": 497,
+          "Region": "fox valley wi",
+          "RegionCusts": 143282
+        }
+      ]
+    },
+    {
+      "Latitude": 43.40587572340486,
+      "Longitude": -87.89784893948088,
+      "OffTime": "Aug 8, 3:26 p.m.",
+      "ETR": "Aug 8, 6:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Aug 8, 5:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54304,
-          "County": "kenosha",
-          "CountyCusts": 80148,
-          "Zip": "53144",
-          "ZipCusts": 14027,
+          "City": "port washington",
+          "CityCusts": 3227,
+          "County": "ozaukee",
+          "CountyCusts": 42605,
+          "Zip": "53074",
+          "ZipCusts": 7475,
           "Region": "southeast wi",
           "RegionCusts": 1073624
         }
@@ -88,7 +88,7 @@
       "ETR": "Aug 8, 7:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 4:50 p.m.",
+      "LastUpdated": "Aug 8, 5:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -99,29 +99,6 @@
           "CountyCusts": 203413,
           "Zip": "53066",
           "ZipCusts": 8873,
-          "Region": "southeast wi",
-          "RegionCusts": 1073624
-        }
-      ]
-    },
-    {
-      "Latitude": 43.40587572340486,
-      "Longitude": -87.89784893948088,
-      "OffTime": "Aug 8, 3:26 p.m.",
-      "ETR": "Aug 8, 6:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Aug 8, 4:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "port washington",
-          "CityCusts": 3227,
-          "County": "ozaukee",
-          "CountyCusts": 42605,
-          "Zip": "53074",
-          "ZipCusts": 7475,
           "Region": "southeast wi",
           "RegionCusts": 1073624
         }
