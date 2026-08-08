@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-08-08T23:19:12+00:00",
+  "captured_at": "2026-08-08T23:51:56+00:00",
   "events": [
     {
-      "Latitude": 43.14812051841263,
-      "Longitude": -88.0038642733032,
-      "OffTime": "Aug 8, 5:12 p.m.",
-      "ETR": "Aug 8, 8:00 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 43.073628028642396,
+      "Longitude": -87.88356211742816,
+      "OffTime": "Aug 8, 6:48 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 6:10 p.m.",
+      "LastUpdated": "Aug 8, 6:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -17,8 +17,8 @@
           "CityCusts": 352079,
           "County": "milwaukee",
           "CountyCusts": 479642,
-          "Zip": "53223",
-          "ZipCusts": 14099,
+          "Zip": "53211",
+          "ZipCusts": 18145,
           "Region": "southeast wi",
           "RegionCusts": 1073624
         }
@@ -29,30 +29,19 @@
       "Longitude": -88.83879688843506,
       "OffTime": "Aug 8, 2:14 p.m.",
       "ETR": "Aug 8, 7:30 p.m.",
-      "CrewStatus": "On site",
+      "CrewStatus": "Assigned",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 8, 6:10 p.m.",
+      "LastUpdated": "Aug 8, 6:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 13,
+          "AffectedCusts": 5,
           "City": "clintonville",
           "CityCusts": 495,
           "County": "waupaca",
           "CountyCusts": 8898,
           "Zip": "54929",
           "ZipCusts": 497,
-          "Region": "fox valley wi",
-          "RegionCusts": 143282
-        },
-        {
-          "AffectedCusts": 6,
-          "City": "bear creek",
-          "CityCusts": 707,
-          "County": "waupaca",
-          "CountyCusts": 8898,
-          "Zip": "54922",
-          "ZipCusts": 705,
           "Region": "fox valley wi",
           "RegionCusts": 143282
         }
