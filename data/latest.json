@@ -1,49 +1,49 @@
 {
-  "captured_at": "2026-08-08T16:22:05+00:00",
+  "captured_at": "2026-08-08T17:00:16+00:00",
   "events": [
     {
-      "Latitude": 43.22639540931723,
-      "Longitude": -87.90909651325627,
-      "OffTime": "Aug 8, 10:32 a.m.",
-      "ETR": "Aug 8, 1:30 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 42.95826470747488,
+      "Longitude": -88.46227361929198,
+      "OffTime": "Aug 8, 11:31 a.m.",
+      "ETR": "Aug 8, 2:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 11:20 a.m.",
+      "LastUpdated": "Aug 8, 11:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 3,
-          "City": "mequon",
-          "CityCusts": 12356,
-          "County": "ozaukee",
-          "CountyCusts": 42605,
-          "Zip": "53092",
-          "ZipCusts": 11524,
+          "AffectedCusts": 1,
+          "City": "dousman",
+          "CityCusts": 3850,
+          "County": "waukesha",
+          "CountyCusts": 203413,
+          "Zip": "53118",
+          "ZipCusts": 3846,
           "Region": "southeast wi",
           "RegionCusts": 1073624
         }
       ]
     },
     {
-      "Latitude": 43.38695605553641,
-      "Longitude": -88.17555898356898,
-      "OffTime": "Aug 8, 11:15 a.m.",
-      "ETR": "Aug 8, 2:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 46.028018671302966,
+      "Longitude": -89.18264975647669,
+      "OffTime": "Aug 8, 8:51 a.m.",
+      "ETR": "Aug 8, 12:30 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 11:20 a.m.",
+      "LastUpdated": "Aug 8, 11:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "west bend",
-          "CityCusts": 26110,
-          "County": "washington",
-          "CountyCusts": 61643,
-          "Zip": "53095",
-          "ZipCusts": 15584,
-          "Region": "southeast wi",
-          "RegionCusts": 1073624
+          "AffectedCusts": 2,
+          "City": "conover",
+          "CityCusts": 2091,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54519",
+          "ZipCusts": 2091,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41381
         }
       ]
     },
@@ -52,9 +52,9 @@
       "Longitude": -87.9325022911292,
       "OffTime": "Aug 8, 9:30 a.m.",
       "ETR": "Aug 8, 12:30 p.m.",
-      "CrewStatus": "On the way",
+      "CrewStatus": "On site",
       "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 8, 11:20 a.m.",
+      "LastUpdated": "Aug 8, 11:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -71,25 +71,48 @@
       ]
     },
     {
-      "Latitude": 46.028018671302966,
-      "Longitude": -89.18264975647669,
-      "OffTime": "Aug 8, 8:51 a.m.",
-      "ETR": "Aug 8, 12:30 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 42.936691516656936,
+      "Longitude": -88.3390642981028,
+      "OffTime": "Aug 8, 11:34 a.m.",
+      "ETR": "Aug 8, 2:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 11:20 a.m.",
+      "LastUpdated": "Aug 8, 11:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 2,
-          "City": "conover",
-          "CityCusts": 2091,
-          "County": "vilas",
-          "CountyCusts": 6266,
-          "Zip": "54519",
-          "ZipCusts": 2091,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41381
+          "City": "genesee",
+          "CityCusts": 43,
+          "County": "waukesha",
+          "CountyCusts": 203413,
+          "Zip": "53189",
+          "ZipCusts": 12973,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 43.38695605553641,
+      "Longitude": -88.17555898356898,
+      "OffTime": "Aug 8, 11:15 a.m.",
+      "ETR": "Aug 8, 2:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 11:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "west bend",
+          "CityCusts": 26110,
+          "County": "washington",
+          "CountyCusts": 61643,
+          "Zip": "53095",
+          "ZipCusts": 15584,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
         }
       ]
     }
