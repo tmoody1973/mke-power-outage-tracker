@@ -1,14 +1,37 @@
 {
-  "captured_at": "2026-08-08T14:05:09+00:00",
+  "captured_at": "2026-08-08T14:47:51+00:00",
   "events": [
+    {
+      "Latitude": 43.01649376027624,
+      "Longitude": -87.9325022911292,
+      "OffTime": "Aug 8, 9:30 a.m.",
+      "ETR": "Aug 8, 12:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 9:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352079,
+          "County": "milwaukee",
+          "CountyCusts": 479642,
+          "Zip": "53204",
+          "ZipCusts": 17655,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
     {
       "Latitude": 43.16436879067413,
       "Longitude": -88.19279753795706,
       "OffTime": "Aug 8, 8:49 a.m.",
       "ETR": "Aug 8, 11:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 9:00 a.m.",
+      "LastUpdated": "Aug 8, 9:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -31,7 +54,7 @@
       "ETR": "Aug 8, 11:30 a.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 9:00 a.m.",
+      "LastUpdated": "Aug 8, 9:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,36 +71,13 @@
       ]
     },
     {
-      "Latitude": 46.028018671302966,
-      "Longitude": -89.18264975647669,
-      "OffTime": "Aug 8, 8:51 a.m.",
-      "ETR": "Aug 8, 11:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 9:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "conover",
-          "CityCusts": 2091,
-          "County": "vilas",
-          "CountyCusts": 6266,
-          "Zip": "54519",
-          "ZipCusts": 2091,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41381
-        }
-      ]
-    },
-    {
       "Latitude": 42.90465524227899,
       "Longitude": -88.82794636868286,
       "OffTime": "Aug 8, 8:01 a.m.",
       "ETR": "Aug 8, 11:00 a.m.",
-      "CrewStatus": "On the way",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 9:00 a.m.",
+      "LastUpdated": "Aug 8, 9:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -90,6 +90,29 @@
           "ZipCusts": 10620,
           "Region": "southeast wi",
           "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 46.028018671302966,
+      "Longitude": -89.18264975647669,
+      "OffTime": "Aug 8, 8:51 a.m.",
+      "ETR": "Aug 8, 11:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 9:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "conover",
+          "CityCusts": 2091,
+          "County": "vilas",
+          "CountyCusts": 6266,
+          "Zip": "54519",
+          "ZipCusts": 2091,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41381
         }
       ]
     }
