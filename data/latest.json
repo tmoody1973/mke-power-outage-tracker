@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-08-08T19:23:29+00:00",
+  "captured_at": "2026-08-08T19:50:44+00:00",
   "events": [
     {
       "Latitude": 44.531920741696645,
       "Longitude": -88.83879688843506,
       "OffTime": "Aug 8, 2:14 p.m.",
       "ETR": "Aug 8, 5:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 2:20 p.m.",
+      "LastUpdated": "Aug 8, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -36,36 +36,13 @@
       ]
     },
     {
-      "Latitude": 46.721385071430205,
-      "Longitude": -89.07360113843752,
-      "OffTime": "Aug 8, 1:19 p.m.",
-      "ETR": "Aug 8, 4:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 2:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "mass city",
-          "CityCusts": 327,
-          "County": "ontonagon",
-          "CountyCusts": 1707,
-          "Zip": "49948",
-          "ZipCusts": 328,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41381
-        }
-      ]
-    },
-    {
       "Latitude": 43.49786986852061,
       "Longitude": -88.05149758143541,
       "OffTime": "Aug 8, 1:38 p.m.",
       "ETR": "Aug 8, 4:30 p.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 2:20 p.m.",
+      "LastUpdated": "Aug 8, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -82,13 +59,36 @@
       ]
     },
     {
+      "Latitude": 43.070686140845915,
+      "Longitude": -87.8997272770625,
+      "OffTime": "Aug 8, 2:29 p.m.",
+      "ETR": "Aug 8, 5:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 2:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352079,
+          "County": "milwaukee",
+          "CountyCusts": 479642,
+          "Zip": "53212",
+          "ZipCusts": 16998,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
       "Latitude": 43.06793746444819,
       "Longitude": -87.90908890323678,
       "OffTime": "Aug 8, 1:53 p.m.",
       "ETR": "Aug 8, 4:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 2:20 p.m.",
+      "LastUpdated": "Aug 8, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
