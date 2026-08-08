@@ -1,14 +1,175 @@
 {
-  "captured_at": "2026-08-08T05:08:30+00:00",
+  "captured_at": "2026-08-08T05:54:16+00:00",
   "events": [
+    {
+      "Latitude": 42.685449513148406,
+      "Longitude": -88.16615830067576,
+      "OffTime": "Aug 8, 12:41 a.m.",
+      "ETR": "Aug 8, 3:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 12:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kansasville",
+          "CityCusts": 1749,
+          "County": "racine",
+          "CountyCusts": 102391,
+          "Zip": "53139",
+          "ZipCusts": 1756,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 42.683205338799645,
+      "Longitude": -88.05615044304214,
+      "OffTime": "Aug 8, 12:41 a.m.",
+      "ETR": "Aug 8, 3:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 12:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "union grove",
+          "CityCusts": 5250,
+          "County": "racine",
+          "CountyCusts": 102391,
+          "Zip": "53182",
+          "ZipCusts": 5250,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 43.44465364837201,
+      "Longitude": -88.13106487630536,
+      "OffTime": "Aug 7, 5:18 p.m.",
+      "ETR": "Aug 8, 1:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Transformer problem",
+      "LastUpdated": "Aug 8, 12:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 14,
+          "City": "west bend",
+          "CityCusts": 26110,
+          "County": "washington",
+          "CountyCusts": 61643,
+          "Zip": "53090",
+          "ZipCusts": 10557,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 42.68781593025396,
+      "Longitude": -88.03814245315841,
+      "OffTime": "Aug 8, 12:45 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 12:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "union grove",
+          "CityCusts": 5250,
+          "County": "racine",
+          "CountyCusts": 102391,
+          "Zip": "53182",
+          "ZipCusts": 5250,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 42.688343927690596,
+      "Longitude": -88.0444769144836,
+      "OffTime": "Aug 8, 12:40 a.m.",
+      "ETR": "Aug 8, 3:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 12:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "union grove",
+          "CityCusts": 5250,
+          "County": "racine",
+          "CountyCusts": 102391,
+          "Zip": "53182",
+          "ZipCusts": 5250,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 42.696066470568375,
+      "Longitude": -88.11978325125519,
+      "OffTime": "Aug 8, 12:48 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 12:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kansasville",
+          "CityCusts": 1749,
+          "County": "racine",
+          "CountyCusts": 102391,
+          "Zip": "53139",
+          "ZipCusts": 1756,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 42.69697484848016,
+      "Longitude": -88.13612719760482,
+      "OffTime": "Aug 8, 12:38 a.m.",
+      "ETR": "Aug 8, 3:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 12:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kansasville",
+          "CityCusts": 1749,
+          "County": "racine",
+          "CountyCusts": 102391,
+          "Zip": "53139",
+          "ZipCusts": 1756,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
     {
       "Latitude": 46.23209862674426,
       "Longitude": -88.49209179646297,
       "OffTime": "Aug 7, 7:18 p.m.",
       "ETR": "Aug 8, 4:00 a.m.",
-      "CrewStatus": "Specialized crew needed",
+      "CrewStatus": "Assigned",
       "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 8, 12:00 a.m.",
+      "LastUpdated": "Aug 8, 12:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,23 +186,23 @@
       ]
     },
     {
-      "Latitude": 43.44465364837201,
-      "Longitude": -88.13106487630536,
-      "OffTime": "Aug 7, 5:18 p.m.",
-      "ETR": "Aug 8, 1:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Aug 8, 12:00 a.m.",
+      "Latitude": 42.70034670076984,
+      "Longitude": -88.05594160218637,
+      "OffTime": "Aug 8, 12:40 a.m.",
+      "ETR": "Aug 8, 3:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 12:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 14,
-          "City": "west bend",
-          "CityCusts": 26110,
-          "County": "washington",
-          "CountyCusts": 61643,
-          "Zip": "53090",
-          "ZipCusts": 10557,
+          "AffectedCusts": 1,
+          "City": "union grove",
+          "CityCusts": 5250,
+          "County": "racine",
+          "CountyCusts": 102391,
+          "Zip": "53182",
+          "ZipCusts": 5250,
           "Region": "southeast wi",
           "RegionCusts": 1073624
         }
