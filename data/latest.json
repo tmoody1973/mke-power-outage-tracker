@@ -1,14 +1,37 @@
 {
-  "captured_at": "2026-08-08T11:27:41+00:00",
+  "captured_at": "2026-08-08T11:54:08+00:00",
   "events": [
+    {
+      "Latitude": 43.106322352490125,
+      "Longitude": -87.94598133342424,
+      "OffTime": "Aug 8, 6:43 a.m.",
+      "ETR": "Aug 8, 9:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 6:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352079,
+          "County": "milwaukee",
+          "CountyCusts": 479642,
+          "Zip": "53209",
+          "ZipCusts": 23851,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
     {
       "Latitude": 42.99796063967316,
       "Longitude": -87.95128881920877,
       "OffTime": "Aug 8, 6:16 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
+      "ETR": "Aug 8, 9:00 a.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 6:20 a.m.",
+      "LastUpdated": "Aug 8, 6:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -19,29 +42,6 @@
           "CountyCusts": 479642,
           "Zip": "53215",
           "ZipCusts": 22339,
-          "Region": "southeast wi",
-          "RegionCusts": 1073624
-        }
-      ]
-    },
-    {
-      "Latitude": 43.44465364837201,
-      "Longitude": -88.13106487630536,
-      "OffTime": "Aug 7, 5:18 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Aug 8, 6:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 14,
-          "City": "west bend",
-          "CityCusts": 26110,
-          "County": "washington",
-          "CountyCusts": 61643,
-          "Zip": "53090",
-          "ZipCusts": 10557,
           "Region": "southeast wi",
           "RegionCusts": 1073624
         }
