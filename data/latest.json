@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-08T20:56:08+00:00",
+  "captured_at": "2026-08-08T21:23:27+00:00",
   "events": [
     {
       "Latitude": 44.531920741696645,
@@ -8,20 +8,9 @@
       "ETR": "Aug 8, 5:00 p.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 3:50 p.m.",
+      "LastUpdated": "Aug 8, 4:20 p.m.",
       "IsGlobal": false,
       "Slices": [
-        {
-          "AffectedCusts": 6,
-          "City": "bear creek",
-          "CityCusts": 707,
-          "County": "waupaca",
-          "CountyCusts": 8898,
-          "Zip": "54922",
-          "ZipCusts": 705,
-          "Region": "fox valley wi",
-          "RegionCusts": 143282
-        },
         {
           "AffectedCusts": 13,
           "City": "clintonville",
@@ -30,6 +19,17 @@
           "CountyCusts": 8898,
           "Zip": "54929",
           "ZipCusts": 497,
+          "Region": "fox valley wi",
+          "RegionCusts": 143282
+        },
+        {
+          "AffectedCusts": 6,
+          "City": "bear creek",
+          "CityCusts": 707,
+          "County": "waupaca",
+          "CountyCusts": 8898,
+          "Zip": "54922",
+          "ZipCusts": 705,
           "Region": "fox valley wi",
           "RegionCusts": 143282
         }
@@ -42,7 +42,7 @@
       "ETR": "Aug 8, 6:00 p.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 3:50 p.m.",
+      "LastUpdated": "Aug 8, 4:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -53,29 +53,6 @@
           "CountyCusts": 42605,
           "Zip": "53074",
           "ZipCusts": 7475,
-          "Region": "southeast wi",
-          "RegionCusts": 1073624
-        }
-      ]
-    },
-    {
-      "Latitude": 43.06793746444819,
-      "Longitude": -87.90908890323678,
-      "OffTime": "Aug 8, 1:53 p.m.",
-      "ETR": "Aug 8, 4:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 3:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352079,
-          "County": "milwaukee",
-          "CountyCusts": 479642,
-          "Zip": "53212",
-          "ZipCusts": 16998,
           "Region": "southeast wi",
           "RegionCusts": 1073624
         }
