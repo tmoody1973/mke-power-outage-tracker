@@ -1,24 +1,47 @@
 {
-  "captured_at": "2026-08-08T18:03:51+00:00",
+  "captured_at": "2026-08-08T18:55:50+00:00",
   "events": [
     {
-      "Latitude": 42.95826470747488,
-      "Longitude": -88.46227361929198,
-      "OffTime": "Aug 8, 11:31 a.m.",
-      "ETR": "Aug 8, 2:30 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 46.721385071430205,
+      "Longitude": -89.07360113843752,
+      "OffTime": "Aug 8, 1:19 p.m.",
+      "ETR": "Aug 8, 4:00 p.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 1:00 p.m.",
+      "LastUpdated": "Aug 8, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "dousman",
-          "CityCusts": 3850,
-          "County": "waukesha",
-          "CountyCusts": 203413,
-          "Zip": "53118",
-          "ZipCusts": 3846,
+          "City": "mass city",
+          "CityCusts": 327,
+          "County": "ontonagon",
+          "CountyCusts": 1707,
+          "Zip": "49948",
+          "ZipCusts": 328,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41381
+        }
+      ]
+    },
+    {
+      "Latitude": 43.49786986852061,
+      "Longitude": -88.05149758143541,
+      "OffTime": "Aug 8, 1:38 p.m.",
+      "ETR": "Aug 8, 4:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "fredonia",
+          "CityCusts": 2467,
+          "County": "washington",
+          "CountyCusts": 61643,
+          "Zip": "53021",
+          "ZipCusts": 2527,
           "Region": "southeast wi",
           "RegionCusts": 1073624
         }
