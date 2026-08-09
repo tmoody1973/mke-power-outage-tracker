@@ -1,24 +1,47 @@
 {
-  "captured_at": "2026-08-08T23:51:56+00:00",
+  "captured_at": "2026-08-09T01:01:32+00:00",
   "events": [
     {
-      "Latitude": 43.073628028642396,
-      "Longitude": -87.88356211742816,
-      "OffTime": "Aug 8, 6:48 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 43.10085383227168,
+      "Longitude": -87.9892567478702,
+      "OffTime": "Aug 8, 7:29 p.m.",
+      "ETR": "Aug 8, 10:30 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 8, 6:50 p.m.",
+      "LastUpdated": "Aug 8, 8:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
+          "AffectedCusts": 20,
           "City": "milwaukee",
           "CityCusts": 352079,
           "County": "milwaukee",
           "CountyCusts": 479642,
-          "Zip": "53211",
-          "ZipCusts": 18145,
+          "Zip": "53218",
+          "ZipCusts": 17042,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
+    {
+      "Latitude": 42.96415783605707,
+      "Longitude": -87.85387855934167,
+      "OffTime": "Aug 8, 7:12 p.m.",
+      "ETR": "Aug 8, 10:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 8:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "cudahy",
+          "CityCusts": 9866,
+          "County": "milwaukee",
+          "CountyCusts": 479642,
+          "Zip": "53110",
+          "ZipCusts": 9865,
           "Region": "southeast wi",
           "RegionCusts": 1073624
         }
@@ -28,10 +51,10 @@
       "Latitude": 44.531920741696645,
       "Longitude": -88.83879688843506,
       "OffTime": "Aug 8, 2:14 p.m.",
-      "ETR": "Aug 8, 7:30 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "Assigned",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 8, 6:50 p.m.",
+      "LastUpdated": "Aug 8, 8:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -44,6 +67,29 @@
           "ZipCusts": 497,
           "Region": "fox valley wi",
           "RegionCusts": 143282
+        }
+      ]
+    },
+    {
+      "Latitude": 43.52936637293956,
+      "Longitude": -88.4356771820639,
+      "OffTime": "Aug 8, 6:58 p.m.",
+      "ETR": "Aug 8, 10:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 8, 8:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "theresa",
+          "CityCusts": 1195,
+          "County": "dodge",
+          "CountyCusts": 17208,
+          "Zip": "53091",
+          "ZipCusts": 1195,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
         }
       ]
     }
