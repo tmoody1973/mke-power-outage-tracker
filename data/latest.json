@@ -1,4 +1,28 @@
 {
-  "captured_at": "2026-08-09T12:01:11+00:00",
-  "events": []
+  "captured_at": "2026-08-09T13:13:07+00:00",
+  "events": [
+    {
+      "Latitude": 43.07551536198981,
+      "Longitude": -88.23877909782448,
+      "OffTime": "Aug 9, 7:44 a.m.",
+      "ETR": "Aug 9, 10:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 9, 8:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "pewaukee",
+          "CityCusts": 14874,
+          "County": "waukesha",
+          "CountyCusts": 203413,
+          "Zip": "53072",
+          "ZipCusts": 14938,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    }
+  ]
 }
