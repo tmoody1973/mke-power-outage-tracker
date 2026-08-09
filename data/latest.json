@@ -1,6 +1,183 @@
 {
-  "captured_at": "2026-08-09T13:13:07+00:00",
+  "captured_at": "2026-08-09T13:58:21+00:00",
   "events": [
+    {
+      "Latitude": 43.16664161796848,
+      "Longitude": -88.68822607854207,
+      "OffTime": "Aug 9, 8:46 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 9, 8:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 4,
+          "City": "milwaukee",
+          "CityCusts": 352079,
+          "County": "milwaukee",
+          "CountyCusts": 479642,
+          "Zip": "53204",
+          "ZipCusts": 17655,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        },
+        {
+          "AffectedCusts": 12,
+          "City": "beaver dam",
+          "CityCusts": 116,
+          "County": "dodge",
+          "CountyCusts": 17208,
+          "Zip": "53916",
+          "ZipCusts": 117,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        },
+        {
+          "AffectedCusts": 247,
+          "City": "reeseville",
+          "CityCusts": 1118,
+          "County": "dodge",
+          "CountyCusts": 17208,
+          "Zip": "53579",
+          "ZipCusts": 1118,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        },
+        {
+          "AffectedCusts": 1324,
+          "City": "watertown",
+          "CityCusts": 16246,
+          "County": "jefferson",
+          "CountyCusts": 35175,
+          "Zip": "53094",
+          "ZipCusts": 10256,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        },
+        {
+          "AffectedCusts": 395,
+          "City": "juneau",
+          "CityCusts": 398,
+          "County": "dodge",
+          "CountyCusts": 17208,
+          "Zip": "53039",
+          "ZipCusts": 403,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        },
+        {
+          "AffectedCusts": 30,
+          "City": "watertown",
+          "CityCusts": 16246,
+          "County": "jefferson",
+          "CountyCusts": 35175,
+          "Zip": "53098",
+          "ZipCusts": 6057,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        },
+        {
+          "AffectedCusts": 13,
+          "City": "watertown",
+          "CityCusts": 16246,
+          "County": "dodge",
+          "CountyCusts": 17208,
+          "Zip": "53094",
+          "ZipCusts": 10256,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        },
+        {
+          "AffectedCusts": 13,
+          "City": "waterford",
+          "CityCusts": 7623,
+          "County": "racine",
+          "CountyCusts": 102391,
+          "Zip": "53185",
+          "ZipCusts": 9927,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        },
+        {
+          "AffectedCusts": 217,
+          "City": "clyman",
+          "CityCusts": 222,
+          "County": "dodge",
+          "CountyCusts": 17208,
+          "Zip": "53016",
+          "ZipCusts": 219,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        },
+        {
+          "AffectedCusts": 2,
+          "City": "watertown",
+          "CityCusts": 16246,
+          "County": "dodge",
+          "CountyCusts": 17208,
+          "Zip": "53039",
+          "ZipCusts": 403,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        },
+        {
+          "AffectedCusts": 3,
+          "City": "clyman",
+          "CityCusts": 222,
+          "County": "dodge",
+          "CountyCusts": 17208,
+          "Zip": "53039",
+          "ZipCusts": 403,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        },
+        {
+          "AffectedCusts": 46,
+          "City": "lowell",
+          "CityCusts": 288,
+          "County": "dodge",
+          "CountyCusts": 17208,
+          "Zip": "53557",
+          "ZipCusts": 282,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        },
+        {
+          "AffectedCusts": 1643,
+          "City": "watertown",
+          "CityCusts": 16246,
+          "County": "dodge",
+          "CountyCusts": 17208,
+          "Zip": "53098",
+          "ZipCusts": 6057,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        },
+        {
+          "AffectedCusts": 2,
+          "City": "prt washingtn",
+          "CityCusts": 4256,
+          "County": "ozaukee",
+          "CountyCusts": 42605,
+          "Zip": "53074",
+          "ZipCusts": 7475,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "lowell",
+          "CityCusts": 288,
+          "County": "dodge",
+          "CountyCusts": 17208,
+          "Zip": "53916",
+          "ZipCusts": 117,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    },
     {
       "Latitude": 43.07551536198981,
       "Longitude": -88.23877909782448,
@@ -8,7 +185,7 @@
       "ETR": "Aug 9, 10:30 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 9, 8:10 a.m.",
+      "LastUpdated": "Aug 9, 8:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
