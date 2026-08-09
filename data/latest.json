@@ -1,4 +1,28 @@
 {
-  "captured_at": "2026-08-09T08:21:25+00:00",
-  "events": []
+  "captured_at": "2026-08-09T09:09:06+00:00",
+  "events": [
+    {
+      "Latitude": 42.96680880781417,
+      "Longitude": -87.87995968937848,
+      "OffTime": "Aug 9, 3:27 a.m.",
+      "ETR": "Aug 9, 6:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 9, 4:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "saint francis",
+          "CityCusts": 4863,
+          "County": "milwaukee",
+          "CountyCusts": 479642,
+          "Zip": "53235",
+          "ZipCusts": 5789,
+          "Region": "southeast wi",
+          "RegionCusts": 1073624
+        }
+      ]
+    }
+  ]
 }
