@@ -1,14 +1,83 @@
 {
-  "captured_at": "2026-08-10T23:04:03+00:00",
+  "captured_at": "2026-08-10T23:49:16+00:00",
   "events": [
+    {
+      "Latitude": 43.096383208492185,
+      "Longitude": -87.9300009999182,
+      "OffTime": "Aug 10, 6:27 p.m.",
+      "ETR": "Aug 10, 9:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 10, 6:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352126,
+          "County": "milwaukee",
+          "CountyCusts": 479713,
+          "Zip": "53209",
+          "ZipCusts": 23851,
+          "Region": "southeast wi",
+          "RegionCusts": 1073769
+        }
+      ]
+    },
+    {
+      "Latitude": 42.73846436709604,
+      "Longitude": -87.93457330501901,
+      "OffTime": "Aug 10, 6:34 p.m.",
+      "ETR": "Aug 10, 9:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 10, 6:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "mount pleasant",
+          "CityCusts": 5471,
+          "County": "racine",
+          "CountyCusts": 102441,
+          "Zip": "53177",
+          "ZipCusts": 4676,
+          "Region": "southeast wi",
+          "RegionCusts": 1073769
+        }
+      ]
+    },
+    {
+      "Latitude": 43.050396220842806,
+      "Longitude": -88.05512029193974,
+      "OffTime": "Aug 10, 6:35 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 10, 6:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "wauwatosa",
+          "CityCusts": 10579,
+          "County": "milwaukee",
+          "CountyCusts": 479713,
+          "Zip": "53226",
+          "ZipCusts": 10986,
+          "Region": "southeast wi",
+          "RegionCusts": 1073769
+        }
+      ]
+    },
     {
       "Latitude": 43.01451152012082,
       "Longitude": -87.95497936253281,
       "OffTime": "Aug 10, 4:31 p.m.",
       "ETR": "Aug 10, 7:30 p.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 10, 6:00 p.m.",
+      "LastUpdated": "Aug 10, 6:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,13 +94,36 @@
       ]
     },
     {
-      "Latitude": 43.02472604975802,
-      "Longitude": -87.91979948310812,
-      "OffTime": "Aug 10, 8:22 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "Latitude": 42.91428770653329,
+      "Longitude": -87.91455042469404,
+      "OffTime": "Aug 10, 4:07 p.m.",
+      "ETR": "Aug 10, 7:00 p.m.",
       "CrewStatus": "On site",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 10, 6:00 p.m.",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 10, 6:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "oak creek",
+          "CityCusts": 19948,
+          "County": "milwaukee",
+          "CountyCusts": 479713,
+          "Zip": "53154",
+          "ZipCusts": 19940,
+          "Region": "southeast wi",
+          "RegionCusts": 1073769
+        }
+      ]
+    },
+    {
+      "Latitude": 43.0596246347193,
+      "Longitude": -87.94572770365448,
+      "OffTime": "Aug 10, 6:17 p.m.",
+      "ETR": "Aug 10, 9:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 10, 6:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -40,8 +132,8 @@
           "CityCusts": 352126,
           "County": "milwaukee",
           "CountyCusts": 479713,
-          "Zip": "53204",
-          "ZipCusts": 17654,
+          "Zip": "53205",
+          "ZipCusts": 4129,
           "Region": "southeast wi",
           "RegionCusts": 1073769
         }
@@ -52,9 +144,9 @@
       "Longitude": -88.70591699144924,
       "OffTime": "Aug 10, 4:31 p.m.",
       "ETR": "Aug 10, 9:00 p.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On site",
       "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 10, 6:00 p.m.",
+      "LastUpdated": "Aug 10, 6:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -75,9 +167,9 @@
       "Longitude": -87.98930384379693,
       "OffTime": "Aug 10, 8:57 a.m.",
       "ETR": "Aug 10, 9:00 p.m.",
-      "CrewStatus": "On site",
+      "CrewStatus": "Specialized crew needed",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 10, 6:00 p.m.",
+      "LastUpdated": "Aug 10, 6:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -94,82 +186,13 @@
       ]
     },
     {
-      "Latitude": 42.91428770653329,
-      "Longitude": -87.91455042469404,
-      "OffTime": "Aug 10, 4:07 p.m.",
-      "ETR": "Aug 10, 7:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 10, 6:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "oak creek",
-          "CityCusts": 19948,
-          "County": "milwaukee",
-          "CountyCusts": 479713,
-          "Zip": "53154",
-          "ZipCusts": 19940,
-          "Region": "southeast wi",
-          "RegionCusts": 1073769
-        }
-      ]
-    },
-    {
-      "Latitude": 42.972556448852856,
-      "Longitude": -87.87534519613008,
-      "OffTime": "Aug 9, 1:16 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Assigned",
-      "Cause": "Equipment damaged by lightning",
-      "LastUpdated": "Aug 10, 6:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "saint francis",
-          "CityCusts": 4861,
-          "County": "milwaukee",
-          "CountyCusts": 479713,
-          "Zip": "53235",
-          "ZipCusts": 5787,
-          "Region": "southeast wi",
-          "RegionCusts": 1073769
-        }
-      ]
-    },
-    {
-      "Latitude": 42.98117788730994,
-      "Longitude": -87.86318003177976,
-      "OffTime": "Aug 10, 6:01 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 10, 6:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "saint francis",
-          "CityCusts": 4861,
-          "County": "milwaukee",
-          "CountyCusts": 479713,
-          "Zip": "53235",
-          "ZipCusts": 5787,
-          "Region": "southeast wi",
-          "RegionCusts": 1073769
-        }
-      ]
-    },
-    {
       "Latitude": 42.989841838350884,
       "Longitude": -88.04547172363733,
       "OffTime": "Aug 10, 4:24 p.m.",
       "ETR": "Aug 10, 7:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 10, 6:00 p.m.",
+      "LastUpdated": "Aug 10, 6:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
