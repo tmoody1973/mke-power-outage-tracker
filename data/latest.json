@@ -1,75 +1,6 @@
 {
-  "captured_at": "2026-08-11T16:33:00+00:00",
+  "captured_at": "2026-08-11T17:38:12+00:00",
   "events": [
-    {
-      "Latitude": 42.532365391683065,
-      "Longitude": -88.13331391354,
-      "OffTime": "Aug 11, 11:23 a.m.",
-      "ETR": "Aug 11, 2:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 11:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 32,
-          "City": "trevor",
-          "CityCusts": 2960,
-          "County": "kenosha",
-          "CountyCusts": 80153,
-          "Zip": "53179",
-          "ZipCusts": 2965,
-          "Region": "southeast wi",
-          "RegionCusts": 1073778
-        }
-      ]
-    },
-    {
-      "Latitude": 43.03468034814314,
-      "Longitude": -87.9916391537824,
-      "OffTime": "Aug 11, 10:48 a.m.",
-      "ETR": "Aug 11, 1:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 11:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352105,
-          "County": "milwaukee",
-          "CountyCusts": 479711,
-          "Zip": "53213",
-          "ZipCusts": 13818,
-          "Region": "southeast wi",
-          "RegionCusts": 1073778
-        }
-      ]
-    },
-    {
-      "Latitude": 42.740220621683534,
-      "Longitude": -88.74911097180444,
-      "OffTime": "Aug 11, 10:39 a.m.",
-      "ETR": "Aug 11, 1:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Aug 11, 11:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "whitewater",
-          "CityCusts": 9480,
-          "County": "walworth",
-          "CountyCusts": 24216,
-          "Zip": "53190",
-          "ZipCusts": 9483,
-          "Region": "southeast wi",
-          "RegionCusts": 1073778
-        }
-      ]
-    },
     {
       "Latitude": 42.734453594016095,
       "Longitude": -88.6355513883026,
@@ -77,7 +8,7 @@
       "ETR": "Aug 11, 1:30 p.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 11:30 a.m.",
+      "LastUpdated": "Aug 11, 12:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -94,63 +25,40 @@
       ]
     },
     {
-      "Latitude": 42.78907793039255,
-      "Longitude": -88.82748381664722,
-      "OffTime": "Aug 11, 10:42 a.m.",
-      "ETR": "Aug 11, 2:00 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 42.559089463795125,
+      "Longitude": -87.92225804655739,
+      "OffTime": "Aug 11, 12:18 p.m.",
+      "ETR": "Aug 11, 3:00 p.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 11:30 a.m.",
+      "LastUpdated": "Aug 11, 12:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 5,
-          "City": "whitewater",
-          "CityCusts": 9480,
-          "County": "rock",
-          "CountyCusts": 979,
-          "Zip": "53190",
-          "ZipCusts": 9483,
+          "AffectedCusts": 62,
+          "City": "pleasant pr",
+          "CityCusts": 6399,
+          "County": "kenosha",
+          "CountyCusts": 80153,
+          "Zip": "53158",
+          "ZipCusts": 9515,
           "Region": "southeast wi",
           "RegionCusts": 1073778
         }
       ]
     },
     {
-      "Latitude": 42.68802717728216,
-      "Longitude": -88.5859367330876,
-      "OffTime": "Aug 11, 11:24 a.m.",
-      "ETR": "Aug 11, 2:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 11:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "elkhorn",
-          "CityCusts": 5973,
-          "County": "walworth",
-          "CountyCusts": 24216,
-          "Zip": "53121",
-          "ZipCusts": 5977,
-          "Region": "southeast wi",
-          "RegionCusts": 1073778
-        }
-      ]
-    },
-    {
-      "Latitude": 42.533759304970964,
-      "Longitude": -88.13402489257169,
+      "Latitude": 42.532365391683065,
+      "Longitude": -88.13331391354,
       "OffTime": "Aug 11, 11:22 a.m.",
       "ETR": "Aug 11, 2:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 11:30 a.m.",
+      "LastUpdated": "Aug 11, 12:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
+          "AffectedCusts": 41,
           "City": "trevor",
           "CityCusts": 2960,
           "County": "kenosha",
@@ -163,92 +71,92 @@
       ]
     },
     {
-      "Latitude": 42.78875665346109,
-      "Longitude": -88.82741652135412,
-      "OffTime": "Aug 11, 10:42 a.m.",
-      "ETR": "Aug 11, 2:00 p.m.",
+      "Latitude": 43.62358778204293,
+      "Longitude": -87.78164706456253,
+      "OffTime": "Aug 11, 10:37 a.m.",
+      "ETR": "Aug 11, 3:30 p.m.",
       "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 11:30 a.m.",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Aug 11, 12:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 4,
-          "City": "whitewater",
-          "CityCusts": 9480,
-          "County": "rock",
-          "CountyCusts": 979,
-          "Zip": "53190",
-          "ZipCusts": 9483,
+          "AffectedCusts": 1,
+          "City": "oostburg",
+          "CityCusts": 2563,
+          "County": "sheboygan",
+          "CountyCusts": 14258,
+          "Zip": "53070",
+          "ZipCusts": 2561,
           "Region": "southeast wi",
           "RegionCusts": 1073778
         }
       ]
     },
     {
-      "Latitude": 46.04941245719143,
-      "Longitude": -89.25784826128624,
-      "OffTime": "Aug 11, 10:42 a.m.",
-      "ETR": "Aug 11, 1:30 p.m.",
-      "CrewStatus": "On the way",
+      "Latitude": 42.67062280248908,
+      "Longitude": -88.58968611902351,
+      "OffTime": "Aug 11, 11:43 a.m.",
+      "ETR": "Aug 11, 2:30 p.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 11:30 a.m.",
+      "LastUpdated": "Aug 11, 12:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 3,
-          "City": "conover",
-          "CityCusts": 2091,
-          "County": "vilas",
-          "CountyCusts": 6266,
-          "Zip": "54519",
-          "ZipCusts": 2091,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41381
-        }
-      ]
-    },
-    {
-      "Latitude": 43.01732370352562,
-      "Longitude": -87.95457798770217,
-      "OffTime": "Aug 11, 11:19 a.m.",
-      "ETR": "Aug 11, 2:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 11:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 22,
-          "City": "milwaukee",
-          "CityCusts": 352105,
-          "County": "milwaukee",
-          "CountyCusts": 479711,
-          "Zip": "53215",
-          "ZipCusts": 22340,
+          "City": "elkhorn",
+          "CityCusts": 5973,
+          "County": "walworth",
+          "CountyCusts": 24216,
+          "Zip": "53121",
+          "ZipCusts": 5977,
           "Region": "southeast wi",
           "RegionCusts": 1073778
         }
       ]
     },
     {
-      "Latitude": 42.78889983469737,
-      "Longitude": -88.8274162636955,
-      "OffTime": "Aug 11, 10:42 a.m.",
-      "ETR": "Aug 11, 2:00 p.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 43.06328020271527,
+      "Longitude": -87.9944253029296,
+      "OffTime": "Aug 11, 12:00 p.m.",
+      "ETR": "Aug 11, 3:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 11:30 a.m.",
+      "LastUpdated": "Aug 11, 12:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 4,
-          "City": "whitewater",
-          "CityCusts": 9480,
-          "County": "rock",
-          "CountyCusts": 979,
-          "Zip": "53190",
-          "ZipCusts": 9483,
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352105,
+          "County": "milwaukee",
+          "CountyCusts": 479711,
+          "Zip": "53213",
+          "ZipCusts": 13818,
+          "Region": "southeast wi",
+          "RegionCusts": 1073778
+        }
+      ]
+    },
+    {
+      "Latitude": 42.75176043470532,
+      "Longitude": -87.79103830630312,
+      "OffTime": "Aug 11, 12:09 p.m.",
+      "ETR": "Aug 11, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 11, 12:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 58903,
+          "County": "racine",
+          "CountyCusts": 102440,
+          "Zip": "53402",
+          "ZipCusts": 15999,
           "Region": "southeast wi",
           "RegionCusts": 1073778
         }
@@ -261,7 +169,7 @@
       "ETR": "Aug 11, 2:00 p.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 11:30 a.m.",
+      "LastUpdated": "Aug 11, 12:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -278,13 +186,59 @@
       ]
     },
     {
-      "Latitude": 43.0850389325432,
-      "Longitude": -87.91150467717836,
-      "OffTime": "Aug 11, 11:07 a.m.",
+      "Latitude": 43.01732370352562,
+      "Longitude": -87.95457798770217,
+      "OffTime": "Aug 11, 11:19 a.m.",
       "ETR": "Aug 11, 2:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 11:30 a.m.",
+      "LastUpdated": "Aug 11, 12:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 22,
+          "City": "milwaukee",
+          "CityCusts": 352105,
+          "County": "milwaukee",
+          "CountyCusts": 479711,
+          "Zip": "53215",
+          "ZipCusts": 22340,
+          "Region": "southeast wi",
+          "RegionCusts": 1073778
+        }
+      ]
+    },
+    {
+      "Latitude": 42.740220621683534,
+      "Longitude": -88.74911097180444,
+      "OffTime": "Aug 11, 10:39 a.m.",
+      "ETR": "Aug 11, 2:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Equipment damaged by lightning",
+      "LastUpdated": "Aug 11, 12:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "whitewater",
+          "CityCusts": 9480,
+          "County": "walworth",
+          "CountyCusts": 24216,
+          "Zip": "53190",
+          "ZipCusts": 9483,
+          "Region": "southeast wi",
+          "RegionCusts": 1073778
+        }
+      ]
+    },
+    {
+      "Latitude": 42.955313897709225,
+      "Longitude": -87.94649292603913,
+      "OffTime": "Aug 11, 11:59 a.m.",
+      "ETR": "Aug 11, 2:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Aug 11, 12:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -293,54 +247,100 @@
           "CityCusts": 352105,
           "County": "milwaukee",
           "CountyCusts": 479711,
-          "Zip": "53212",
-          "ZipCusts": 17009,
+          "Zip": "53221",
+          "ZipCusts": 18452,
           "Region": "southeast wi",
           "RegionCusts": 1073778
         }
       ]
     },
     {
-      "Latitude": 44.42901617344051,
-      "Longitude": -88.2403090926694,
-      "OffTime": "Aug 11, 11:14 a.m.",
+      "Latitude": 42.68802717728216,
+      "Longitude": -88.5859367330876,
+      "OffTime": "Aug 11, 11:24 a.m.",
       "ETR": "Aug 11, 2:00 p.m.",
-      "CrewStatus": "On the way",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 11:30 a.m.",
+      "LastUpdated": "Aug 11, 12:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "de pere",
-          "CityCusts": 706,
-          "County": "outagamie",
-          "CountyCusts": 80078,
-          "Zip": "54115",
-          "ZipCusts": 705,
-          "Region": "fox valley wi",
-          "RegionCusts": 143293
+          "City": "elkhorn",
+          "CityCusts": 5973,
+          "County": "walworth",
+          "CountyCusts": 24216,
+          "Zip": "53121",
+          "ZipCusts": 5977,
+          "Region": "southeast wi",
+          "RegionCusts": 1073778
         }
       ]
     },
     {
-      "Latitude": 43.62358778204293,
-      "Longitude": -87.78164706456253,
-      "OffTime": "Aug 11, 10:37 a.m.",
-      "ETR": "Aug 11, 1:30 p.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 42.502982202239664,
+      "Longitude": -88.12013411651337,
+      "OffTime": "Aug 11, 12:04 p.m.",
+      "ETR": "Aug 11, 3:00 p.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 11:30 a.m.",
+      "LastUpdated": "Aug 11, 12:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "trevor",
+          "CityCusts": 2960,
+          "County": "kenosha",
+          "CountyCusts": 80153,
+          "Zip": "53179",
+          "ZipCusts": 2965,
+          "Region": "southeast wi",
+          "RegionCusts": 1073778
+        }
+      ]
+    },
+    {
+      "Latitude": 42.58242206135376,
+      "Longitude": -87.9565429141962,
+      "OffTime": "Aug 11, 12:19 p.m.",
+      "ETR": "Aug 11, 3:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 11, 12:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "oostburg",
-          "CityCusts": 2563,
-          "County": "sheboygan",
-          "CountyCusts": 14258,
-          "Zip": "53070",
-          "ZipCusts": 2561,
+          "City": "kenosha",
+          "CityCusts": 54307,
+          "County": "kenosha",
+          "CountyCusts": 80153,
+          "Zip": "53144",
+          "ZipCusts": 14032,
+          "Region": "southeast wi",
+          "RegionCusts": 1073778
+        }
+      ]
+    },
+    {
+      "Latitude": 43.13812453032638,
+      "Longitude": -88.04451727385145,
+      "OffTime": "Aug 11, 11:58 a.m.",
+      "ETR": "Aug 11, 3:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 11, 12:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "milwaukee",
+          "CityCusts": 352105,
+          "County": "milwaukee",
+          "CountyCusts": 479711,
+          "Zip": "53224",
+          "ZipCusts": 9522,
           "Region": "southeast wi",
           "RegionCusts": 1073778
         }
