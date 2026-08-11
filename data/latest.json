@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-08-11T06:34:10+00:00",
+  "captured_at": "2026-08-11T07:52:00+00:00",
   "events": [
     {
       "Latitude": 42.948858298741364,
       "Longitude": -87.96569396700396,
       "OffTime": "Aug 10, 11:10 p.m.",
-      "ETR": "Aug 11, 2:00 a.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "Assigned",
       "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Aug 11, 1:30 a.m.",
+      "LastUpdated": "Aug 11, 2:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -36,23 +36,23 @@
       ]
     },
     {
-      "Latitude": 43.17722834507153,
-      "Longitude": -88.11444114512466,
-      "OffTime": "Aug 11, 12:21 a.m.",
-      "ETR": "Aug 11, 3:00 a.m.",
-      "CrewStatus": "On site",
+      "Latitude": 43.08701396807868,
+      "Longitude": -88.01312464658972,
+      "OffTime": "Aug 11, 2:05 a.m.",
+      "ETR": "Aug 11, 5:00 a.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 1:30 a.m.",
+      "LastUpdated": "Aug 11, 2:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "menomonee fls",
-          "CityCusts": 15586,
-          "County": "waukesha",
-          "CountyCusts": 203416,
-          "Zip": "53051",
-          "ZipCusts": 21571,
+          "AffectedCusts": 26,
+          "City": "milwaukee",
+          "CityCusts": 352126,
+          "County": "milwaukee",
+          "CountyCusts": 479713,
+          "Zip": "53222",
+          "ZipCusts": 13594,
           "Region": "southeast wi",
           "RegionCusts": 1073769
         }
@@ -62,10 +62,10 @@
       "Latitude": 43.10446079305718,
       "Longitude": -87.96992111020145,
       "OffTime": "Aug 11, 12:24 a.m.",
-      "ETR": "Aug 11, 3:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 1:30 a.m.",
+      "ETR": "Aug 11, 4:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "",
+      "LastUpdated": "Aug 11, 2:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -82,23 +82,23 @@
       ]
     },
     {
-      "Latitude": 42.73589908116117,
-      "Longitude": -87.80649142097505,
-      "OffTime": "Aug 11, 12:22 a.m.",
-      "ETR": "Aug 11, 3:00 a.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 42.915924142416145,
+      "Longitude": -87.85580503422027,
+      "OffTime": "Aug 11, 2:38 a.m.",
+      "ETR": "Aug 11, 5:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 1:30 a.m.",
+      "LastUpdated": "Aug 11, 2:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 27,
-          "City": "racine",
-          "CityCusts": 58904,
-          "County": "racine",
-          "CountyCusts": 102441,
-          "Zip": "53404",
-          "ZipCusts": 7231,
+          "AffectedCusts": 1,
+          "City": "south milwaukee",
+          "CityCusts": 10359,
+          "County": "milwaukee",
+          "CountyCusts": 479713,
+          "Zip": "53172",
+          "ZipCusts": 10360,
           "Region": "southeast wi",
           "RegionCusts": 1073769
         }
@@ -108,10 +108,10 @@
       "Latitude": 42.678330593429706,
       "Longitude": -88.23671932868437,
       "OffTime": "Aug 10, 10:22 p.m.",
-      "ETR": "Aug 11, 4:00 a.m.",
+      "ETR": "Aug 11, 6:00 a.m.",
       "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 1:30 a.m.",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 11, 2:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -122,6 +122,29 @@
           "CountyCusts": 102441,
           "Zip": "53105",
           "ZipCusts": 15587,
+          "Region": "southeast wi",
+          "RegionCusts": 1073769
+        }
+      ]
+    },
+    {
+      "Latitude": 42.73589908116117,
+      "Longitude": -87.80649142097505,
+      "OffTime": "Aug 11, 12:22 a.m.",
+      "ETR": "Aug 11, 7:00 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Vehicle accident",
+      "LastUpdated": "Aug 11, 2:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 27,
+          "City": "racine",
+          "CityCusts": 58904,
+          "County": "racine",
+          "CountyCusts": 102441,
+          "Zip": "53404",
+          "ZipCusts": 7231,
           "Region": "southeast wi",
           "RegionCusts": 1073769
         }
