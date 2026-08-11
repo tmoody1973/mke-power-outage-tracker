@@ -1,47 +1,35 @@
 {
-  "captured_at": "2026-08-11T03:10:15+00:00",
+  "captured_at": "2026-08-11T04:37:17+00:00",
   "events": [
     {
-      "Latitude": 42.678330593429706,
-      "Longitude": -88.23671932868437,
-      "OffTime": "Aug 10, 9:39 p.m.",
-      "ETR": "Aug 11, 12:30 a.m.",
+      "Latitude": 42.948858298741364,
+      "Longitude": -87.96569396700396,
+      "OffTime": "Aug 10, 11:10 p.m.",
+      "ETR": "Aug 11, 2:00 a.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 10, 10:10 p.m.",
+      "LastUpdated": "Aug 10, 11:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "burlington",
-          "CityCusts": 15545,
-          "County": "racine",
-          "CountyCusts": 102441,
-          "Zip": "53105",
-          "ZipCusts": 15587,
-          "Region": "southeast wi",
-          "RegionCusts": 1073769
-        }
-      ]
-    },
-    {
-      "Latitude": 42.9673094939261,
-      "Longitude": -87.86244154956411,
-      "OffTime": "Aug 10, 10:07 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 10, 10:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "saint francis",
-          "CityCusts": 4861,
+          "City": "greenfield",
+          "CityCusts": 12570,
           "County": "milwaukee",
           "CountyCusts": 479713,
-          "Zip": "53235",
-          "ZipCusts": 5787,
+          "Zip": "53221",
+          "ZipCusts": 18453,
+          "Region": "southeast wi",
+          "RegionCusts": 1073769
+        },
+        {
+          "AffectedCusts": 3,
+          "City": "milwaukee",
+          "CityCusts": 352126,
+          "County": "milwaukee",
+          "CountyCusts": 479713,
+          "Zip": "53221",
+          "ZipCusts": 18453,
           "Region": "southeast wi",
           "RegionCusts": 1073769
         }
@@ -52,9 +40,9 @@
       "Longitude": -87.94393619235993,
       "OffTime": "Aug 10, 9:12 p.m.",
       "ETR": "Aug 11, 12:00 a.m.",
-      "CrewStatus": "On the way",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 10, 10:10 p.m.",
+      "LastUpdated": "Aug 10, 11:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -71,23 +59,23 @@
       ]
     },
     {
-      "Latitude": 42.989841838350884,
-      "Longitude": -88.04547172363733,
-      "OffTime": "Aug 10, 4:24 p.m.",
-      "ETR": "Aug 10, 10:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Aug 10, 10:10 p.m.",
+      "Latitude": 42.678330593429706,
+      "Longitude": -88.23671932868437,
+      "OffTime": "Aug 10, 10:22 p.m.",
+      "ETR": "Aug 11, 1:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 10, 11:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 2,
-          "City": "west allis",
-          "CityCusts": 15160,
-          "County": "milwaukee",
-          "CountyCusts": 479713,
-          "Zip": "53227",
-          "ZipCusts": 12594,
+          "AffectedCusts": 1,
+          "City": "burlington",
+          "CityCusts": 15545,
+          "County": "racine",
+          "CountyCusts": 102441,
+          "Zip": "53105",
+          "ZipCusts": 15587,
           "Region": "southeast wi",
           "RegionCusts": 1073769
         }
