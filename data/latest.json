@@ -1,6 +1,132 @@
 {
-  "captured_at": "2026-08-11T14:42:19+00:00",
+  "captured_at": "2026-08-11T15:38:25+00:00",
   "events": [
+    {
+      "Latitude": 46.022039942554,
+      "Longitude": -88.85291469651087,
+      "OffTime": "Aug 11, 10:01 a.m.",
+      "ETR": "Aug 11, 1:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 11, 10:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "alvin",
+          "CityCusts": 304,
+          "County": "forest",
+          "CountyCusts": 741,
+          "Zip": "54542",
+          "ZipCusts": 1176,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41381
+        }
+      ]
+    },
+    {
+      "Latitude": 42.989287118753005,
+      "Longitude": -87.90493443088364,
+      "OffTime": "Aug 11, 10:10 a.m.",
+      "ETR": "Aug 11, 1:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 11, 10:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 39,
+          "City": "milwaukee",
+          "CityCusts": 352105,
+          "County": "milwaukee",
+          "CountyCusts": 479711,
+          "Zip": "53207",
+          "ZipCusts": 20423,
+          "Region": "southeast wi",
+          "RegionCusts": 1073778
+        }
+      ]
+    },
+    {
+      "Latitude": 46.29245313404236,
+      "Longitude": -89.40240672211975,
+      "OffTime": "Aug 11, 10:22 a.m.",
+      "ETR": "Aug 11, 1:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 11, 10:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 6,
+          "City": "watersmeet",
+          "CityCusts": 2011,
+          "County": "gogebic",
+          "CountyCusts": 2016,
+          "Zip": "49969",
+          "ZipCusts": 2007,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41381
+        }
+      ]
+    },
+    {
+      "Latitude": 45.69401425015276,
+      "Longitude": -87.30565405461232,
+      "OffTime": "Aug 11, 8:49 a.m.",
+      "ETR": "Aug 11, 11:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 11, 10:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "bark river",
+          "CityCusts": 778,
+          "County": "delta",
+          "CountyCusts": 1711,
+          "Zip": "49807",
+          "ZipCusts": 943,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41381
+        }
+      ]
+    },
+    {
+      "Latitude": 44.32890560625277,
+      "Longitude": -88.34389189683992,
+      "OffTime": "Aug 11, 9:42 a.m.",
+      "ETR": "Aug 11, 12:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 11, 10:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 53,
+          "City": "appleton",
+          "CityCusts": 62917,
+          "County": "outagamie",
+          "CountyCusts": 80078,
+          "Zip": "54913",
+          "ZipCusts": 13890,
+          "Region": "fox valley wi",
+          "RegionCusts": 143293
+        },
+        {
+          "AffectedCusts": 24,
+          "City": "freedom",
+          "CityCusts": 1096,
+          "County": "outagamie",
+          "CountyCusts": 80078,
+          "Zip": "54913",
+          "ZipCusts": 13890,
+          "Region": "fox valley wi",
+          "RegionCusts": 143293
+        }
+      ]
+    },
     {
       "Latitude": 43.604375619423365,
       "Longitude": -87.99526881389275,
@@ -8,7 +134,7 @@
       "ETR": "Aug 11, 11:00 a.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 9:40 a.m.",
+      "LastUpdated": "Aug 11, 10:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,13 +151,47 @@
       ]
     },
     {
+      "Latitude": 44.32971073437597,
+      "Longitude": -88.34477981249375,
+      "OffTime": "Aug 11, 9:44 a.m.",
+      "ETR": "Aug 11, 12:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 11, 10:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 4,
+          "City": "appleton",
+          "CityCusts": 62917,
+          "County": "outagamie",
+          "CountyCusts": 80078,
+          "Zip": "54913",
+          "ZipCusts": 13890,
+          "Region": "fox valley wi",
+          "RegionCusts": 143293
+        },
+        {
+          "AffectedCusts": 4,
+          "City": "freedom",
+          "CityCusts": 1096,
+          "County": "outagamie",
+          "CountyCusts": 80078,
+          "Zip": "54913",
+          "ZipCusts": 13890,
+          "Region": "fox valley wi",
+          "RegionCusts": 143293
+        }
+      ]
+    },
+    {
       "Latitude": 43.615509881971164,
       "Longitude": -87.95417510592615,
       "OffTime": "Aug 11, 4:52 a.m.",
       "ETR": "Aug 11, 11:30 a.m.",
       "CrewStatus": "On site",
       "Cause": "Tree contact with We Energies equipment",
-      "LastUpdated": "Aug 11, 9:40 a.m.",
+      "LastUpdated": "Aug 11, 10:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -44,29 +204,6 @@
           "ZipCusts": 958,
           "Region": "southeast wi",
           "RegionCusts": 1073778
-        }
-      ]
-    },
-    {
-      "Latitude": 45.69401425015276,
-      "Longitude": -87.30565405461232,
-      "OffTime": "Aug 11, 8:49 a.m.",
-      "ETR": "Aug 11, 11:30 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 9:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "bark river",
-          "CityCusts": 778,
-          "County": "delta",
-          "CountyCusts": 1711,
-          "Zip": "49807",
-          "ZipCusts": 943,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41381
         }
       ]
     }
