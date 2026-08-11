@@ -1,24 +1,70 @@
 {
-  "captured_at": "2026-08-11T11:28:18+00:00",
+  "captured_at": "2026-08-11T12:08:51+00:00",
   "events": [
     {
-      "Latitude": 43.10001770876463,
-      "Longitude": -87.97000898492898,
-      "OffTime": "Aug 11, 6:14 a.m.",
-      "ETR": "Aug 11, 9:00 a.m.",
+      "Latitude": 43.604375619423365,
+      "Longitude": -87.99526881389275,
+      "OffTime": "Aug 11, 6:31 a.m.",
+      "ETR": "Aug 11, 9:30 a.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 6:20 a.m.",
+      "LastUpdated": "Aug 11, 7:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
+          "City": "adell",
+          "CityCusts": 959,
+          "County": "sheboygan",
+          "CountyCusts": 14258,
+          "Zip": "53001",
+          "ZipCusts": 958,
+          "Region": "southeast wi",
+          "RegionCusts": 1073778
+        }
+      ]
+    },
+    {
+      "Latitude": 43.0520279631635,
+      "Longitude": -87.97301495677928,
+      "OffTime": "Aug 11, 6:43 a.m.",
+      "ETR": "Aug 11, 9:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 11, 7:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 29,
           "City": "milwaukee",
           "CityCusts": 352105,
           "County": "milwaukee",
           "CountyCusts": 479711,
-          "Zip": "53218",
-          "ZipCusts": 17040,
+          "Zip": "53208",
+          "ZipCusts": 15448,
+          "Region": "southeast wi",
+          "RegionCusts": 1073778
+        }
+      ]
+    },
+    {
+      "Latitude": 43.630143928995366,
+      "Longitude": -88.0356689353543,
+      "OffTime": "Aug 11, 6:49 a.m.",
+      "ETR": "Aug 11, 9:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 11, 7:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "adell",
+          "CityCusts": 959,
+          "County": "sheboygan",
+          "CountyCusts": 14258,
+          "Zip": "53001",
+          "ZipCusts": 958,
           "Region": "southeast wi",
           "RegionCusts": 1073778
         }
@@ -31,28 +77,17 @@
       "ETR": "Aug 11, 8:00 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 11, 6:20 a.m.",
+      "LastUpdated": "Aug 11, 7:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 235,
+          "AffectedCusts": 86,
           "City": "adell",
           "CityCusts": 959,
           "County": "sheboygan",
           "CountyCusts": 14258,
           "Zip": "53001",
           "ZipCusts": 958,
-          "Region": "southeast wi",
-          "RegionCusts": 1073778
-        },
-        {
-          "AffectedCusts": 25,
-          "City": "cascade",
-          "CityCusts": 758,
-          "County": "sheboygan",
-          "CountyCusts": 14258,
-          "Zip": "53011",
-          "ZipCusts": 757,
           "Region": "southeast wi",
           "RegionCusts": 1073778
         }
@@ -62,10 +97,10 @@
       "Latitude": 42.73589908116117,
       "Longitude": -87.80649142097505,
       "OffTime": "Aug 11, 12:22 a.m.",
-      "ETR": "Aug 11, 7:00 a.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "Assigned",
       "Cause": "Vehicle accident",
-      "LastUpdated": "Aug 11, 6:20 a.m.",
+      "LastUpdated": "Aug 11, 7:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -82,58 +117,13 @@
       ]
     },
     {
-      "Latitude": 43.615509881971164,
-      "Longitude": -87.95417510592615,
-      "OffTime": "Aug 11, 4:56 a.m.",
-      "ETR": "Aug 11, 8:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 11, 6:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 177,
-          "City": "adell",
-          "CityCusts": 959,
-          "County": "sheboygan",
-          "CountyCusts": 14258,
-          "Zip": "53001",
-          "ZipCusts": 958,
-          "Region": "southeast wi",
-          "RegionCusts": 1073778
-        },
-        {
-          "AffectedCusts": 58,
-          "City": "cascade",
-          "CityCusts": 758,
-          "County": "sheboygan",
-          "CountyCusts": 14258,
-          "Zip": "53011",
-          "ZipCusts": 757,
-          "Region": "southeast wi",
-          "RegionCusts": 1073778
-        },
-        {
-          "AffectedCusts": 2,
-          "City": "waldo",
-          "CityCusts": 962,
-          "County": "sheboygan",
-          "CountyCusts": 14258,
-          "Zip": "53093",
-          "ZipCusts": 967,
-          "Region": "southeast wi",
-          "RegionCusts": 1073778
-        }
-      ]
-    },
-    {
       "Latitude": 43.08701396807868,
       "Longitude": -88.01312464658972,
       "OffTime": "Aug 11, 2:05 a.m.",
-      "ETR": "Aug 11, 7:00 a.m.",
+      "ETR": "Aug 11, 7:30 a.m.",
       "CrewStatus": "Specialized crew needed",
-      "Cause": "",
-      "LastUpdated": "Aug 11, 6:20 a.m.",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Aug 11, 7:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
