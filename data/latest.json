@@ -1,83 +1,14 @@
 {
-  "captured_at": "2026-08-11T23:00:19+00:00",
+  "captured_at": "2026-08-11T23:56:42+00:00",
   "events": [
-    {
-      "Latitude": 43.66008726750084,
-      "Longitude": -87.91939591027898,
-      "OffTime": "Aug 11, 2:34 p.m.",
-      "ETR": "Aug 11, 6:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 5:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "waldo",
-          "CityCusts": 962,
-          "County": "sheboygan",
-          "CountyCusts": 14258,
-          "Zip": "53093",
-          "ZipCusts": 967,
-          "Region": "southeast wi",
-          "RegionCusts": 1073778
-        }
-      ]
-    },
-    {
-      "Latitude": 43.02983604547054,
-      "Longitude": -89.10947695977644,
-      "OffTime": "Aug 11, 4:57 p.m.",
-      "ETR": "Aug 11, 8:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 11, 5:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "deerfield",
-          "CityCusts": 692,
-          "County": "dane",
-          "CountyCusts": 3386,
-          "Zip": "53531",
-          "ZipCusts": 692,
-          "Region": "southeast wi",
-          "RegionCusts": 1073778
-        }
-      ]
-    },
-    {
-      "Latitude": 44.40934524953322,
-      "Longitude": -88.79220800940917,
-      "OffTime": "Aug 11, 4:50 p.m.",
-      "ETR": "Aug 11, 7:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Aug 11, 5:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "new london",
-          "CityCusts": 3686,
-          "County": "waupaca",
-          "CountyCusts": 8901,
-          "Zip": "54961",
-          "ZipCusts": 3694,
-          "Region": "fox valley wi",
-          "RegionCusts": 143293
-        }
-      ]
-    },
     {
       "Latitude": 43.17640326648427,
       "Longitude": -88.71926981972753,
       "OffTime": "Aug 11, 4:42 p.m.",
       "ETR": "Aug 11, 7:30 p.m.",
-      "CrewStatus": "On the way",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 5:50 p.m.",
+      "LastUpdated": "Aug 11, 6:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -98,9 +29,9 @@
       "Longitude": -88.32037082956292,
       "OffTime": "Aug 11, 5:32 p.m.",
       "ETR": "Aug 11, 8:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 5:50 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 11, 6:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -111,6 +42,29 @@
           "CountyCusts": 80078,
           "Zip": "54915",
           "ZipCusts": 20163,
+          "Region": "fox valley wi",
+          "RegionCusts": 143293
+        }
+      ]
+    },
+    {
+      "Latitude": 44.40934524953322,
+      "Longitude": -88.79220800940917,
+      "OffTime": "Aug 11, 4:50 p.m.",
+      "ETR": "Aug 11, 7:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Aug 11, 6:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "new london",
+          "CityCusts": 3686,
+          "County": "waupaca",
+          "CountyCusts": 8901,
+          "Zip": "54961",
+          "ZipCusts": 3694,
           "Region": "fox valley wi",
           "RegionCusts": 143293
         }
