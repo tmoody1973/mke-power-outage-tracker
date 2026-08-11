@@ -1,27 +1,39 @@
 {
-  "captured_at": "2026-08-11T04:37:17+00:00",
+  "captured_at": "2026-08-11T05:40:38+00:00",
   "events": [
+    {
+      "Latitude": 43.17722834507153,
+      "Longitude": -88.11444114512466,
+      "OffTime": "Aug 11, 12:21 a.m.",
+      "ETR": "Aug 11, 3:00 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 11, 12:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "menomonee fls",
+          "CityCusts": 15586,
+          "County": "waukesha",
+          "CountyCusts": 203416,
+          "Zip": "53051",
+          "ZipCusts": 21571,
+          "Region": "southeast wi",
+          "RegionCusts": 1073769
+        }
+      ]
+    },
     {
       "Latitude": 42.948858298741364,
       "Longitude": -87.96569396700396,
       "OffTime": "Aug 10, 11:10 p.m.",
       "ETR": "Aug 11, 2:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 10, 11:30 p.m.",
+      "LastUpdated": "Aug 11, 12:40 a.m.",
       "IsGlobal": false,
       "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "greenfield",
-          "CityCusts": 12570,
-          "County": "milwaukee",
-          "CountyCusts": 479713,
-          "Zip": "53221",
-          "ZipCusts": 18453,
-          "Region": "southeast wi",
-          "RegionCusts": 1073769
-        },
         {
           "AffectedCusts": 3,
           "City": "milwaukee",
@@ -32,27 +44,61 @@
           "ZipCusts": 18453,
           "Region": "southeast wi",
           "RegionCusts": 1073769
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "greenfield",
+          "CityCusts": 12570,
+          "County": "milwaukee",
+          "CountyCusts": 479713,
+          "Zip": "53221",
+          "ZipCusts": 18453,
+          "Region": "southeast wi",
+          "RegionCusts": 1073769
         }
       ]
     },
     {
-      "Latitude": 43.21738796435929,
-      "Longitude": -87.94393619235993,
-      "OffTime": "Aug 10, 9:12 p.m.",
-      "ETR": "Aug 11, 12:00 a.m.",
-      "CrewStatus": "On site",
+      "Latitude": 42.73589908116117,
+      "Longitude": -87.80649142097505,
+      "OffTime": "Aug 11, 12:22 a.m.",
+      "ETR": "Aug 11, 3:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 10, 11:30 p.m.",
+      "LastUpdated": "Aug 11, 12:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "mequon",
-          "CityCusts": 12356,
-          "County": "ozaukee",
-          "CountyCusts": 42612,
-          "Zip": "53092",
-          "ZipCusts": 11525,
+          "AffectedCusts": 27,
+          "City": "racine",
+          "CityCusts": 58904,
+          "County": "racine",
+          "CountyCusts": 102441,
+          "Zip": "53404",
+          "ZipCusts": 7231,
+          "Region": "southeast wi",
+          "RegionCusts": 1073769
+        }
+      ]
+    },
+    {
+      "Latitude": 43.10446079305718,
+      "Longitude": -87.96992111020145,
+      "OffTime": "Aug 11, 12:24 a.m.",
+      "ETR": "Aug 11, 3:00 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 11, 12:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 125,
+          "City": "milwaukee",
+          "CityCusts": 352126,
+          "County": "milwaukee",
+          "CountyCusts": 479713,
+          "Zip": "53218",
+          "ZipCusts": 17042,
           "Region": "southeast wi",
           "RegionCusts": 1073769
         }
@@ -65,7 +111,7 @@
       "ETR": "Aug 11, 1:00 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 10, 11:30 p.m.",
+      "LastUpdated": "Aug 11, 12:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
