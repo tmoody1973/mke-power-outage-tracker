@@ -1,83 +1,14 @@
 {
-  "captured_at": "2026-08-12T01:27:38+00:00",
+  "captured_at": "2026-08-12T03:37:21+00:00",
   "events": [
-    {
-      "Latitude": 44.40934524953322,
-      "Longitude": -88.79220800940917,
-      "OffTime": "Aug 11, 4:50 p.m.",
-      "ETR": "Aug 11, 8:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Aug 11, 8:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "new london",
-          "CityCusts": 3686,
-          "County": "waupaca",
-          "CountyCusts": 8901,
-          "Zip": "54961",
-          "ZipCusts": 3694,
-          "Region": "fox valley wi",
-          "RegionCusts": 143293
-        }
-      ]
-    },
-    {
-      "Latitude": 43.110627095041266,
-      "Longitude": -88.07695344956582,
-      "OffTime": "Aug 11, 7:42 p.m.",
-      "ETR": "Aug 11, 10:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 8:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "menomonee fls",
-          "CityCusts": 15586,
-          "County": "waukesha",
-          "CountyCusts": 203428,
-          "Zip": "53051",
-          "ZipCusts": 21571,
-          "Region": "southeast wi",
-          "RegionCusts": 1073778
-        }
-      ]
-    },
-    {
-      "Latitude": 43.1430825001168,
-      "Longitude": -87.98813839079887,
-      "OffTime": "Aug 11, 8:03 p.m.",
-      "ETR": "Aug 11, 11:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 8:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352105,
-          "County": "milwaukee",
-          "CountyCusts": 479711,
-          "Zip": "53223",
-          "ZipCusts": 14099,
-          "Region": "southeast wi",
-          "RegionCusts": 1073778
-        }
-      ]
-    },
     {
       "Latitude": 42.75339152785509,
       "Longitude": -87.79553811335977,
       "OffTime": "Aug 11, 8:02 p.m.",
-      "ETR": "Aug 11, 11:00 p.m.",
+      "ETR": "Aug 12, 12:00 a.m.",
       "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 8:20 p.m.",
+      "Cause": "We Energies overhead line problem",
+      "LastUpdated": "Aug 11, 10:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -94,13 +25,36 @@
       ]
     },
     {
+      "Latitude": 44.784179322236916,
+      "Longitude": -88.41729804603376,
+      "OffTime": "Aug 11, 9:43 p.m.",
+      "ETR": "Aug 12, 12:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 11, 10:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "cecil",
+          "CityCusts": 1375,
+          "County": "shawano",
+          "CountyCusts": 8365,
+          "Zip": "54111",
+          "ZipCusts": 1377,
+          "Region": "fox valley wi",
+          "RegionCusts": 143293
+        }
+      ]
+    },
+    {
       "Latitude": 42.753038416549785,
       "Longitude": -87.79642063656456,
       "OffTime": "Aug 11, 7:02 p.m.",
-      "ETR": "Aug 11, 10:00 p.m.",
+      "ETR": "Aug 12, 12:00 a.m.",
       "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 8:20 p.m.",
+      "Cause": "We Energies overhead line problem",
+      "LastUpdated": "Aug 11, 10:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -111,29 +65,6 @@
           "CountyCusts": 102440,
           "Zip": "53402",
           "ZipCusts": 15999,
-          "Region": "southeast wi",
-          "RegionCusts": 1073778
-        }
-      ]
-    },
-    {
-      "Latitude": 43.08701396807868,
-      "Longitude": -88.01312464658972,
-      "OffTime": "Aug 11, 7:09 p.m.",
-      "ETR": "Aug 11, 10:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 11, 8:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352105,
-          "County": "milwaukee",
-          "CountyCusts": 479711,
-          "Zip": "53222",
-          "ZipCusts": 13594,
           "Region": "southeast wi",
           "RegionCusts": 1073778
         }
