@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-08-12T05:17:34+00:00",
+  "captured_at": "2026-08-12T06:51:15+00:00",
   "events": [
     {
       "Latitude": 44.784179322236916,
       "Longitude": -88.41729804603376,
       "OffTime": "Aug 11, 9:43 p.m.",
       "ETR": "Aug 12, 5:00 a.m.",
-      "CrewStatus": "On site",
+      "CrewStatus": "Assigned",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 12, 12:10 a.m.",
+      "LastUpdated": "Aug 12, 1:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,23 +25,23 @@
       ]
     },
     {
-      "Latitude": 43.141293996524475,
-      "Longitude": -87.95527472102866,
-      "OffTime": "Aug 11, 11:23 p.m.",
-      "ETR": "Aug 12, 2:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Aug 12, 12:10 a.m.",
+      "Latitude": 42.6982907579375,
+      "Longitude": -87.79529534735188,
+      "OffTime": "Aug 12, 12:16 a.m.",
+      "ETR": "Aug 12, 3:00 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 12, 1:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352105,
-          "County": "milwaukee",
-          "CountyCusts": 479711,
-          "Zip": "53209",
-          "ZipCusts": 23847,
+          "City": "racine",
+          "CityCusts": 58903,
+          "County": "racine",
+          "CountyCusts": 102440,
+          "Zip": "53403",
+          "ZipCusts": 14381,
           "Region": "southeast wi",
           "RegionCusts": 1073778
         }
