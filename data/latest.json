@@ -1,14 +1,60 @@
 {
-  "captured_at": "2026-08-12T10:41:15+00:00",
+  "captured_at": "2026-08-12T11:28:45+00:00",
   "events": [
+    {
+      "Latitude": 44.79815089636574,
+      "Longitude": -88.48086328324081,
+      "OffTime": "Aug 12, 6:18 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 12, 6:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "bonduel",
+          "CityCusts": 2055,
+          "County": "shawano",
+          "CountyCusts": 8366,
+          "Zip": "54107",
+          "ZipCusts": 2059,
+          "Region": "fox valley wi",
+          "RegionCusts": 143288
+        }
+      ]
+    },
+    {
+      "Latitude": 43.0003423597781,
+      "Longitude": -88.60134991317796,
+      "OffTime": "Aug 12, 6:01 a.m.",
+      "ETR": "Aug 12, 9:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 12, 6:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "sullivan",
+          "CityCusts": 1726,
+          "County": "jefferson",
+          "CountyCusts": 35182,
+          "Zip": "53178",
+          "ZipCusts": 1725,
+          "Region": "southeast wi",
+          "RegionCusts": 1073840
+        }
+      ]
+    },
     {
       "Latitude": 44.784179322236916,
       "Longitude": -88.41729804603376,
       "OffTime": "Aug 11, 9:43 p.m.",
       "ETR": "Aug 12, 9:00 a.m.",
-      "CrewStatus": "On site",
+      "CrewStatus": "Assigned",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 12, 5:40 a.m.",
+      "LastUpdated": "Aug 12, 6:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -19,29 +65,6 @@
           "CountyCusts": 8366,
           "Zip": "54111",
           "ZipCusts": 1378,
-          "Region": "fox valley wi",
-          "RegionCusts": 143288
-        }
-      ]
-    },
-    {
-      "Latitude": 44.35787718549195,
-      "Longitude": -88.36956551933247,
-      "OffTime": "Aug 12, 3:31 a.m.",
-      "ETR": "Aug 12, 6:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 12, 5:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "appleton",
-          "CityCusts": 62911,
-          "County": "outagamie",
-          "CountyCusts": 80072,
-          "Zip": "54913",
-          "ZipCusts": 13891,
           "Region": "fox valley wi",
           "RegionCusts": 143288
         }
