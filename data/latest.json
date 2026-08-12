@@ -1,14 +1,37 @@
 {
-  "captured_at": "2026-08-12T08:09:47+00:00",
+  "captured_at": "2026-08-12T09:30:26+00:00",
   "events": [
+    {
+      "Latitude": 43.43916754164404,
+      "Longitude": -87.87163088162598,
+      "OffTime": "Aug 12, 2:31 a.m.",
+      "ETR": "Aug 12, 5:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies overhead line problem",
+      "LastUpdated": "Aug 12, 4:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "port washington",
+          "CityCusts": 3227,
+          "County": "ozaukee",
+          "CountyCusts": 42613,
+          "Zip": "53074",
+          "ZipCusts": 7477,
+          "Region": "southeast wi",
+          "RegionCusts": 1073778
+        }
+      ]
+    },
     {
       "Latitude": 44.784179322236916,
       "Longitude": -88.41729804603376,
       "OffTime": "Aug 11, 9:43 p.m.",
-      "ETR": "Aug 12, 5:00 a.m.",
-      "CrewStatus": "Assigned",
+      "ETR": "Aug 12, 9:00 a.m.",
+      "CrewStatus": "On site",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 12, 3:00 a.m.",
+      "LastUpdated": "Aug 12, 4:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,71 +48,25 @@
       ]
     },
     {
-      "Latitude": 44.795313371724255,
-      "Longitude": -88.49623062596714,
-      "OffTime": "Aug 12, 2:39 a.m.",
-      "ETR": "Aug 12, 5:30 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 12, 3:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 13,
-          "City": "shawano",
-          "CityCusts": 2988,
-          "County": "shawano",
-          "CountyCusts": 8365,
-          "Zip": "54166",
-          "ZipCusts": 2988,
-          "Region": "fox valley wi",
-          "RegionCusts": 143293
-        }
-      ]
-    },
-    {
-      "Latitude": 42.6982907579375,
-      "Longitude": -87.79529534735188,
-      "OffTime": "Aug 12, 12:16 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "We Energies fuse problem",
-      "LastUpdated": "Aug 12, 3:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 58903,
-          "County": "racine",
-          "CountyCusts": 102440,
-          "Zip": "53403",
-          "ZipCusts": 14381,
-          "Region": "southeast wi",
-          "RegionCusts": 1073778
-        }
-      ]
-    },
-    {
-      "Latitude": 43.43916754164404,
-      "Longitude": -87.87163088162598,
-      "OffTime": "Aug 12, 2:31 a.m.",
-      "ETR": "Aug 12, 5:30 a.m.",
+      "Latitude": 44.35787718549195,
+      "Longitude": -88.36956551933247,
+      "OffTime": "Aug 12, 3:31 a.m.",
+      "ETR": "Aug 12, 6:30 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 12, 3:00 a.m.",
+      "LastUpdated": "Aug 12, 4:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "port washington",
-          "CityCusts": 3227,
-          "County": "ozaukee",
-          "CountyCusts": 42613,
-          "Zip": "53074",
-          "ZipCusts": 7477,
-          "Region": "southeast wi",
-          "RegionCusts": 1073778
+          "AffectedCusts": 2,
+          "City": "appleton",
+          "CityCusts": 62917,
+          "County": "outagamie",
+          "CountyCusts": 80078,
+          "Zip": "54913",
+          "ZipCusts": 13890,
+          "Region": "fox valley wi",
+          "RegionCusts": 143293
         }
       ]
     }
