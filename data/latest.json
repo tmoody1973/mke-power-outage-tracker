@@ -1,20 +1,54 @@
 {
-  "captured_at": "2026-08-12T22:09:01+00:00",
+  "captured_at": "2026-08-12T22:58:18+00:00",
   "events": [
+    {
+      "Latitude": 43.04078234760698,
+      "Longitude": -87.95053922373941,
+      "OffTime": "Aug 12, 5:35 p.m.",
+      "ETR": "Aug 12, 8:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 12, 5:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352101,
+          "County": "milwaukee",
+          "CountyCusts": 479722,
+          "Zip": "53208",
+          "ZipCusts": 15449,
+          "Region": "southeast wi",
+          "RegionCusts": 1073841
+        }
+      ]
+    },
     {
       "Latitude": 42.522180679128375,
       "Longitude": -87.82904433849212,
       "OffTime": "Aug 12, 2:56 p.m.",
-      "ETR": "Aug 12, 5:30 p.m.",
-      "CrewStatus": "On the way",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 12, 5:00 p.m.",
+      "LastUpdated": "Aug 12, 5:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
           "City": "pleasant prairie",
           "CityCusts": 3104,
+          "County": "kenosha",
+          "CountyCusts": 80154,
+          "Zip": "53158",
+          "ZipCusts": 9515,
+          "Region": "southeast wi",
+          "RegionCusts": 1073841
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "pleasant pr",
+          "CityCusts": 6399,
           "County": "kenosha",
           "CountyCusts": 80154,
           "Zip": "53158",
@@ -31,7 +65,7 @@
       "ETR": "Aug 12, 8:00 p.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 12, 5:00 p.m.",
+      "LastUpdated": "Aug 12, 5:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
