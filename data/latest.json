@@ -1,83 +1,37 @@
 {
-  "captured_at": "2026-08-12T17:39:45+00:00",
+  "captured_at": "2026-08-12T18:34:07+00:00",
   "events": [
     {
-      "Latitude": 42.66062543035539,
-      "Longitude": -87.87571055775723,
-      "OffTime": "Aug 12, 11:26 a.m.",
-      "ETR": "Aug 12, 2:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Aug 12, 12:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "kenosha",
-          "CityCusts": 54308,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53144",
-          "ZipCusts": 14032,
-          "Region": "southeast wi",
-          "RegionCusts": 1073840
-        }
-      ]
-    },
-    {
-      "Latitude": 42.63933715418694,
-      "Longitude": -88.28784021758432,
-      "OffTime": "Aug 12, 11:46 a.m.",
-      "ETR": "Aug 12, 2:30 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 44.15760130042915,
+      "Longitude": -88.44011610936298,
+      "OffTime": "Aug 12, 1:07 p.m.",
+      "ETR": "Aug 12, 4:00 p.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 12, 12:30 p.m.",
+      "LastUpdated": "Aug 12, 1:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "burlington",
-          "CityCusts": 15547,
-          "County": "racine",
-          "CountyCusts": 102462,
-          "Zip": "53105",
-          "ZipCusts": 15589,
-          "Region": "southeast wi",
-          "RegionCusts": 1073840
+          "City": "neenah",
+          "CityCusts": 21386,
+          "County": "winnebago",
+          "CountyCusts": 27748,
+          "Zip": "54956",
+          "ZipCusts": 21380,
+          "Region": "fox valley wi",
+          "RegionCusts": 143288
         }
       ]
     },
     {
-      "Latitude": 42.639308270372915,
-      "Longitude": -87.88128808381735,
-      "OffTime": "Aug 12, 12:19 p.m.",
-      "ETR": "Aug 12, 3:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 12, 12:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "somers",
-          "CityCusts": 84,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53171",
-          "ZipCusts": 51,
-          "Region": "southeast wi",
-          "RegionCusts": 1073840
-        }
-      ]
-    },
-    {
-      "Latitude": 43.073940971751924,
-      "Longitude": -87.94417094632071,
-      "OffTime": "Aug 12, 12:23 p.m.",
-      "ETR": "Aug 12, 3:00 p.m.",
+      "Latitude": 43.12388643955237,
+      "Longitude": -87.9604154659114,
+      "OffTime": "Aug 12, 1:25 p.m.",
+      "ETR": "Not yet determined",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 12, 12:30 p.m.",
+      "LastUpdated": "Aug 12, 1:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -86,8 +40,77 @@
           "CityCusts": 352101,
           "County": "milwaukee",
           "CountyCusts": 479722,
-          "Zip": "53206",
-          "ZipCusts": 10786,
+          "Zip": "53209",
+          "ZipCusts": 23844,
+          "Region": "southeast wi",
+          "RegionCusts": 1073840
+        }
+      ]
+    },
+    {
+      "Latitude": 42.69456046188929,
+      "Longitude": -87.90278535475652,
+      "OffTime": "Aug 12, 1:25 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 12, 1:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "sturtevant",
+          "CityCusts": 4033,
+          "County": "racine",
+          "CountyCusts": 102462,
+          "Zip": "53177",
+          "ZipCusts": 4696,
+          "Region": "southeast wi",
+          "RegionCusts": 1073840
+        }
+      ]
+    },
+    {
+      "Latitude": 42.61202085423439,
+      "Longitude": -88.07893497726734,
+      "OffTime": "Aug 12, 12:45 p.m.",
+      "ETR": "Aug 12, 3:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 12, 1:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "bristol",
+          "CityCusts": 3601,
+          "County": "kenosha",
+          "CountyCusts": 80154,
+          "Zip": "53104",
+          "ZipCusts": 3593,
+          "Region": "southeast wi",
+          "RegionCusts": 1073840
+        }
+      ]
+    },
+    {
+      "Latitude": 42.669218097398954,
+      "Longitude": -87.87585592829173,
+      "OffTime": "Aug 12, 1:27 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 12, 1:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 58905,
+          "County": "racine",
+          "CountyCusts": 102462,
+          "Zip": "53403",
+          "ZipCusts": 14381,
           "Region": "southeast wi",
           "RegionCusts": 1073840
         }
