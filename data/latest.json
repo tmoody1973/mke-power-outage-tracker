@@ -1,14 +1,37 @@
 {
-  "captured_at": "2026-08-13T11:27:29+00:00",
+  "captured_at": "2026-08-13T12:08:34+00:00",
   "events": [
+    {
+      "Latitude": 42.687863029235935,
+      "Longitude": -87.8339385417312,
+      "OffTime": "Aug 13, 5:54 a.m.",
+      "ETR": "Aug 13, 8:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 13, 7:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 58904,
+          "County": "racine",
+          "CountyCusts": 102464,
+          "Zip": "53405",
+          "ZipCusts": 11770,
+          "Region": "southeast wi",
+          "RegionCusts": 1073869
+        }
+      ]
+    },
     {
       "Latitude": 42.93425511977103,
       "Longitude": -88.9093213637162,
       "OffTime": "Aug 13, 4:03 a.m.",
-      "ETR": "Aug 13, 7:00 a.m.",
+      "ETR": "Aug 13, 8:30 a.m.",
       "CrewStatus": "On site",
       "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 13, 6:20 a.m.",
+      "LastUpdated": "Aug 13, 7:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,48 +48,25 @@
       ]
     },
     {
-      "Latitude": 43.038120844566805,
-      "Longitude": -87.95145890748503,
-      "OffTime": "Aug 13, 6:16 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 6:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352099,
-          "County": "milwaukee",
-          "CountyCusts": 479723,
-          "Zip": "53208",
-          "ZipCusts": 15445,
-          "Region": "southeast wi",
-          "RegionCusts": 1073869
-        }
-      ]
-    },
-    {
-      "Latitude": 42.687863029235935,
-      "Longitude": -87.8339385417312,
-      "OffTime": "Aug 13, 5:54 a.m.",
-      "ETR": "Aug 13, 8:30 a.m.",
+      "Latitude": 45.885912288144226,
+      "Longitude": -88.16058362100932,
+      "OffTime": "Aug 13, 6:38 a.m.",
+      "ETR": "Aug 13, 9:30 a.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 6:20 a.m.",
+      "LastUpdated": "Aug 13, 7:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 58904,
-          "County": "racine",
-          "CountyCusts": 102464,
-          "Zip": "53405",
-          "ZipCusts": 11770,
-          "Region": "southeast wi",
-          "RegionCusts": 1073869
+          "AffectedCusts": 110,
+          "City": "florence",
+          "CityCusts": 1531,
+          "County": "florence",
+          "CountyCusts": 3050,
+          "Zip": "54121",
+          "ZipCusts": 1539,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41383
         }
       ]
     }
