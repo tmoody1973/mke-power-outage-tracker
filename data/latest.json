@@ -1,128 +1,14 @@
 {
-  "captured_at": "2026-08-13T22:01:10+00:00",
+  "captured_at": "2026-08-13T22:59:14+00:00",
   "events": [
-    {
-      "Latitude": 43.47630226286251,
-      "Longitude": -87.98920274551422,
-      "OffTime": "Aug 13, 12:15 p.m.",
-      "ETR": "Aug 13, 8:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Aug 13, 5:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "fredonia",
-          "CityCusts": 2471,
-          "County": "ozaukee",
-          "CountyCusts": 42617,
-          "Zip": "53021",
-          "ZipCusts": 2531,
-          "Region": "southeast wi",
-          "RegionCusts": 1073869
-        }
-      ]
-    },
-    {
-      "Latitude": 45.651688429701565,
-      "Longitude": -87.52786670150027,
-      "OffTime": "Aug 13, 2:40 p.m.",
-      "ETR": "Aug 13, 5:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 5:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 11,
-          "City": "powers",
-          "CityCusts": 638,
-          "County": "menominee",
-          "CountyCusts": 2999,
-          "Zip": "49874",
-          "ZipCusts": 645,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41383
-        },
-        {
-          "AffectedCusts": 2,
-          "City": "spalding",
-          "CityCusts": 325,
-          "County": "menominee",
-          "CountyCusts": 2999,
-          "Zip": "49886",
-          "ZipCusts": 324,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41383
-        },
-        {
-          "AffectedCusts": 2,
-          "City": "carney",
-          "CityCusts": 308,
-          "County": "menominee",
-          "CountyCusts": 2999,
-          "Zip": "49812",
-          "ZipCusts": 312,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41383
-        }
-      ]
-    },
-    {
-      "Latitude": 43.0374376157423,
-      "Longitude": -87.9427402008679,
-      "OffTime": "Aug 13, 4:39 p.m.",
-      "ETR": "Aug 13, 7:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 5:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352099,
-          "County": "milwaukee",
-          "CountyCusts": 479723,
-          "Zip": "53233",
-          "ZipCusts": 6700,
-          "Region": "southeast wi",
-          "RegionCusts": 1073869
-        }
-      ]
-    },
-    {
-      "Latitude": 44.17793947546968,
-      "Longitude": -88.48479663405804,
-      "OffTime": "Aug 13, 4:34 p.m.",
-      "ETR": "Aug 13, 7:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 5:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "neenah",
-          "CityCusts": 21384,
-          "County": "winnebago",
-          "CountyCusts": 27744,
-          "Zip": "54956",
-          "ZipCusts": 21378,
-          "Region": "fox valley wi",
-          "RegionCusts": 143293
-        }
-      ]
-    },
     {
       "Latitude": 45.735161885603155,
       "Longitude": -88.03917190090101,
       "OffTime": "Aug 13, 4:55 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
+      "ETR": "Aug 13, 7:30 p.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 5:00 p.m.",
+      "LastUpdated": "Aug 13, 5:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -139,23 +25,125 @@
       ]
     },
     {
-      "Latitude": 46.138773306919965,
-      "Longitude": -89.38578135560455,
-      "OffTime": "Aug 13, 3:19 p.m.",
-      "ETR": "Aug 13, 6:00 p.m.",
+      "Latitude": 43.47630226286251,
+      "Longitude": -87.98920274551422,
+      "OffTime": "Aug 13, 12:15 p.m.",
+      "ETR": "Aug 13, 8:00 p.m.",
       "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 5:00 p.m.",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Aug 13, 5:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "land o lakes",
-          "CityCusts": 1707,
-          "County": "vilas",
-          "CountyCusts": 6267,
-          "Zip": "54540",
-          "ZipCusts": 1705,
+          "City": "fredonia",
+          "CityCusts": 2471,
+          "County": "ozaukee",
+          "CountyCusts": 42617,
+          "Zip": "53021",
+          "ZipCusts": 2531,
+          "Region": "southeast wi",
+          "RegionCusts": 1073869
+        }
+      ]
+    },
+    {
+      "Latitude": 43.4761118366421,
+      "Longitude": -87.98948478321114,
+      "OffTime": "Aug 13, 5:33 p.m.",
+      "ETR": "Aug 13, 8:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 13, 5:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 4,
+          "City": "waubeka",
+          "CityCusts": 65,
+          "County": "ozaukee",
+          "CountyCusts": 42617,
+          "Zip": "53021",
+          "ZipCusts": 2531,
+          "Region": "southeast wi",
+          "RegionCusts": 1073869
+        },
+        {
+          "AffectedCusts": 15,
+          "City": "fredonia",
+          "CityCusts": 2471,
+          "County": "ozaukee",
+          "CountyCusts": 42617,
+          "Zip": "53021",
+          "ZipCusts": 2531,
+          "Region": "southeast wi",
+          "RegionCusts": 1073869
+        }
+      ]
+    },
+    {
+      "Latitude": 43.0374376157423,
+      "Longitude": -87.9427402008679,
+      "OffTime": "Aug 13, 4:39 p.m.",
+      "ETR": "Aug 13, 7:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 13, 5:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352099,
+          "County": "milwaukee",
+          "CountyCusts": 479723,
+          "Zip": "53233",
+          "ZipCusts": 6700,
+          "Region": "southeast wi",
+          "RegionCusts": 1073869
+        }
+      ]
+    },
+    {
+      "Latitude": 45.651688429701565,
+      "Longitude": -87.52786670150027,
+      "OffTime": "Aug 13, 2:40 p.m.",
+      "ETR": "Aug 13, 6:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "We Energies overhead line problem",
+      "LastUpdated": "Aug 13, 5:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "spalding",
+          "CityCusts": 325,
+          "County": "menominee",
+          "CountyCusts": 2999,
+          "Zip": "49886",
+          "ZipCusts": 324,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41383
+        },
+        {
+          "AffectedCusts": 11,
+          "City": "powers",
+          "CityCusts": 638,
+          "County": "menominee",
+          "CountyCusts": 2999,
+          "Zip": "49874",
+          "ZipCusts": 645,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41383
+        },
+        {
+          "AffectedCusts": 2,
+          "City": "carney",
+          "CityCusts": 308,
+          "County": "menominee",
+          "CountyCusts": 2999,
+          "Zip": "49812",
+          "ZipCusts": 312,
           "Region": "upper peninsula mi",
           "RegionCusts": 41383
         }
