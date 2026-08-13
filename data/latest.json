@@ -1,139 +1,70 @@
 {
-  "captured_at": "2026-08-13T17:39:27+00:00",
+  "captured_at": "2026-08-13T18:35:28+00:00",
   "events": [
     {
-      "Latitude": 45.69506360250521,
-      "Longitude": -87.50951931910915,
-      "OffTime": "Aug 13, 11:40 a.m.",
-      "ETR": "Aug 13, 2:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 12:30 p.m.",
+      "Latitude": 42.54568950835234,
+      "Longitude": -87.8324518799496,
+      "OffTime": "Aug 13, 12:43 p.m.",
+      "ETR": "Aug 13, 3:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Aug 13, 1:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "spalding",
-          "CityCusts": 325,
-          "County": "menominee",
-          "CountyCusts": 2999,
-          "Zip": "49886",
-          "ZipCusts": 324,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41383
+          "AffectedCusts": 18,
+          "City": "kenosha",
+          "CityCusts": 54307,
+          "County": "kenosha",
+          "CountyCusts": 80153,
+          "Zip": "53143",
+          "ZipCusts": 10242,
+          "Region": "southeast wi",
+          "RegionCusts": 1073869
         }
       ]
     },
     {
-      "Latitude": 43.05887072671253,
-      "Longitude": -87.93566129170219,
-      "OffTime": "Aug 13, 12:22 p.m.",
-      "ETR": "Aug 13, 3:00 p.m.",
+      "Latitude": 43.14468173309887,
+      "Longitude": -89.05037627040359,
+      "OffTime": "Aug 13, 1:22 p.m.",
+      "ETR": "Aug 13, 4:00 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 12:30 p.m.",
+      "LastUpdated": "Aug 13, 1:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352099,
-          "County": "milwaukee",
-          "CountyCusts": 479723,
-          "Zip": "53205",
-          "ZipCusts": 4128,
+          "City": "marshall",
+          "CityCusts": 2693,
+          "County": "dane",
+          "CountyCusts": 3386,
+          "Zip": "53559",
+          "ZipCusts": 2695,
           "Region": "southeast wi",
           "RegionCusts": 1073869
         }
       ]
     },
     {
-      "Latitude": 42.919170969336584,
-      "Longitude": -88.1044350968996,
-      "OffTime": "Aug 13, 10:10 a.m.",
-      "ETR": "Aug 13, 1:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 12:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 51,
-          "City": "muskego",
-          "CityCusts": 12254,
-          "County": "waukesha",
-          "CountyCusts": 203460,
-          "Zip": "53150",
-          "ZipCusts": 12254,
-          "Region": "southeast wi",
-          "RegionCusts": 1073869
-        }
-      ]
-    },
-    {
-      "Latitude": 43.06216661589455,
-      "Longitude": -88.05207588219184,
-      "OffTime": "Aug 13, 12:09 p.m.",
-      "ETR": "Aug 13, 3:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 12:30 p.m.",
+      "Latitude": 43.181594407394996,
+      "Longitude": -89.10389409188652,
+      "OffTime": "Aug 13, 12:46 p.m.",
+      "ETR": "Aug 13, 3:30 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Aug 13, 1:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352099,
-          "County": "milwaukee",
-          "CountyCusts": 479723,
-          "Zip": "53226",
-          "ZipCusts": 11010,
-          "Region": "southeast wi",
-          "RegionCusts": 1073869
-        }
-      ]
-    },
-    {
-      "Latitude": 42.696224797407105,
-      "Longitude": -87.81770418230701,
-      "OffTime": "Aug 13, 11:08 a.m.",
-      "ETR": "Aug 13, 2:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 12:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 58904,
-          "County": "racine",
-          "CountyCusts": 102464,
-          "Zip": "53405",
-          "ZipCusts": 11770,
-          "Region": "southeast wi",
-          "RegionCusts": 1073869
-        }
-      ]
-    },
-    {
-      "Latitude": 43.02168929866957,
-      "Longitude": -87.9639245233909,
-      "OffTime": "Aug 13, 11:10 a.m.",
-      "ETR": "Aug 13, 2:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 12:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352099,
-          "County": "milwaukee",
-          "CountyCusts": 479723,
-          "Zip": "53215",
-          "ZipCusts": 22341,
+          "City": "marshall",
+          "CityCusts": 2693,
+          "County": "dane",
+          "CountyCusts": 3386,
+          "Zip": "53559",
+          "ZipCusts": 2695,
           "Region": "southeast wi",
           "RegionCusts": 1073869
         }
@@ -143,10 +74,10 @@
       "Latitude": 42.91236393015348,
       "Longitude": -88.8441849022635,
       "OffTime": "Aug 13, 10:52 a.m.",
-      "ETR": "Aug 13, 1:30 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Third-party damage",
-      "LastUpdated": "Aug 13, 12:30 p.m.",
+      "LastUpdated": "Aug 13, 1:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -159,6 +90,29 @@
           "ZipCusts": 10621,
           "Region": "southeast wi",
           "RegionCusts": 1073869
+        }
+      ]
+    },
+    {
+      "Latitude": 45.69506360250521,
+      "Longitude": -87.50951931910915,
+      "OffTime": "Aug 13, 11:40 a.m.",
+      "ETR": "Aug 13, 2:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 13, 1:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "spalding",
+          "CityCusts": 325,
+          "County": "menominee",
+          "CountyCusts": 2999,
+          "Zip": "49886",
+          "ZipCusts": 324,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41383
         }
       ]
     }
