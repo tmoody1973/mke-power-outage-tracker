@@ -1,93 +1,24 @@
 {
-  "captured_at": "2026-08-13T18:35:28+00:00",
+  "captured_at": "2026-08-13T19:42:41+00:00",
   "events": [
     {
-      "Latitude": 42.54568950835234,
-      "Longitude": -87.8324518799496,
-      "OffTime": "Aug 13, 12:43 p.m.",
-      "ETR": "Aug 13, 3:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Aug 13, 1:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 18,
-          "City": "kenosha",
-          "CityCusts": 54307,
-          "County": "kenosha",
-          "CountyCusts": 80153,
-          "Zip": "53143",
-          "ZipCusts": 10242,
-          "Region": "southeast wi",
-          "RegionCusts": 1073869
-        }
-      ]
-    },
-    {
-      "Latitude": 43.14468173309887,
-      "Longitude": -89.05037627040359,
-      "OffTime": "Aug 13, 1:22 p.m.",
-      "ETR": "Aug 13, 4:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 43.69696630071904,
+      "Longitude": -87.8002729560669,
+      "OffTime": "Aug 13, 2:35 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 1:30 p.m.",
+      "LastUpdated": "Aug 13, 2:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "marshall",
-          "CityCusts": 2693,
-          "County": "dane",
-          "CountyCusts": 3386,
-          "Zip": "53559",
-          "ZipCusts": 2695,
-          "Region": "southeast wi",
-          "RegionCusts": 1073869
-        }
-      ]
-    },
-    {
-      "Latitude": 43.181594407394996,
-      "Longitude": -89.10389409188652,
-      "OffTime": "Aug 13, 12:46 p.m.",
-      "ETR": "Aug 13, 3:30 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "We Energies equipment problem",
-      "LastUpdated": "Aug 13, 1:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "marshall",
-          "CityCusts": 2693,
-          "County": "dane",
-          "CountyCusts": 3386,
-          "Zip": "53559",
-          "ZipCusts": 2695,
-          "Region": "southeast wi",
-          "RegionCusts": 1073869
-        }
-      ]
-    },
-    {
-      "Latitude": 42.91236393015348,
-      "Longitude": -88.8441849022635,
-      "OffTime": "Aug 13, 10:52 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Aug 13, 1:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "fort atkinson",
-          "CityCusts": 10613,
-          "County": "jefferson",
-          "CountyCusts": 35184,
-          "Zip": "53538",
-          "ZipCusts": 10621,
+          "City": "sheboygan fls",
+          "CityCusts": 607,
+          "County": "sheboygan",
+          "CountyCusts": 14258,
+          "Zip": "53085",
+          "ZipCusts": 693,
           "Region": "southeast wi",
           "RegionCusts": 1073869
         }
@@ -97,10 +28,10 @@
       "Latitude": 45.69506360250521,
       "Longitude": -87.50951931910915,
       "OffTime": "Aug 13, 11:40 a.m.",
-      "ETR": "Aug 13, 2:30 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 1:30 p.m.",
+      "LastUpdated": "Aug 13, 2:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -113,6 +44,144 @@
           "ZipCusts": 324,
           "Region": "upper peninsula mi",
           "RegionCusts": 41383
+        }
+      ]
+    },
+    {
+      "Latitude": 43.036858833064265,
+      "Longitude": -87.9570727434615,
+      "OffTime": "Aug 13, 2:31 p.m.",
+      "ETR": "Aug 13, 5:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 13, 2:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352099,
+          "County": "milwaukee",
+          "CountyCusts": 479723,
+          "Zip": "53208",
+          "ZipCusts": 15445,
+          "Region": "southeast wi",
+          "RegionCusts": 1073869
+        }
+      ]
+    },
+    {
+      "Latitude": 42.92057363201165,
+      "Longitude": -88.21911660508033,
+      "OffTime": "Aug 13, 1:33 p.m.",
+      "ETR": "Aug 13, 4:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Aug 13, 2:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "big bend",
+          "CityCusts": 2123,
+          "County": "waukesha",
+          "CountyCusts": 203460,
+          "Zip": "53103",
+          "ZipCusts": 2126,
+          "Region": "southeast wi",
+          "RegionCusts": 1073869
+        }
+      ]
+    },
+    {
+      "Latitude": 42.84667934403835,
+      "Longitude": -88.32145490314413,
+      "OffTime": "Aug 13, 2:35 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 13, 2:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "mukwonago",
+          "CityCusts": 9887,
+          "County": "waukesha",
+          "CountyCusts": 203460,
+          "Zip": "53149",
+          "ZipCusts": 9903,
+          "Region": "southeast wi",
+          "RegionCusts": 1073869
+        }
+      ]
+    },
+    {
+      "Latitude": 42.770778740038956,
+      "Longitude": -87.81816996829461,
+      "OffTime": "Aug 13, 2:02 p.m.",
+      "ETR": "Aug 13, 5:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 13, 2:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 58904,
+          "County": "racine",
+          "CountyCusts": 102464,
+          "Zip": "53404",
+          "ZipCusts": 7232,
+          "Region": "southeast wi",
+          "RegionCusts": 1073869
+        }
+      ]
+    },
+    {
+      "Latitude": 43.47630226286251,
+      "Longitude": -87.98920274551422,
+      "OffTime": "Aug 13, 12:15 p.m.",
+      "ETR": "Aug 13, 3:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 13, 2:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "fredonia",
+          "CityCusts": 2471,
+          "County": "ozaukee",
+          "CountyCusts": 42617,
+          "Zip": "53021",
+          "ZipCusts": 2531,
+          "Region": "southeast wi",
+          "RegionCusts": 1073869
+        }
+      ]
+    },
+    {
+      "Latitude": 42.91236393015348,
+      "Longitude": -88.8441849022635,
+      "OffTime": "Aug 13, 10:52 a.m.",
+      "ETR": "Aug 13, 3:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Aug 13, 2:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 12,
+          "City": "fort atkinson",
+          "CityCusts": 10613,
+          "County": "jefferson",
+          "CountyCusts": 35184,
+          "Zip": "53538",
+          "ZipCusts": 10621,
+          "Region": "southeast wi",
+          "RegionCusts": 1073869
         }
       ]
     }
