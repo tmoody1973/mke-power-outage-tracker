@@ -1,37 +1,83 @@
 {
-  "captured_at": "2026-08-13T15:39:52+00:00",
+  "captured_at": "2026-08-13T16:33:09+00:00",
   "events": [
     {
-      "Latitude": 44.33019667377259,
-      "Longitude": -88.51653953287726,
-      "OffTime": "Aug 13, 7:01 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 13, 10:30 a.m.",
+      "Latitude": 42.545449046126166,
+      "Longitude": -87.83397399381073,
+      "OffTime": "Aug 13, 11:11 a.m.",
+      "ETR": "Aug 13, 2:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 13, 11:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 3,
-          "City": "appleton",
-          "CityCusts": 62910,
-          "County": "outagamie",
-          "CountyCusts": 80082,
-          "Zip": "54913",
-          "ZipCusts": 13893,
-          "Region": "fox valley wi",
-          "RegionCusts": 143292
+          "AffectedCusts": 37,
+          "City": "kenosha",
+          "CityCusts": 54307,
+          "County": "kenosha",
+          "CountyCusts": 80153,
+          "Zip": "53143",
+          "ZipCusts": 10242,
+          "Region": "southeast wi",
+          "RegionCusts": 1073869
         }
       ]
     },
     {
-      "Latitude": 42.756581242680674,
-      "Longitude": -87.78952282242894,
-      "OffTime": "Aug 13, 10:28 a.m.",
-      "ETR": "Not yet determined",
+      "Latitude": 43.05790842509294,
+      "Longitude": -87.96679923355752,
+      "OffTime": "Aug 13, 11:23 a.m.",
+      "ETR": "Aug 13, 2:00 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 10:30 a.m.",
+      "LastUpdated": "Aug 13, 11:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352099,
+          "County": "milwaukee",
+          "CountyCusts": 479723,
+          "Zip": "53208",
+          "ZipCusts": 15445,
+          "Region": "southeast wi",
+          "RegionCusts": 1073869
+        }
+      ]
+    },
+    {
+      "Latitude": 42.91236393015348,
+      "Longitude": -88.8441849022635,
+      "OffTime": "Aug 13, 10:52 a.m.",
+      "ETR": "Aug 13, 1:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 13, 11:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "fort atkinson",
+          "CityCusts": 10613,
+          "County": "jefferson",
+          "CountyCusts": 35184,
+          "Zip": "53538",
+          "ZipCusts": 10621,
+          "Region": "southeast wi",
+          "RegionCusts": 1073869
+        }
+      ]
+    },
+    {
+      "Latitude": 42.696224797407105,
+      "Longitude": -87.81770418230701,
+      "OffTime": "Aug 13, 11:08 a.m.",
+      "ETR": "Aug 13, 2:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 13, 11:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -40,178 +86,79 @@
           "CityCusts": 58904,
           "County": "racine",
           "CountyCusts": 102464,
-          "Zip": "53402",
-          "ZipCusts": 16000,
+          "Zip": "53405",
+          "ZipCusts": 11770,
           "Region": "southeast wi",
           "RegionCusts": 1073869
         }
       ]
     },
     {
-      "Latitude": 45.783455587367506,
-      "Longitude": -87.99759473299038,
-      "OffTime": "Aug 13, 7:18 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Assigned",
-      "Cause": "Squirrel contact with equipment",
-      "LastUpdated": "Aug 13, 10:30 a.m.",
+      "Latitude": 42.58719789113183,
+      "Longitude": -87.85929652271463,
+      "OffTime": "Aug 13, 11:24 a.m.",
+      "ETR": "Aug 13, 2:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 13, 11:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 2,
-          "City": "aurora",
-          "CityCusts": 7,
-          "County": "florence",
-          "CountyCusts": 3050,
-          "Zip": "54151",
-          "ZipCusts": 2265,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41383
-        },
-        {
-          "AffectedCusts": 332,
-          "City": "niagara",
-          "CityCusts": 2256,
-          "County": "florence",
-          "CountyCusts": 3050,
-          "Zip": "54151",
-          "ZipCusts": 2265,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41383
-        },
-        {
-          "AffectedCusts": 22,
-          "City": "pembine",
-          "CityCusts": 26,
-          "County": "marinette",
-          "CountyCusts": 1616,
-          "Zip": "54156",
-          "ZipCusts": 24,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41383
-        },
-        {
           "AffectedCusts": 1,
-          "City": "pembine",
-          "CityCusts": 26,
-          "County": "marinette",
-          "CountyCusts": 1616,
-          "Zip": "54119",
-          "ZipCusts": 1,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41383
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "pembine",
-          "CityCusts": 26,
-          "County": "marinette",
-          "CountyCusts": 1616,
-          "Zip": "54904",
-          "ZipCusts": 1,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41383
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "florence",
-          "CityCusts": 1531,
-          "County": "florence",
-          "CountyCusts": 3050,
-          "Zip": "54151",
-          "ZipCusts": 2265,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41383
-        },
-        {
-          "AffectedCusts": 725,
-          "City": "niagara",
-          "CityCusts": 2256,
-          "County": "marinette",
-          "CountyCusts": 1616,
-          "Zip": "54151",
-          "ZipCusts": 2265,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41383
+          "City": "kenosha",
+          "CityCusts": 54307,
+          "County": "kenosha",
+          "CountyCusts": 80153,
+          "Zip": "53144",
+          "ZipCusts": 14031,
+          "Region": "southeast wi",
+          "RegionCusts": 1073869
         }
       ]
     },
     {
-      "Latitude": 45.78344299411252,
-      "Longitude": -87.99759518402004,
-      "OffTime": "Aug 13, 7:18 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Assigned",
-      "Cause": "Squirrel contact with equipment",
-      "LastUpdated": "Aug 13, 10:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 561,
-          "City": "quinnesec",
-          "CityCusts": 623,
-          "County": "dickinson",
-          "CountyCusts": 14080,
-          "Zip": "49876",
-          "ZipCusts": 622,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41383
-        },
-        {
-          "AffectedCusts": 7,
-          "City": "iron mountain",
-          "CityCusts": 7096,
-          "County": "dickinson",
-          "CountyCusts": 14080,
-          "Zip": "49801",
-          "ZipCusts": 7097,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41383
-        },
-        {
-          "AffectedCusts": 67,
-          "City": "niagara",
-          "CityCusts": 2256,
-          "County": "marinette",
-          "CountyCusts": 1616,
-          "Zip": "54151",
-          "ZipCusts": 2265,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41383
-        }
-      ]
-    },
-    {
-      "Latitude": 45.783429501339306,
-      "Longitude": -87.99759566726573,
-      "OffTime": "Aug 13, 7:18 a.m.",
-      "ETR": "Aug 13, 11:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Squirrel contact with equipment",
-      "LastUpdated": "Aug 13, 10:30 a.m.",
+      "Latitude": 43.02168929866957,
+      "Longitude": -87.9639245233909,
+      "OffTime": "Aug 13, 11:10 a.m.",
+      "ETR": "Aug 13, 2:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 13, 11:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "niagara",
-          "CityCusts": 2256,
-          "County": "florence",
-          "CountyCusts": 3050,
-          "Zip": "54151",
-          "ZipCusts": 2265,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41383
-        },
+          "City": "milwaukee",
+          "CityCusts": 352099,
+          "County": "milwaukee",
+          "CountyCusts": 479723,
+          "Zip": "53215",
+          "ZipCusts": 22341,
+          "Region": "southeast wi",
+          "RegionCusts": 1073869
+        }
+      ]
+    },
+    {
+      "Latitude": 43.14468173309887,
+      "Longitude": -89.05037627040359,
+      "OffTime": "Aug 13, 11:25 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 13, 11:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
         {
-          "AffectedCusts": 440,
-          "City": "niagara",
-          "CityCusts": 2256,
-          "County": "marinette",
-          "CountyCusts": 1616,
-          "Zip": "54151",
-          "ZipCusts": 2265,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41383
+          "AffectedCusts": 1,
+          "City": "marshall",
+          "CityCusts": 2693,
+          "County": "dane",
+          "CountyCusts": 3386,
+          "Zip": "53559",
+          "ZipCusts": 2695,
+          "Region": "southeast wi",
+          "RegionCusts": 1073869
         }
       ]
     },
@@ -220,13 +167,13 @@
       "Longitude": -88.1044350968996,
       "OffTime": "Aug 13, 10:10 a.m.",
       "ETR": "Aug 13, 1:00 p.m.",
-      "CrewStatus": "On the way",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 10:30 a.m.",
+      "LastUpdated": "Aug 13, 11:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 50,
+          "AffectedCusts": 51,
           "City": "muskego",
           "CityCusts": 12254,
           "County": "waukesha",
@@ -239,71 +186,25 @@
       ]
     },
     {
-      "Latitude": 43.01243054677804,
-      "Longitude": -88.08156481383716,
-      "OffTime": "Aug 13, 9:11 a.m.",
-      "ETR": "Aug 13, 12:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 10:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 4,
-          "City": "new berlin",
-          "CityCusts": 20461,
-          "County": "waukesha",
-          "CountyCusts": 203460,
-          "Zip": "53151",
-          "ZipCusts": 16754,
-          "Region": "southeast wi",
-          "RegionCusts": 1073869
-        }
-      ]
-    },
-    {
-      "Latitude": 42.91862395983598,
-      "Longitude": -88.102562608136,
-      "OffTime": "Aug 13, 10:27 a.m.",
-      "ETR": "Not yet determined",
+      "Latitude": 45.76442926209791,
+      "Longitude": -88.06169605836007,
+      "OffTime": "Aug 13, 11:19 a.m.",
+      "ETR": "Aug 13, 2:00 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 10:30 a.m.",
+      "LastUpdated": "Aug 13, 11:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "muskego",
-          "CityCusts": 12254,
-          "County": "waukesha",
-          "CountyCusts": 203460,
-          "Zip": "53150",
-          "ZipCusts": 12254,
-          "Region": "southeast wi",
-          "RegionCusts": 1073869
-        }
-      ]
-    },
-    {
-      "Latitude": 43.19676380381659,
-      "Longitude": -88.72113203993997,
-      "OffTime": "Aug 13, 10:12 a.m.",
-      "ETR": "Aug 13, 1:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 10:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "watertown",
-          "CityCusts": 16247,
-          "County": "jefferson",
-          "CountyCusts": 35184,
-          "Zip": "53094",
-          "ZipCusts": 10260,
-          "Region": "southeast wi",
-          "RegionCusts": 1073869
+          "City": "niagara",
+          "CityCusts": 2256,
+          "County": "florence",
+          "CountyCusts": 3050,
+          "Zip": "54151",
+          "ZipCusts": 2265,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41383
         }
       ]
     }
