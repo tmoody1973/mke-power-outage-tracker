@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-08-14T00:43:09+00:00",
+  "captured_at": "2026-08-14T03:12:14+00:00",
   "events": [
     {
       "Latitude": 42.625600503947794,
       "Longitude": -87.90546360672873,
       "OffTime": "Aug 13, 7:33 p.m.",
-      "ETR": "Aug 13, 10:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 7:40 p.m.",
+      "ETR": "Aug 14, 2:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 13, 10:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -19,75 +19,6 @@
           "CountyCusts": 80153,
           "Zip": "53144",
           "ZipCusts": 14031,
-          "Region": "southeast wi",
-          "RegionCusts": 1073869
-        }
-      ]
-    },
-    {
-      "Latitude": 44.24239467931823,
-      "Longitude": -88.43521168003797,
-      "OffTime": "Aug 13, 6:25 p.m.",
-      "ETR": "Aug 13, 9:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 7:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62911,
-          "County": "winnebago",
-          "CountyCusts": 27744,
-          "Zip": "54915",
-          "ZipCusts": 20157,
-          "Region": "fox valley wi",
-          "RegionCusts": 143293
-        }
-      ]
-    },
-    {
-      "Latitude": 42.887166815459196,
-      "Longitude": -87.86733917323056,
-      "OffTime": "Aug 13, 5:59 p.m.",
-      "ETR": "Aug 13, 9:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 7:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 6,
-          "City": "oak creek",
-          "CityCusts": 19951,
-          "County": "milwaukee",
-          "CountyCusts": 479723,
-          "Zip": "53154",
-          "ZipCusts": 19943,
-          "Region": "southeast wi",
-          "RegionCusts": 1073869
-        }
-      ]
-    },
-    {
-      "Latitude": 43.06120240411352,
-      "Longitude": -87.90836984706858,
-      "OffTime": "Aug 13, 7:01 p.m.",
-      "ETR": "Aug 13, 10:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 7:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 19,
-          "City": "milwaukee",
-          "CityCusts": 352099,
-          "County": "milwaukee",
-          "CountyCusts": 479723,
-          "Zip": "53212",
-          "ZipCusts": 17011,
           "Region": "southeast wi",
           "RegionCusts": 1073869
         }
