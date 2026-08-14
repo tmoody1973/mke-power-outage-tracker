@@ -1,98 +1,6 @@
 {
-  "captured_at": "2026-08-14T22:57:57+00:00",
+  "captured_at": "2026-08-14T23:20:33+00:00",
   "events": [
-    {
-      "Latitude": 42.554459194122146,
-      "Longitude": -87.93362128941722,
-      "OffTime": "Aug 14, 5:35 p.m.",
-      "ETR": "Aug 14, 8:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 14, 5:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "pleasant pr",
-          "CityCusts": 6399,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53158",
-          "ZipCusts": 9515,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 42.8988779657703,
-      "Longitude": -87.97986821910715,
-      "OffTime": "Aug 14, 3:45 p.m.",
-      "ETR": "Aug 14, 7:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 14, 5:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 5,
-          "City": "franklin",
-          "CityCusts": 17458,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53132",
-          "ZipCusts": 17459,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 44.30401133242889,
-      "Longitude": -89.08880509307386,
-      "OffTime": "Aug 14, 5:22 p.m.",
-      "ETR": "Aug 14, 8:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 14, 5:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "waupaca",
-          "CityCusts": 945,
-          "County": "waupaca",
-          "CountyCusts": 8903,
-          "Zip": "54981",
-          "ZipCusts": 948,
-          "Region": "fox valley wi",
-          "RegionCusts": 143306
-        }
-      ]
-    },
-    {
-      "Latitude": 42.89481029447334,
-      "Longitude": -87.9775124094171,
-      "OffTime": "Aug 14, 4:02 p.m.",
-      "ETR": "Aug 14, 7:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 14, 5:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "franklin",
-          "CityCusts": 17458,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53132",
-          "ZipCusts": 17459,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
     {
       "Latitude": 42.72952918819362,
       "Longitude": -87.81563992279096,
@@ -100,7 +8,7 @@
       "ETR": "Aug 14, 8:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 14, 5:50 p.m.",
+      "LastUpdated": "Aug 14, 6:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -117,13 +25,82 @@
       ]
     },
     {
+      "Latitude": 44.30401133242889,
+      "Longitude": -89.08880509307386,
+      "OffTime": "Aug 14, 5:22 p.m.",
+      "ETR": "Aug 14, 8:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 14, 6:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "waupaca",
+          "CityCusts": 945,
+          "County": "waupaca",
+          "CountyCusts": 8903,
+          "Zip": "54981",
+          "ZipCusts": 948,
+          "Region": "fox valley wi",
+          "RegionCusts": 143306
+        }
+      ]
+    },
+    {
+      "Latitude": 42.8988779657703,
+      "Longitude": -87.97986821910715,
+      "OffTime": "Aug 14, 3:45 p.m.",
+      "ETR": "Aug 14, 7:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 14, 6:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 5,
+          "City": "franklin",
+          "CityCusts": 17458,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53132",
+          "ZipCusts": 17459,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 42.554459194122146,
+      "Longitude": -87.93362128941722,
+      "OffTime": "Aug 14, 5:35 p.m.",
+      "ETR": "Aug 14, 8:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 14, 6:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "pleasant pr",
+          "CityCusts": 6399,
+          "County": "kenosha",
+          "CountyCusts": 80154,
+          "Zip": "53158",
+          "ZipCusts": 9515,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
       "Latitude": 42.559315516347134,
       "Longitude": -87.84937246743885,
       "OffTime": "Aug 14, 4:23 p.m.",
       "ETR": "Aug 14, 7:00 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 14, 5:50 p.m.",
+      "LastUpdated": "Aug 14, 6:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -144,9 +121,9 @@
       "Longitude": -88.10802523510894,
       "OffTime": "Aug 14, 4:19 p.m.",
       "ETR": "Aug 14, 7:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 14, 5:50 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Aug 14, 6:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -157,6 +134,29 @@
           "CountyCusts": 61656,
           "Zip": "53040",
           "ZipCusts": 4414,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 42.89481029447334,
+      "Longitude": -87.9775124094171,
+      "OffTime": "Aug 14, 4:02 p.m.",
+      "ETR": "Aug 14, 7:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 14, 6:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "franklin",
+          "CityCusts": 17458,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53132",
+          "ZipCusts": 17459,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
