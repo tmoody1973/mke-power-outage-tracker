@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-08-14T03:12:14+00:00",
+  "captured_at": "2026-08-14T05:01:11+00:00",
   "events": [
     {
       "Latitude": 42.625600503947794,
       "Longitude": -87.90546360672873,
       "OffTime": "Aug 13, 7:33 p.m.",
       "ETR": "Aug 14, 2:00 a.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On site",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 13, 10:10 p.m.",
+      "LastUpdated": "Aug 14, 12:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -19,6 +19,29 @@
           "CountyCusts": 80153,
           "Zip": "53144",
           "ZipCusts": 14031,
+          "Region": "southeast wi",
+          "RegionCusts": 1073869
+        }
+      ]
+    },
+    {
+      "Latitude": 43.07624894412735,
+      "Longitude": -87.93168882141107,
+      "OffTime": "Aug 13, 11:50 p.m.",
+      "ETR": "Aug 14, 2:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 14, 12:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352099,
+          "County": "milwaukee",
+          "CountyCusts": 479723,
+          "Zip": "53206",
+          "ZipCusts": 10784,
           "Region": "southeast wi",
           "RegionCusts": 1073869
         }
