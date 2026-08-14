@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-08-14T13:38:38+00:00",
+  "captured_at": "2026-08-14T14:37:06+00:00",
   "events": [
     {
       "Latitude": 43.082459831297996,
       "Longitude": -87.8809435865821,
       "OffTime": "Aug 14, 3:39 a.m.",
-      "ETR": "Aug 14, 9:00 a.m.",
-      "CrewStatus": "Assigned",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Specialized crew needed",
       "Cause": "We Energies equipment problem",
-      "LastUpdated": "Aug 14, 8:30 a.m.",
+      "LastUpdated": "Aug 14, 9:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,13 +25,13 @@
       ]
     },
     {
-      "Latitude": 42.860335909020435,
-      "Longitude": -88.23474727329425,
+      "Latitude": 42.8614609358672,
+      "Longitude": -88.23564306376755,
       "OffTime": "Aug 14, 8:18 a.m.",
       "ETR": "Aug 14, 11:00 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 14, 8:30 a.m.",
+      "LastUpdated": "Aug 14, 9:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,13 +48,36 @@
       ]
     },
     {
+      "Latitude": 43.02461221427299,
+      "Longitude": -87.93558642613978,
+      "OffTime": "Aug 14, 9:29 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 14, 9:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352121,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53204",
+          "ZipCusts": 17656,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
       "Latitude": 43.43559129024067,
       "Longitude": -88.15229713466499,
       "OffTime": "Aug 14, 7:59 a.m.",
       "ETR": "Aug 14, 11:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 14, 8:30 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 14, 9:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -71,25 +94,25 @@
       ]
     },
     {
-      "Latitude": 44.322854026529114,
-      "Longitude": -88.81832123871467,
-      "OffTime": "Aug 14, 4:23 a.m.",
-      "ETR": "Aug 14, 9:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 14, 8:30 a.m.",
+      "Latitude": 42.54369215915704,
+      "Longitude": -87.83454745784955,
+      "OffTime": "Aug 14, 9:26 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 14, 9:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 9,
-          "City": "new london",
-          "CityCusts": 3688,
-          "County": "waupaca",
-          "CountyCusts": 8903,
-          "Zip": "54961",
-          "ZipCusts": 3696,
-          "Region": "fox valley wi",
-          "RegionCusts": 143306
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54307,
+          "County": "kenosha",
+          "CountyCusts": 80154,
+          "Zip": "53143",
+          "ZipCusts": 10243,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
         }
       ]
     }
