@@ -1,37 +1,14 @@
 {
-  "captured_at": "2026-08-14T12:05:14+00:00",
+  "captured_at": "2026-08-14T13:38:38+00:00",
   "events": [
-    {
-      "Latitude": 44.322854026529114,
-      "Longitude": -88.81832123871467,
-      "OffTime": "Aug 14, 4:23 a.m.",
-      "ETR": "Aug 14, 9:30 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 14, 7:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 9,
-          "City": "new london",
-          "CityCusts": 3688,
-          "County": "waupaca",
-          "CountyCusts": 8903,
-          "Zip": "54961",
-          "ZipCusts": 3696,
-          "Region": "fox valley wi",
-          "RegionCusts": 143306
-        }
-      ]
-    },
     {
       "Latitude": 43.082459831297996,
       "Longitude": -87.8809435865821,
       "OffTime": "Aug 14, 3:39 a.m.",
-      "ETR": "Aug 14, 8:00 a.m.",
+      "ETR": "Aug 14, 9:00 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "We Energies equipment problem",
-      "LastUpdated": "Aug 14, 7:00 a.m.",
+      "LastUpdated": "Aug 14, 8:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -44,6 +21,75 @@
           "ZipCusts": 18152,
           "Region": "southeast wi",
           "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 42.860335909020435,
+      "Longitude": -88.23474727329425,
+      "OffTime": "Aug 14, 8:18 a.m.",
+      "ETR": "Aug 14, 11:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 14, 8:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 18,
+          "City": "big bend",
+          "CityCusts": 2122,
+          "County": "waukesha",
+          "CountyCusts": 203456,
+          "Zip": "53103",
+          "ZipCusts": 2125,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 43.43559129024067,
+      "Longitude": -88.15229713466499,
+      "OffTime": "Aug 14, 7:59 a.m.",
+      "ETR": "Aug 14, 11:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 14, 8:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "west bend",
+          "CityCusts": 26115,
+          "County": "washington",
+          "CountyCusts": 61656,
+          "Zip": "53090",
+          "ZipCusts": 10558,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 44.322854026529114,
+      "Longitude": -88.81832123871467,
+      "OffTime": "Aug 14, 4:23 a.m.",
+      "ETR": "Aug 14, 9:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Aug 14, 8:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 9,
+          "City": "new london",
+          "CityCusts": 3688,
+          "County": "waupaca",
+          "CountyCusts": 8903,
+          "Zip": "54961",
+          "ZipCusts": 3696,
+          "Region": "fox valley wi",
+          "RegionCusts": 143306
         }
       ]
     }
