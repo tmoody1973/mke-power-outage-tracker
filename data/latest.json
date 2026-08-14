@@ -1,24 +1,24 @@
 {
-  "captured_at": "2026-08-14T16:23:37+00:00",
+  "captured_at": "2026-08-14T17:24:06+00:00",
   "events": [
     {
-      "Latitude": 43.07910710870175,
-      "Longitude": -88.4834087683868,
-      "OffTime": "Aug 14, 11:10 a.m.",
-      "ETR": "Aug 14, 2:00 p.m.",
-      "CrewStatus": "On the way",
+      "Latitude": 43.00694002384594,
+      "Longitude": -88.03837020703179,
+      "OffTime": "Aug 14, 12:16 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 14, 11:20 a.m.",
+      "LastUpdated": "Aug 14, 12:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 6,
-          "City": "oconomowoc",
-          "CityCusts": 8553,
-          "County": "waukesha",
-          "CountyCusts": 203456,
-          "Zip": "53066",
-          "ZipCusts": 8878,
+          "AffectedCusts": 1,
+          "City": "west allis",
+          "CityCusts": 15160,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53227",
+          "ZipCusts": 12593,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
@@ -29,9 +29,9 @@
       "Longitude": -88.00886417671984,
       "OffTime": "Aug 14, 9:55 a.m.",
       "ETR": "Aug 14, 2:00 p.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On the way",
       "Cause": "We Energies equipment problem",
-      "LastUpdated": "Aug 14, 11:20 a.m.",
+      "LastUpdated": "Aug 14, 12:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,46 +48,46 @@
       ]
     },
     {
-      "Latitude": 43.59562904000617,
-      "Longitude": -88.00111562617978,
-      "OffTime": "Aug 14, 10:59 a.m.",
-      "ETR": "Aug 14, 2:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 43.038120844566805,
+      "Longitude": -87.95145890748503,
+      "OffTime": "Aug 14, 11:37 a.m.",
+      "ETR": "Aug 14, 2:30 p.m.",
+      "CrewStatus": "Specialized crew needed",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 14, 11:20 a.m.",
+      "LastUpdated": "Aug 14, 12:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "adell",
-          "CityCusts": 959,
-          "County": "sheboygan",
-          "CountyCusts": 14257,
-          "Zip": "53001",
-          "ZipCusts": 958,
+          "City": "milwaukee",
+          "CityCusts": 352121,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53208",
+          "ZipCusts": 15445,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
       ]
     },
     {
-      "Latitude": 43.10999817576718,
-      "Longitude": -87.96199895613907,
-      "OffTime": "Aug 14, 10:01 a.m.",
-      "ETR": "Aug 14, 1:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 14, 11:20 a.m.",
+      "Latitude": 43.573505836943376,
+      "Longitude": -87.9524080365167,
+      "OffTime": "Aug 14, 11:58 a.m.",
+      "ETR": "Aug 14, 3:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 14, 12:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 10,
-          "City": "milwaukee",
-          "CityCusts": 352121,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53209",
-          "ZipCusts": 23870,
+          "AffectedCusts": 1,
+          "City": "random lake",
+          "CityCusts": 1904,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53075",
+          "ZipCusts": 1907,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
@@ -98,9 +98,9 @@
       "Longitude": -88.23564306376755,
       "OffTime": "Aug 14, 8:18 a.m.",
       "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "Specialized crew needed",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 14, 11:20 a.m.",
+      "LastUpdated": "Aug 14, 12:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -117,25 +117,94 @@
       ]
     },
     {
-      "Latitude": 44.32403008003048,
-      "Longitude": -88.8147848252421,
-      "OffTime": "Aug 14, 10:57 a.m.",
+      "Latitude": 43.10999817576718,
+      "Longitude": -87.96199895613907,
+      "OffTime": "Aug 14, 10:01 a.m.",
+      "ETR": "Aug 14, 1:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Aug 14, 12:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 10,
+          "City": "milwaukee",
+          "CityCusts": 352121,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53209",
+          "ZipCusts": 23870,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 43.07910710870175,
+      "Longitude": -88.4834087683868,
+      "OffTime": "Aug 14, 11:10 a.m.",
       "ETR": "Aug 14, 2:00 p.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 14, 11:20 a.m.",
+      "LastUpdated": "Aug 14, 12:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 6,
+          "City": "oconomowoc",
+          "CityCusts": 8553,
+          "County": "waukesha",
+          "CountyCusts": 203456,
+          "Zip": "53066",
+          "ZipCusts": 8878,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 43.105234499714754,
+      "Longitude": -87.97496235186918,
+      "OffTime": "Aug 14, 12:16 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 14, 12:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "new london",
-          "CityCusts": 3688,
-          "County": "waupaca",
-          "CountyCusts": 8903,
-          "Zip": "54961",
-          "ZipCusts": 3696,
-          "Region": "fox valley wi",
-          "RegionCusts": 143306
+          "City": "milwaukee",
+          "CityCusts": 352121,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53218",
+          "ZipCusts": 17041,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 43.59562904000617,
+      "Longitude": -88.00111562617978,
+      "OffTime": "Aug 14, 10:59 a.m.",
+      "ETR": "Aug 14, 2:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 14, 12:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "adell",
+          "CityCusts": 959,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53001",
+          "ZipCusts": 958,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
         }
       ]
     }
