@@ -1,24 +1,24 @@
 {
-  "captured_at": "2026-08-13T23:43:01+00:00",
+  "captured_at": "2026-08-14T00:43:09+00:00",
   "events": [
     {
-      "Latitude": 42.887166815459196,
-      "Longitude": -87.86733917323056,
-      "OffTime": "Aug 13, 5:59 p.m.",
-      "ETR": "Aug 13, 9:00 p.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 42.625600503947794,
+      "Longitude": -87.90546360672873,
+      "OffTime": "Aug 13, 7:33 p.m.",
+      "ETR": "Aug 13, 10:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 6:40 p.m.",
+      "LastUpdated": "Aug 13, 7:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 6,
-          "City": "oak creek",
-          "CityCusts": 19951,
-          "County": "milwaukee",
-          "CountyCusts": 479723,
-          "Zip": "53154",
-          "ZipCusts": 19943,
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54307,
+          "County": "kenosha",
+          "CountyCusts": 80153,
+          "Zip": "53144",
+          "ZipCusts": 14031,
           "Region": "southeast wi",
           "RegionCusts": 1073869
         }
@@ -31,7 +31,7 @@
       "ETR": "Aug 13, 9:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 6:40 p.m.",
+      "LastUpdated": "Aug 13, 7:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,120 +48,40 @@
       ]
     },
     {
-      "Latitude": 43.47630226286251,
-      "Longitude": -87.98920274551422,
-      "OffTime": "Aug 13, 12:15 p.m.",
-      "ETR": "Aug 13, 8:00 p.m.",
+      "Latitude": 42.887166815459196,
+      "Longitude": -87.86733917323056,
+      "OffTime": "Aug 13, 5:59 p.m.",
+      "ETR": "Aug 13, 9:00 p.m.",
       "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Aug 13, 6:40 p.m.",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 13, 7:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "fredonia",
-          "CityCusts": 2471,
-          "County": "ozaukee",
-          "CountyCusts": 42617,
-          "Zip": "53021",
-          "ZipCusts": 2531,
+          "AffectedCusts": 6,
+          "City": "oak creek",
+          "CityCusts": 19951,
+          "County": "milwaukee",
+          "CountyCusts": 479723,
+          "Zip": "53154",
+          "ZipCusts": 19943,
           "Region": "southeast wi",
           "RegionCusts": 1073869
         }
       ]
     },
     {
-      "Latitude": 44.17357764758811,
-      "Longitude": -88.47500227453263,
-      "OffTime": "Aug 13, 6:05 p.m.",
-      "ETR": "Aug 13, 9:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 6:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "neenah",
-          "CityCusts": 21384,
-          "County": "winnebago",
-          "CountyCusts": 27744,
-          "Zip": "54956",
-          "ZipCusts": 21378,
-          "Region": "fox valley wi",
-          "RegionCusts": 143293
-        }
-      ]
-    },
-    {
-      "Latitude": 43.4761118366421,
-      "Longitude": -87.98948478321114,
-      "OffTime": "Aug 13, 5:33 p.m.",
-      "ETR": "Aug 13, 8:30 p.m.",
+      "Latitude": 43.06120240411352,
+      "Longitude": -87.90836984706858,
+      "OffTime": "Aug 13, 7:01 p.m.",
+      "ETR": "Aug 13, 10:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 6:40 p.m.",
+      "LastUpdated": "Aug 13, 7:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 15,
-          "City": "fredonia",
-          "CityCusts": 2471,
-          "County": "ozaukee",
-          "CountyCusts": 42617,
-          "Zip": "53021",
-          "ZipCusts": 2531,
-          "Region": "southeast wi",
-          "RegionCusts": 1073869
-        },
-        {
-          "AffectedCusts": 4,
-          "City": "waubeka",
-          "CityCusts": 65,
-          "County": "ozaukee",
-          "CountyCusts": 42617,
-          "Zip": "53021",
-          "ZipCusts": 2531,
-          "Region": "southeast wi",
-          "RegionCusts": 1073869
-        }
-      ]
-    },
-    {
-      "Latitude": 43.5995614764106,
-      "Longitude": -88.27873937403996,
-      "OffTime": "Aug 13, 6:35 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 6:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "campbellsport",
-          "CityCusts": 3459,
-          "County": "fond du lac",
-          "CountyCusts": 6942,
-          "Zip": "53010",
-          "ZipCusts": 3457,
-          "Region": "southeast wi",
-          "RegionCusts": 1073869
-        }
-      ]
-    },
-    {
-      "Latitude": 43.06902395266899,
-      "Longitude": -87.91434667344613,
-      "OffTime": "Aug 13, 6:09 p.m.",
-      "ETR": "Aug 13, 9:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 6:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
+          "AffectedCusts": 19,
           "City": "milwaukee",
           "CityCusts": 352099,
           "County": "milwaukee",
@@ -170,29 +90,6 @@
           "ZipCusts": 17011,
           "Region": "southeast wi",
           "RegionCusts": 1073869
-        }
-      ]
-    },
-    {
-      "Latitude": 46.08742097612352,
-      "Longitude": -88.03733234270804,
-      "OffTime": "Aug 13, 6:01 p.m.",
-      "ETR": "Aug 13, 9:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 13, 6:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "sagola",
-          "CityCusts": 409,
-          "County": "dickinson",
-          "CountyCusts": 14080,
-          "Zip": "49881",
-          "ZipCusts": 402,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41383
         }
       ]
     }
