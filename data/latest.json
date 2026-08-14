@@ -1,60 +1,14 @@
 {
-  "captured_at": "2026-08-14T21:16:54+00:00",
+  "captured_at": "2026-08-14T21:46:32+00:00",
   "events": [
     {
-      "Latitude": 43.12513005731865,
-      "Longitude": -88.1983064448091,
-      "OffTime": "Aug 14, 3:05 p.m.",
-      "ETR": "Aug 14, 6:00 p.m.",
-      "CrewStatus": "On the way",
+      "Latitude": 42.89481029447334,
+      "Longitude": -87.9775124094171,
+      "OffTime": "Aug 14, 4:02 p.m.",
+      "ETR": "Aug 14, 7:00 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 14, 4:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 11,
-          "City": "sussex",
-          "CityCusts": 9891,
-          "County": "waukesha",
-          "CountyCusts": 203456,
-          "Zip": "53089",
-          "ZipCusts": 10041,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 42.89849595148371,
-      "Longitude": -87.97847952736917,
-      "OffTime": "Aug 14, 3:45 p.m.",
-      "ETR": "Aug 14, 6:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 14, 4:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "franklin",
-          "CityCusts": 17458,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53132",
-          "ZipCusts": 17459,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 42.89652942227059,
-      "Longitude": -87.97685607458537,
-      "OffTime": "Aug 14, 4:05 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 14, 4:10 p.m.",
+      "LastUpdated": "Aug 14, 4:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -71,13 +25,128 @@
       ]
     },
     {
-      "Latitude": 42.89481029447334,
-      "Longitude": -87.9775124094171,
-      "OffTime": "Aug 14, 4:02 p.m.",
+      "Latitude": 43.48462645380043,
+      "Longitude": -88.10802523510894,
+      "OffTime": "Aug 14, 4:19 p.m.",
       "ETR": "Aug 14, 7:00 p.m.",
-      "CrewStatus": "On the way",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 14, 4:10 p.m.",
+      "LastUpdated": "Aug 14, 4:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "kewaskum",
+          "CityCusts": 4408,
+          "County": "washington",
+          "CountyCusts": 61656,
+          "Zip": "53040",
+          "ZipCusts": 4414,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 43.23297419240809,
+      "Longitude": -87.98269389234393,
+      "OffTime": "Aug 14, 4:37 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 14, 4:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "thiensville",
+          "CityCusts": 2022,
+          "County": "ozaukee",
+          "CountyCusts": 42618,
+          "Zip": "53092",
+          "ZipCusts": 11527,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 42.89849595148371,
+      "Longitude": -87.97847952736917,
+      "OffTime": "Aug 14, 3:45 p.m.",
+      "ETR": "Aug 14, 6:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 14, 4:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "franklin",
+          "CityCusts": 17458,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53132",
+          "ZipCusts": 17459,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 43.189493704690086,
+      "Longitude": -88.71922254426866,
+      "OffTime": "Aug 14, 4:31 p.m.",
+      "ETR": "Aug 14, 7:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 14, 4:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "watertown",
+          "CityCusts": 16247,
+          "County": "jefferson",
+          "CountyCusts": 35185,
+          "Zip": "53094",
+          "ZipCusts": 10260,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 42.559315516347134,
+      "Longitude": -87.84937246743885,
+      "OffTime": "Aug 14, 4:23 p.m.",
+      "ETR": "Aug 14, 7:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 14, 4:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54307,
+          "County": "kenosha",
+          "CountyCusts": 80154,
+          "Zip": "53142",
+          "ZipCusts": 15166,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 42.89652942227059,
+      "Longitude": -87.97685607458537,
+      "OffTime": "Aug 14, 4:05 p.m.",
+      "ETR": "Aug 14, 7:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 14, 4:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
