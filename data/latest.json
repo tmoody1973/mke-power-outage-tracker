@@ -1,14 +1,37 @@
 {
-  "captured_at": "2026-08-14T10:30:33+00:00",
+  "captured_at": "2026-08-14T11:25:59+00:00",
   "events": [
+    {
+      "Latitude": 44.322854026529114,
+      "Longitude": -88.81832123871467,
+      "OffTime": "Aug 14, 4:23 a.m.",
+      "ETR": "Aug 14, 7:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 14, 6:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 9,
+          "City": "new london",
+          "CityCusts": 3688,
+          "County": "waupaca",
+          "CountyCusts": 8903,
+          "Zip": "54961",
+          "ZipCusts": 3696,
+          "Region": "fox valley wi",
+          "RegionCusts": 143306
+        }
+      ]
+    },
     {
       "Latitude": 43.082459831297996,
       "Longitude": -87.8809435865821,
       "OffTime": "Aug 14, 3:39 a.m.",
-      "ETR": "Aug 14, 6:30 a.m.",
+      "ETR": "Aug 14, 8:00 a.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "We Energies equipment problem",
-      "LastUpdated": "Aug 14, 5:20 a.m.",
+      "LastUpdated": "Aug 14, 6:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,48 +48,25 @@
       ]
     },
     {
-      "Latitude": 43.091344199160844,
-      "Longitude": -87.88432676396474,
-      "OffTime": "Aug 14, 4:20 a.m.",
-      "ETR": "Aug 14, 7:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Aug 14, 5:20 a.m.",
+      "Latitude": 42.648961906806285,
+      "Longitude": -88.20129278214561,
+      "OffTime": "Aug 14, 5:45 a.m.",
+      "ETR": "Aug 14, 8:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 14, 6:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352121,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53211",
-          "ZipCusts": 18152,
+          "City": "burlington",
+          "CityCusts": 15547,
+          "County": "racine",
+          "CountyCusts": 102466,
+          "Zip": "53105",
+          "ZipCusts": 15589,
           "Region": "southeast wi",
           "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 44.322854026529114,
-      "Longitude": -88.81832123871467,
-      "OffTime": "Aug 14, 4:23 a.m.",
-      "ETR": "Aug 14, 7:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 14, 5:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 9,
-          "City": "new london",
-          "CityCusts": 3688,
-          "County": "waupaca",
-          "CountyCusts": 8903,
-          "Zip": "54961",
-          "ZipCusts": 3696,
-          "Region": "fox valley wi",
-          "RegionCusts": 143306
         }
       ]
     }
