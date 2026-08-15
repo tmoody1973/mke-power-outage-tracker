@@ -1,14 +1,48 @@
 {
-  "captured_at": "2026-08-15T19:36:04+00:00",
+  "captured_at": "2026-08-15T19:53:54+00:00",
   "events": [
+    {
+      "Latitude": 43.17099667354332,
+      "Longitude": -87.97977787047135,
+      "OffTime": "Aug 15, 1:52 p.m.",
+      "ETR": "Aug 15, 5:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 15, 2:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 15,
+          "City": "brown deer",
+          "CityCusts": 3523,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53223",
+          "ZipCusts": 14099,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        },
+        {
+          "AffectedCusts": 23,
+          "City": "milwaukee",
+          "CityCusts": 352121,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53223",
+          "ZipCusts": 14099,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
     {
       "Latitude": 43.05572435298117,
       "Longitude": -88.00275877734006,
       "OffTime": "Aug 15, 7:47 a.m.",
       "ETR": "Aug 15, 4:00 p.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On site",
       "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 15, 2:30 p.m.",
+      "LastUpdated": "Aug 15, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -36,47 +70,13 @@
       ]
     },
     {
-      "Latitude": 43.17099667354332,
-      "Longitude": -87.97977787047135,
-      "OffTime": "Aug 15, 1:52 p.m.",
-      "ETR": "Aug 15, 5:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 2:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 23,
-          "City": "milwaukee",
-          "CityCusts": 352121,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53223",
-          "ZipCusts": 14099,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        },
-        {
-          "AffectedCusts": 15,
-          "City": "brown deer",
-          "CityCusts": 3523,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53223",
-          "ZipCusts": 14099,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
       "Latitude": 43.166328310830934,
       "Longitude": -89.07210797484507,
       "OffTime": "Aug 15, 9:16 a.m.",
       "ETR": "Aug 15, 6:00 p.m.",
       "CrewStatus": "On the way",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 15, 2:30 p.m.",
+      "LastUpdated": "Aug 15, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -87,29 +87,6 @@
           "CountyCusts": 3389,
           "Zip": "53559",
           "ZipCusts": 2698,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 43.30380657292471,
-      "Longitude": -88.33579123098286,
-      "OffTime": "Aug 15, 9:30 a.m.",
-      "ETR": "Aug 15, 3:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Aug 15, 2:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "hartford",
-          "CityCusts": 4246,
-          "County": "washington",
-          "CountyCusts": 61656,
-          "Zip": "53027",
-          "ZipCusts": 4252,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
