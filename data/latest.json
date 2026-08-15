@@ -1,60 +1,14 @@
 {
-  "captured_at": "2026-08-15T11:16:21+00:00",
+  "captured_at": "2026-08-15T11:41:53+00:00",
   "events": [
-    {
-      "Latitude": 43.00144466211765,
-      "Longitude": -87.90805327670124,
-      "OffTime": "Aug 15, 2:00 a.m.",
-      "ETR": "Aug 15, 8:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Broken pole",
-      "LastUpdated": "Aug 15, 6:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 48,
-          "City": "milwaukee",
-          "CityCusts": 352121,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53207",
-          "ZipCusts": 20423,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 43.39644356598426,
-      "Longitude": -88.05707073368914,
-      "OffTime": "Aug 15, 12:09 a.m.",
-      "ETR": "Aug 15, 7:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 15, 6:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "west bend",
-          "CityCusts": 26115,
-          "County": "washington",
-          "CountyCusts": 61656,
-          "Zip": "53095",
-          "ZipCusts": 15588,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
     {
       "Latitude": 42.8988779657703,
       "Longitude": -87.97986821910715,
       "OffTime": "Aug 14, 3:45 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "ETR": "Aug 15, 8:00 a.m.",
       "CrewStatus": "On site",
       "Cause": "Third-party damage",
-      "LastUpdated": "Aug 15, 6:10 a.m.",
+      "LastUpdated": "Aug 15, 6:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -71,13 +25,82 @@
       ]
     },
     {
+      "Latitude": 43.39644356598426,
+      "Longitude": -88.05707073368914,
+      "OffTime": "Aug 15, 12:09 a.m.",
+      "ETR": "Aug 15, 7:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Aug 15, 6:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "west bend",
+          "CityCusts": 26115,
+          "County": "washington",
+          "CountyCusts": 61656,
+          "Zip": "53095",
+          "ZipCusts": 15588,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 43.00144466211765,
+      "Longitude": -87.90805327670124,
+      "OffTime": "Aug 15, 2:00 a.m.",
+      "ETR": "Aug 15, 8:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Broken pole",
+      "LastUpdated": "Aug 15, 6:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 48,
+          "City": "milwaukee",
+          "CityCusts": 352121,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53207",
+          "ZipCusts": 20423,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 43.12591470966489,
+      "Longitude": -88.07897001228177,
+      "OffTime": "Aug 15, 6:37 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 15, 6:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 5,
+          "City": "menomonee falls",
+          "CityCusts": 6008,
+          "County": "waukesha",
+          "CountyCusts": 203456,
+          "Zip": "53051",
+          "ZipCusts": 21572,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
       "Latitude": 42.973389173090474,
       "Longitude": -88.44261677467864,
       "OffTime": "Aug 15, 4:28 a.m.",
       "ETR": "Aug 15, 7:30 a.m.",
-      "CrewStatus": "On the way",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 6:10 a.m.",
+      "LastUpdated": "Aug 15, 6:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
