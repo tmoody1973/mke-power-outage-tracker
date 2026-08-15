@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-15T13:58:10+00:00",
+  "captured_at": "2026-08-15T14:21:17+00:00",
   "events": [
     {
       "Latitude": 43.05572435298117,
@@ -8,7 +8,7 @@
       "ETR": "Aug 15, 10:30 a.m.",
       "CrewStatus": "On site",
       "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 15, 8:50 a.m.",
+      "LastUpdated": "Aug 15, 9:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -36,71 +36,25 @@
       ]
     },
     {
-      "Latitude": 44.51729230957492,
-      "Longitude": -88.5371949461947,
-      "OffTime": "Aug 15, 7:35 a.m.",
-      "ETR": "Aug 15, 10:30 a.m.",
-      "CrewStatus": "On the way",
+      "Latitude": 43.00114884198358,
+      "Longitude": -87.91834540448082,
+      "OffTime": "Aug 15, 8:52 a.m.",
+      "ETR": "Aug 15, 11:30 a.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 8:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "black creek",
-          "CityCusts": 2431,
-          "County": "outagamie",
-          "CountyCusts": 80090,
-          "Zip": "54106",
-          "ZipCusts": 2433,
-          "Region": "fox valley wi",
-          "RegionCusts": 143306
-        }
-      ]
-    },
-    {
-      "Latitude": 44.203479379584756,
-      "Longitude": -88.50171137761745,
-      "OffTime": "Aug 15, 8:47 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 8:50 a.m.",
+      "LastUpdated": "Aug 15, 9:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "neenah",
-          "CityCusts": 21385,
-          "County": "winnebago",
-          "CountyCusts": 27743,
-          "Zip": "54956",
-          "ZipCusts": 21379,
-          "Region": "fox valley wi",
-          "RegionCusts": 143306
-        }
-      ]
-    },
-    {
-      "Latitude": 45.7069265326428,
-      "Longitude": -87.61304492744154,
-      "OffTime": "Aug 15, 6:40 a.m.",
-      "ETR": "Aug 15, 9:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 8:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "hermansville",
-          "CityCusts": 633,
-          "County": "menominee",
-          "CountyCusts": 2999,
-          "Zip": "49847",
-          "ZipCusts": 638,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41386
+          "City": "milwaukee",
+          "CityCusts": 352121,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53207",
+          "ZipCusts": 20423,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
         }
       ]
     },
@@ -111,7 +65,7 @@
       "ETR": "Aug 15, 12:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Broken pole",
-      "LastUpdated": "Aug 15, 8:50 a.m.",
+      "LastUpdated": "Aug 15, 9:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -128,13 +82,36 @@
       ]
     },
     {
+      "Latitude": 43.16918577602383,
+      "Longitude": -89.07091936552825,
+      "OffTime": "Aug 15, 9:16 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 15, 9:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 7,
+          "City": "marshall",
+          "CityCusts": 2696,
+          "County": "dane",
+          "CountyCusts": 3389,
+          "Zip": "53559",
+          "ZipCusts": 2698,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
       "Latitude": 43.134592563769274,
       "Longitude": -88.00213442581709,
       "OffTime": "Aug 15, 8:24 a.m.",
       "ETR": "Aug 15, 11:00 a.m.",
-      "CrewStatus": "On the way",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 8:50 a.m.",
+      "LastUpdated": "Aug 15, 9:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -145,6 +122,75 @@
           "CountyCusts": 479767,
           "Zip": "53223",
           "ZipCusts": 14099,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 45.99745567222718,
+      "Longitude": -89.32420416430317,
+      "OffTime": "Aug 15, 9:15 a.m.",
+      "ETR": "Aug 15, 12:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 15, 9:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "conover",
+          "CityCusts": 2091,
+          "County": "vilas",
+          "CountyCusts": 6268,
+          "Zip": "54519",
+          "ZipCusts": 2091,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41386
+        }
+      ]
+    },
+    {
+      "Latitude": 44.203479379584756,
+      "Longitude": -88.50171137761745,
+      "OffTime": "Aug 15, 8:47 a.m.",
+      "ETR": "Aug 15, 11:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 15, 9:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "neenah",
+          "CityCusts": 21385,
+          "County": "winnebago",
+          "CountyCusts": 27743,
+          "Zip": "54956",
+          "ZipCusts": 21379,
+          "Region": "fox valley wi",
+          "RegionCusts": 143306
+        }
+      ]
+    },
+    {
+      "Latitude": 43.16915782993458,
+      "Longitude": -89.07036126119868,
+      "OffTime": "Aug 15, 9:16 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 15, 9:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 11,
+          "City": "marshall",
+          "CityCusts": 2696,
+          "County": "dane",
+          "CountyCusts": 3389,
+          "Zip": "53559",
+          "ZipCusts": 2698,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
