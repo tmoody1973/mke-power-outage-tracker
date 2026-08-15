@@ -1,6 +1,86 @@
 {
-  "captured_at": "2026-08-15T18:22:34+00:00",
+  "captured_at": "2026-08-15T18:53:28+00:00",
   "events": [
+    {
+      "Latitude": 43.07221065314493,
+      "Longitude": -87.98467275934621,
+      "OffTime": "Aug 15, 1:45 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 15, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352121,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53210",
+          "ZipCusts": 12242,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 43.05572435298117,
+      "Longitude": -88.00275877734006,
+      "OffTime": "Aug 15, 7:47 a.m.",
+      "ETR": "Aug 15, 4:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Aug 15, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 10,
+          "City": "milwaukee",
+          "CityCusts": 352121,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53213",
+          "ZipCusts": 13819,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        },
+        {
+          "AffectedCusts": 5,
+          "City": "wauwatosa",
+          "CityCusts": 10604,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53213",
+          "ZipCusts": 13819,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 43.30380657292471,
+      "Longitude": -88.33579123098286,
+      "OffTime": "Aug 15, 9:30 a.m.",
+      "ETR": "Aug 15, 2:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Transformer problem",
+      "LastUpdated": "Aug 15, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "hartford",
+          "CityCusts": 4246,
+          "County": "washington",
+          "CountyCusts": 61656,
+          "Zip": "53027",
+          "ZipCusts": 4252,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
     {
       "Latitude": 44.273901435106346,
       "Longitude": -88.65935390218029,
@@ -8,7 +88,7 @@
       "ETR": "Aug 15, 3:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 1:20 p.m.",
+      "LastUpdated": "Aug 15, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -28,10 +108,10 @@
       "Latitude": 46.019694434026846,
       "Longitude": -88.8175917828367,
       "OffTime": "Aug 15, 8:33 a.m.",
-      "ETR": "Aug 15, 1:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 1:20 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Vehicle accident",
+      "LastUpdated": "Aug 15, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,70 +128,13 @@
       ]
     },
     {
-      "Latitude": 43.30380657292471,
-      "Longitude": -88.33579123098286,
-      "OffTime": "Aug 15, 9:30 a.m.",
-      "ETR": "Aug 15, 2:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Aug 15, 1:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "hartford",
-          "CityCusts": 4246,
-          "County": "washington",
-          "CountyCusts": 61656,
-          "Zip": "53027",
-          "ZipCusts": 4252,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 43.05572435298117,
-      "Longitude": -88.00275877734006,
-      "OffTime": "Aug 15, 7:47 a.m.",
-      "ETR": "Aug 15, 4:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 15, 1:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 5,
-          "City": "wauwatosa",
-          "CityCusts": 10604,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53213",
-          "ZipCusts": 13819,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        },
-        {
-          "AffectedCusts": 10,
-          "City": "milwaukee",
-          "CityCusts": 352121,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53213",
-          "ZipCusts": 13819,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
       "Latitude": 42.68433630001395,
       "Longitude": -87.84188373446261,
       "OffTime": "Aug 15, 11:24 a.m.",
       "ETR": "Aug 15, 2:00 p.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "Specialized crew needed",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 15, 1:20 p.m.",
+      "LastUpdated": "Aug 15, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -134,7 +157,7 @@
       "ETR": "Aug 15, 3:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 1:20 p.m.",
+      "LastUpdated": "Aug 15, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -157,7 +180,7 @@
       "ETR": "Aug 15, 3:00 p.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 1:20 p.m.",
+      "LastUpdated": "Aug 15, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -177,14 +200,14 @@
       "Latitude": 43.166328310830934,
       "Longitude": -89.07210797484507,
       "OffTime": "Aug 15, 9:16 a.m.",
-      "ETR": "Aug 15, 4:00 p.m.",
-      "CrewStatus": "On site",
+      "ETR": "Aug 15, 6:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 15, 1:20 p.m.",
+      "LastUpdated": "Aug 15, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 20,
+          "AffectedCusts": 19,
           "City": "marshall",
           "CityCusts": 2696,
           "County": "dane",
@@ -200,10 +223,10 @@
       "Latitude": 45.99745567222718,
       "Longitude": -89.32420416430317,
       "OffTime": "Aug 15, 9:15 a.m.",
-      "ETR": "Aug 15, 2:00 p.m.",
-      "CrewStatus": "Assigned",
+      "ETR": "Aug 15, 2:30 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 1:20 p.m.",
+      "LastUpdated": "Aug 15, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
