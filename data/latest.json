@@ -1,47 +1,24 @@
 {
-  "captured_at": "2026-08-15T05:03:06+00:00",
+  "captured_at": "2026-08-15T05:37:24+00:00",
   "events": [
     {
-      "Latitude": 42.559315516347134,
-      "Longitude": -87.84937246743885,
-      "OffTime": "Aug 14, 4:23 p.m.",
+      "Latitude": 43.39795553228014,
+      "Longitude": -88.05660379945448,
+      "OffTime": "Aug 15, 12:09 a.m.",
       "ETR": "Aug 15, 3:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies equipment problem",
-      "LastUpdated": "Aug 15, 12:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54307,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53142",
-          "ZipCusts": 15166,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 42.877271088747634,
-      "Longitude": -87.85445817544944,
-      "OffTime": "Aug 14, 11:55 p.m.",
-      "ETR": "Aug 15, 2:30 a.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 12:00 a.m.",
+      "LastUpdated": "Aug 15, 12:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 8,
-          "City": "oak creek",
-          "CityCusts": 19950,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53154",
-          "ZipCusts": 19942,
+          "AffectedCusts": 2,
+          "City": "west bend",
+          "CityCusts": 26115,
+          "County": "washington",
+          "CountyCusts": 61656,
+          "Zip": "53095",
+          "ZipCusts": 15588,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
@@ -54,7 +31,7 @@
       "ETR": "Aug 15, 2:00 a.m.",
       "CrewStatus": "On site",
       "Cause": "Third-party damage",
-      "LastUpdated": "Aug 15, 12:00 a.m.",
+      "LastUpdated": "Aug 15, 12:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -65,6 +42,52 @@
           "CountyCusts": 479767,
           "Zip": "53132",
           "ZipCusts": 17459,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 43.07396825780945,
+      "Longitude": -87.92503576763252,
+      "OffTime": "Aug 15, 12:22 a.m.",
+      "ETR": "Aug 15, 3:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 15, 12:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352121,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53206",
+          "ZipCusts": 10785,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 42.559315516347134,
+      "Longitude": -87.84937246743885,
+      "OffTime": "Aug 14, 4:23 p.m.",
+      "ETR": "Aug 15, 3:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Aug 15, 12:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54307,
+          "County": "kenosha",
+          "CountyCusts": 80154,
+          "Zip": "53142",
+          "ZipCusts": 15166,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
