@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-15T04:44:54+00:00",
+  "captured_at": "2026-08-15T05:03:06+00:00",
   "events": [
     {
       "Latitude": 42.559315516347134,
@@ -8,7 +8,7 @@
       "ETR": "Aug 15, 3:00 a.m.",
       "CrewStatus": "On site",
       "Cause": "We Energies equipment problem",
-      "LastUpdated": "Aug 14, 11:40 p.m.",
+      "LastUpdated": "Aug 15, 12:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,13 +25,36 @@
       ]
     },
     {
+      "Latitude": 42.877271088747634,
+      "Longitude": -87.85445817544944,
+      "OffTime": "Aug 14, 11:55 p.m.",
+      "ETR": "Aug 15, 2:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 15, 12:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 8,
+          "City": "oak creek",
+          "CityCusts": 19950,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53154",
+          "ZipCusts": 19942,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
       "Latitude": 42.8988779657703,
       "Longitude": -87.97986821910715,
       "OffTime": "Aug 14, 3:45 p.m.",
       "ETR": "Aug 15, 2:00 a.m.",
       "CrewStatus": "On site",
       "Cause": "Third-party damage",
-      "LastUpdated": "Aug 14, 11:40 p.m.",
+      "LastUpdated": "Aug 15, 12:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
