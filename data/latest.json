@@ -1,37 +1,14 @@
 {
-  "captured_at": "2026-08-15T04:01:37+00:00",
+  "captured_at": "2026-08-15T04:44:54+00:00",
   "events": [
-    {
-      "Latitude": 42.8988779657703,
-      "Longitude": -87.97986821910715,
-      "OffTime": "Aug 14, 3:45 p.m.",
-      "ETR": "Aug 14, 11:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Aug 14, 11:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 5,
-          "City": "franklin",
-          "CityCusts": 17458,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53132",
-          "ZipCusts": 17459,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
     {
       "Latitude": 42.559315516347134,
       "Longitude": -87.84937246743885,
       "OffTime": "Aug 14, 4:23 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "ETR": "Aug 15, 3:00 a.m.",
       "CrewStatus": "On site",
       "Cause": "We Energies equipment problem",
-      "LastUpdated": "Aug 14, 11:00 p.m.",
+      "LastUpdated": "Aug 14, 11:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -42,6 +19,29 @@
           "CountyCusts": 80154,
           "Zip": "53142",
           "ZipCusts": 15166,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 42.8988779657703,
+      "Longitude": -87.97986821910715,
+      "OffTime": "Aug 14, 3:45 p.m.",
+      "ETR": "Aug 15, 2:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Aug 14, 11:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 5,
+          "City": "franklin",
+          "CityCusts": 17458,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53132",
+          "ZipCusts": 17459,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
