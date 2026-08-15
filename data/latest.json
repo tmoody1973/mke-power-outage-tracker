@@ -1,6 +1,52 @@
 {
-  "captured_at": "2026-08-15T07:50:18+00:00",
+  "captured_at": "2026-08-15T08:17:02+00:00",
   "events": [
+    {
+      "Latitude": 42.559315516347134,
+      "Longitude": -87.84937246743885,
+      "OffTime": "Aug 14, 4:23 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Aug 15, 3:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54307,
+          "County": "kenosha",
+          "CountyCusts": 80154,
+          "Zip": "53142",
+          "ZipCusts": 15166,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 43.39644356598426,
+      "Longitude": -88.05707073368914,
+      "OffTime": "Aug 15, 12:09 a.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Assigned",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Aug 15, 3:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "west bend",
+          "CityCusts": 26115,
+          "County": "washington",
+          "CountyCusts": 61656,
+          "Zip": "53095",
+          "ZipCusts": 15588,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
     {
       "Latitude": 43.00144466211765,
       "Longitude": -87.90805327670124,
@@ -8,7 +54,7 @@
       "ETR": "Aug 15, 5:00 a.m.",
       "CrewStatus": "On site",
       "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Aug 15, 2:50 a.m.",
+      "LastUpdated": "Aug 15, 3:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -31,7 +77,7 @@
       "ETR": "Aug 15, 6:00 a.m.",
       "CrewStatus": "On site",
       "Cause": "Third-party damage",
-      "LastUpdated": "Aug 15, 2:50 a.m.",
+      "LastUpdated": "Aug 15, 3:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -42,52 +88,6 @@
           "CountyCusts": 479767,
           "Zip": "53132",
           "ZipCusts": 17459,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 43.39644356598426,
-      "Longitude": -88.05707073368914,
-      "OffTime": "Aug 15, 12:09 a.m.",
-      "ETR": "Aug 15, 3:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 15, 2:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "west bend",
-          "CityCusts": 26115,
-          "County": "washington",
-          "CountyCusts": 61656,
-          "Zip": "53095",
-          "ZipCusts": 15588,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 42.559315516347134,
-      "Longitude": -87.84937246743885,
-      "OffTime": "Aug 14, 4:23 p.m.",
-      "ETR": "Aug 15, 3:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies equipment problem",
-      "LastUpdated": "Aug 15, 2:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54307,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53142",
-          "ZipCusts": 15166,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
