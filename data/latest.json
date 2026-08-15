@@ -1,20 +1,43 @@
 {
-  "captured_at": "2026-08-15T19:53:54+00:00",
+  "captured_at": "2026-08-15T20:12:30+00:00",
   "events": [
+    {
+      "Latitude": 42.85163026997312,
+      "Longitude": -88.75443087418262,
+      "OffTime": "Aug 15, 3:03 p.m.",
+      "ETR": "Aug 15, 6:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 15, 3:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "whitewater",
+          "CityCusts": 9482,
+          "County": "jefferson",
+          "CountyCusts": 35185,
+          "Zip": "53190",
+          "ZipCusts": 9485,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
     {
       "Latitude": 43.17099667354332,
       "Longitude": -87.97977787047135,
       "OffTime": "Aug 15, 1:52 p.m.",
       "ETR": "Aug 15, 5:00 p.m.",
-      "CrewStatus": "On the way",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 2:50 p.m.",
+      "LastUpdated": "Aug 15, 3:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 15,
-          "City": "brown deer",
-          "CityCusts": 3523,
+          "AffectedCusts": 23,
+          "City": "milwaukee",
+          "CityCusts": 352121,
           "County": "milwaukee",
           "CountyCusts": 479767,
           "Zip": "53223",
@@ -23,9 +46,9 @@
           "RegionCusts": 1073919
         },
         {
-          "AffectedCusts": 23,
-          "City": "milwaukee",
-          "CityCusts": 352121,
+          "AffectedCusts": 15,
+          "City": "brown deer",
+          "CityCusts": 3523,
           "County": "milwaukee",
           "CountyCusts": 479767,
           "Zip": "53223",
@@ -42,13 +65,13 @@
       "ETR": "Aug 15, 4:00 p.m.",
       "CrewStatus": "On site",
       "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 15, 2:50 p.m.",
+      "LastUpdated": "Aug 15, 3:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 5,
-          "City": "wauwatosa",
-          "CityCusts": 10604,
+          "AffectedCusts": 10,
+          "City": "milwaukee",
+          "CityCusts": 352121,
           "County": "milwaukee",
           "CountyCusts": 479767,
           "Zip": "53213",
@@ -57,9 +80,9 @@
           "RegionCusts": 1073919
         },
         {
-          "AffectedCusts": 10,
-          "City": "milwaukee",
-          "CityCusts": 352121,
+          "AffectedCusts": 5,
+          "City": "wauwatosa",
+          "CityCusts": 10604,
           "County": "milwaukee",
           "CountyCusts": 479767,
           "Zip": "53213",
@@ -76,7 +99,7 @@
       "ETR": "Aug 15, 6:00 p.m.",
       "CrewStatus": "On the way",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 15, 2:50 p.m.",
+      "LastUpdated": "Aug 15, 3:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
