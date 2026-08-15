@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-08-15T07:15:13+00:00",
+  "captured_at": "2026-08-15T07:50:18+00:00",
   "events": [
     {
       "Latitude": 43.00144466211765,
       "Longitude": -87.90805327670124,
       "OffTime": "Aug 15, 2:00 a.m.",
       "ETR": "Aug 15, 5:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 2:10 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies overhead line problem",
+      "LastUpdated": "Aug 15, 2:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -31,7 +31,7 @@
       "ETR": "Aug 15, 6:00 a.m.",
       "CrewStatus": "On site",
       "Cause": "Third-party damage",
-      "LastUpdated": "Aug 15, 2:10 a.m.",
+      "LastUpdated": "Aug 15, 2:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,36 +48,13 @@
       ]
     },
     {
-      "Latitude": 43.007434896537944,
-      "Longitude": -88.03394106146354,
-      "OffTime": "Aug 15, 1:37 a.m.",
-      "ETR": "Aug 15, 4:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 2:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352121,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53227",
-          "ZipCusts": 12593,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 43.39795553228014,
-      "Longitude": -88.05660379945448,
+      "Latitude": 43.39644356598426,
+      "Longitude": -88.05707073368914,
       "OffTime": "Aug 15, 12:09 a.m.",
       "ETR": "Aug 15, 3:00 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 2:10 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Aug 15, 2:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -100,7 +77,7 @@
       "ETR": "Aug 15, 3:00 a.m.",
       "CrewStatus": "On site",
       "Cause": "We Energies equipment problem",
-      "LastUpdated": "Aug 15, 2:10 a.m.",
+      "LastUpdated": "Aug 15, 2:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
