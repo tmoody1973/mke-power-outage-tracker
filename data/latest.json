@@ -1,60 +1,14 @@
 {
-  "captured_at": "2026-08-15T23:41:33+00:00",
+  "captured_at": "2026-08-15T23:55:57+00:00",
   "events": [
-    {
-      "Latitude": 43.07482994928792,
-      "Longitude": -88.21962957903818,
-      "OffTime": "Aug 15, 6:12 p.m.",
-      "ETR": "Aug 15, 9:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 6:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "pewaukee",
-          "CityCusts": 14876,
-          "County": "waukesha",
-          "CountyCusts": 203456,
-          "Zip": "53072",
-          "ZipCusts": 14940,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 42.912301574813284,
-      "Longitude": -87.87356547121728,
-      "OffTime": "Aug 15, 6:34 p.m.",
-      "ETR": "Aug 15, 9:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 6:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "south milwaukee",
-          "CityCusts": 10359,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53172",
-          "ZipCusts": 10360,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
     {
       "Latitude": 43.05572435298117,
       "Longitude": -88.00275877734006,
       "OffTime": "Aug 15, 5:34 p.m.",
       "ETR": "Aug 15, 8:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 6:40 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Aug 15, 6:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -71,69 +25,23 @@
       ]
     },
     {
-      "Latitude": 43.166328310830934,
-      "Longitude": -89.07210797484507,
-      "OffTime": "Aug 15, 9:16 a.m.",
+      "Latitude": 43.07482994928792,
+      "Longitude": -88.21962957903818,
+      "OffTime": "Aug 15, 6:12 p.m.",
       "ETR": "Aug 15, 9:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 15, 6:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 19,
-          "City": "marshall",
-          "CityCusts": 2696,
-          "County": "dane",
-          "CountyCusts": 3389,
-          "Zip": "53559",
-          "ZipCusts": 2698,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 46.219793472669814,
-      "Longitude": -89.16913880491494,
-      "OffTime": "Aug 15, 4:23 p.m.",
-      "ETR": "Aug 15, 7:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 6:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 7,
-          "City": "watersmeet",
-          "CityCusts": 2011,
-          "County": "gogebic",
-          "CountyCusts": 2016,
-          "Zip": "49969",
-          "ZipCusts": 2007,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41386
-        }
-      ]
-    },
-    {
-      "Latitude": 43.46979581407969,
-      "Longitude": -87.92134741399481,
-      "OffTime": "Aug 15, 4:29 p.m.",
-      "ETR": "Aug 15, 7:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 6:40 p.m.",
+      "LastUpdated": "Aug 15, 6:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 3,
-          "City": "belgium",
-          "CityCusts": 1925,
-          "County": "ozaukee",
-          "CountyCusts": 42618,
-          "Zip": "53004",
-          "ZipCusts": 1920,
+          "AffectedCusts": 1,
+          "City": "pewaukee",
+          "CityCusts": 14876,
+          "County": "waukesha",
+          "CountyCusts": 203456,
+          "Zip": "53072",
+          "ZipCusts": 14940,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
@@ -146,7 +54,7 @@
       "ETR": "Aug 15, 9:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 6:40 p.m.",
+      "LastUpdated": "Aug 15, 6:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -163,13 +71,105 @@
       ]
     },
     {
+      "Latitude": 43.46979581407969,
+      "Longitude": -87.92134741399481,
+      "OffTime": "Aug 15, 4:29 p.m.",
+      "ETR": "Aug 15, 7:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 15, 6:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "belgium",
+          "CityCusts": 1925,
+          "County": "ozaukee",
+          "CountyCusts": 42618,
+          "Zip": "53004",
+          "ZipCusts": 1920,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 43.166328310830934,
+      "Longitude": -89.07210797484507,
+      "OffTime": "Aug 15, 9:16 a.m.",
+      "ETR": "Aug 15, 9:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 15, 6:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 19,
+          "City": "marshall",
+          "CityCusts": 2696,
+          "County": "dane",
+          "CountyCusts": 3389,
+          "Zip": "53559",
+          "ZipCusts": 2698,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 43.328981649230585,
+      "Longitude": -88.87745300163608,
+      "OffTime": "Aug 15, 6:39 p.m.",
+      "ETR": "Aug 15, 9:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 15, 6:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "reeseville",
+          "CityCusts": 1118,
+          "County": "dodge",
+          "CountyCusts": 17209,
+          "Zip": "53579",
+          "ZipCusts": 1118,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 46.219793472669814,
+      "Longitude": -89.16913880491494,
+      "OffTime": "Aug 15, 4:23 p.m.",
+      "ETR": "Aug 15, 7:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 15, 6:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 7,
+          "City": "watersmeet",
+          "CityCusts": 2011,
+          "County": "gogebic",
+          "CountyCusts": 2016,
+          "Zip": "49969",
+          "ZipCusts": 2007,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41386
+        }
+      ]
+    },
+    {
       "Latitude": 42.50841864914578,
       "Longitude": -88.15424253830753,
       "OffTime": "Aug 15, 3:14 p.m.",
       "ETR": "Aug 15, 9:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 15, 6:40 p.m.",
+      "LastUpdated": "Aug 15, 6:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -180,6 +180,29 @@
           "CountyCusts": 80154,
           "Zip": "53179",
           "ZipCusts": 2965,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 42.912301574813284,
+      "Longitude": -87.87356547121728,
+      "OffTime": "Aug 15, 6:34 p.m.",
+      "ETR": "Aug 15, 9:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 15, 6:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "south milwaukee",
+          "CityCusts": 10359,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53172",
+          "ZipCusts": 10360,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
