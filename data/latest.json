@@ -1,47 +1,81 @@
 {
-  "captured_at": "2026-08-15T12:21:59+00:00",
+  "captured_at": "2026-08-15T13:05:47+00:00",
   "events": [
     {
-      "Latitude": 42.8988779657703,
-      "Longitude": -87.97986821910715,
-      "OffTime": "Aug 14, 3:45 p.m.",
-      "ETR": "Aug 15, 8:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Aug 15, 7:20 a.m.",
+      "Latitude": 43.05572435298117,
+      "Longitude": -88.00275877734006,
+      "OffTime": "Aug 15, 7:47 a.m.",
+      "ETR": "Aug 15, 10:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 15, 8:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 5,
-          "City": "franklin",
-          "CityCusts": 17458,
+          "AffectedCusts": 10,
+          "City": "milwaukee",
+          "CityCusts": 352121,
           "County": "milwaukee",
           "CountyCusts": 479767,
-          "Zip": "53132",
-          "ZipCusts": 17459,
+          "Zip": "53213",
+          "ZipCusts": 13819,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        },
+        {
+          "AffectedCusts": 5,
+          "City": "wauwatosa",
+          "CityCusts": 10604,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53213",
+          "ZipCusts": 13819,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
       ]
     },
     {
-      "Latitude": 42.973389173090474,
-      "Longitude": -88.44261677467864,
-      "OffTime": "Aug 15, 4:28 a.m.",
-      "ETR": "Aug 15, 7:30 a.m.",
+      "Latitude": 43.072962393193905,
+      "Longitude": -87.97920319603126,
+      "OffTime": "Aug 15, 7:29 a.m.",
+      "ETR": "Aug 15, 10:30 a.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 7:20 a.m.",
+      "LastUpdated": "Aug 15, 8:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 3,
-          "City": "dousman",
-          "CityCusts": 3849,
-          "County": "waukesha",
-          "CountyCusts": 203456,
-          "Zip": "53118",
-          "ZipCusts": 3845,
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352121,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53210",
+          "ZipCusts": 12242,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 43.00144466211765,
+      "Longitude": -87.90805327670124,
+      "OffTime": "Aug 15, 2:00 a.m.",
+      "ETR": "Aug 15, 12:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Broken pole",
+      "LastUpdated": "Aug 15, 8:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 48,
+          "City": "milwaukee",
+          "CityCusts": 352121,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53207",
+          "ZipCusts": 20423,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
@@ -54,7 +88,7 @@
       "ETR": "Aug 15, 9:30 a.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 7:20 a.m.",
+      "LastUpdated": "Aug 15, 8:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -71,25 +105,25 @@
       ]
     },
     {
-      "Latitude": 43.00144466211765,
-      "Longitude": -87.90805327670124,
-      "OffTime": "Aug 15, 2:00 a.m.",
-      "ETR": "Aug 15, 12:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Broken pole",
-      "LastUpdated": "Aug 15, 7:20 a.m.",
+      "Latitude": 44.51729230957492,
+      "Longitude": -88.5371949461947,
+      "OffTime": "Aug 15, 7:35 a.m.",
+      "ETR": "Aug 15, 10:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 15, 8:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 48,
-          "City": "milwaukee",
-          "CityCusts": 352121,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53207",
-          "ZipCusts": 20423,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
+          "AffectedCusts": 2,
+          "City": "black creek",
+          "CityCusts": 2431,
+          "County": "outagamie",
+          "CountyCusts": 80090,
+          "Zip": "54106",
+          "ZipCusts": 2433,
+          "Region": "fox valley wi",
+          "RegionCusts": 143306
         }
       ]
     }
