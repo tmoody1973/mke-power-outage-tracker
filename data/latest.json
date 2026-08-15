@@ -1,47 +1,24 @@
 {
-  "captured_at": "2026-08-15T11:41:53+00:00",
+  "captured_at": "2026-08-15T11:55:39+00:00",
   "events": [
     {
-      "Latitude": 42.8988779657703,
-      "Longitude": -87.97986821910715,
-      "OffTime": "Aug 14, 3:45 p.m.",
-      "ETR": "Aug 15, 8:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Aug 15, 6:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 5,
-          "City": "franklin",
-          "CityCusts": 17458,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53132",
-          "ZipCusts": 17459,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 43.39644356598426,
-      "Longitude": -88.05707073368914,
-      "OffTime": "Aug 15, 12:09 a.m.",
+      "Latitude": 42.973389173090474,
+      "Longitude": -88.44261677467864,
+      "OffTime": "Aug 15, 4:28 a.m.",
       "ETR": "Aug 15, 7:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 15, 6:40 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 15, 6:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 2,
-          "City": "west bend",
-          "CityCusts": 26115,
-          "County": "washington",
-          "CountyCusts": 61656,
-          "Zip": "53095",
-          "ZipCusts": 15588,
+          "AffectedCusts": 3,
+          "City": "dousman",
+          "CityCusts": 3849,
+          "County": "waukesha",
+          "CountyCusts": 203456,
+          "Zip": "53118",
+          "ZipCusts": 3845,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
@@ -54,7 +31,7 @@
       "ETR": "Aug 15, 8:00 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Broken pole",
-      "LastUpdated": "Aug 15, 6:40 a.m.",
+      "LastUpdated": "Aug 15, 6:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -71,46 +48,69 @@
       ]
     },
     {
-      "Latitude": 43.12591470966489,
-      "Longitude": -88.07897001228177,
-      "OffTime": "Aug 15, 6:37 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 6:40 a.m.",
+      "Latitude": 43.39644356598426,
+      "Longitude": -88.05707073368914,
+      "OffTime": "Aug 15, 12:09 a.m.",
+      "ETR": "Aug 15, 7:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Aug 15, 6:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 5,
-          "City": "menomonee falls",
-          "CityCusts": 6008,
-          "County": "waukesha",
-          "CountyCusts": 203456,
-          "Zip": "53051",
-          "ZipCusts": 21572,
+          "AffectedCusts": 2,
+          "City": "west bend",
+          "CityCusts": 26115,
+          "County": "washington",
+          "CountyCusts": 61656,
+          "Zip": "53095",
+          "ZipCusts": 15588,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
       ]
     },
     {
-      "Latitude": 42.973389173090474,
-      "Longitude": -88.44261677467864,
-      "OffTime": "Aug 15, 4:28 a.m.",
-      "ETR": "Aug 15, 7:30 a.m.",
-      "CrewStatus": "On site",
+      "Latitude": 45.7069265326428,
+      "Longitude": -87.61304492744154,
+      "OffTime": "Aug 15, 6:40 a.m.",
+      "ETR": "Aug 15, 9:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 6:40 a.m.",
+      "LastUpdated": "Aug 15, 6:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 3,
-          "City": "dousman",
-          "CityCusts": 3849,
-          "County": "waukesha",
-          "CountyCusts": 203456,
-          "Zip": "53118",
-          "ZipCusts": 3845,
+          "AffectedCusts": 2,
+          "City": "hermansville",
+          "CityCusts": 633,
+          "County": "menominee",
+          "CountyCusts": 2999,
+          "Zip": "49847",
+          "ZipCusts": 638,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41386
+        }
+      ]
+    },
+    {
+      "Latitude": 42.8988779657703,
+      "Longitude": -87.97986821910715,
+      "OffTime": "Aug 14, 3:45 p.m.",
+      "ETR": "Aug 15, 8:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Aug 15, 6:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 5,
+          "City": "franklin",
+          "CityCusts": 17458,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53132",
+          "ZipCusts": 17459,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
