@@ -1,24 +1,24 @@
 {
-  "captured_at": "2026-08-15T06:39:18+00:00",
+  "captured_at": "2026-08-15T07:15:13+00:00",
   "events": [
     {
-      "Latitude": 43.44480325492155,
-      "Longitude": -88.18658652846834,
-      "OffTime": "Aug 15, 1:03 a.m.",
-      "ETR": "Aug 15, 4:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 43.00144466211765,
+      "Longitude": -87.90805327670124,
+      "OffTime": "Aug 15, 2:00 a.m.",
+      "ETR": "Aug 15, 5:00 a.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 1:30 a.m.",
+      "LastUpdated": "Aug 15, 2:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "west bend",
-          "CityCusts": 26115,
-          "County": "washington",
-          "CountyCusts": 61656,
-          "Zip": "53090",
-          "ZipCusts": 10558,
+          "AffectedCusts": 178,
+          "City": "milwaukee",
+          "CityCusts": 352121,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53207",
+          "ZipCusts": 20423,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
@@ -28,10 +28,10 @@
       "Latitude": 42.8988779657703,
       "Longitude": -87.97986821910715,
       "OffTime": "Aug 14, 3:45 p.m.",
-      "ETR": "Aug 15, 2:00 a.m.",
+      "ETR": "Aug 15, 6:00 a.m.",
       "CrewStatus": "On site",
       "Cause": "Third-party damage",
-      "LastUpdated": "Aug 15, 1:30 a.m.",
+      "LastUpdated": "Aug 15, 2:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,59 +48,13 @@
       ]
     },
     {
-      "Latitude": 43.072962393193905,
-      "Longitude": -87.97920319603126,
-      "OffTime": "Aug 15, 1:12 a.m.",
-      "ETR": "Aug 15, 4:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 1:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352121,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53210",
-          "ZipCusts": 12242,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 42.559315516347134,
-      "Longitude": -87.84937246743885,
-      "OffTime": "Aug 14, 4:23 p.m.",
-      "ETR": "Aug 15, 3:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies equipment problem",
-      "LastUpdated": "Aug 15, 1:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54307,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53142",
-          "ZipCusts": 15166,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
       "Latitude": 43.007434896537944,
       "Longitude": -88.03394106146354,
-      "OffTime": "Aug 15, 1:08 a.m.",
-      "ETR": "Aug 15, 4:00 a.m.",
+      "OffTime": "Aug 15, 1:37 a.m.",
+      "ETR": "Aug 15, 4:30 a.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 1:30 a.m.",
+      "LastUpdated": "Aug 15, 2:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -121,9 +75,9 @@
       "Longitude": -88.05660379945448,
       "OffTime": "Aug 15, 12:09 a.m.",
       "ETR": "Aug 15, 3:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 1:30 a.m.",
+      "LastUpdated": "Aug 15, 2:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -134,6 +88,29 @@
           "CountyCusts": 61656,
           "Zip": "53095",
           "ZipCusts": 15588,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 42.559315516347134,
+      "Longitude": -87.84937246743885,
+      "OffTime": "Aug 14, 4:23 p.m.",
+      "ETR": "Aug 15, 3:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Aug 15, 2:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54307,
+          "County": "kenosha",
+          "CountyCusts": 80154,
+          "Zip": "53142",
+          "ZipCusts": 15166,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
