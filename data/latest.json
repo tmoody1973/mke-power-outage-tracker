@@ -1,27 +1,16 @@
 {
-  "captured_at": "2026-08-15T20:57:48+00:00",
+  "captured_at": "2026-08-15T21:19:30+00:00",
   "events": [
     {
       "Latitude": 43.05572435298117,
       "Longitude": -88.00275877734006,
       "OffTime": "Aug 15, 7:47 a.m.",
-      "ETR": "Aug 15, 4:00 p.m.",
+      "ETR": "Aug 15, 5:00 p.m.",
       "CrewStatus": "On site",
       "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 15, 3:50 p.m.",
+      "LastUpdated": "Aug 15, 4:10 p.m.",
       "IsGlobal": false,
       "Slices": [
-        {
-          "AffectedCusts": 10,
-          "City": "milwaukee",
-          "CityCusts": 352121,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53213",
-          "ZipCusts": 13819,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        },
         {
           "AffectedCusts": 5,
           "City": "wauwatosa",
@@ -32,27 +21,15 @@
           "ZipCusts": 13819,
           "Region": "southeast wi",
           "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 42.50841864914578,
-      "Longitude": -88.15424253830753,
-      "OffTime": "Aug 15, 3:14 p.m.",
-      "ETR": "Aug 15, 6:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 3:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
+        },
         {
-          "AffectedCusts": 1,
-          "City": "trevor",
-          "CityCusts": 2960,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53179",
-          "ZipCusts": 2965,
+          "AffectedCusts": 10,
+          "City": "milwaukee",
+          "CityCusts": 352121,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53213",
+          "ZipCusts": 13819,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
@@ -65,7 +42,7 @@
       "ETR": "Aug 15, 9:00 p.m.",
       "CrewStatus": "On site",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 15, 3:50 p.m.",
+      "LastUpdated": "Aug 15, 4:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -76,6 +53,29 @@
           "CountyCusts": 3389,
           "Zip": "53559",
           "ZipCusts": 2698,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 42.50841864914578,
+      "Longitude": -88.15424253830753,
+      "OffTime": "Aug 15, 3:14 p.m.",
+      "ETR": "Aug 15, 6:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 15, 4:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "trevor",
+          "CityCusts": 2960,
+          "County": "kenosha",
+          "CountyCusts": 80154,
+          "Zip": "53179",
+          "ZipCusts": 2965,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
