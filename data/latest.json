@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-15T01:47:20+00:00",
+  "captured_at": "2026-08-15T02:44:46+00:00",
   "events": [
     {
       "Latitude": 43.00114884198358,
@@ -8,20 +8,9 @@
       "ETR": "Aug 14, 10:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 14, 8:40 p.m.",
+      "LastUpdated": "Aug 14, 9:40 p.m.",
       "IsGlobal": false,
       "Slices": [
-        {
-          "AffectedCusts": 9,
-          "City": "milwaukee",
-          "CityCusts": 352121,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53215",
-          "ZipCusts": 22342,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        },
         {
           "AffectedCusts": 6,
           "City": "milwaukee",
@@ -32,17 +21,51 @@
           "ZipCusts": 20423,
           "Region": "southeast wi",
           "RegionCusts": 1073919
+        },
+        {
+          "AffectedCusts": 9,
+          "City": "milwaukee",
+          "CityCusts": 352121,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53215",
+          "ZipCusts": 22342,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
         }
       ]
     },
     {
-      "Latitude": 42.59055251141369,
-      "Longitude": -87.85651386867872,
-      "OffTime": "Aug 14, 8:31 p.m.",
+      "Latitude": 42.8988779657703,
+      "Longitude": -87.97986821910715,
+      "OffTime": "Aug 14, 3:45 p.m.",
       "ETR": "Aug 14, 11:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Aug 14, 9:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 5,
+          "City": "franklin",
+          "CityCusts": 17458,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53132",
+          "ZipCusts": 17459,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 42.589445239432,
+      "Longitude": -87.85561951117232,
+      "OffTime": "Aug 14, 9:20 p.m.",
+      "ETR": "Aug 15, 12:00 a.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 14, 8:40 p.m.",
+      "LastUpdated": "Aug 14, 9:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -59,36 +82,13 @@
       ]
     },
     {
-      "Latitude": 43.01526924361918,
-      "Longitude": -87.9176143063033,
-      "OffTime": "Aug 14, 8:16 p.m.",
-      "ETR": "Aug 14, 11:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 14, 8:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352121,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53204",
-          "ZipCusts": 17656,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
       "Latitude": 42.559315516347134,
       "Longitude": -87.84937246743885,
       "OffTime": "Aug 14, 4:23 p.m.",
       "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "On site",
       "Cause": "We Energies equipment problem",
-      "LastUpdated": "Aug 14, 8:40 p.m.",
+      "LastUpdated": "Aug 14, 9:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -105,23 +105,23 @@
       ]
     },
     {
-      "Latitude": 42.8988779657703,
-      "Longitude": -87.97986821910715,
-      "OffTime": "Aug 14, 3:45 p.m.",
+      "Latitude": 42.59125276427112,
+      "Longitude": -87.8549079291602,
+      "OffTime": "Aug 14, 8:31 p.m.",
       "ETR": "Aug 14, 11:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Aug 14, 8:40 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 14, 9:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 5,
-          "City": "franklin",
-          "CityCusts": 17458,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53132",
-          "ZipCusts": 17459,
+          "AffectedCusts": 66,
+          "City": "kenosha",
+          "CityCusts": 54307,
+          "County": "kenosha",
+          "CountyCusts": 80154,
+          "Zip": "53144",
+          "ZipCusts": 14031,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
