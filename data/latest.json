@@ -1,35 +1,24 @@
 {
-  "captured_at": "2026-08-15T02:44:46+00:00",
+  "captured_at": "2026-08-15T03:23:58+00:00",
   "events": [
     {
-      "Latitude": 43.00114884198358,
-      "Longitude": -87.91834540448082,
-      "OffTime": "Aug 14, 7:51 p.m.",
-      "ETR": "Aug 14, 10:30 p.m.",
+      "Latitude": 42.59125276427112,
+      "Longitude": -87.8549079291602,
+      "OffTime": "Aug 14, 8:31 p.m.",
+      "ETR": "Aug 14, 11:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 14, 9:40 p.m.",
+      "LastUpdated": "Aug 14, 10:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 6,
-          "City": "milwaukee",
-          "CityCusts": 352121,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53207",
-          "ZipCusts": 20423,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        },
-        {
-          "AffectedCusts": 9,
-          "City": "milwaukee",
-          "CityCusts": 352121,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53215",
-          "ZipCusts": 22342,
+          "AffectedCusts": 66,
+          "City": "kenosha",
+          "CityCusts": 54307,
+          "County": "kenosha",
+          "CountyCusts": 80154,
+          "Zip": "53144",
+          "ZipCusts": 14031,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
@@ -42,7 +31,7 @@
       "ETR": "Aug 14, 11:30 p.m.",
       "CrewStatus": "On site",
       "Cause": "Third-party damage",
-      "LastUpdated": "Aug 14, 9:40 p.m.",
+      "LastUpdated": "Aug 14, 10:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -59,36 +48,13 @@
       ]
     },
     {
-      "Latitude": 42.589445239432,
-      "Longitude": -87.85561951117232,
-      "OffTime": "Aug 14, 9:20 p.m.",
-      "ETR": "Aug 15, 12:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 14, 9:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54307,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53144",
-          "ZipCusts": 14031,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
       "Latitude": 42.559315516347134,
       "Longitude": -87.84937246743885,
       "OffTime": "Aug 14, 4:23 p.m.",
       "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "On site",
       "Cause": "We Energies equipment problem",
-      "LastUpdated": "Aug 14, 9:40 p.m.",
+      "LastUpdated": "Aug 14, 10:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -99,29 +65,6 @@
           "CountyCusts": 80154,
           "Zip": "53142",
           "ZipCusts": 15166,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 42.59125276427112,
-      "Longitude": -87.8549079291602,
-      "OffTime": "Aug 14, 8:31 p.m.",
-      "ETR": "Aug 14, 11:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 14, 9:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 66,
-          "City": "kenosha",
-          "CityCusts": 54307,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53144",
-          "ZipCusts": 14031,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
