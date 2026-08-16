@@ -1,18 +1,41 @@
 {
-  "captured_at": "2026-08-16T13:42:50+00:00",
+  "captured_at": "2026-08-16T13:59:19+00:00",
   "events": [
     {
-      "Latitude": 42.55247949863087,
-      "Longitude": -87.93060996601841,
-      "OffTime": "Aug 16, 5:43 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 8:40 a.m.",
+      "Latitude": 46.06839861620943,
+      "Longitude": -87.17361253380716,
+      "OffTime": "Aug 16, 12:09 a.m.",
+      "ETR": "Aug 16, 11:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Vehicle accident",
+      "LastUpdated": "Aug 16, 8:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 255,
+          "AffectedCusts": 58,
+          "City": "rock",
+          "CityCusts": 567,
+          "County": "delta",
+          "CountyCusts": 1711,
+          "Zip": "49880",
+          "ZipCusts": 568,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41386
+        }
+      ]
+    },
+    {
+      "Latitude": 42.55922233760845,
+      "Longitude": -87.88269987083737,
+      "OffTime": "Aug 16, 8:43 a.m.",
+      "ETR": "Aug 16, 11:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 16, 8:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
           "City": "kenosha",
           "CityCusts": 54307,
           "County": "kenosha",
@@ -21,7 +44,19 @@
           "ZipCusts": 15166,
           "Region": "southeast wi",
           "RegionCusts": 1073919
-        },
+        }
+      ]
+    },
+    {
+      "Latitude": 42.55247949863087,
+      "Longitude": -87.93060996601841,
+      "OffTime": "Aug 16, 5:43 a.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 16, 8:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
         {
           "AffectedCusts": 1,
           "City": "pleasant pr",
@@ -65,29 +100,40 @@
           "ZipCusts": 9515,
           "Region": "southeast wi",
           "RegionCusts": 1073919
+        },
+        {
+          "AffectedCusts": 255,
+          "City": "kenosha",
+          "CityCusts": 54307,
+          "County": "kenosha",
+          "CountyCusts": 80154,
+          "Zip": "53142",
+          "ZipCusts": 15166,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
         }
       ]
     },
     {
-      "Latitude": 46.06839861620943,
-      "Longitude": -87.17361253380716,
-      "OffTime": "Aug 16, 12:09 a.m.",
-      "ETR": "Aug 16, 11:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Vehicle accident",
-      "LastUpdated": "Aug 16, 8:40 a.m.",
+      "Latitude": 42.55915530852367,
+      "Longitude": -87.88063376491209,
+      "OffTime": "Aug 16, 8:47 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 16, 8:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 58,
-          "City": "rock",
-          "CityCusts": 567,
-          "County": "delta",
-          "CountyCusts": 1711,
-          "Zip": "49880",
-          "ZipCusts": 568,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41386
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54307,
+          "County": "kenosha",
+          "CountyCusts": 80154,
+          "Zip": "53142",
+          "ZipCusts": 15166,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
         }
       ]
     }
