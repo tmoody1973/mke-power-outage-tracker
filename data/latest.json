@@ -1,37 +1,14 @@
 {
-  "captured_at": "2026-08-16T00:53:49+00:00",
+  "captured_at": "2026-08-16T02:16:33+00:00",
   "events": [
-    {
-      "Latitude": 46.219793472669814,
-      "Longitude": -89.16913880491494,
-      "OffTime": "Aug 15, 4:23 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 7:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 7,
-          "City": "watersmeet",
-          "CityCusts": 2011,
-          "County": "gogebic",
-          "CountyCusts": 2016,
-          "Zip": "49969",
-          "ZipCusts": 2007,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41386
-        }
-      ]
-    },
     {
       "Latitude": 42.50841864914578,
       "Longitude": -88.15424253830753,
       "OffTime": "Aug 15, 3:14 p.m.",
-      "ETR": "Aug 15, 9:00 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "On the way",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 15, 7:50 p.m.",
+      "LastUpdated": "Aug 15, 9:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -51,10 +28,10 @@
       "Latitude": 43.46979581407969,
       "Longitude": -87.92134741399481,
       "OffTime": "Aug 15, 4:29 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "ETR": "Aug 16, 12:00 a.m.",
       "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 7:50 p.m.",
+      "Cause": "Vehicle accident",
+      "LastUpdated": "Aug 15, 9:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -71,25 +48,25 @@
       ]
     },
     {
-      "Latitude": 43.036858833064265,
-      "Longitude": -87.9570727434615,
-      "OffTime": "Aug 15, 7:40 p.m.",
-      "ETR": "Aug 15, 10:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 46.219793472669814,
+      "Longitude": -89.16913880491494,
+      "OffTime": "Aug 15, 4:23 p.m.",
+      "ETR": "Aug 15, 11:00 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 7:50 p.m.",
+      "LastUpdated": "Aug 15, 9:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352121,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53208",
-          "ZipCusts": 15445,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
+          "AffectedCusts": 7,
+          "City": "watersmeet",
+          "CityCusts": 2011,
+          "County": "gogebic",
+          "CountyCusts": 2016,
+          "Zip": "49969",
+          "ZipCusts": 2007,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41386
         }
       ]
     }
