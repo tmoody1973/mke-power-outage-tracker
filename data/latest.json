@@ -1,6 +1,52 @@
 {
-  "captured_at": "2026-08-16T11:12:12+00:00",
+  "captured_at": "2026-08-16T11:33:21+00:00",
   "events": [
+    {
+      "Latitude": 42.745437382185585,
+      "Longitude": -87.80040294049299,
+      "OffTime": "Aug 16, 5:52 a.m.",
+      "ETR": "Aug 16, 8:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 16, 6:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 58907,
+          "County": "racine",
+          "CountyCusts": 102466,
+          "Zip": "53404",
+          "ZipCusts": 7233,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 46.219793472669814,
+      "Longitude": -89.16913880491494,
+      "OffTime": "Aug 15, 4:23 p.m.",
+      "ETR": "Aug 16, 8:00 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 16, 6:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "watersmeet",
+          "CityCusts": 2011,
+          "County": "gogebic",
+          "CountyCusts": 2016,
+          "Zip": "49969",
+          "ZipCusts": 2007,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41386
+        }
+      ]
+    },
     {
       "Latitude": 42.55247949863087,
       "Longitude": -87.93060996601841,
@@ -8,9 +54,20 @@
       "ETR": "Aug 16, 8:30 a.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 6:10 a.m.",
+      "LastUpdated": "Aug 16, 6:30 a.m.",
       "IsGlobal": false,
       "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "pleasant prairie",
+          "CityCusts": 3104,
+          "County": "kenosha",
+          "CountyCusts": 80154,
+          "Zip": "53142",
+          "ZipCusts": 15166,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        },
         {
           "AffectedCusts": 28,
           "City": "pleasant pr",
@@ -23,7 +80,7 @@
           "RegionCusts": 1073919
         },
         {
-          "AffectedCusts": 461,
+          "AffectedCusts": 464,
           "City": "kenosha",
           "CityCusts": 54307,
           "County": "kenosha",
@@ -54,40 +111,6 @@
           "ZipCusts": 9515,
           "Region": "southeast wi",
           "RegionCusts": 1073919
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "pleasant prairie",
-          "CityCusts": 3104,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53142",
-          "ZipCusts": 15166,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 42.55925436713639,
-      "Longitude": -87.88794647144577,
-      "OffTime": "Aug 16, 5:47 a.m.",
-      "ETR": "Aug 16, 8:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 6:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 4,
-          "City": "kenosha",
-          "CityCusts": 54307,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53142",
-          "ZipCusts": 15166,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
         }
       ]
     },
@@ -96,19 +119,63 @@
       "Longitude": -87.87391310483888,
       "OffTime": "Aug 16, 5:43 a.m.",
       "ETR": "Aug 16, 8:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 6:10 a.m.",
+      "LastUpdated": "Aug 16, 6:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 4,
+          "AffectedCusts": 11,
           "City": "kenosha",
           "CityCusts": 54307,
           "County": "kenosha",
           "CountyCusts": 80154,
           "Zip": "53142",
           "ZipCusts": 15166,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "pleasant pr",
+          "CityCusts": 6399,
+          "County": "kenosha",
+          "CountyCusts": 80154,
+          "Zip": "53142",
+          "ZipCusts": 15166,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "mount pleasant",
+          "CityCusts": 5490,
+          "County": "racine",
+          "CountyCusts": 102466,
+          "Zip": "53403",
+          "ZipCusts": 14382,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        },
+        {
+          "AffectedCusts": 3,
+          "City": "kenosha",
+          "CityCusts": 54307,
+          "County": "kenosha",
+          "CountyCusts": 80154,
+          "Zip": "53158",
+          "ZipCusts": 9515,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        },
+        {
+          "AffectedCusts": 114,
+          "City": "pleasant prairie",
+          "CityCusts": 3104,
+          "County": "kenosha",
+          "CountyCusts": 80154,
+          "Zip": "53158",
+          "ZipCusts": 9515,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         },
@@ -125,50 +192,6 @@
         },
         {
           "AffectedCusts": 1,
-          "City": "pleasant pr",
-          "CityCusts": 6399,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53142",
-          "ZipCusts": 15166,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        },
-        {
-          "AffectedCusts": 3,
-          "City": "pleasant prairie",
-          "CityCusts": 3104,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53142",
-          "ZipCusts": 15166,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        },
-        {
-          "AffectedCusts": 3,
-          "City": "kenosha",
-          "CityCusts": 54307,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53158",
-          "ZipCusts": 9515,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "mount pleasant",
-          "CityCusts": 5490,
-          "County": "racine",
-          "CountyCusts": 102466,
-          "Zip": "53403",
-          "ZipCusts": 14382,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        },
-        {
-          "AffectedCusts": 1,
           "City": "kenosha",
           "CityCusts": 54307,
           "County": "kenosha",
@@ -179,20 +202,20 @@
           "RegionCusts": 1073919
         },
         {
-          "AffectedCusts": 209,
-          "City": "pleasant pr",
-          "CityCusts": 6399,
+          "AffectedCusts": 3,
+          "City": "pleasant prairie",
+          "CityCusts": 3104,
           "County": "kenosha",
           "CountyCusts": 80154,
-          "Zip": "53158",
-          "ZipCusts": 9515,
+          "Zip": "53142",
+          "ZipCusts": 15166,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         },
         {
-          "AffectedCusts": 112,
-          "City": "pleasant prairie",
-          "CityCusts": 3104,
+          "AffectedCusts": 209,
+          "City": "pleasant pr",
+          "CityCusts": 6399,
           "County": "kenosha",
           "CountyCusts": 80154,
           "Zip": "53158",
@@ -209,7 +232,7 @@
       "ETR": "Aug 16, 10:00 a.m.",
       "CrewStatus": "On the way",
       "Cause": "Vehicle accident",
-      "LastUpdated": "Aug 16, 6:10 a.m.",
+      "LastUpdated": "Aug 16, 6:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -222,121 +245,6 @@
           "ZipCusts": 568,
           "Region": "upper peninsula mi",
           "RegionCusts": 41386
-        }
-      ]
-    },
-    {
-      "Latitude": 46.219793472669814,
-      "Longitude": -89.16913880491494,
-      "OffTime": "Aug 15, 4:23 p.m.",
-      "ETR": "Aug 16, 8:00 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 16, 6:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "watersmeet",
-          "CityCusts": 2011,
-          "County": "gogebic",
-          "CountyCusts": 2016,
-          "Zip": "49969",
-          "ZipCusts": 2007,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41386
-        }
-      ]
-    },
-    {
-      "Latitude": 42.56268528111908,
-      "Longitude": -87.87873202403757,
-      "OffTime": "Aug 16, 5:47 a.m.",
-      "ETR": "Aug 16, 8:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 6:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 5,
-          "City": "kenosha",
-          "CityCusts": 54307,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53142",
-          "ZipCusts": 15166,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 42.56537667385125,
-      "Longitude": -87.88056562709632,
-      "OffTime": "Aug 16, 5:47 a.m.",
-      "ETR": "Aug 16, 8:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 6:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "kenosha",
-          "CityCusts": 54307,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53142",
-          "ZipCusts": 15166,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 42.564724510969384,
-      "Longitude": -87.93268424372586,
-      "OffTime": "Aug 16, 5:47 a.m.",
-      "ETR": "Aug 16, 8:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 6:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 6,
-          "City": "pleasant prairie",
-          "CityCusts": 3104,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53158",
-          "ZipCusts": 9515,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 42.745437382185585,
-      "Longitude": -87.80040294049299,
-      "OffTime": "Aug 16, 5:52 a.m.",
-      "ETR": "Aug 16, 8:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 6:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 58907,
-          "County": "racine",
-          "CountyCusts": 102466,
-          "Zip": "53404",
-          "ZipCusts": 7233,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
         }
       ]
     }
