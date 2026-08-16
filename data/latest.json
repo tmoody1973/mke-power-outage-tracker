@@ -1,29 +1,6 @@
 {
-  "captured_at": "2026-08-16T05:20:00+00:00",
+  "captured_at": "2026-08-16T05:50:49+00:00",
   "events": [
-    {
-      "Latitude": 46.219793472669814,
-      "Longitude": -89.16913880491494,
-      "OffTime": "Aug 15, 4:23 p.m.",
-      "ETR": "Aug 16, 12:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 16, 12:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 7,
-          "City": "watersmeet",
-          "CityCusts": 2011,
-          "County": "gogebic",
-          "CountyCusts": 2016,
-          "Zip": "49969",
-          "ZipCusts": 2007,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41386
-        }
-      ]
-    },
     {
       "Latitude": 42.50841864914578,
       "Longitude": -88.15424253830753,
@@ -31,7 +8,7 @@
       "ETR": "Aug 16, 2:00 a.m.",
       "CrewStatus": "On site",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 16, 12:10 a.m.",
+      "LastUpdated": "Aug 16, 12:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,13 +25,59 @@
       ]
     },
     {
+      "Latitude": 46.06838608425671,
+      "Longitude": -87.17481575841725,
+      "OffTime": "Aug 16, 12:09 a.m.",
+      "ETR": "Aug 16, 3:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 16, 12:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 57,
+          "City": "rock",
+          "CityCusts": 567,
+          "County": "delta",
+          "CountyCusts": 1711,
+          "Zip": "49880",
+          "ZipCusts": 568,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41386
+        }
+      ]
+    },
+    {
+      "Latitude": 46.219793472669814,
+      "Longitude": -89.16913880491494,
+      "OffTime": "Aug 15, 4:23 p.m.",
+      "ETR": "Aug 16, 2:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 16, 12:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 7,
+          "City": "watersmeet",
+          "CityCusts": 2011,
+          "County": "gogebic",
+          "CountyCusts": 2016,
+          "Zip": "49969",
+          "ZipCusts": 2007,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41386
+        }
+      ]
+    },
+    {
       "Latitude": 42.91730351078378,
       "Longitude": -88.06399418641409,
       "OffTime": "Aug 15, 11:47 p.m.",
       "ETR": "Aug 16, 2:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 12:10 a.m.",
+      "LastUpdated": "Aug 16, 12:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -65,29 +88,6 @@
           "CountyCusts": 479767,
           "Zip": "53132",
           "ZipCusts": 17459,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 43.09732887805177,
-      "Longitude": -87.91168280803328,
-      "OffTime": "Aug 15, 11:42 p.m.",
-      "ETR": "Aug 16, 2:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Aug 16, 12:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "glendale",
-          "CityCusts": 3731,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53212",
-          "ZipCusts": 17016,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
