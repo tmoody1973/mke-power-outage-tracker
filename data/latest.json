@@ -1,14 +1,83 @@
 {
-  "captured_at": "2026-08-16T17:00:33+00:00",
+  "captured_at": "2026-08-16T17:31:55+00:00",
   "events": [
+    {
+      "Latitude": 44.7932228495971,
+      "Longitude": -88.49785638672093,
+      "OffTime": "Aug 16, 9:58 a.m.",
+      "ETR": "Aug 16, 1:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 16, 12:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "shawano",
+          "CityCusts": 2990,
+          "County": "shawano",
+          "CountyCusts": 8368,
+          "Zip": "54166",
+          "ZipCusts": 2990,
+          "Region": "fox valley wi",
+          "RegionCusts": 143306
+        }
+      ]
+    },
+    {
+      "Latitude": 43.225798713593655,
+      "Longitude": -88.12014886179762,
+      "OffTime": "Aug 16, 12:17 p.m.",
+      "ETR": "Aug 16, 3:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 16, 12:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "germantown",
+          "CityCusts": 10395,
+          "County": "washington",
+          "CountyCusts": 61656,
+          "Zip": "53022",
+          "ZipCusts": 10394,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 42.686213206265144,
+      "Longitude": -88.27314204174992,
+      "OffTime": "Aug 16, 11:42 a.m.",
+      "ETR": "Aug 16, 2:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 16, 12:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "burlington",
+          "CityCusts": 15547,
+          "County": "racine",
+          "CountyCusts": 102466,
+          "Zip": "53105",
+          "ZipCusts": 15589,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
     {
       "Latitude": 43.043849605151806,
       "Longitude": -88.87675605739582,
       "OffTime": "Aug 16, 11:01 a.m.",
       "ETR": "Aug 16, 2:00 p.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 11:50 a.m.",
+      "LastUpdated": "Aug 16, 12:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -29,9 +98,9 @@
       "Longitude": -88.69886221344198,
       "OffTime": "Aug 16, 11:26 a.m.",
       "ETR": "Aug 16, 2:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 11:50 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Wildlife contact with equipment",
+      "LastUpdated": "Aug 16, 12:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -44,52 +113,6 @@
           "ZipCusts": 3185,
           "Region": "fox valley wi",
           "RegionCusts": 143306
-        }
-      ]
-    },
-    {
-      "Latitude": 44.7932228495971,
-      "Longitude": -88.49785638672093,
-      "OffTime": "Aug 16, 9:58 a.m.",
-      "ETR": "Aug 16, 1:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 11:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "shawano",
-          "CityCusts": 2990,
-          "County": "shawano",
-          "CountyCusts": 8368,
-          "Zip": "54166",
-          "ZipCusts": 2990,
-          "Region": "fox valley wi",
-          "RegionCusts": 143306
-        }
-      ]
-    },
-    {
-      "Latitude": 42.686213206265144,
-      "Longitude": -88.27314204174992,
-      "OffTime": "Aug 16, 11:42 a.m.",
-      "ETR": "Aug 16, 2:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 11:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "burlington",
-          "CityCusts": 15547,
-          "County": "racine",
-          "CountyCusts": 102466,
-          "Zip": "53105",
-          "ZipCusts": 15589,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
         }
       ]
     }
