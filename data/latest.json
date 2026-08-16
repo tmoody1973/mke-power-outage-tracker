@@ -1,14 +1,37 @@
 {
-  "captured_at": "2026-08-16T08:00:41+00:00",
+  "captured_at": "2026-08-16T08:44:47+00:00",
   "events": [
+    {
+      "Latitude": 42.54663559934587,
+      "Longitude": -87.84761823226017,
+      "OffTime": "Aug 16, 3:13 a.m.",
+      "ETR": "Aug 16, 6:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 16, 3:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 8,
+          "City": "kenosha",
+          "CityCusts": 54307,
+          "County": "kenosha",
+          "CountyCusts": 80154,
+          "Zip": "53142",
+          "ZipCusts": 15166,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
     {
       "Latitude": 46.219793472669814,
       "Longitude": -89.16913880491494,
       "OffTime": "Aug 15, 4:23 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "ETR": "Aug 16, 8:00 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 16, 2:50 a.m.",
+      "LastUpdated": "Aug 16, 3:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,17 +48,17 @@
       ]
     },
     {
-      "Latitude": 46.06838608425671,
-      "Longitude": -87.17481575841725,
+      "Latitude": 46.06839861620943,
+      "Longitude": -87.17361253380716,
       "OffTime": "Aug 16, 12:09 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "ETR": "Aug 16, 4:00 a.m.",
       "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 2:50 a.m.",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Aug 16, 3:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 57,
+          "AffectedCusts": 58,
           "City": "rock",
           "CityCusts": 567,
           "County": "delta",
