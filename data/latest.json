@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-08-16T04:48:16+00:00",
+  "captured_at": "2026-08-16T05:20:00+00:00",
   "events": [
     {
       "Latitude": 46.219793472669814,
       "Longitude": -89.16913880491494,
       "OffTime": "Aug 15, 4:23 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "ETR": "Aug 16, 12:30 a.m.",
       "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 15, 11:40 p.m.",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 16, 12:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -31,7 +31,7 @@
       "ETR": "Aug 16, 2:00 a.m.",
       "CrewStatus": "On site",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 15, 11:40 p.m.",
+      "LastUpdated": "Aug 16, 12:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -42,6 +42,52 @@
           "CountyCusts": 80154,
           "Zip": "53179",
           "ZipCusts": 2965,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 42.91730351078378,
+      "Longitude": -88.06399418641409,
+      "OffTime": "Aug 15, 11:47 p.m.",
+      "ETR": "Aug 16, 2:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 16, 12:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "franklin",
+          "CityCusts": 17458,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53132",
+          "ZipCusts": 17459,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 43.09732887805177,
+      "Longitude": -87.91168280803328,
+      "OffTime": "Aug 15, 11:42 p.m.",
+      "ETR": "Aug 16, 2:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Aug 16, 12:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "glendale",
+          "CityCusts": 3731,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53212",
+          "ZipCusts": 17016,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
