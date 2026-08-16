@@ -1,37 +1,14 @@
 {
-  "captured_at": "2026-08-16T20:11:36+00:00",
+  "captured_at": "2026-08-16T20:36:20+00:00",
   "events": [
-    {
-      "Latitude": 43.86587280712797,
-      "Longitude": -88.09863304929895,
-      "OffTime": "Aug 16, 2:17 p.m.",
-      "ETR": "Aug 16, 5:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 3:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "elkhart lake",
-          "CityCusts": 2474,
-          "County": "sheboygan",
-          "CountyCusts": 14257,
-          "Zip": "53020",
-          "ZipCusts": 2480,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
     {
       "Latitude": 45.80834118003344,
       "Longitude": -88.08751729173642,
       "OffTime": "Aug 16, 2:01 p.m.",
       "ETR": "Aug 16, 5:00 p.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 3:10 p.m.",
+      "LastUpdated": "Aug 16, 3:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,23 +25,23 @@
       ]
     },
     {
-      "Latitude": 43.599754505075154,
-      "Longitude": -87.7698390725798,
-      "OffTime": "Aug 16, 1:24 p.m.",
-      "ETR": "Aug 16, 4:00 p.m.",
-      "CrewStatus": "On the way",
+      "Latitude": 43.854311023024714,
+      "Longitude": -87.93463867387881,
+      "OffTime": "Aug 16, 1:32 p.m.",
+      "ETR": "Aug 16, 4:30 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 3:10 p.m.",
+      "LastUpdated": "Aug 16, 3:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 22,
-          "City": "oostburg",
-          "CityCusts": 2563,
+          "AffectedCusts": 1,
+          "City": "elkhart lake",
+          "CityCusts": 2474,
           "County": "sheboygan",
           "CountyCusts": 14257,
-          "Zip": "53070",
-          "ZipCusts": 2561,
+          "Zip": "53020",
+          "ZipCusts": 2480,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
@@ -77,7 +54,7 @@
       "ETR": "Aug 16, 4:30 p.m.",
       "CrewStatus": "On site",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 16, 3:10 p.m.",
+      "LastUpdated": "Aug 16, 3:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -94,13 +71,59 @@
       ]
     },
     {
+      "Latitude": 42.724191356707635,
+      "Longitude": -87.83423666630513,
+      "OffTime": "Aug 16, 3:22 p.m.",
+      "ETR": "Aug 16, 6:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 16, 3:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 14,
+          "City": "racine",
+          "CityCusts": 58907,
+          "County": "racine",
+          "CountyCusts": 102466,
+          "Zip": "53405",
+          "ZipCusts": 11769,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 43.86587280712797,
+      "Longitude": -88.09863304929895,
+      "OffTime": "Aug 16, 2:17 p.m.",
+      "ETR": "Aug 16, 5:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 16, 3:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "elkhart lake",
+          "CityCusts": 2474,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53020",
+          "ZipCusts": 2480,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
       "Latitude": 42.94115667414156,
       "Longitude": -87.94985987238954,
       "OffTime": "Aug 16, 12:42 p.m.",
       "ETR": "Aug 16, 7:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Facilities patrolled - no problems found",
-      "LastUpdated": "Aug 16, 3:10 p.m.",
+      "LastUpdated": "Aug 16, 3:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -117,23 +140,46 @@
       ]
     },
     {
-      "Latitude": 43.854311023024714,
-      "Longitude": -87.93463867387881,
-      "OffTime": "Aug 16, 1:32 p.m.",
-      "ETR": "Aug 16, 4:30 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 43.599754505075154,
+      "Longitude": -87.7698390725798,
+      "OffTime": "Aug 16, 1:24 p.m.",
+      "ETR": "Aug 16, 4:00 p.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 3:10 p.m.",
+      "LastUpdated": "Aug 16, 3:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "elkhart lake",
-          "CityCusts": 2474,
+          "AffectedCusts": 22,
+          "City": "oostburg",
+          "CityCusts": 2563,
           "County": "sheboygan",
           "CountyCusts": 14257,
-          "Zip": "53020",
-          "ZipCusts": 2480,
+          "Zip": "53070",
+          "ZipCusts": 2561,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 43.06051983281596,
+      "Longitude": -88.39909652611816,
+      "OffTime": "Aug 16, 3:19 p.m.",
+      "ETR": "Aug 16, 6:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 16, 3:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 60,
+          "City": "delafield",
+          "CityCusts": 4283,
+          "County": "waukesha",
+          "CountyCusts": 203456,
+          "Zip": "53018",
+          "ZipCusts": 4225,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
