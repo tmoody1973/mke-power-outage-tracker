@@ -1,150 +1,14 @@
 {
-  "captured_at": "2026-08-16T16:14:50+00:00",
+  "captured_at": "2026-08-16T16:43:13+00:00",
   "events": [
-    {
-      "Latitude": 42.55247949863087,
-      "Longitude": -87.93060996601841,
-      "OffTime": "Aug 16, 5:43 a.m.",
-      "ETR": "Aug 16, 11:30 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 11:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "pleasant prairie",
-          "CityCusts": 3104,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53142",
-          "ZipCusts": 15166,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        },
-        {
-          "AffectedCusts": 19,
-          "City": "pleasant pr",
-          "CityCusts": 6399,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53158",
-          "ZipCusts": 9515,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "pleasant pr",
-          "CityCusts": 6399,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53142",
-          "ZipCusts": 15166,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        },
-        {
-          "AffectedCusts": 7,
-          "City": "pleasant prairie",
-          "CityCusts": 3104,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53158",
-          "ZipCusts": 9515,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        },
-        {
-          "AffectedCusts": 255,
-          "City": "kenosha",
-          "CityCusts": 54307,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53142",
-          "ZipCusts": 15166,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 42.55219919094355,
-      "Longitude": -87.9315936230753,
-      "OffTime": "Aug 16, 10:46 a.m.",
-      "ETR": "Aug 16, 1:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 11:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "pleasant pr",
-          "CityCusts": 6399,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53158",
-          "ZipCusts": 9515,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 43.043849605151806,
-      "Longitude": -88.87675605739582,
-      "OffTime": "Aug 16, 11:01 a.m.",
-      "ETR": "Aug 16, 2:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 11:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "jefferson",
-          "CityCusts": 1580,
-          "County": "jefferson",
-          "CountyCusts": 35185,
-          "Zip": "53549",
-          "ZipCusts": 1584,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 42.56083008717129,
-      "Longitude": -87.87960131622759,
-      "OffTime": "Aug 16, 9:42 a.m.",
-      "ETR": "Aug 16, 12:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 11:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54307,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53142",
-          "ZipCusts": 15166,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
     {
       "Latitude": 44.7932228495971,
       "Longitude": -88.49785638672093,
       "OffTime": "Aug 16, 9:58 a.m.",
       "ETR": "Aug 16, 1:00 p.m.",
-      "CrewStatus": "On the way",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 11:10 a.m.",
+      "LastUpdated": "Aug 16, 11:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -157,6 +21,98 @@
           "ZipCusts": 2990,
           "Region": "fox valley wi",
           "RegionCusts": 143306
+        }
+      ]
+    },
+    {
+      "Latitude": 42.55219919094355,
+      "Longitude": -87.9315936230753,
+      "OffTime": "Aug 16, 10:46 a.m.",
+      "ETR": "Aug 16, 1:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 16, 11:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "pleasant pr",
+          "CityCusts": 6399,
+          "County": "kenosha",
+          "CountyCusts": 80154,
+          "Zip": "53158",
+          "ZipCusts": 9515,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 43.18117532966671,
+      "Longitude": -87.98125828973863,
+      "OffTime": "Aug 16, 11:29 a.m.",
+      "ETR": "Aug 16, 2:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 16, 11:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352121,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53223",
+          "ZipCusts": 14099,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 44.26682733325592,
+      "Longitude": -88.69886221344198,
+      "OffTime": "Aug 16, 11:26 a.m.",
+      "ETR": "Aug 16, 2:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 16, 11:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "fremont",
+          "CityCusts": 3186,
+          "County": "outagamie",
+          "CountyCusts": 80090,
+          "Zip": "54940",
+          "ZipCusts": 3185,
+          "Region": "fox valley wi",
+          "RegionCusts": 143306
+        }
+      ]
+    },
+    {
+      "Latitude": 43.043849605151806,
+      "Longitude": -88.87675605739582,
+      "OffTime": "Aug 16, 11:01 a.m.",
+      "ETR": "Aug 16, 2:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 16, 11:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "jefferson",
+          "CityCusts": 1580,
+          "County": "jefferson",
+          "CountyCusts": 35185,
+          "Zip": "53549",
+          "ZipCusts": 1584,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
         }
       ]
     }
