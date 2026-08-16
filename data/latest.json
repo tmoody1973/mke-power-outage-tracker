@@ -1,14 +1,37 @@
 {
-  "captured_at": "2026-08-16T10:19:06+00:00",
+  "captured_at": "2026-08-16T10:45:54+00:00",
   "events": [
+    {
+      "Latitude": 42.54663559934587,
+      "Longitude": -87.84761823226017,
+      "OffTime": "Aug 16, 3:13 a.m.",
+      "ETR": "Aug 16, 6:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 16, 5:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 8,
+          "City": "kenosha",
+          "CityCusts": 54307,
+          "County": "kenosha",
+          "CountyCusts": 80154,
+          "Zip": "53142",
+          "ZipCusts": 15166,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
     {
       "Latitude": 46.06839861620943,
       "Longitude": -87.17361253380716,
       "OffTime": "Aug 16, 12:09 a.m.",
       "ETR": "Aug 16, 10:00 a.m.",
-      "CrewStatus": "Specialized crew needed",
+      "CrewStatus": "On the way",
       "Cause": "Vehicle accident",
-      "LastUpdated": "Aug 16, 5:10 a.m.",
+      "LastUpdated": "Aug 16, 5:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -31,7 +54,7 @@
       "ETR": "Aug 16, 8:00 a.m.",
       "CrewStatus": "On the way",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 16, 5:10 a.m.",
+      "LastUpdated": "Aug 16, 5:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -44,29 +67,6 @@
           "ZipCusts": 2007,
           "Region": "upper peninsula mi",
           "RegionCusts": 41386
-        }
-      ]
-    },
-    {
-      "Latitude": 42.54663559934587,
-      "Longitude": -87.84761823226017,
-      "OffTime": "Aug 16, 3:13 a.m.",
-      "ETR": "Aug 16, 6:00 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 5:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 8,
-          "City": "kenosha",
-          "CityCusts": 54307,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53142",
-          "ZipCusts": 15166,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
         }
       ]
     }
