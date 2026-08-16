@@ -1,26 +1,26 @@
 {
-  "captured_at": "2026-08-16T18:52:44+00:00",
+  "captured_at": "2026-08-16T19:14:40+00:00",
   "events": [
     {
-      "Latitude": 43.854311023024714,
-      "Longitude": -87.93463867387881,
-      "OffTime": "Aug 16, 1:32 p.m.",
-      "ETR": "Aug 16, 4:30 p.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 45.80834118003344,
+      "Longitude": -88.08751729173642,
+      "OffTime": "Aug 16, 2:01 p.m.",
+      "ETR": "Aug 16, 5:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 1:50 p.m.",
+      "LastUpdated": "Aug 16, 2:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "elkhart lake",
-          "CityCusts": 2474,
-          "County": "sheboygan",
-          "CountyCusts": 14257,
-          "Zip": "53020",
-          "ZipCusts": 2480,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
+          "AffectedCusts": 24,
+          "City": "iron mountain",
+          "CityCusts": 7096,
+          "County": "dickinson",
+          "CountyCusts": 14080,
+          "Zip": "49801",
+          "ZipCusts": 7097,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41386
         }
       ]
     },
@@ -31,7 +31,7 @@
       "ETR": "Aug 16, 4:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 16, 1:50 p.m.",
+      "LastUpdated": "Aug 16, 2:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,23 +48,23 @@
       ]
     },
     {
-      "Latitude": 43.599754505075154,
-      "Longitude": -87.7698390725798,
-      "OffTime": "Aug 16, 1:24 p.m.",
-      "ETR": "Aug 16, 4:00 p.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 43.04532791207811,
+      "Longitude": -87.90544979420228,
+      "OffTime": "Aug 16, 2:01 p.m.",
+      "ETR": "Aug 16, 5:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 1:50 p.m.",
+      "LastUpdated": "Aug 16, 2:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 22,
-          "City": "oostburg",
-          "CityCusts": 2563,
-          "County": "sheboygan",
-          "CountyCusts": 14257,
-          "Zip": "53070",
-          "ZipCusts": 2561,
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352121,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53202",
+          "ZipCusts": 22379,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
@@ -77,7 +77,7 @@
       "ETR": "Aug 16, 3:00 p.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 1:50 p.m.",
+      "LastUpdated": "Aug 16, 2:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -94,13 +94,36 @@
       ]
     },
     {
+      "Latitude": 43.599754505075154,
+      "Longitude": -87.7698390725798,
+      "OffTime": "Aug 16, 1:24 p.m.",
+      "ETR": "Aug 16, 4:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 16, 2:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 22,
+          "City": "oostburg",
+          "CityCusts": 2563,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53070",
+          "ZipCusts": 2561,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
       "Latitude": 42.94115667414156,
       "Longitude": -87.94985987238954,
       "OffTime": "Aug 16, 12:42 p.m.",
-      "ETR": "Aug 16, 3:30 p.m.",
+      "ETR": "Aug 16, 7:00 p.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 1:50 p.m.",
+      "LastUpdated": "Aug 16, 2:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -111,6 +134,29 @@
           "CountyCusts": 479767,
           "Zip": "53221",
           "ZipCusts": 18458,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 43.854311023024714,
+      "Longitude": -87.93463867387881,
+      "OffTime": "Aug 16, 1:32 p.m.",
+      "ETR": "Aug 16, 4:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 16, 2:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "elkhart lake",
+          "CityCusts": 2474,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53020",
+          "ZipCusts": 2480,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
