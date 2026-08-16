@@ -1,52 +1,6 @@
 {
-  "captured_at": "2026-08-16T17:31:55+00:00",
+  "captured_at": "2026-08-16T17:54:07+00:00",
   "events": [
-    {
-      "Latitude": 44.7932228495971,
-      "Longitude": -88.49785638672093,
-      "OffTime": "Aug 16, 9:58 a.m.",
-      "ETR": "Aug 16, 1:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 12:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "shawano",
-          "CityCusts": 2990,
-          "County": "shawano",
-          "CountyCusts": 8368,
-          "Zip": "54166",
-          "ZipCusts": 2990,
-          "Region": "fox valley wi",
-          "RegionCusts": 143306
-        }
-      ]
-    },
-    {
-      "Latitude": 43.225798713593655,
-      "Longitude": -88.12014886179762,
-      "OffTime": "Aug 16, 12:17 p.m.",
-      "ETR": "Aug 16, 3:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 12:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "germantown",
-          "CityCusts": 10395,
-          "County": "washington",
-          "CountyCusts": 61656,
-          "Zip": "53022",
-          "ZipCusts": 10394,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
     {
       "Latitude": 42.686213206265144,
       "Longitude": -88.27314204174992,
@@ -54,7 +8,7 @@
       "ETR": "Aug 16, 2:30 p.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 12:30 p.m.",
+      "LastUpdated": "Aug 16, 12:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -71,13 +25,59 @@
       ]
     },
     {
+      "Latitude": 43.4260320126574,
+      "Longitude": -88.17361579387557,
+      "OffTime": "Aug 16, 12:40 p.m.",
+      "ETR": "Aug 16, 3:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 16, 12:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "west bend",
+          "CityCusts": 26115,
+          "County": "washington",
+          "CountyCusts": 61656,
+          "Zip": "53095",
+          "ZipCusts": 15588,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 44.7932228495971,
+      "Longitude": -88.49785638672093,
+      "OffTime": "Aug 16, 9:58 a.m.",
+      "ETR": "Aug 16, 4:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 16, 12:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "shawano",
+          "CityCusts": 2990,
+          "County": "shawano",
+          "CountyCusts": 8368,
+          "Zip": "54166",
+          "ZipCusts": 2990,
+          "Region": "fox valley wi",
+          "RegionCusts": 143306
+        }
+      ]
+    },
+    {
       "Latitude": 43.043849605151806,
       "Longitude": -88.87675605739582,
       "OffTime": "Aug 16, 11:01 a.m.",
       "ETR": "Aug 16, 2:00 p.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 12:30 p.m.",
+      "LastUpdated": "Aug 16, 12:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -94,25 +94,48 @@
       ]
     },
     {
-      "Latitude": 44.26682733325592,
-      "Longitude": -88.69886221344198,
-      "OffTime": "Aug 16, 11:26 a.m.",
-      "ETR": "Aug 16, 2:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Wildlife contact with equipment",
-      "LastUpdated": "Aug 16, 12:30 p.m.",
+      "Latitude": 43.225798713593655,
+      "Longitude": -88.12014886179762,
+      "OffTime": "Aug 16, 12:17 p.m.",
+      "ETR": "Aug 16, 3:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 16, 12:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "fremont",
-          "CityCusts": 3186,
-          "County": "outagamie",
-          "CountyCusts": 80090,
-          "Zip": "54940",
-          "ZipCusts": 3185,
-          "Region": "fox valley wi",
-          "RegionCusts": 143306
+          "City": "germantown",
+          "CityCusts": 10395,
+          "County": "washington",
+          "CountyCusts": 61656,
+          "Zip": "53022",
+          "ZipCusts": 10394,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 42.94115667414156,
+      "Longitude": -87.94985987238954,
+      "OffTime": "Aug 16, 12:42 p.m.",
+      "ETR": "Aug 16, 3:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 16, 12:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352121,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53221",
+          "ZipCusts": 18458,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
         }
       ]
     }
