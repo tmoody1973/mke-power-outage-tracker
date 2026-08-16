@@ -1,6 +1,29 @@
 {
-  "captured_at": "2026-08-16T05:50:49+00:00",
+  "captured_at": "2026-08-16T06:24:32+00:00",
   "events": [
+    {
+      "Latitude": 46.219793472669814,
+      "Longitude": -89.16913880491494,
+      "OffTime": "Aug 15, 4:23 p.m.",
+      "ETR": "Aug 16, 2:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 16, 1:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 7,
+          "City": "watersmeet",
+          "CityCusts": 2011,
+          "County": "gogebic",
+          "CountyCusts": 2016,
+          "Zip": "49969",
+          "ZipCusts": 2007,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41386
+        }
+      ]
+    },
     {
       "Latitude": 42.50841864914578,
       "Longitude": -88.15424253830753,
@@ -8,7 +31,7 @@
       "ETR": "Aug 16, 2:00 a.m.",
       "CrewStatus": "On site",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 16, 12:40 a.m.",
+      "LastUpdated": "Aug 16, 1:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -29,9 +52,9 @@
       "Longitude": -87.17481575841725,
       "OffTime": "Aug 16, 12:09 a.m.",
       "ETR": "Aug 16, 3:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 12:40 a.m.",
+      "LastUpdated": "Aug 16, 1:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,36 +71,13 @@
       ]
     },
     {
-      "Latitude": 46.219793472669814,
-      "Longitude": -89.16913880491494,
-      "OffTime": "Aug 15, 4:23 p.m.",
-      "ETR": "Aug 16, 2:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 16, 12:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 7,
-          "City": "watersmeet",
-          "CityCusts": 2011,
-          "County": "gogebic",
-          "CountyCusts": 2016,
-          "Zip": "49969",
-          "ZipCusts": 2007,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41386
-        }
-      ]
-    },
-    {
       "Latitude": 42.91730351078378,
       "Longitude": -88.06399418641409,
       "OffTime": "Aug 15, 11:47 p.m.",
       "ETR": "Aug 16, 2:30 a.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 12:40 a.m.",
+      "LastUpdated": "Aug 16, 1:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
