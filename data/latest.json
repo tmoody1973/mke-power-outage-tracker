@@ -1,6 +1,29 @@
 {
-  "captured_at": "2026-08-16T09:57:01+00:00",
+  "captured_at": "2026-08-16T10:19:06+00:00",
   "events": [
+    {
+      "Latitude": 46.06839861620943,
+      "Longitude": -87.17361253380716,
+      "OffTime": "Aug 16, 12:09 a.m.",
+      "ETR": "Aug 16, 10:00 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Vehicle accident",
+      "LastUpdated": "Aug 16, 5:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 58,
+          "City": "rock",
+          "CityCusts": 567,
+          "County": "delta",
+          "CountyCusts": 1711,
+          "Zip": "49880",
+          "ZipCusts": 568,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41386
+        }
+      ]
+    },
     {
       "Latitude": 46.219793472669814,
       "Longitude": -89.16913880491494,
@@ -8,7 +31,7 @@
       "ETR": "Aug 16, 8:00 a.m.",
       "CrewStatus": "On the way",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 16, 4:50 a.m.",
+      "LastUpdated": "Aug 16, 5:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -31,7 +54,7 @@
       "ETR": "Aug 16, 6:00 a.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 4:50 a.m.",
+      "LastUpdated": "Aug 16, 5:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -44,29 +67,6 @@
           "ZipCusts": 15166,
           "Region": "southeast wi",
           "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 46.06839861620943,
-      "Longitude": -87.17361253380716,
-      "OffTime": "Aug 16, 12:09 a.m.",
-      "ETR": "Aug 16, 10:00 a.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Vehicle accident",
-      "LastUpdated": "Aug 16, 4:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 58,
-          "City": "rock",
-          "CityCusts": 567,
-          "County": "delta",
-          "CountyCusts": 1711,
-          "Zip": "49880",
-          "ZipCusts": 568,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41386
         }
       ]
     }
