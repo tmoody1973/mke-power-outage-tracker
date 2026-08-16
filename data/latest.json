@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-16T13:59:19+00:00",
+  "captured_at": "2026-08-16T14:25:16+00:00",
   "events": [
     {
       "Latitude": 46.06839861620943,
@@ -8,7 +8,7 @@
       "ETR": "Aug 16, 11:00 a.m.",
       "CrewStatus": "On site",
       "Cause": "Vehicle accident",
-      "LastUpdated": "Aug 16, 8:50 a.m.",
+      "LastUpdated": "Aug 16, 9:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,36 +25,13 @@
       ]
     },
     {
-      "Latitude": 42.55922233760845,
-      "Longitude": -87.88269987083737,
-      "OffTime": "Aug 16, 8:43 a.m.",
-      "ETR": "Aug 16, 11:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 8:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54307,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53142",
-          "ZipCusts": 15166,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
       "Latitude": 42.55247949863087,
       "Longitude": -87.93060996601841,
       "OffTime": "Aug 16, 5:43 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "ETR": "Aug 16, 10:30 a.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 8:50 a.m.",
+      "LastUpdated": "Aug 16, 9:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -69,20 +46,9 @@
           "RegionCusts": 1073919
         },
         {
-          "AffectedCusts": 1,
-          "City": "pleasant prairie",
-          "CityCusts": 3104,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53142",
-          "ZipCusts": 15166,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        },
-        {
-          "AffectedCusts": 7,
-          "City": "pleasant prairie",
-          "CityCusts": 3104,
+          "AffectedCusts": 19,
+          "City": "pleasant pr",
+          "CityCusts": 6399,
           "County": "kenosha",
           "CountyCusts": 80154,
           "Zip": "53158",
@@ -91,9 +57,9 @@
           "RegionCusts": 1073919
         },
         {
-          "AffectedCusts": 19,
-          "City": "pleasant pr",
-          "CityCusts": 6399,
+          "AffectedCusts": 7,
+          "City": "pleasant prairie",
+          "CityCusts": 3104,
           "County": "kenosha",
           "CountyCusts": 80154,
           "Zip": "53158",
@@ -111,23 +77,11 @@
           "ZipCusts": 15166,
           "Region": "southeast wi",
           "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 42.55915530852367,
-      "Longitude": -87.88063376491209,
-      "OffTime": "Aug 16, 8:47 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 8:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
+        },
         {
           "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54307,
+          "City": "pleasant prairie",
+          "CityCusts": 3104,
           "County": "kenosha",
           "CountyCusts": 80154,
           "Zip": "53142",
