@@ -1,93 +1,24 @@
 {
-  "captured_at": "2026-08-17T21:47:24+00:00",
+  "captured_at": "2026-08-17T22:14:38+00:00",
   "events": [
     {
-      "Latitude": 42.736446479662106,
-      "Longitude": -87.79607763255461,
-      "OffTime": "Aug 17, 2:59 p.m.",
-      "ETR": "Aug 17, 6:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Aug 17, 4:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 58911,
-          "County": "racine",
-          "CountyCusts": 102469,
-          "Zip": "53404",
-          "ZipCusts": 7234,
-          "Region": "southeast wi",
-          "RegionCusts": 1073973
-        }
-      ]
-    },
-    {
-      "Latitude": 42.99995636696844,
-      "Longitude": -87.93617442348332,
-      "OffTime": "Aug 17, 12:15 p.m.",
-      "ETR": "Aug 17, 5:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 17, 4:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352143,
-          "County": "milwaukee",
-          "CountyCusts": 479807,
-          "Zip": "53215",
-          "ZipCusts": 22346,
-          "Region": "southeast wi",
-          "RegionCusts": 1073973
-        }
-      ]
-    },
-    {
-      "Latitude": 44.819715506946345,
-      "Longitude": -88.46021915706528,
-      "OffTime": "Aug 17, 2:54 p.m.",
-      "ETR": "Aug 17, 5:30 p.m.",
+      "Latitude": 42.96883210083556,
+      "Longitude": -87.85459516102563,
+      "OffTime": "Aug 17, 4:43 p.m.",
+      "ETR": "Aug 17, 7:30 p.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 4:40 p.m.",
+      "LastUpdated": "Aug 17, 5:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 14,
-          "City": "cecil",
-          "CityCusts": 1375,
-          "County": "shawano",
-          "CountyCusts": 8367,
-          "Zip": "54111",
-          "ZipCusts": 1377,
-          "Region": "fox valley wi",
-          "RegionCusts": 143319
-        }
-      ]
-    },
-    {
-      "Latitude": 43.05024618035135,
-      "Longitude": -87.89754470051689,
-      "OffTime": "Aug 17, 4:16 p.m.",
-      "ETR": "Aug 17, 7:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 4:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352143,
+          "AffectedCusts": 26,
+          "City": "saint francis",
+          "CityCusts": 4862,
           "County": "milwaukee",
           "CountyCusts": 479807,
-          "Zip": "53202",
-          "ZipCusts": 22378,
+          "Zip": "53235",
+          "ZipCusts": 5788,
           "Region": "southeast wi",
           "RegionCusts": 1073973
         }
@@ -98,9 +29,9 @@
       "Longitude": -87.94425122064328,
       "OffTime": "Aug 17, 3:47 p.m.",
       "ETR": "Aug 17, 6:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 4:40 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Aug 17, 5:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -123,7 +54,7 @@
       "ETR": "Aug 17, 6:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 4:40 p.m.",
+      "LastUpdated": "Aug 17, 5:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -151,13 +82,82 @@
       ]
     },
     {
-      "Latitude": 43.10575960723235,
-      "Longitude": -87.97090555608946,
-      "OffTime": "Aug 17, 4:26 p.m.",
-      "ETR": "Aug 17, 7:00 p.m.",
+      "Latitude": 42.736446479662106,
+      "Longitude": -87.79607763255461,
+      "OffTime": "Aug 17, 2:59 p.m.",
+      "ETR": "Aug 17, 6:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies overhead line problem",
+      "LastUpdated": "Aug 17, 5:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 58911,
+          "County": "racine",
+          "CountyCusts": 102469,
+          "Zip": "53404",
+          "ZipCusts": 7234,
+          "Region": "southeast wi",
+          "RegionCusts": 1073973
+        }
+      ]
+    },
+    {
+      "Latitude": 42.83047115625554,
+      "Longitude": -88.72549832800274,
+      "OffTime": "Aug 17, 4:40 p.m.",
+      "ETR": "Aug 17, 7:30 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 4:40 p.m.",
+      "LastUpdated": "Aug 17, 5:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "whitewater",
+          "CityCusts": 9480,
+          "County": "walworth",
+          "CountyCusts": 24218,
+          "Zip": "53190",
+          "ZipCusts": 9483,
+          "Region": "southeast wi",
+          "RegionCusts": 1073973
+        }
+      ]
+    },
+    {
+      "Latitude": 44.844930286424415,
+      "Longitude": -88.3497481261561,
+      "OffTime": "Aug 17, 4:43 p.m.",
+      "ETR": "Aug 17, 7:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 17, 5:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "cecil",
+          "CityCusts": 1375,
+          "County": "shawano",
+          "CountyCusts": 8367,
+          "Zip": "54111",
+          "ZipCusts": 1377,
+          "Region": "fox valley wi",
+          "RegionCusts": 143319
+        }
+      ]
+    },
+    {
+      "Latitude": 43.080357631235756,
+      "Longitude": -87.92800167166774,
+      "OffTime": "Aug 17, 5:07 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 17, 5:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -166,8 +166,8 @@
           "CityCusts": 352143,
           "County": "milwaukee",
           "CountyCusts": 479807,
-          "Zip": "53218",
-          "ZipCusts": 17047,
+          "Zip": "53206",
+          "ZipCusts": 10788,
           "Region": "southeast wi",
           "RegionCusts": 1073973
         }
