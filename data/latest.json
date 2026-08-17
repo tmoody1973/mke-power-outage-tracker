@@ -1,29 +1,6 @@
 {
-  "captured_at": "2026-08-17T07:13:55+00:00",
+  "captured_at": "2026-08-17T08:00:43+00:00",
   "events": [
-    {
-      "Latitude": 43.004003113785124,
-      "Longitude": -87.91828457502102,
-      "OffTime": "Aug 17, 12:07 a.m.",
-      "ETR": "Aug 17, 3:00 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 2:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352121,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53207",
-          "ZipCusts": 20423,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
     {
       "Latitude": 42.96659697616896,
       "Longitude": -88.36647996150046,
@@ -31,7 +8,7 @@
       "ETR": "Aug 17, 4:00 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 17, 2:10 a.m.",
+      "LastUpdated": "Aug 17, 3:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -42,6 +19,29 @@
           "CountyCusts": 203456,
           "Zip": "53127",
           "ZipCusts": 123,
+          "Region": "southeast wi",
+          "RegionCusts": 1073919
+        }
+      ]
+    },
+    {
+      "Latitude": 43.004003113785124,
+      "Longitude": -87.91828457502102,
+      "OffTime": "Aug 17, 12:07 a.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 17, 3:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352121,
+          "County": "milwaukee",
+          "CountyCusts": 479767,
+          "Zip": "53207",
+          "ZipCusts": 20423,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
