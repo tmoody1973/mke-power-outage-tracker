@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-08-17T11:47:44+00:00",
+  "captured_at": "2026-08-17T12:24:30+00:00",
   "events": [
     {
       "Latitude": 43.20047055507359,
       "Longitude": -88.2569615715486,
       "OffTime": "Aug 17, 6:18 a.m.",
       "ETR": "Aug 17, 9:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 6:40 a.m.",
+      "LastUpdated": "Aug 17, 7:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -21,6 +21,63 @@
           "ZipCusts": 2597,
           "Region": "southeast wi",
           "RegionCusts": 1073973
+        }
+      ]
+    },
+    {
+      "Latitude": 42.99917427297863,
+      "Longitude": -88.35494494091765,
+      "OffTime": "Aug 17, 7:05 a.m.",
+      "ETR": "Aug 17, 10:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 17, 7:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 32,
+          "City": "wales",
+          "CityCusts": 1542,
+          "County": "waukesha",
+          "CountyCusts": 203468,
+          "Zip": "53183",
+          "ZipCusts": 1547,
+          "Region": "southeast wi",
+          "RegionCusts": 1073973
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "waukesha",
+          "CityCusts": 48431,
+          "County": "waukesha",
+          "CountyCusts": 203468,
+          "Zip": "53188",
+          "ZipCusts": 17765,
+          "Region": "southeast wi",
+          "RegionCusts": 1073973
+        }
+      ]
+    },
+    {
+      "Latitude": 45.69309201126798,
+      "Longitude": -87.50167445698723,
+      "OffTime": "Aug 17, 6:53 a.m.",
+      "ETR": "Aug 17, 9:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 17, 7:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "spalding",
+          "CityCusts": 325,
+          "County": "menominee",
+          "CountyCusts": 2999,
+          "Zip": "49886",
+          "ZipCusts": 324,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41388
         }
       ]
     }
