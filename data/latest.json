@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-08-17T19:39:14+00:00",
+  "captured_at": "2026-08-17T19:57:16+00:00",
   "events": [
     {
-      "Latitude": 42.95059562790618,
-      "Longitude": -87.96211859598179,
-      "OffTime": "Aug 17, 11:10 a.m.",
-      "ETR": "Aug 17, 4:00 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 42.99995636696844,
+      "Longitude": -87.93617442348332,
+      "OffTime": "Aug 17, 12:15 p.m.",
+      "ETR": "Aug 17, 5:00 p.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 2:30 p.m.",
+      "LastUpdated": "Aug 17, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -17,10 +17,56 @@
           "CityCusts": 352143,
           "County": "milwaukee",
           "CountyCusts": 479807,
-          "Zip": "53221",
-          "ZipCusts": 18460,
+          "Zip": "53215",
+          "ZipCusts": 22346,
           "Region": "southeast wi",
           "RegionCusts": 1073973
+        }
+      ]
+    },
+    {
+      "Latitude": 44.53463152898958,
+      "Longitude": -88.52078499558881,
+      "OffTime": "Aug 17, 2:20 p.m.",
+      "ETR": "Aug 17, 5:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 17, 2:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "black creek",
+          "CityCusts": 2431,
+          "County": "outagamie",
+          "CountyCusts": 80099,
+          "Zip": "54106",
+          "ZipCusts": 2433,
+          "Region": "fox valley wi",
+          "RegionCusts": 143319
+        }
+      ]
+    },
+    {
+      "Latitude": 44.18779654875845,
+      "Longitude": -88.4470924055761,
+      "OffTime": "Aug 17, 1:11 p.m.",
+      "ETR": "Aug 17, 4:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 17, 2:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 4,
+          "City": "neenah",
+          "CityCusts": 21385,
+          "County": "winnebago",
+          "CountyCusts": 27742,
+          "Zip": "54956",
+          "ZipCusts": 21379,
+          "Region": "fox valley wi",
+          "RegionCusts": 143319
         }
       ]
     },
@@ -31,7 +77,7 @@
       "ETR": "Aug 17, 3:30 p.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 17, 2:30 p.m.",
+      "LastUpdated": "Aug 17, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,59 +94,13 @@
       ]
     },
     {
-      "Latitude": 42.7355059464919,
-      "Longitude": -87.7843936734588,
-      "OffTime": "Aug 17, 12:10 p.m.",
-      "ETR": "Aug 17, 3:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies equipment problem",
-      "LastUpdated": "Aug 17, 2:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 19,
-          "City": "racine",
-          "CityCusts": 58911,
-          "County": "racine",
-          "CountyCusts": 102469,
-          "Zip": "53402",
-          "ZipCusts": 16003,
-          "Region": "southeast wi",
-          "RegionCusts": 1073973
-        }
-      ]
-    },
-    {
-      "Latitude": 44.23105488008452,
-      "Longitude": -88.4031118318429,
-      "OffTime": "Aug 17, 12:11 p.m.",
-      "ETR": "Aug 17, 3:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 2:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 5,
-          "City": "appleton",
-          "CityCusts": 62923,
-          "County": "calumet",
-          "CountyCusts": 14456,
-          "Zip": "54915",
-          "ZipCusts": 20159,
-          "Region": "fox valley wi",
-          "RegionCusts": 143319
-        }
-      ]
-    },
-    {
       "Latitude": 43.06795377782368,
       "Longitude": -88.34951388955291,
       "OffTime": "Aug 17, 1:39 p.m.",
       "ETR": "Aug 17, 4:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 2:30 p.m.",
+      "LastUpdated": "Aug 17, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -123,7 +123,7 @@
       "ETR": "Aug 17, 3:00 p.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 2:30 p.m.",
+      "LastUpdated": "Aug 17, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -140,23 +140,23 @@
       ]
     },
     {
-      "Latitude": 42.99995636696844,
-      "Longitude": -87.93617442348332,
-      "OffTime": "Aug 17, 12:15 p.m.",
+      "Latitude": 42.7355059464919,
+      "Longitude": -87.7843936734588,
+      "OffTime": "Aug 17, 12:10 p.m.",
       "ETR": "Aug 17, 3:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 2:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Aug 17, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352143,
-          "County": "milwaukee",
-          "CountyCusts": 479807,
-          "Zip": "53215",
-          "ZipCusts": 22346,
+          "AffectedCusts": 19,
+          "City": "racine",
+          "CityCusts": 58911,
+          "County": "racine",
+          "CountyCusts": 102469,
+          "Zip": "53402",
+          "ZipCusts": 16003,
           "Region": "southeast wi",
           "RegionCusts": 1073973
         }
@@ -169,7 +169,7 @@
       "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 2:30 p.m.",
+      "LastUpdated": "Aug 17, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -180,52 +180,6 @@
           "CountyCusts": 14456,
           "Zip": "54915",
           "ZipCusts": 20159,
-          "Region": "fox valley wi",
-          "RegionCusts": 143319
-        }
-      ]
-    },
-    {
-      "Latitude": 44.18779654875845,
-      "Longitude": -88.4470924055761,
-      "OffTime": "Aug 17, 1:11 p.m.",
-      "ETR": "Aug 17, 4:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 2:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 4,
-          "City": "neenah",
-          "CityCusts": 21385,
-          "County": "winnebago",
-          "CountyCusts": 27742,
-          "Zip": "54956",
-          "ZipCusts": 21379,
-          "Region": "fox valley wi",
-          "RegionCusts": 143319
-        }
-      ]
-    },
-    {
-      "Latitude": 44.53463152898958,
-      "Longitude": -88.52078499558881,
-      "OffTime": "Aug 17, 2:20 p.m.",
-      "ETR": "Aug 17, 5:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 2:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "black creek",
-          "CityCusts": 2431,
-          "County": "outagamie",
-          "CountyCusts": 80099,
-          "Zip": "54106",
-          "ZipCusts": 2433,
           "Region": "fox valley wi",
           "RegionCusts": 143319
         }
