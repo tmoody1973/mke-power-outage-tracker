@@ -1,29 +1,6 @@
 {
-  "captured_at": "2026-08-17T23:25:55+00:00",
+  "captured_at": "2026-08-17T23:44:18+00:00",
   "events": [
-    {
-      "Latitude": 42.959638445711015,
-      "Longitude": -87.9667388167462,
-      "OffTime": "Aug 17, 6:12 p.m.",
-      "ETR": "Aug 17, 9:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 6:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352143,
-          "County": "milwaukee",
-          "CountyCusts": 479807,
-          "Zip": "53221",
-          "ZipCusts": 18460,
-          "Region": "southeast wi",
-          "RegionCusts": 1073973
-        }
-      ]
-    },
     {
       "Latitude": 44.25235466940071,
       "Longitude": -88.4462196355818,
@@ -31,7 +8,7 @@
       "ETR": "Aug 17, 8:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 6:20 p.m.",
+      "LastUpdated": "Aug 17, 6:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -59,13 +36,36 @@
       ]
     },
     {
+      "Latitude": 42.621293478379485,
+      "Longitude": -87.83530607617307,
+      "OffTime": "Aug 17, 5:27 p.m.",
+      "ETR": "Aug 17, 8:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 17, 6:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54304,
+          "County": "kenosha",
+          "CountyCusts": 80154,
+          "Zip": "53140",
+          "ZipCusts": 14889,
+          "Region": "southeast wi",
+          "RegionCusts": 1073973
+        }
+      ]
+    },
+    {
       "Latitude": 43.05300309735158,
       "Longitude": -87.92430271840354,
       "OffTime": "Aug 17, 5:49 p.m.",
       "ETR": "Aug 17, 8:30 p.m.",
-      "CrewStatus": "On the way",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 6:20 p.m.",
+      "LastUpdated": "Aug 17, 6:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -87,29 +87,6 @@
           "CountyCusts": 479807,
           "Zip": "53205",
           "ZipCusts": 4127,
-          "Region": "southeast wi",
-          "RegionCusts": 1073973
-        }
-      ]
-    },
-    {
-      "Latitude": 42.621293478379485,
-      "Longitude": -87.83530607617307,
-      "OffTime": "Aug 17, 5:27 p.m.",
-      "ETR": "Aug 17, 8:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 6:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54304,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53140",
-          "ZipCusts": 14889,
           "Region": "southeast wi",
           "RegionCusts": 1073973
         }
