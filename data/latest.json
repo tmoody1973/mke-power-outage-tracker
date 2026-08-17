@@ -1,6 +1,29 @@
 {
-  "captured_at": "2026-08-17T22:42:32+00:00",
+  "captured_at": "2026-08-17T22:59:37+00:00",
   "events": [
+    {
+      "Latitude": 43.02195428603178,
+      "Longitude": -87.93624864529428,
+      "OffTime": "Aug 17, 5:29 p.m.",
+      "ETR": "Aug 17, 8:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 17, 5:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352143,
+          "County": "milwaukee",
+          "CountyCusts": 479807,
+          "Zip": "53204",
+          "ZipCusts": 17659,
+          "Region": "southeast wi",
+          "RegionCusts": 1073973
+        }
+      ]
+    },
     {
       "Latitude": 44.25235466940071,
       "Longitude": -88.4462196355818,
@@ -8,7 +31,7 @@
       "ETR": "Aug 17, 6:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 5:40 p.m.",
+      "LastUpdated": "Aug 17, 5:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -36,36 +59,13 @@
       ]
     },
     {
-      "Latitude": 42.96883210083556,
-      "Longitude": -87.85459516102563,
-      "OffTime": "Aug 17, 4:43 p.m.",
-      "ETR": "Aug 17, 7:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 5:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 26,
-          "City": "saint francis",
-          "CityCusts": 4862,
-          "County": "milwaukee",
-          "CountyCusts": 479807,
-          "Zip": "53235",
-          "ZipCusts": 5788,
-          "Region": "southeast wi",
-          "RegionCusts": 1073973
-        }
-      ]
-    },
-    {
       "Latitude": 44.18823891064034,
       "Longitude": -88.44605602742021,
       "OffTime": "Aug 17, 5:32 p.m.",
       "ETR": "Aug 17, 8:30 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 5:40 p.m.",
+      "LastUpdated": "Aug 17, 5:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -82,23 +82,46 @@
       ]
     },
     {
-      "Latitude": 43.02195428603178,
-      "Longitude": -87.93624864529428,
-      "OffTime": "Aug 17, 5:29 p.m.",
+      "Latitude": 42.621293478379485,
+      "Longitude": -87.83530607617307,
+      "OffTime": "Aug 17, 5:27 p.m.",
       "ETR": "Aug 17, 8:30 p.m.",
-      "CrewStatus": "On the way",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 5:40 p.m.",
+      "LastUpdated": "Aug 17, 5:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352143,
+          "City": "kenosha",
+          "CityCusts": 54304,
+          "County": "kenosha",
+          "CountyCusts": 80154,
+          "Zip": "53140",
+          "ZipCusts": 14889,
+          "Region": "southeast wi",
+          "RegionCusts": 1073973
+        }
+      ]
+    },
+    {
+      "Latitude": 42.96883210083556,
+      "Longitude": -87.85459516102563,
+      "OffTime": "Aug 17, 4:43 p.m.",
+      "ETR": "Aug 17, 7:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 17, 5:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 26,
+          "City": "saint francis",
+          "CityCusts": 4862,
           "County": "milwaukee",
           "CountyCusts": 479807,
-          "Zip": "53204",
-          "ZipCusts": 17659,
+          "Zip": "53235",
+          "ZipCusts": 5788,
           "Region": "southeast wi",
           "RegionCusts": 1073973
         }
@@ -109,9 +132,9 @@
       "Longitude": -87.84904674372082,
       "OffTime": "Aug 17, 5:20 p.m.",
       "ETR": "Aug 17, 8:00 p.m.",
-      "CrewStatus": "On the way",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 5:40 p.m.",
+      "LastUpdated": "Aug 17, 5:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -128,13 +151,13 @@
       ]
     },
     {
-      "Latitude": 42.621293478379485,
-      "Longitude": -87.83530607617307,
-      "OffTime": "Aug 17, 5:27 p.m.",
+      "Latitude": 42.56569203585914,
+      "Longitude": -87.84840900134564,
+      "OffTime": "Aug 17, 5:39 p.m.",
       "ETR": "Aug 17, 8:30 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 5:40 p.m.",
+      "LastUpdated": "Aug 17, 5:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -143,8 +166,31 @@
           "CityCusts": 54304,
           "County": "kenosha",
           "CountyCusts": 80154,
-          "Zip": "53140",
-          "ZipCusts": 14889,
+          "Zip": "53142",
+          "ZipCusts": 15164,
+          "Region": "southeast wi",
+          "RegionCusts": 1073973
+        }
+      ]
+    },
+    {
+      "Latitude": 42.96042653542558,
+      "Longitude": -88.0277641000081,
+      "OffTime": "Aug 17, 5:47 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 17, 5:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "greenfield",
+          "CityCusts": 12575,
+          "County": "milwaukee",
+          "CountyCusts": 479807,
+          "Zip": "53228",
+          "ZipCusts": 8264,
           "Region": "southeast wi",
           "RegionCusts": 1073973
         }
