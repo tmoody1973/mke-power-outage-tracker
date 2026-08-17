@@ -1,72 +1,26 @@
 {
-  "captured_at": "2026-08-17T02:09:10+00:00",
+  "captured_at": "2026-08-17T03:11:04+00:00",
   "events": [
     {
-      "Latitude": 43.29409151444255,
-      "Longitude": -87.94024585884179,
-      "OffTime": "Aug 16, 6:34 p.m.",
-      "ETR": "Aug 16, 9:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 9:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 69,
-          "City": "grafton",
-          "CityCusts": 10511,
-          "County": "ozaukee",
-          "CountyCusts": 42618,
-          "Zip": "53024",
-          "ZipCusts": 10532,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 42.724191356707635,
-      "Longitude": -87.83423666630513,
-      "OffTime": "Aug 16, 3:22 p.m.",
-      "ETR": "Aug 17, 1:00 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Aug 16, 9:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 14,
-          "City": "racine",
-          "CityCusts": 58907,
-          "County": "racine",
-          "CountyCusts": 102466,
-          "Zip": "53405",
-          "ZipCusts": 11769,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 43.03924065453348,
-      "Longitude": -87.93341528643464,
-      "OffTime": "Aug 16, 8:56 p.m.",
+      "Latitude": 44.23091664848691,
+      "Longitude": -88.40713869074229,
+      "OffTime": "Aug 16, 10:08 p.m.",
       "ETR": "Not yet determined",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 9:00 p.m.",
+      "LastUpdated": "Aug 16, 10:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352121,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53233",
-          "ZipCusts": 6700,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
+          "City": "menasha",
+          "CityCusts": 4803,
+          "County": "winnebago",
+          "CountyCusts": 27743,
+          "Zip": "54952",
+          "ZipCusts": 4816,
+          "Region": "fox valley wi",
+          "RegionCusts": 143306
         }
       ]
     },
@@ -77,7 +31,7 @@
       "ETR": "Aug 16, 10:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 16, 9:00 p.m.",
+      "LastUpdated": "Aug 16, 10:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -94,46 +48,23 @@
       ]
     },
     {
-      "Latitude": 42.572821240318106,
-      "Longitude": -87.83434978235803,
-      "OffTime": "Aug 16, 8:52 p.m.",
-      "ETR": "Aug 16, 11:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 16, 9:00 p.m.",
+      "Latitude": 42.724191356707635,
+      "Longitude": -87.83423666630513,
+      "OffTime": "Aug 16, 3:22 p.m.",
+      "ETR": "Aug 17, 1:00 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Transformer problem",
+      "LastUpdated": "Aug 16, 10:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54307,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53143",
-          "ZipCusts": 10243,
-          "Region": "southeast wi",
-          "RegionCusts": 1073919
-        }
-      ]
-    },
-    {
-      "Latitude": 42.94115667414156,
-      "Longitude": -87.94985987238954,
-      "OffTime": "Aug 16, 12:42 p.m.",
-      "ETR": "Aug 16, 9:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Facilities patrolled - no problems found",
-      "LastUpdated": "Aug 16, 9:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "milwaukee",
-          "CityCusts": 352121,
-          "County": "milwaukee",
-          "CountyCusts": 479767,
-          "Zip": "53221",
-          "ZipCusts": 18458,
+          "AffectedCusts": 14,
+          "City": "racine",
+          "CityCusts": 58907,
+          "County": "racine",
+          "CountyCusts": 102466,
+          "Zip": "53405",
+          "ZipCusts": 11769,
           "Region": "southeast wi",
           "RegionCusts": 1073919
         }
