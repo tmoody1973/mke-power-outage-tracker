@@ -1,48 +1,83 @@
 {
-  "captured_at": "2026-08-17T23:44:18+00:00",
+  "captured_at": "2026-08-18T01:19:50+00:00",
   "events": [
     {
-      "Latitude": 44.25235466940071,
-      "Longitude": -88.4462196355818,
-      "OffTime": "Aug 17, 3:29 p.m.",
-      "ETR": "Aug 17, 8:00 p.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 43.01152683008731,
+      "Longitude": -88.04831050584484,
+      "OffTime": "Aug 17, 7:01 p.m.",
+      "ETR": "Aug 17, 10:00 p.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 6:40 p.m.",
+      "LastUpdated": "Aug 17, 8:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 3,
-          "City": "appleton",
-          "CityCusts": 62923,
-          "County": "outagamie",
-          "CountyCusts": 80099,
-          "Zip": "54914",
-          "ZipCusts": 16308,
-          "Region": "fox valley wi",
-          "RegionCusts": 143319
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62923,
-          "County": "outagamie",
-          "CountyCusts": 80099,
-          "Zip": "54913",
-          "ZipCusts": 13898,
-          "Region": "fox valley wi",
-          "RegionCusts": 143319
+          "AffectedCusts": 2,
+          "City": "west allis",
+          "CityCusts": 15161,
+          "County": "milwaukee",
+          "CountyCusts": 479807,
+          "Zip": "53214",
+          "ZipCusts": 19789,
+          "Region": "southeast wi",
+          "RegionCusts": 1073973
         }
       ]
     },
     {
-      "Latitude": 42.621293478379485,
-      "Longitude": -87.83530607617307,
-      "OffTime": "Aug 17, 5:27 p.m.",
-      "ETR": "Aug 17, 8:30 p.m.",
+      "Latitude": 42.74624017444708,
+      "Longitude": -87.80023892673009,
+      "OffTime": "Aug 17, 6:49 p.m.",
+      "ETR": "Aug 17, 9:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies overhead line problem",
+      "LastUpdated": "Aug 17, 8:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 58911,
+          "County": "racine",
+          "CountyCusts": 102469,
+          "Zip": "53404",
+          "ZipCusts": 7234,
+          "Region": "southeast wi",
+          "RegionCusts": 1073973
+        }
+      ]
+    },
+    {
+      "Latitude": 42.737830200231755,
+      "Longitude": -87.79250791466363,
+      "OffTime": "Aug 17, 8:05 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 17, 8:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 58911,
+          "County": "racine",
+          "CountyCusts": 102469,
+          "Zip": "53404",
+          "ZipCusts": 7234,
+          "Region": "southeast wi",
+          "RegionCusts": 1073973
+        }
+      ]
+    },
+    {
+      "Latitude": 42.54568950835234,
+      "Longitude": -87.8324518799496,
+      "OffTime": "Aug 17, 6:40 p.m.",
+      "ETR": "Aug 17, 9:30 p.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 6:40 p.m.",
+      "LastUpdated": "Aug 17, 8:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -51,42 +86,8 @@
           "CityCusts": 54304,
           "County": "kenosha",
           "CountyCusts": 80154,
-          "Zip": "53140",
-          "ZipCusts": 14889,
-          "Region": "southeast wi",
-          "RegionCusts": 1073973
-        }
-      ]
-    },
-    {
-      "Latitude": 43.05300309735158,
-      "Longitude": -87.92430271840354,
-      "OffTime": "Aug 17, 5:49 p.m.",
-      "ETR": "Aug 17, 8:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 17, 6:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 4,
-          "City": "milwaukee",
-          "CityCusts": 352143,
-          "County": "milwaukee",
-          "CountyCusts": 479807,
-          "Zip": "53212",
-          "ZipCusts": 17015,
-          "Region": "southeast wi",
-          "RegionCusts": 1073973
-        },
-        {
-          "AffectedCusts": 188,
-          "City": "milwaukee",
-          "CityCusts": 352143,
-          "County": "milwaukee",
-          "CountyCusts": 479807,
-          "Zip": "53205",
-          "ZipCusts": 4127,
+          "Zip": "53143",
+          "ZipCusts": 10242,
           "Region": "southeast wi",
           "RegionCusts": 1073973
         }
