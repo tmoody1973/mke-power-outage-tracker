@@ -1,152 +1,14 @@
 {
-  "captured_at": "2026-08-18T14:03:28+00:00",
+  "captured_at": "2026-08-18T14:49:51+00:00",
   "events": [
-    {
-      "Latitude": 42.58909739145803,
-      "Longitude": -87.8908118351588,
-      "OffTime": "Aug 18, 7:24 a.m.",
-      "ETR": "Aug 18, 11:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 9:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 9,
-          "City": "kenosha",
-          "CityCusts": 54307,
-          "County": "kenosha",
-          "CountyCusts": 80159,
-          "Zip": "53144",
-          "ZipCusts": 14031,
-          "Region": "southeast wi",
-          "RegionCusts": 1074037
-        }
-      ]
-    },
-    {
-      "Latitude": 42.64571998398434,
-      "Longitude": -87.864662720295,
-      "OffTime": "Aug 18, 6:17 a.m.",
-      "ETR": "Aug 18, 10:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 9:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "kenosha",
-          "CityCusts": 54307,
-          "County": "kenosha",
-          "CountyCusts": 80159,
-          "Zip": "53144",
-          "ZipCusts": 14031,
-          "Region": "southeast wi",
-          "RegionCusts": 1074037
-        }
-      ]
-    },
-    {
-      "Latitude": 43.118330783138774,
-      "Longitude": -88.12436636831828,
-      "OffTime": "Aug 18, 8:43 a.m.",
-      "ETR": "Aug 18, 11:30 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 9:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "menomonee fls",
-          "CityCusts": 15580,
-          "County": "waukesha",
-          "CountyCusts": 203480,
-          "Zip": "53051",
-          "ZipCusts": 21572,
-          "Region": "southeast wi",
-          "RegionCusts": 1074037
-        }
-      ]
-    },
-    {
-      "Latitude": 44.18363965382418,
-      "Longitude": -88.47946714130654,
-      "OffTime": "Aug 18, 7:40 a.m.",
-      "ETR": "Aug 18, 9:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Aug 18, 9:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 16,
-          "City": "neenah",
-          "CityCusts": 21385,
-          "County": "winnebago",
-          "CountyCusts": 27741,
-          "Zip": "54956",
-          "ZipCusts": 21379,
-          "Region": "fox valley wi",
-          "RegionCusts": 143345
-        }
-      ]
-    },
-    {
-      "Latitude": 43.08751903350957,
-      "Longitude": -87.89902915514435,
-      "OffTime": "Aug 18, 8:51 a.m.",
-      "ETR": "Aug 18, 11:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 9:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 31,
-          "City": "milwaukee",
-          "CityCusts": 352153,
-          "County": "milwaukee",
-          "CountyCusts": 479841,
-          "Zip": "53212",
-          "ZipCusts": 17016,
-          "Region": "southeast wi",
-          "RegionCusts": 1074037
-        }
-      ]
-    },
-    {
-      "Latitude": 43.06280746525762,
-      "Longitude": -87.89984285305331,
-      "OffTime": "Aug 18, 7:52 a.m.",
-      "ETR": "Aug 18, 10:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 9:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352153,
-          "County": "milwaukee",
-          "CountyCusts": 479841,
-          "Zip": "53212",
-          "ZipCusts": 17016,
-          "Region": "southeast wi",
-          "RegionCusts": 1074037
-        }
-      ]
-    },
     {
       "Latitude": 42.73879352497394,
       "Longitude": -87.80862005509127,
       "OffTime": "Aug 18, 8:29 a.m.",
       "ETR": "Aug 18, 11:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 9:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Aug 18, 9:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -163,13 +25,36 @@
       ]
     },
     {
+      "Latitude": 42.64571998398434,
+      "Longitude": -87.864662720295,
+      "OffTime": "Aug 18, 6:17 a.m.",
+      "ETR": "Aug 18, 10:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 18, 9:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "kenosha",
+          "CityCusts": 54307,
+          "County": "kenosha",
+          "CountyCusts": 80159,
+          "Zip": "53144",
+          "ZipCusts": 14031,
+          "Region": "southeast wi",
+          "RegionCusts": 1074037
+        }
+      ]
+    },
+    {
       "Latitude": 44.23766197464685,
       "Longitude": -88.43437163352104,
       "OffTime": "Aug 18, 8:52 a.m.",
       "ETR": "Aug 18, 11:30 a.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 9:00 a.m.",
+      "LastUpdated": "Aug 18, 9:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -186,36 +71,13 @@
       ]
     },
     {
-      "Latitude": 43.20411297519686,
-      "Longitude": -88.24936280819014,
-      "OffTime": "Aug 18, 7:22 a.m.",
-      "ETR": "Aug 18, 10:00 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 9:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "colgate",
-          "CityCusts": 2586,
-          "County": "washington",
-          "CountyCusts": 61660,
-          "Zip": "53017",
-          "ZipCusts": 2597,
-          "Region": "southeast wi",
-          "RegionCusts": 1074037
-        }
-      ]
-    },
-    {
       "Latitude": 45.74394404994095,
       "Longitude": -88.15890138853166,
       "OffTime": "Aug 18, 8:15 a.m.",
       "ETR": "Aug 18, 11:00 a.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 9:00 a.m.",
+      "LastUpdated": "Aug 18, 9:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -228,6 +90,98 @@
           "ZipCusts": 2265,
           "Region": "upper peninsula mi",
           "RegionCusts": 41388
+        }
+      ]
+    },
+    {
+      "Latitude": 44.43874708279722,
+      "Longitude": -88.38365683243426,
+      "OffTime": "Aug 18, 9:24 a.m.",
+      "ETR": "Aug 18, 12:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 18, 9:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "seymour",
+          "CityCusts": 3959,
+          "County": "outagamie",
+          "CountyCusts": 80126,
+          "Zip": "54165",
+          "ZipCusts": 3979,
+          "Region": "fox valley wi",
+          "RegionCusts": 143345
+        }
+      ]
+    },
+    {
+      "Latitude": 43.06280746525762,
+      "Longitude": -87.89984285305331,
+      "OffTime": "Aug 18, 7:52 a.m.",
+      "ETR": "Aug 18, 10:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Aug 18, 9:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352153,
+          "County": "milwaukee",
+          "CountyCusts": 479841,
+          "Zip": "53212",
+          "ZipCusts": 17016,
+          "Region": "southeast wi",
+          "RegionCusts": 1074037
+        }
+      ]
+    },
+    {
+      "Latitude": 42.58909739145803,
+      "Longitude": -87.8908118351588,
+      "OffTime": "Aug 18, 7:24 a.m.",
+      "ETR": "Aug 18, 11:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 18, 9:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 9,
+          "City": "kenosha",
+          "CityCusts": 54307,
+          "County": "kenosha",
+          "CountyCusts": 80159,
+          "Zip": "53144",
+          "ZipCusts": 14031,
+          "Region": "southeast wi",
+          "RegionCusts": 1074037
+        }
+      ]
+    },
+    {
+      "Latitude": 43.118330783138774,
+      "Longitude": -88.12436636831828,
+      "OffTime": "Aug 18, 8:43 a.m.",
+      "ETR": "Aug 18, 11:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 18, 9:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "menomonee fls",
+          "CityCusts": 15580,
+          "County": "waukesha",
+          "CountyCusts": 203480,
+          "Zip": "53051",
+          "ZipCusts": 21572,
+          "Region": "southeast wi",
+          "RegionCusts": 1074037
         }
       ]
     }
