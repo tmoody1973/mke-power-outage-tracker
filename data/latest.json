@@ -1,37 +1,14 @@
 {
-  "captured_at": "2026-08-18T08:25:02+00:00",
+  "captured_at": "2026-08-18T09:01:32+00:00",
   "events": [
-    {
-      "Latitude": 42.59183101745649,
-      "Longitude": -87.8943649372801,
-      "OffTime": "Aug 17, 11:48 p.m.",
-      "ETR": "Aug 18, 6:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 3:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 13,
-          "City": "kenosha",
-          "CityCusts": 54304,
-          "County": "kenosha",
-          "CountyCusts": 80154,
-          "Zip": "53144",
-          "ZipCusts": 14031,
-          "Region": "southeast wi",
-          "RegionCusts": 1073973
-        }
-      ]
-    },
     {
       "Latitude": 42.7299304210632,
       "Longitude": -87.79986656476922,
       "OffTime": "Aug 17, 8:23 p.m.",
-      "ETR": "Aug 18, 4:00 a.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "On site",
       "Cause": "Tree contact with We Energies equipment",
-      "LastUpdated": "Aug 18, 3:20 a.m.",
+      "LastUpdated": "Aug 18, 4:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -42,6 +19,29 @@
           "CountyCusts": 102469,
           "Zip": "53404",
           "ZipCusts": 7234,
+          "Region": "southeast wi",
+          "RegionCusts": 1073973
+        }
+      ]
+    },
+    {
+      "Latitude": 42.59183101745649,
+      "Longitude": -87.8943649372801,
+      "OffTime": "Aug 17, 11:48 p.m.",
+      "ETR": "Aug 18, 6:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 18, 4:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 13,
+          "City": "kenosha",
+          "CityCusts": 54304,
+          "County": "kenosha",
+          "CountyCusts": 80154,
+          "Zip": "53144",
+          "ZipCusts": 14031,
           "Region": "southeast wi",
           "RegionCusts": 1073973
         }
