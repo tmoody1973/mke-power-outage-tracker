@@ -1,14 +1,196 @@
 {
-  "captured_at": "2026-08-18T16:55:50+00:00",
+  "captured_at": "2026-08-18T17:20:18+00:00",
   "events": [
+    {
+      "Latitude": 42.8570465156406,
+      "Longitude": -88.43507797514012,
+      "OffTime": "Aug 18, 11:58 a.m.",
+      "ETR": "Aug 18, 3:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 18, 12:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 5,
+          "City": "mukwonago",
+          "CityCusts": 9887,
+          "County": "waukesha",
+          "CountyCusts": 203480,
+          "Zip": "53149",
+          "ZipCusts": 9903,
+          "Region": "southeast wi",
+          "RegionCusts": 1074038
+        },
+        {
+          "AffectedCusts": 7,
+          "City": "eagle",
+          "CityCusts": 2993,
+          "County": "waukesha",
+          "CountyCusts": 203480,
+          "Zip": "53119",
+          "ZipCusts": 2992,
+          "Region": "southeast wi",
+          "RegionCusts": 1074038
+        }
+      ]
+    },
+    {
+      "Latitude": 43.04285283338976,
+      "Longitude": -88.47601046338839,
+      "OffTime": "Aug 18, 12:10 p.m.",
+      "ETR": "Aug 18, 3:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 18, 12:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "oconomowoc",
+          "CityCusts": 8556,
+          "County": "waukesha",
+          "CountyCusts": 203480,
+          "Zip": "53066",
+          "ZipCusts": 8881,
+          "Region": "southeast wi",
+          "RegionCusts": 1074038
+        }
+      ]
+    },
+    {
+      "Latitude": 45.74206844147069,
+      "Longitude": -88.15640104495718,
+      "OffTime": "Aug 18, 8:15 a.m.",
+      "ETR": "Aug 18, 4:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 18, 12:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "niagara",
+          "CityCusts": 2256,
+          "County": "florence",
+          "CountyCusts": 3052,
+          "Zip": "54151",
+          "ZipCusts": 2265,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41388
+        }
+      ]
+    },
+    {
+      "Latitude": 42.54030166689716,
+      "Longitude": -87.8366435240254,
+      "OffTime": "Aug 18, 11:53 a.m.",
+      "ETR": "Aug 18, 2:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 18, 12:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "pleasant pr",
+          "CityCusts": 6398,
+          "County": "kenosha",
+          "CountyCusts": 80159,
+          "Zip": "53158",
+          "ZipCusts": 9518,
+          "Region": "southeast wi",
+          "RegionCusts": 1074038
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "pleasant prairie",
+          "CityCusts": 3108,
+          "County": "kenosha",
+          "CountyCusts": 80159,
+          "Zip": "53142",
+          "ZipCusts": 15166,
+          "Region": "southeast wi",
+          "RegionCusts": 1074038
+        },
+        {
+          "AffectedCusts": 45,
+          "City": "kenosha",
+          "CityCusts": 54307,
+          "County": "kenosha",
+          "CountyCusts": 80159,
+          "Zip": "53143",
+          "ZipCusts": 10242,
+          "Region": "southeast wi",
+          "RegionCusts": 1074038
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "pleasant prairie",
+          "CityCusts": 3108,
+          "County": "kenosha",
+          "CountyCusts": 80159,
+          "Zip": "53143",
+          "ZipCusts": 10242,
+          "Region": "southeast wi",
+          "RegionCusts": 1074038
+        }
+      ]
+    },
+    {
+      "Latitude": 42.857835464058404,
+      "Longitude": -88.43172995106772,
+      "OffTime": "Aug 18, 12:17 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 18, 12:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "mukwonago",
+          "CityCusts": 9887,
+          "County": "waukesha",
+          "CountyCusts": 203480,
+          "Zip": "53149",
+          "ZipCusts": 9903,
+          "Region": "southeast wi",
+          "RegionCusts": 1074038
+        }
+      ]
+    },
+    {
+      "Latitude": 42.56487108825559,
+      "Longitude": -87.8290515061113,
+      "OffTime": "Aug 18, 12:01 p.m.",
+      "ETR": "Aug 18, 3:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 18, 12:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54307,
+          "County": "kenosha",
+          "CountyCusts": 80159,
+          "Zip": "53143",
+          "ZipCusts": 10242,
+          "Region": "southeast wi",
+          "RegionCusts": 1074038
+        }
+      ]
+    },
     {
       "Latitude": 43.050760990530144,
       "Longitude": -87.92108165581466,
       "OffTime": "Aug 18, 11:43 a.m.",
       "ETR": "Aug 18, 2:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 11:50 a.m.",
+      "LastUpdated": "Aug 18, 12:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,36 +207,13 @@
       ]
     },
     {
-      "Latitude": 42.64571998398434,
-      "Longitude": -87.864662720295,
-      "OffTime": "Aug 18, 6:17 a.m.",
-      "ETR": "Aug 18, 12:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 11:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "kenosha",
-          "CityCusts": 54307,
-          "County": "kenosha",
-          "CountyCusts": 80159,
-          "Zip": "53144",
-          "ZipCusts": 14031,
-          "Region": "southeast wi",
-          "RegionCusts": 1074038
-        }
-      ]
-    },
-    {
       "Latitude": 42.58909739145803,
       "Longitude": -87.8908118351588,
       "OffTime": "Aug 18, 7:24 a.m.",
       "ETR": "Aug 18, 2:00 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 11:50 a.m.",
+      "LastUpdated": "Aug 18, 12:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -67,52 +226,6 @@
           "ZipCusts": 14031,
           "Region": "southeast wi",
           "RegionCusts": 1074038
-        }
-      ]
-    },
-    {
-      "Latitude": 42.968778505571585,
-      "Longitude": -88.0466650633572,
-      "OffTime": "Aug 18, 10:28 a.m.",
-      "ETR": "Aug 18, 1:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 11:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "greenfield",
-          "CityCusts": 12576,
-          "County": "milwaukee",
-          "CountyCusts": 479841,
-          "Zip": "53228",
-          "ZipCusts": 8265,
-          "Region": "southeast wi",
-          "RegionCusts": 1074038
-        }
-      ]
-    },
-    {
-      "Latitude": 45.74206844147069,
-      "Longitude": -88.15640104495718,
-      "OffTime": "Aug 18, 8:15 a.m.",
-      "ETR": "Aug 18, 4:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 18, 11:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "niagara",
-          "CityCusts": 2256,
-          "County": "florence",
-          "CountyCusts": 3052,
-          "Zip": "54151",
-          "ZipCusts": 2265,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41388
         }
       ]
     }
