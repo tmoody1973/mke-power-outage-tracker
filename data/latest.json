@@ -1,98 +1,6 @@
 {
-  "captured_at": "2026-08-18T22:13:24+00:00",
+  "captured_at": "2026-08-18T22:41:32+00:00",
   "events": [
-    {
-      "Latitude": 44.27165656945334,
-      "Longitude": -88.44115888887099,
-      "OffTime": "Aug 18, 4:42 p.m.",
-      "ETR": "Aug 18, 7:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 5:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "appleton",
-          "CityCusts": 62949,
-          "County": "outagamie",
-          "CountyCusts": 80126,
-          "Zip": "54914",
-          "ZipCusts": 16308,
-          "Region": "fox valley wi",
-          "RegionCusts": 143345
-        }
-      ]
-    },
-    {
-      "Latitude": 43.319291426745885,
-      "Longitude": -87.9503504204541,
-      "OffTime": "Aug 18, 4:15 p.m.",
-      "ETR": "Aug 18, 7:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 5:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 14,
-          "City": "grafton",
-          "CityCusts": 10514,
-          "County": "ozaukee",
-          "CountyCusts": 42622,
-          "Zip": "53024",
-          "ZipCusts": 10535,
-          "Region": "southeast wi",
-          "RegionCusts": 1074038
-        }
-      ]
-    },
-    {
-      "Latitude": 42.552226088122936,
-      "Longitude": -87.82630497884637,
-      "OffTime": "Aug 18, 5:05 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 5:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 10,
-          "City": "kenosha",
-          "CityCusts": 54307,
-          "County": "kenosha",
-          "CountyCusts": 80159,
-          "Zip": "53143",
-          "ZipCusts": 10242,
-          "Region": "southeast wi",
-          "RegionCusts": 1074038
-        }
-      ]
-    },
-    {
-      "Latitude": 43.318298225572654,
-      "Longitude": -87.9262808273408,
-      "OffTime": "Aug 18, 4:17 p.m.",
-      "ETR": "Aug 18, 7:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 5:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "grafton",
-          "CityCusts": 10514,
-          "County": "ozaukee",
-          "CountyCusts": 42622,
-          "Zip": "53024",
-          "ZipCusts": 10535,
-          "Region": "southeast wi",
-          "RegionCusts": 1074038
-        }
-      ]
-    },
     {
       "Latitude": 43.13370162046904,
       "Longitude": -88.40778555953409,
@@ -100,7 +8,7 @@
       "ETR": "Aug 18, 6:00 p.m.",
       "CrewStatus": "On site",
       "Cause": "We Energies fuse problem",
-      "LastUpdated": "Aug 18, 5:10 p.m.",
+      "LastUpdated": "Aug 18, 5:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -117,13 +25,151 @@
       ]
     },
     {
+      "Latitude": 43.318298225572654,
+      "Longitude": -87.9262808273408,
+      "OffTime": "Aug 18, 4:17 p.m.",
+      "ETR": "Aug 18, 7:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 18, 5:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "grafton",
+          "CityCusts": 10514,
+          "County": "ozaukee",
+          "CountyCusts": 42622,
+          "Zip": "53024",
+          "ZipCusts": 10535,
+          "Region": "southeast wi",
+          "RegionCusts": 1074038
+        }
+      ]
+    },
+    {
+      "Latitude": 42.551392428130434,
+      "Longitude": -87.82626936860838,
+      "OffTime": "Aug 18, 5:05 p.m.",
+      "ETR": "Aug 18, 8:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 18, 5:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 11,
+          "City": "kenosha",
+          "CityCusts": 54307,
+          "County": "kenosha",
+          "CountyCusts": 80159,
+          "Zip": "53143",
+          "ZipCusts": 10242,
+          "Region": "southeast wi",
+          "RegionCusts": 1074038
+        }
+      ]
+    },
+    {
+      "Latitude": 43.10559586795483,
+      "Longitude": -87.96452794309053,
+      "OffTime": "Aug 18, 5:14 p.m.",
+      "ETR": "Aug 18, 8:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 18, 5:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352154,
+          "County": "milwaukee",
+          "CountyCusts": 479841,
+          "Zip": "53209",
+          "ZipCusts": 23886,
+          "Region": "southeast wi",
+          "RegionCusts": 1074038
+        }
+      ]
+    },
+    {
+      "Latitude": 43.319291426745885,
+      "Longitude": -87.9503504204541,
+      "OffTime": "Aug 18, 4:15 p.m.",
+      "ETR": "Aug 18, 7:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 18, 5:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 14,
+          "City": "grafton",
+          "CityCusts": 10514,
+          "County": "ozaukee",
+          "CountyCusts": 42622,
+          "Zip": "53024",
+          "ZipCusts": 10535,
+          "Region": "southeast wi",
+          "RegionCusts": 1074038
+        }
+      ]
+    },
+    {
+      "Latitude": 43.29488640645568,
+      "Longitude": -88.71919203444283,
+      "OffTime": "Aug 18, 5:10 p.m.",
+      "ETR": "Aug 18, 8:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 18, 5:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "clyman",
+          "CityCusts": 223,
+          "County": "dodge",
+          "CountyCusts": 17209,
+          "Zip": "53016",
+          "ZipCusts": 220,
+          "Region": "southeast wi",
+          "RegionCusts": 1074038
+        }
+      ]
+    },
+    {
+      "Latitude": 43.90648443475962,
+      "Longitude": -87.77537950339513,
+      "OffTime": "Aug 18, 5:36 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 18, 5:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "cleveland",
+          "CityCusts": 1052,
+          "County": "manitowic",
+          "CountyCusts": 1416,
+          "Zip": "53015",
+          "ZipCusts": 1052,
+          "Region": "southeast wi",
+          "RegionCusts": 1074038
+        }
+      ]
+    },
+    {
       "Latitude": 43.318479855231814,
       "Longitude": -87.95365188247362,
       "OffTime": "Aug 18, 4:08 p.m.",
       "ETR": "Aug 18, 7:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 5:10 p.m.",
+      "LastUpdated": "Aug 18, 5:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -134,6 +180,29 @@
           "CountyCusts": 42622,
           "Zip": "53024",
           "ZipCusts": 10535,
+          "Region": "southeast wi",
+          "RegionCusts": 1074038
+        }
+      ]
+    },
+    {
+      "Latitude": 43.9210753274243,
+      "Longitude": -87.78200030733785,
+      "OffTime": "Aug 18, 5:26 p.m.",
+      "ETR": "Aug 18, 8:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 18, 5:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 12,
+          "City": "newton",
+          "CityCusts": 58,
+          "County": "manitowic",
+          "CountyCusts": 1416,
+          "Zip": "53063",
+          "ZipCusts": 58,
           "Region": "southeast wi",
           "RegionCusts": 1074038
         }
