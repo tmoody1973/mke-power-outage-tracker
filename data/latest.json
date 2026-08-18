@@ -1,24 +1,24 @@
 {
-  "captured_at": "2026-08-18T14:49:51+00:00",
+  "captured_at": "2026-08-18T15:22:07+00:00",
   "events": [
     {
-      "Latitude": 42.73879352497394,
-      "Longitude": -87.80862005509127,
-      "OffTime": "Aug 18, 8:29 a.m.",
-      "ETR": "Aug 18, 11:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies equipment problem",
-      "LastUpdated": "Aug 18, 9:40 a.m.",
+      "Latitude": 42.837494382639456,
+      "Longitude": -87.98211079029473,
+      "OffTime": "Aug 18, 10:07 a.m.",
+      "ETR": "Aug 18, 1:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 18, 10:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 58912,
+          "City": "caledonia",
+          "CityCusts": 2175,
           "County": "racine",
           "CountyCusts": 102471,
-          "Zip": "53404",
-          "ZipCusts": 7235,
+          "Zip": "53108",
+          "ZipCusts": 1986,
           "Region": "southeast wi",
           "RegionCusts": 1074037
         }
@@ -28,10 +28,10 @@
       "Latitude": 42.64571998398434,
       "Longitude": -87.864662720295,
       "OffTime": "Aug 18, 6:17 a.m.",
-      "ETR": "Aug 18, 10:00 a.m.",
+      "ETR": "Aug 18, 12:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 9:40 a.m.",
+      "LastUpdated": "Aug 18, 10:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,82 +48,36 @@
       ]
     },
     {
-      "Latitude": 44.23766197464685,
-      "Longitude": -88.43437163352104,
-      "OffTime": "Aug 18, 8:52 a.m.",
+      "Latitude": 42.73879352497394,
+      "Longitude": -87.80862005509127,
+      "OffTime": "Aug 18, 8:29 a.m.",
       "ETR": "Aug 18, 11:30 a.m.",
       "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 9:40 a.m.",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Aug 18, 10:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "menasha",
-          "CityCusts": 4804,
-          "County": "winnebago",
-          "CountyCusts": 27741,
-          "Zip": "54952",
-          "ZipCusts": 4817,
-          "Region": "fox valley wi",
-          "RegionCusts": 143345
+          "City": "racine",
+          "CityCusts": 58912,
+          "County": "racine",
+          "CountyCusts": 102471,
+          "Zip": "53404",
+          "ZipCusts": 7235,
+          "Region": "southeast wi",
+          "RegionCusts": 1074037
         }
       ]
     },
     {
-      "Latitude": 45.74394404994095,
-      "Longitude": -88.15890138853166,
-      "OffTime": "Aug 18, 8:15 a.m.",
-      "ETR": "Aug 18, 11:00 a.m.",
-      "CrewStatus": "On the way",
+      "Latitude": 43.08470367890748,
+      "Longitude": -87.97061934156207,
+      "OffTime": "Aug 18, 10:14 a.m.",
+      "ETR": "Aug 18, 1:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 9:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "niagara",
-          "CityCusts": 2256,
-          "County": "florence",
-          "CountyCusts": 3052,
-          "Zip": "54151",
-          "ZipCusts": 2265,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41388
-        }
-      ]
-    },
-    {
-      "Latitude": 44.43874708279722,
-      "Longitude": -88.38365683243426,
-      "OffTime": "Aug 18, 9:24 a.m.",
-      "ETR": "Aug 18, 12:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 9:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "seymour",
-          "CityCusts": 3959,
-          "County": "outagamie",
-          "CountyCusts": 80126,
-          "Zip": "54165",
-          "ZipCusts": 3979,
-          "Region": "fox valley wi",
-          "RegionCusts": 143345
-        }
-      ]
-    },
-    {
-      "Latitude": 43.06280746525762,
-      "Longitude": -87.89984285305331,
-      "OffTime": "Aug 18, 7:52 a.m.",
-      "ETR": "Aug 18, 10:30 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 18, 9:40 a.m.",
+      "LastUpdated": "Aug 18, 10:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -132,8 +86,8 @@
           "CityCusts": 352153,
           "County": "milwaukee",
           "CountyCusts": 479841,
-          "Zip": "53212",
-          "ZipCusts": 17016,
+          "Zip": "53216",
+          "ZipCusts": 14831,
           "Region": "southeast wi",
           "RegionCusts": 1074037
         }
@@ -146,7 +100,7 @@
       "ETR": "Aug 18, 11:00 a.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 9:40 a.m.",
+      "LastUpdated": "Aug 18, 10:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -163,23 +117,46 @@
       ]
     },
     {
-      "Latitude": 43.118330783138774,
-      "Longitude": -88.12436636831828,
-      "OffTime": "Aug 18, 8:43 a.m.",
-      "ETR": "Aug 18, 11:30 a.m.",
+      "Latitude": 45.74206844147069,
+      "Longitude": -88.15640104495718,
+      "OffTime": "Aug 18, 8:15 a.m.",
+      "ETR": "Aug 18, 4:00 p.m.",
       "CrewStatus": "On site",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 18, 9:40 a.m.",
+      "LastUpdated": "Aug 18, 10:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "menomonee fls",
-          "CityCusts": 15580,
-          "County": "waukesha",
-          "CountyCusts": 203480,
-          "Zip": "53051",
-          "ZipCusts": 21572,
+          "City": "niagara",
+          "CityCusts": 2256,
+          "County": "florence",
+          "CountyCusts": 3052,
+          "Zip": "54151",
+          "ZipCusts": 2265,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41388
+        }
+      ]
+    },
+    {
+      "Latitude": 43.06280746525762,
+      "Longitude": -87.89984285305331,
+      "OffTime": "Aug 18, 7:52 a.m.",
+      "ETR": "Aug 18, 10:30 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Aug 18, 10:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352153,
+          "County": "milwaukee",
+          "CountyCusts": 479841,
+          "Zip": "53212",
+          "ZipCusts": 17016,
           "Region": "southeast wi",
           "RegionCusts": 1074037
         }
