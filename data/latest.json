@@ -1,20 +1,112 @@
 {
-  "captured_at": "2026-08-18T17:51:29+00:00",
+  "captured_at": "2026-08-18T18:23:53+00:00",
   "events": [
     {
-      "Latitude": 42.54030166689716,
-      "Longitude": -87.8366435240254,
-      "OffTime": "Aug 18, 11:53 a.m.",
-      "ETR": "Aug 18, 2:30 p.m.",
+      "Latitude": 43.00921506754325,
+      "Longitude": -87.94302998514077,
+      "OffTime": "Aug 18, 12:54 p.m.",
+      "ETR": "Aug 18, 3:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 12:50 p.m.",
+      "LastUpdated": "Aug 18, 1:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "pleasant prairie",
-          "CityCusts": 3108,
+          "City": "milwaukee",
+          "CityCusts": 352154,
+          "County": "milwaukee",
+          "CountyCusts": 479841,
+          "Zip": "53204",
+          "ZipCusts": 17660,
+          "Region": "southeast wi",
+          "RegionCusts": 1074038
+        }
+      ]
+    },
+    {
+      "Latitude": 45.74206844147069,
+      "Longitude": -88.15640104495718,
+      "OffTime": "Aug 18, 8:15 a.m.",
+      "ETR": "Aug 18, 4:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 18, 1:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "niagara",
+          "CityCusts": 2256,
+          "County": "florence",
+          "CountyCusts": 3052,
+          "Zip": "54151",
+          "ZipCusts": 2265,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41388
+        }
+      ]
+    },
+    {
+      "Latitude": 43.134342657774745,
+      "Longitude": -87.98047016971239,
+      "OffTime": "Aug 18, 1:15 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 18, 1:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352154,
+          "County": "milwaukee",
+          "CountyCusts": 479841,
+          "Zip": "53218",
+          "ZipCusts": 17048,
+          "Region": "southeast wi",
+          "RegionCusts": 1074038
+        }
+      ]
+    },
+    {
+      "Latitude": 43.352743671284365,
+      "Longitude": -87.95728066454714,
+      "OffTime": "Aug 18, 1:00 p.m.",
+      "ETR": "Aug 18, 4:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 18, 1:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 7,
+          "City": "grafton",
+          "CityCusts": 10514,
+          "County": "ozaukee",
+          "CountyCusts": 42622,
+          "Zip": "53024",
+          "ZipCusts": 10535,
+          "Region": "southeast wi",
+          "RegionCusts": 1074038
+        }
+      ]
+    },
+    {
+      "Latitude": 42.54030166689716,
+      "Longitude": -87.8366435240254,
+      "OffTime": "Aug 18, 11:53 a.m.",
+      "ETR": "Aug 18, 4:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 18, 1:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 46,
+          "City": "kenosha",
+          "CityCusts": 54307,
           "County": "kenosha",
           "CountyCusts": 80159,
           "Zip": "53143",
@@ -23,9 +115,20 @@
           "RegionCusts": 1074038
         },
         {
-          "AffectedCusts": 45,
-          "City": "kenosha",
-          "CityCusts": 54307,
+          "AffectedCusts": 1,
+          "City": "pleasant prairie",
+          "CityCusts": 3108,
+          "County": "kenosha",
+          "CountyCusts": 80159,
+          "Zip": "53142",
+          "ZipCusts": 15166,
+          "Region": "southeast wi",
+          "RegionCusts": 1074038
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "pleasant prairie",
+          "CityCusts": 3108,
           "County": "kenosha",
           "CountyCusts": 80159,
           "Zip": "53143",
@@ -43,15 +146,73 @@
           "ZipCusts": 9518,
           "Region": "southeast wi",
           "RegionCusts": 1074038
-        },
+        }
+      ]
+    },
+    {
+      "Latitude": 42.58909739145803,
+      "Longitude": -87.8908118351588,
+      "OffTime": "Aug 18, 7:24 a.m.",
+      "ETR": "Aug 18, 2:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 18, 1:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "pleasant prairie",
-          "CityCusts": 3108,
+          "AffectedCusts": 9,
+          "City": "kenosha",
+          "CityCusts": 54307,
           "County": "kenosha",
           "CountyCusts": 80159,
-          "Zip": "53142",
-          "ZipCusts": 15166,
+          "Zip": "53144",
+          "ZipCusts": 14031,
+          "Region": "southeast wi",
+          "RegionCusts": 1074038
+        }
+      ]
+    },
+    {
+      "Latitude": 42.62866867180172,
+      "Longitude": -88.32352153479926,
+      "OffTime": "Aug 18, 12:30 p.m.",
+      "ETR": "Aug 18, 3:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 18, 1:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "burlington",
+          "CityCusts": 15548,
+          "County": "walworth",
+          "CountyCusts": 24219,
+          "Zip": "53105",
+          "ZipCusts": 15590,
+          "Region": "southeast wi",
+          "RegionCusts": 1074038
+        }
+      ]
+    },
+    {
+      "Latitude": 42.857835464058404,
+      "Longitude": -88.43172995106772,
+      "OffTime": "Aug 18, 12:17 p.m.",
+      "ETR": "Aug 18, 3:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 18, 1:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "mukwonago",
+          "CityCusts": 9887,
+          "County": "waukesha",
+          "CountyCusts": 203480,
+          "Zip": "53149",
+          "ZipCusts": 9903,
           "Region": "southeast wi",
           "RegionCusts": 1074038
         }
@@ -64,7 +225,7 @@
       "ETR": "Aug 18, 3:00 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 12:50 p.m.",
+      "LastUpdated": "Aug 18, 1:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -86,144 +247,6 @@
           "CountyCusts": 203480,
           "Zip": "53149",
           "ZipCusts": 9903,
-          "Region": "southeast wi",
-          "RegionCusts": 1074038
-        }
-      ]
-    },
-    {
-      "Latitude": 42.857835464058404,
-      "Longitude": -88.43172995106772,
-      "OffTime": "Aug 18, 12:17 p.m.",
-      "ETR": "Aug 18, 3:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 12:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "mukwonago",
-          "CityCusts": 9887,
-          "County": "waukesha",
-          "CountyCusts": 203480,
-          "Zip": "53149",
-          "ZipCusts": 9903,
-          "Region": "southeast wi",
-          "RegionCusts": 1074038
-        }
-      ]
-    },
-    {
-      "Latitude": 42.72501630654692,
-      "Longitude": -87.78198857833948,
-      "OffTime": "Aug 18, 12:42 p.m.",
-      "ETR": "Aug 18, 3:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 12:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 58912,
-          "County": "racine",
-          "CountyCusts": 102471,
-          "Zip": "53403",
-          "ZipCusts": 14380,
-          "Region": "southeast wi",
-          "RegionCusts": 1074038
-        }
-      ]
-    },
-    {
-      "Latitude": 42.58909739145803,
-      "Longitude": -87.8908118351588,
-      "OffTime": "Aug 18, 7:24 a.m.",
-      "ETR": "Aug 18, 2:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 12:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 9,
-          "City": "kenosha",
-          "CityCusts": 54307,
-          "County": "kenosha",
-          "CountyCusts": 80159,
-          "Zip": "53144",
-          "ZipCusts": 14031,
-          "Region": "southeast wi",
-          "RegionCusts": 1074038
-        }
-      ]
-    },
-    {
-      "Latitude": 43.050760990530144,
-      "Longitude": -87.92108165581466,
-      "OffTime": "Aug 18, 11:43 a.m.",
-      "ETR": "Aug 18, 2:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 12:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352154,
-          "County": "milwaukee",
-          "CountyCusts": 479841,
-          "Zip": "53205",
-          "ZipCusts": 4127,
-          "Region": "southeast wi",
-          "RegionCusts": 1074038
-        }
-      ]
-    },
-    {
-      "Latitude": 45.74206844147069,
-      "Longitude": -88.15640104495718,
-      "OffTime": "Aug 18, 8:15 a.m.",
-      "ETR": "Aug 18, 4:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 18, 12:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "niagara",
-          "CityCusts": 2256,
-          "County": "florence",
-          "CountyCusts": 3052,
-          "Zip": "54151",
-          "ZipCusts": 2265,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41388
-        }
-      ]
-    },
-    {
-      "Latitude": 42.62866867180172,
-      "Longitude": -88.32352153479926,
-      "OffTime": "Aug 18, 12:30 p.m.",
-      "ETR": "Aug 18, 3:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 18, 12:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "burlington",
-          "CityCusts": 15548,
-          "County": "walworth",
-          "CountyCusts": 24219,
-          "Zip": "53105",
-          "ZipCusts": 15590,
           "Region": "southeast wi",
           "RegionCusts": 1074038
         }
