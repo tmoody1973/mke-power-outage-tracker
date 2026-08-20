@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-08-20T10:57:33+00:00",
+  "captured_at": "2026-08-20T11:23:57+00:00",
   "events": [
     {
       "Latitude": 43.054279906750196,
       "Longitude": -87.9805438951057,
       "OffTime": "Aug 18, 8:55 p.m.",
       "ETR": "Aug 20, 7:00 a.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "Specialized crew needed",
       "Cause": "We Energies equipment problem",
-      "LastUpdated": "Aug 20, 5:50 a.m.",
+      "LastUpdated": "Aug 20, 6:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,13 +25,36 @@
       ]
     },
     {
+      "Latitude": 43.659062492067264,
+      "Longitude": -87.9967272417483,
+      "OffTime": "Aug 20, 6:02 a.m.",
+      "ETR": "Aug 20, 9:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 20, 6:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "cascade",
+          "CityCusts": 758,
+          "County": "sheboygan",
+          "CountyCusts": 14259,
+          "Zip": "53011",
+          "ZipCusts": 757,
+          "Region": "southeast wi",
+          "RegionCusts": 1074111
+        }
+      ]
+    },
+    {
       "Latitude": 43.06393634785926,
       "Longitude": -87.96402833976599,
       "OffTime": "Aug 20, 5:41 a.m.",
       "ETR": "Aug 20, 8:30 a.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 20, 5:50 a.m.",
+      "LastUpdated": "Aug 20, 6:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,23 +71,23 @@
       ]
     },
     {
-      "Latitude": 43.010602125427035,
-      "Longitude": -87.91776223539969,
-      "OffTime": "Aug 20, 12:27 a.m.",
-      "ETR": "Aug 20, 7:30 a.m.",
-      "CrewStatus": "On site",
+      "Latitude": 43.10545516415009,
+      "Longitude": -88.01011081586341,
+      "OffTime": "Aug 20, 6:16 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 20, 5:50 a.m.",
+      "LastUpdated": "Aug 20, 6:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 21,
+          "AffectedCusts": 1,
           "City": "milwaukee",
           "CityCusts": 352174,
           "County": "milwaukee",
           "CountyCusts": 479842,
-          "Zip": "53204",
-          "ZipCusts": 17663,
+          "Zip": "53218",
+          "ZipCusts": 17048,
           "Region": "southeast wi",
           "RegionCusts": 1074111
         }
