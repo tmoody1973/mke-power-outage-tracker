@@ -1,24 +1,24 @@
 {
-  "captured_at": "2026-08-20T11:50:07+00:00",
+  "captured_at": "2026-08-20T12:29:00+00:00",
   "events": [
     {
-      "Latitude": 43.06393634785926,
-      "Longitude": -87.96402833976599,
-      "OffTime": "Aug 20, 5:41 a.m.",
-      "ETR": "Aug 20, 7:30 a.m.",
-      "CrewStatus": "On site",
+      "Latitude": 42.62483272275886,
+      "Longitude": -87.8357943230197,
+      "OffTime": "Aug 20, 6:48 a.m.",
+      "ETR": "Aug 20, 9:30 a.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 20, 6:40 a.m.",
+      "LastUpdated": "Aug 20, 7:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352174,
-          "County": "milwaukee",
-          "CountyCusts": 479842,
-          "Zip": "53210",
-          "ZipCusts": 12252,
+          "AffectedCusts": 23,
+          "City": "kenosha",
+          "CityCusts": 54306,
+          "County": "kenosha",
+          "CountyCusts": 80158,
+          "Zip": "53140",
+          "ZipCusts": 14888,
           "Region": "southeast wi",
           "RegionCusts": 1074111
         }
@@ -31,7 +31,7 @@
       "ETR": "Aug 20, 8:00 a.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "",
-      "LastUpdated": "Aug 20, 6:40 a.m.",
+      "LastUpdated": "Aug 20, 7:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,25 +48,94 @@
       ]
     },
     {
-      "Latitude": 43.659062492067264,
-      "Longitude": -87.9967272417483,
-      "OffTime": "Aug 20, 6:02 a.m.",
-      "ETR": "Aug 20, 9:00 a.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 43.07977063429499,
+      "Longitude": -87.959010414052,
+      "OffTime": "Aug 20, 7:15 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 20, 6:40 a.m.",
+      "LastUpdated": "Aug 20, 7:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "cascade",
-          "CityCusts": 758,
-          "County": "sheboygan",
-          "CountyCusts": 14259,
-          "Zip": "53011",
-          "ZipCusts": 757,
+          "City": "milwaukee",
+          "CityCusts": 352174,
+          "County": "milwaukee",
+          "CountyCusts": 479842,
+          "Zip": "53216",
+          "ZipCusts": 14831,
           "Region": "southeast wi",
           "RegionCusts": 1074111
+        }
+      ]
+    },
+    {
+      "Latitude": 43.01662847780795,
+      "Longitude": -87.96842116969398,
+      "OffTime": "Aug 20, 7:05 a.m.",
+      "ETR": "Aug 20, 10:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 20, 7:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "west milwaukee",
+          "CityCusts": 981,
+          "County": "milwaukee",
+          "CountyCusts": 479842,
+          "Zip": "53214",
+          "ZipCusts": 19788,
+          "Region": "southeast wi",
+          "RegionCusts": 1074111
+        }
+      ]
+    },
+    {
+      "Latitude": 43.01731624582562,
+      "Longitude": -87.96405434737352,
+      "OffTime": "Aug 20, 7:13 a.m.",
+      "ETR": "Aug 20, 10:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 20, 7:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "west milwaukee",
+          "CityCusts": 981,
+          "County": "milwaukee",
+          "CountyCusts": 479842,
+          "Zip": "53215",
+          "ZipCusts": 22352,
+          "Region": "southeast wi",
+          "RegionCusts": 1074111
+        }
+      ]
+    },
+    {
+      "Latitude": 46.17121698906889,
+      "Longitude": -89.19053446808854,
+      "OffTime": "Aug 20, 7:07 a.m.",
+      "ETR": "Aug 20, 10:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 20, 7:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "watersmeet",
+          "CityCusts": 2011,
+          "County": "gogebic",
+          "CountyCusts": 2016,
+          "Zip": "49969",
+          "ZipCusts": 2007,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41390
         }
       ]
     }
