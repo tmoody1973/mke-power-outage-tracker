@@ -1,37 +1,26 @@
 {
-  "captured_at": "2026-08-21T14:17:48+00:00",
+  "captured_at": "2026-08-21T15:01:08+00:00",
   "events": [
     {
-      "Latitude": 44.25413527760822,
-      "Longitude": -88.45616373274169,
-      "OffTime": "Aug 21, 8:00 a.m.",
-      "ETR": "Aug 21, 9:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 21, 9:10 a.m.",
+      "Latitude": 43.206967487828464,
+      "Longitude": -88.22936404867103,
+      "OffTime": "Aug 21, 9:58 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 21, 10:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 70,
-          "City": "appleton",
-          "CityCusts": 62952,
-          "County": "outagamie",
-          "CountyCusts": 80154,
-          "Zip": "54914",
-          "ZipCusts": 16306,
-          "Region": "fox valley wi",
-          "RegionCusts": 143371
-        },
-        {
-          "AffectedCusts": 2,
-          "City": "grand chute",
-          "CityCusts": 249,
-          "County": "outagamie",
-          "CountyCusts": 80154,
-          "Zip": "54914",
-          "ZipCusts": 16306,
-          "Region": "fox valley wi",
-          "RegionCusts": 143371
+          "AffectedCusts": 1,
+          "City": "colgate",
+          "CityCusts": 2586,
+          "County": "washington",
+          "CountyCusts": 61671,
+          "Zip": "53017",
+          "ZipCusts": 2597,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
         }
       ]
     },
@@ -40,9 +29,9 @@
       "Longitude": -88.12890051964399,
       "OffTime": "Aug 21, 8:38 a.m.",
       "ETR": "Aug 21, 11:30 a.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 21, 9:10 a.m.",
+      "LastUpdated": "Aug 21, 10:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -65,7 +54,7 @@
       "ETR": "Aug 21, 11:00 a.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 21, 9:10 a.m.",
+      "LastUpdated": "Aug 21, 10:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -82,36 +71,13 @@
       ]
     },
     {
-      "Latitude": 42.97713932563719,
-      "Longitude": -87.93093619063372,
-      "OffTime": "Aug 21, 8:28 a.m.",
-      "ETR": "Aug 21, 11:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 21, 9:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 11,
-          "City": "milwaukee",
-          "CityCusts": 352186,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53221",
-          "ZipCusts": 18460,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
       "Latitude": 44.41545729337671,
       "Longitude": -88.8993751049277,
       "OffTime": "Aug 21, 6:29 a.m.",
       "ETR": "Aug 21, 11:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Aug 21, 9:10 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Equipment damaged by lightning",
+      "LastUpdated": "Aug 21, 10:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -128,13 +94,59 @@
       ]
     },
     {
+      "Latitude": 43.0264678781823,
+      "Longitude": -88.01894659909958,
+      "OffTime": "Aug 21, 9:47 a.m.",
+      "ETR": "Aug 21, 12:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 21, 10:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352186,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53214",
+          "ZipCusts": 19789,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 43.010706271127724,
+      "Longitude": -87.96058556447196,
+      "OffTime": "Aug 21, 9:52 a.m.",
+      "ETR": "Aug 21, 12:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 21, 10:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352186,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53215",
+          "ZipCusts": 22354,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
       "Latitude": 42.58530746100408,
       "Longitude": -87.817677993626,
       "OffTime": "Aug 21, 6:33 a.m.",
-      "ETR": "Aug 21, 9:30 a.m.",
+      "ETR": "Aug 21, 11:00 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 21, 9:10 a.m.",
+      "LastUpdated": "Aug 21, 10:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -151,13 +163,70 @@
       ]
     },
     {
+      "Latitude": 44.25413527760822,
+      "Longitude": -88.45616373274169,
+      "OffTime": "Aug 21, 8:00 a.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "On site",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Aug 21, 10:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "grand chute",
+          "CityCusts": 249,
+          "County": "outagamie",
+          "CountyCusts": 80154,
+          "Zip": "54914",
+          "ZipCusts": 16306,
+          "Region": "fox valley wi",
+          "RegionCusts": 143371
+        },
+        {
+          "AffectedCusts": 70,
+          "City": "appleton",
+          "CityCusts": 62952,
+          "County": "outagamie",
+          "CountyCusts": 80154,
+          "Zip": "54914",
+          "ZipCusts": 16306,
+          "Region": "fox valley wi",
+          "RegionCusts": 143371
+        }
+      ]
+    },
+    {
+      "Latitude": 43.05385093654699,
+      "Longitude": -87.985887010976,
+      "OffTime": "Aug 21, 9:32 a.m.",
+      "ETR": "Aug 21, 12:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 21, 10:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 31,
+          "City": "milwaukee",
+          "CityCusts": 352186,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53208",
+          "ZipCusts": 15436,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
       "Latitude": 43.450556658282764,
       "Longitude": -88.0651974882463,
       "OffTime": "Aug 21, 8:22 a.m.",
       "ETR": "Aug 21, 11:00 a.m.",
-      "CrewStatus": "On the way",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 21, 9:10 a.m.",
+      "LastUpdated": "Aug 21, 10:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -174,69 +243,46 @@
       ]
     },
     {
-      "Latitude": 43.13526620226084,
-      "Longitude": -88.18796847865516,
-      "OffTime": "Aug 21, 8:43 a.m.",
-      "ETR": "Aug 21, 11:30 a.m.",
+      "Latitude": 43.438341296023935,
+      "Longitude": -88.195996328339,
+      "OffTime": "Aug 21, 9:48 a.m.",
+      "ETR": "Aug 21, 12:30 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 21, 9:10 a.m.",
+      "LastUpdated": "Aug 21, 10:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "sussex",
-          "CityCusts": 9894,
-          "County": "waukesha",
-          "CountyCusts": 203500,
-          "Zip": "53089",
-          "ZipCusts": 10044,
+          "City": "west bend",
+          "CityCusts": 26116,
+          "County": "washington",
+          "CountyCusts": 61671,
+          "Zip": "53090",
+          "ZipCusts": 10559,
           "Region": "southeast wi",
           "RegionCusts": 1074153
         }
       ]
     },
     {
-      "Latitude": 43.04512503414974,
-      "Longitude": -87.9697151183463,
-      "OffTime": "Aug 21, 8:15 a.m.",
-      "ETR": "Aug 21, 11:00 a.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 42.6248934044144,
+      "Longitude": -88.28572660353446,
+      "OffTime": "Aug 21, 9:58 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 21, 9:10 a.m.",
+      "LastUpdated": "Aug 21, 10:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352186,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53208",
-          "ZipCusts": 15436,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
-      "Latitude": 43.17502948924439,
-      "Longitude": -88.13619819119991,
-      "OffTime": "Aug 21, 8:04 a.m.",
-      "ETR": "Aug 21, 11:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Aug 21, 9:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "menomonee fls",
-          "CityCusts": 15580,
-          "County": "waukesha",
-          "CountyCusts": 203500,
-          "Zip": "53051",
-          "ZipCusts": 21576,
+          "City": "burlington",
+          "CityCusts": 15553,
+          "County": "racine",
+          "CountyCusts": 102529,
+          "Zip": "53105",
+          "ZipCusts": 15595,
           "Region": "southeast wi",
           "RegionCusts": 1074153
         }
