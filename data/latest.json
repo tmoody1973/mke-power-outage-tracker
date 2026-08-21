@@ -1,70 +1,24 @@
 {
-  "captured_at": "2026-08-21T05:24:01+00:00",
+  "captured_at": "2026-08-21T05:55:37+00:00",
   "events": [
     {
-      "Latitude": 42.600891063644575,
-      "Longitude": -87.87170688755279,
-      "OffTime": "Aug 20, 12:31 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Power supply emergency",
-      "LastUpdated": "Aug 21, 12:20 a.m.",
+      "Latitude": 42.58530746100408,
+      "Longitude": -87.817677993626,
+      "OffTime": "Aug 20, 11:47 p.m.",
+      "ETR": "Aug 21, 4:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 21, 12:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
+          "AffectedCusts": 35,
           "City": "kenosha",
           "CityCusts": 54306,
           "County": "kenosha",
           "CountyCusts": 80158,
-          "Zip": "53144",
-          "ZipCusts": 14030,
-          "Region": "southeast wi",
-          "RegionCusts": 1074112
-        }
-      ]
-    },
-    {
-      "Latitude": 43.102772879621156,
-      "Longitude": -87.97853841614827,
-      "OffTime": "Aug 20, 11:56 p.m.",
-      "ETR": "Aug 21, 2:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 21, 12:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352175,
-          "County": "milwaukee",
-          "CountyCusts": 479842,
-          "Zip": "53218",
-          "ZipCusts": 17048,
-          "Region": "southeast wi",
-          "RegionCusts": 1074112
-        }
-      ]
-    },
-    {
-      "Latitude": 43.18256533440628,
-      "Longitude": -88.02648634961176,
-      "OffTime": "Aug 21, 12:16 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 21, 12:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352175,
-          "County": "milwaukee",
-          "CountyCusts": 479842,
-          "Zip": "53224",
-          "ZipCusts": 9522,
+          "Zip": "53140",
+          "ZipCusts": 14888,
           "Region": "southeast wi",
           "RegionCusts": 1074112
         }
@@ -75,9 +29,9 @@
       "Longitude": -88.78405129756807,
       "OffTime": "Aug 20, 9:04 p.m.",
       "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
+      "CrewStatus": "On the way",
       "Cause": "Transformer problem",
-      "LastUpdated": "Aug 21, 12:20 a.m.",
+      "LastUpdated": "Aug 21, 12:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -98,9 +52,9 @@
       "Longitude": -87.93742828414237,
       "OffTime": "Aug 21, 12:13 a.m.",
       "ETR": "Aug 21, 3:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 21, 12:20 a.m.",
+      "LastUpdated": "Aug 21, 12:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -117,23 +71,23 @@
       ]
     },
     {
-      "Latitude": 42.58530746100408,
-      "Longitude": -87.817677993626,
-      "OffTime": "Aug 20, 11:47 p.m.",
-      "ETR": "Aug 21, 2:30 a.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 43.18256533440628,
+      "Longitude": -88.02648634961176,
+      "OffTime": "Aug 21, 12:16 a.m.",
+      "ETR": "Aug 21, 3:00 a.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 21, 12:20 a.m.",
+      "LastUpdated": "Aug 21, 12:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 35,
-          "City": "kenosha",
-          "CityCusts": 54306,
-          "County": "kenosha",
-          "CountyCusts": 80158,
-          "Zip": "53140",
-          "ZipCusts": 14888,
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352175,
+          "County": "milwaukee",
+          "CountyCusts": 479842,
+          "Zip": "53224",
+          "ZipCusts": 9522,
           "Region": "southeast wi",
           "RegionCusts": 1074112
         }
