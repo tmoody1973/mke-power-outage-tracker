@@ -1,63 +1,6 @@
 {
-  "captured_at": "2026-08-21T19:45:04+00:00",
+  "captured_at": "2026-08-21T19:58:41+00:00",
   "events": [
-    {
-      "Latitude": 43.074374714831976,
-      "Longitude": -87.90987103050414,
-      "OffTime": "Aug 21, 1:24 p.m.",
-      "ETR": "Aug 21, 4:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 21, 2:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352186,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53212",
-          "ZipCusts": 17010,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
-      "Latitude": 43.017005034815014,
-      "Longitude": -88.06275975220579,
-      "OffTime": "Aug 21, 12:08 p.m.",
-      "ETR": "Aug 21, 4:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Tree contact with We Energies equipment",
-      "LastUpdated": "Aug 21, 2:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 22,
-          "City": "west allis",
-          "CityCusts": 15161,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53214",
-          "ZipCusts": 19789,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        },
-        {
-          "AffectedCusts": 63,
-          "City": "milwaukee",
-          "CityCusts": 352186,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53214",
-          "ZipCusts": 19789,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
     {
       "Latitude": 43.09018274273137,
       "Longitude": -88.03402661346877,
@@ -65,7 +8,7 @@
       "ETR": "Aug 21, 3:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Aug 21, 2:40 p.m.",
+      "LastUpdated": "Aug 21, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -93,59 +36,13 @@
       ]
     },
     {
-      "Latitude": 44.18515951658639,
-      "Longitude": -88.46950128357825,
-      "OffTime": "Aug 21, 1:15 p.m.",
-      "ETR": "Aug 21, 4:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Aug 21, 2:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "neenah",
-          "CityCusts": 21385,
-          "County": "winnebago",
-          "CountyCusts": 27739,
-          "Zip": "54956",
-          "ZipCusts": 21379,
-          "Region": "fox valley wi",
-          "RegionCusts": 143371
-        }
-      ]
-    },
-    {
-      "Latitude": 45.81204742045702,
-      "Longitude": -88.09839011109705,
-      "OffTime": "Aug 21, 1:43 p.m.",
-      "ETR": "Aug 21, 4:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 21, 2:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "kingsford",
-          "CityCusts": 3508,
-          "County": "dickinson",
-          "CountyCusts": 14080,
-          "Zip": "49802",
-          "ZipCusts": 3486,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41391
-        }
-      ]
-    },
-    {
       "Latitude": 42.77057527182213,
       "Longitude": -88.80998721048518,
       "OffTime": "Aug 21, 1:53 p.m.",
       "ETR": "Aug 21, 4:30 p.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 21, 2:40 p.m.",
+      "LastUpdated": "Aug 21, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -162,36 +59,13 @@
       ]
     },
     {
-      "Latitude": 43.057690430460504,
-      "Longitude": -88.02211154791009,
-      "OffTime": "Aug 21, 12:59 p.m.",
-      "ETR": "Aug 21, 4:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 21, 2:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352186,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53226",
-          "ZipCusts": 11015,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
       "Latitude": 43.06035376912505,
       "Longitude": -87.98699543039405,
       "OffTime": "Aug 21, 1:45 p.m.",
       "ETR": "Aug 21, 4:30 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 21, 2:40 p.m.",
+      "LastUpdated": "Aug 21, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -208,13 +82,93 @@
       ]
     },
     {
+      "Latitude": 43.017005034815014,
+      "Longitude": -88.06275975220579,
+      "OffTime": "Aug 21, 12:08 p.m.",
+      "ETR": "Aug 21, 4:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Tree contact with We Energies equipment",
+      "LastUpdated": "Aug 21, 2:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 63,
+          "City": "milwaukee",
+          "CityCusts": 352186,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53214",
+          "ZipCusts": 19789,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        },
+        {
+          "AffectedCusts": 22,
+          "City": "west allis",
+          "CityCusts": 15161,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53214",
+          "ZipCusts": 19789,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 43.064579946977055,
+      "Longitude": -87.97060316703072,
+      "OffTime": "Aug 21, 2:36 p.m.",
+      "ETR": "Aug 21, 5:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 21, 2:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352186,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53210",
+          "ZipCusts": 12254,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 44.27283035841522,
+      "Longitude": -88.47077703540164,
+      "OffTime": "Aug 21, 10:55 a.m.",
+      "ETR": "Aug 21, 4:30 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 21, 2:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 10,
+          "City": "appleton",
+          "CityCusts": 62952,
+          "County": "outagamie",
+          "CountyCusts": 80154,
+          "Zip": "54913",
+          "ZipCusts": 13930,
+          "Region": "fox valley wi",
+          "RegionCusts": 143371
+        }
+      ]
+    },
+    {
       "Latitude": 42.85356924690954,
       "Longitude": -88.52294868950696,
       "OffTime": "Aug 21, 2:36 p.m.",
-      "ETR": "Not yet determined",
+      "ETR": "Aug 21, 5:30 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 21, 2:40 p.m.",
+      "LastUpdated": "Aug 21, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -237,7 +191,7 @@
       "ETR": "Aug 21, 5:00 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 21, 2:40 p.m.",
+      "LastUpdated": "Aug 21, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -254,13 +208,36 @@
       ]
     },
     {
+      "Latitude": 45.81204742045702,
+      "Longitude": -88.09839011109705,
+      "OffTime": "Aug 21, 1:43 p.m.",
+      "ETR": "Aug 21, 4:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Aug 21, 2:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kingsford",
+          "CityCusts": 3508,
+          "County": "dickinson",
+          "CountyCusts": 14080,
+          "Zip": "49802",
+          "ZipCusts": 3486,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41391
+        }
+      ]
+    },
+    {
       "Latitude": 44.924963927199265,
       "Longitude": -88.2624152656799,
       "OffTime": "Aug 21, 1:24 p.m.",
       "ETR": "Aug 21, 4:00 p.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 21, 2:40 p.m.",
+      "LastUpdated": "Aug 21, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -277,25 +254,48 @@
       ]
     },
     {
-      "Latitude": 44.27283035841522,
-      "Longitude": -88.47077703540164,
-      "OffTime": "Aug 21, 10:55 a.m.",
+      "Latitude": 42.978089533565836,
+      "Longitude": -88.02333882776256,
+      "OffTime": "Aug 21, 11:55 a.m.",
       "ETR": "Aug 21, 4:30 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 21, 2:40 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Aug 21, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 10,
-          "City": "appleton",
-          "CityCusts": 62952,
-          "County": "outagamie",
-          "CountyCusts": 80154,
-          "Zip": "54913",
-          "ZipCusts": 13930,
-          "Region": "fox valley wi",
-          "RegionCusts": 143371
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352186,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53228",
+          "ZipCusts": 8266,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 43.074374714831976,
+      "Longitude": -87.90987103050414,
+      "OffTime": "Aug 21, 1:24 p.m.",
+      "ETR": "Aug 21, 4:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Aug 21, 2:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352186,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53212",
+          "ZipCusts": 17010,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
         }
       ]
     },
@@ -306,7 +306,7 @@
       "ETR": "Aug 21, 5:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 21, 2:40 p.m.",
+      "LastUpdated": "Aug 21, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -323,36 +323,59 @@
       ]
     },
     {
-      "Latitude": 43.064579946977055,
-      "Longitude": -87.97060316703072,
-      "OffTime": "Aug 21, 2:36 p.m.",
+      "Latitude": 44.27464775362632,
+      "Longitude": -88.44693663708904,
+      "OffTime": "Aug 21, 2:47 p.m.",
       "ETR": "Not yet determined",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 21, 2:40 p.m.",
+      "LastUpdated": "Aug 21, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352186,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53210",
-          "ZipCusts": 12254,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
+          "City": "appleton",
+          "CityCusts": 62952,
+          "County": "outagamie",
+          "CountyCusts": 80154,
+          "Zip": "54914",
+          "ZipCusts": 16306,
+          "Region": "fox valley wi",
+          "RegionCusts": 143371
         }
       ]
     },
     {
-      "Latitude": 42.978089533565836,
-      "Longitude": -88.02333882776256,
-      "OffTime": "Aug 21, 11:55 a.m.",
-      "ETR": "Aug 21, 4:30 p.m.",
+      "Latitude": 44.18515951658639,
+      "Longitude": -88.46950128357825,
+      "OffTime": "Aug 21, 1:15 p.m.",
+      "ETR": "Aug 21, 4:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Pole equipment problem",
+      "LastUpdated": "Aug 21, 2:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "neenah",
+          "CityCusts": 21385,
+          "County": "winnebago",
+          "CountyCusts": 27739,
+          "Zip": "54956",
+          "ZipCusts": 21379,
+          "Region": "fox valley wi",
+          "RegionCusts": 143371
+        }
+      ]
+    },
+    {
+      "Latitude": 43.057690430460504,
+      "Longitude": -88.02211154791009,
+      "OffTime": "Aug 21, 12:59 p.m.",
+      "ETR": "Aug 21, 4:00 p.m.",
       "CrewStatus": "On site",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 21, 2:40 p.m.",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Aug 21, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -361,8 +384,8 @@
           "CityCusts": 352186,
           "County": "milwaukee",
           "CountyCusts": 479860,
-          "Zip": "53228",
-          "ZipCusts": 8266,
+          "Zip": "53226",
+          "ZipCusts": 11015,
           "Region": "southeast wi",
           "RegionCusts": 1074153
         }
