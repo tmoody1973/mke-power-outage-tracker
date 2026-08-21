@@ -1,4 +1,28 @@
 {
-  "captured_at": "2026-08-21T11:02:22+00:00",
-  "events": []
+  "captured_at": "2026-08-21T11:37:59+00:00",
+  "events": [
+    {
+      "Latitude": 42.88996891158464,
+      "Longitude": -88.77564965377876,
+      "OffTime": "Aug 21, 6:26 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 21, 6:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "fort atkinson",
+          "CityCusts": 10612,
+          "County": "jefferson",
+          "CountyCusts": 35186,
+          "Zip": "53538",
+          "ZipCusts": 10620,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    }
+  ]
 }
