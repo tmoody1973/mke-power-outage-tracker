@@ -1,26 +1,118 @@
 {
-  "captured_at": "2026-08-21T11:37:59+00:00",
+  "captured_at": "2026-08-21T11:59:30+00:00",
   "events": [
     {
-      "Latitude": 42.88996891158464,
-      "Longitude": -88.77564965377876,
-      "OffTime": "Aug 21, 6:26 a.m.",
-      "ETR": "Not yet determined",
+      "Latitude": 42.99024697390025,
+      "Longitude": -87.98340901632486,
+      "OffTime": "Aug 21, 6:37 a.m.",
+      "ETR": "Aug 21, 9:30 a.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 21, 6:30 a.m.",
+      "LastUpdated": "Aug 21, 6:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "fort atkinson",
-          "CityCusts": 10612,
-          "County": "jefferson",
-          "CountyCusts": 35186,
-          "Zip": "53538",
-          "ZipCusts": 10620,
+          "City": "milwaukee",
+          "CityCusts": 352186,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53219",
+          "ZipCusts": 17487,
           "Region": "southeast wi",
           "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 42.99239421526919,
+      "Longitude": -87.98333633219633,
+      "OffTime": "Aug 21, 6:32 a.m.",
+      "ETR": "Aug 21, 9:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 21, 6:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 17,
+          "City": "milwaukee",
+          "CityCusts": 352186,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53219",
+          "ZipCusts": 17487,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 42.58530746100408,
+      "Longitude": -87.817677993626,
+      "OffTime": "Aug 21, 6:33 a.m.",
+      "ETR": "Aug 21, 9:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 21, 6:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 35,
+          "City": "kenosha",
+          "CityCusts": 54306,
+          "County": "kenosha",
+          "CountyCusts": 80159,
+          "Zip": "53140",
+          "ZipCusts": 14888,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 42.991262249098625,
+      "Longitude": -87.98338317005958,
+      "OffTime": "Aug 21, 6:32 a.m.",
+      "ETR": "Aug 21, 9:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 21, 6:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 13,
+          "City": "milwaukee",
+          "CityCusts": 352186,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53219",
+          "ZipCusts": 17487,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 44.41545729337671,
+      "Longitude": -88.8993751049277,
+      "OffTime": "Aug 21, 6:29 a.m.",
+      "ETR": "Aug 21, 9:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 21, 6:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "new london",
+          "CityCusts": 3686,
+          "County": "waupaca",
+          "CountyCusts": 8903,
+          "Zip": "54961",
+          "ZipCusts": 3694,
+          "Region": "fox valley wi",
+          "RegionCusts": 143371
         }
       ]
     }
