@@ -1,29 +1,6 @@
 {
-  "captured_at": "2026-08-21T04:08:54+00:00",
+  "captured_at": "2026-08-21T04:51:59+00:00",
   "events": [
-    {
-      "Latitude": 43.1378442745865,
-      "Longitude": -88.25870021195725,
-      "OffTime": "Aug 20, 9:06 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Assigned",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Aug 20, 11:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "sussex",
-          "CityCusts": 9894,
-          "County": "waukesha",
-          "CountyCusts": 203489,
-          "Zip": "53089",
-          "ZipCusts": 10044,
-          "Region": "southeast wi",
-          "RegionCusts": 1074112
-        }
-      ]
-    },
     {
       "Latitude": 42.600891063644575,
       "Longitude": -87.87170688755279,
@@ -31,7 +8,7 @@
       "ETR": "Aug 20, 11:58 p.m.",
       "CrewStatus": "On site",
       "Cause": "Power supply emergency",
-      "LastUpdated": "Aug 20, 11:00 p.m.",
+      "LastUpdated": "Aug 20, 11:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -54,7 +31,7 @@
       "ETR": "Aug 21, 12:00 a.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Transformer problem",
-      "LastUpdated": "Aug 20, 11:00 p.m.",
+      "LastUpdated": "Aug 20, 11:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -71,13 +48,36 @@
       ]
     },
     {
-      "Latitude": 43.02190996349854,
-      "Longitude": -87.9445905101086,
-      "OffTime": "Aug 20, 9:12 p.m.",
-      "ETR": "Aug 21, 12:00 a.m.",
+      "Latitude": 42.58530746100408,
+      "Longitude": -87.817677993626,
+      "OffTime": "Aug 20, 11:47 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 20, 11:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54306,
+          "County": "kenosha",
+          "CountyCusts": 80158,
+          "Zip": "53140",
+          "ZipCusts": 14888,
+          "Region": "southeast wi",
+          "RegionCusts": 1074112
+        }
+      ]
+    },
+    {
+      "Latitude": 43.12388643955237,
+      "Longitude": -87.9604154659114,
+      "OffTime": "Aug 20, 11:10 p.m.",
+      "ETR": "Aug 21, 2:00 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 20, 11:00 p.m.",
+      "LastUpdated": "Aug 20, 11:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -86,8 +86,8 @@
           "CityCusts": 352175,
           "County": "milwaukee",
           "CountyCusts": 479842,
-          "Zip": "53204",
-          "ZipCusts": 17664,
+          "Zip": "53209",
+          "ZipCusts": 23888,
           "Region": "southeast wi",
           "RegionCusts": 1074112
         }
