@@ -1,48 +1,49 @@
 {
-  "captured_at": "2026-08-22T03:56:00+00:00",
+  "captured_at": "2026-08-22T04:25:32+00:00",
   "events": [
     {
-      "Latitude": 45.97062101232268,
-      "Longitude": -87.11849744151377,
-      "OffTime": "Aug 21, 8:14 p.m.",
-      "ETR": "Aug 21, 11:00 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 42.77785539686627,
+      "Longitude": -87.85479035799568,
+      "OffTime": "Aug 21, 11:04 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 21, 10:50 p.m.",
+      "LastUpdated": "Aug 21, 11:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 3,
-          "City": "perkins",
-          "CityCusts": 124,
-          "County": "delta",
-          "CountyCusts": 1711,
-          "Zip": "49872",
-          "ZipCusts": 126,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41391
-        },
+          "AffectedCusts": 2,
+          "City": "racine",
+          "CityCusts": 58964,
+          "County": "racine",
+          "CountyCusts": 102529,
+          "Zip": "53402",
+          "ZipCusts": 16002,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 42.750871100720836,
+      "Longitude": -87.80622843244605,
+      "OffTime": "Aug 21, 4:54 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "On the way",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Aug 21, 11:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
         {
-          "AffectedCusts": 13,
-          "City": "rock",
-          "CityCusts": 567,
-          "County": "delta",
-          "CountyCusts": 1711,
-          "Zip": "49880",
-          "ZipCusts": 568,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41391
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "cornell",
-          "CityCusts": 135,
-          "County": "delta",
-          "CountyCusts": 1711,
-          "Zip": "49818",
-          "ZipCusts": 131,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41391
+          "AffectedCusts": 12,
+          "City": "racine",
+          "CityCusts": 58964,
+          "County": "racine",
+          "CountyCusts": 102529,
+          "Zip": "53404",
+          "ZipCusts": 7236,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
         }
       ]
     },
@@ -53,7 +54,7 @@
       "ETR": "Aug 22, 2:30 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 21, 10:50 p.m.",
+      "LastUpdated": "Aug 21, 11:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -70,36 +71,13 @@
       ]
     },
     {
-      "Latitude": 43.016463802287646,
-      "Longitude": -87.9515104650209,
-      "OffTime": "Aug 21, 3:03 p.m.",
-      "ETR": "Aug 21, 11:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Facilities patrolled - no problems found",
-      "LastUpdated": "Aug 21, 10:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 18,
-          "City": "milwaukee",
-          "CityCusts": 352186,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53215",
-          "ZipCusts": 22354,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
       "Latitude": 43.064579946977055,
       "Longitude": -87.97060316703072,
       "OffTime": "Aug 21, 9:43 p.m.",
       "ETR": "Aug 22, 12:30 a.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 21, 10:50 p.m.",
+      "LastUpdated": "Aug 21, 11:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -116,36 +94,13 @@
       ]
     },
     {
-      "Latitude": 44.262875083858425,
-      "Longitude": -88.40130461997809,
-      "OffTime": "Aug 21, 10:47 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 21, 10:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62952,
-          "County": "outagamie",
-          "CountyCusts": 80154,
-          "Zip": "54911",
-          "ZipCusts": 13388,
-          "Region": "fox valley wi",
-          "RegionCusts": 143371
-        }
-      ]
-    },
-    {
       "Latitude": 43.24464524496798,
       "Longitude": -88.2932355577466,
       "OffTime": "Aug 21, 8:37 p.m.",
       "ETR": "Aug 21, 11:30 p.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 21, 10:50 p.m.",
+      "LastUpdated": "Aug 21, 11:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -162,23 +117,23 @@
       ]
     },
     {
-      "Latitude": 42.750871100720836,
-      "Longitude": -87.80622843244605,
-      "OffTime": "Aug 21, 4:54 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Assigned",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 21, 10:50 p.m.",
+      "Latitude": 42.777862682646116,
+      "Longitude": -87.85301761809164,
+      "OffTime": "Aug 21, 11:04 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 21, 11:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 12,
+          "AffectedCusts": 2,
           "City": "racine",
           "CityCusts": 58964,
           "County": "racine",
           "CountyCusts": 102529,
-          "Zip": "53404",
-          "ZipCusts": 7236,
+          "Zip": "53402",
+          "ZipCusts": 16002,
           "Region": "southeast wi",
           "RegionCusts": 1074153
         }
