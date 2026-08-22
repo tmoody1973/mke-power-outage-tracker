@@ -1,14 +1,37 @@
 {
-  "captured_at": "2026-08-22T14:56:40+00:00",
+  "captured_at": "2026-08-22T15:15:37+00:00",
   "events": [
+    {
+      "Latitude": 44.20133573400844,
+      "Longitude": -88.49329297768375,
+      "OffTime": "Aug 22, 10:08 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 10:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "neenah",
+          "CityCusts": 21385,
+          "County": "winnebago",
+          "CountyCusts": 27739,
+          "Zip": "54956",
+          "ZipCusts": 21379,
+          "Region": "fox valley wi",
+          "RegionCusts": 143371
+        }
+      ]
+    },
     {
       "Latitude": 42.980820131310296,
       "Longitude": -88.06173072513808,
       "OffTime": "Aug 22, 8:43 a.m.",
       "ETR": "Aug 22, 11:30 a.m.",
-      "CrewStatus": "On the way",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 9:50 a.m.",
+      "LastUpdated": "Aug 22, 10:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,36 +48,13 @@
       ]
     },
     {
-      "Latitude": 45.48892155680149,
-      "Longitude": -87.77341248010181,
-      "OffTime": "Aug 22, 7:36 a.m.",
-      "ETR": "Aug 22, 10:30 a.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 9:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "stephenson",
-          "CityCusts": 7,
-          "County": "menominee",
-          "CountyCusts": 3000,
-          "Zip": "49887",
-          "ZipCusts": 7,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41391
-        }
-      ]
-    },
-    {
       "Latitude": 45.75022758909121,
       "Longitude": -88.08516712781201,
       "OffTime": "Aug 22, 8:16 a.m.",
       "ETR": "Aug 22, 11:00 a.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 9:50 a.m.",
+      "LastUpdated": "Aug 22, 10:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -71,36 +71,13 @@
       ]
     },
     {
-      "Latitude": 44.28174884805089,
-      "Longitude": -88.94275992940385,
-      "OffTime": "Aug 22, 8:23 a.m.",
-      "ETR": "Aug 22, 11:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 9:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "weyauwega",
-          "CityCusts": 2740,
-          "County": "waupaca",
-          "CountyCusts": 8903,
-          "Zip": "54983",
-          "ZipCusts": 2740,
-          "Region": "fox valley wi",
-          "RegionCusts": 143371
-        }
-      ]
-    },
-    {
       "Latitude": 43.17339292435459,
       "Longitude": -88.57014524619312,
       "OffTime": "Aug 22, 9:45 a.m.",
-      "ETR": "Not yet determined",
+      "ETR": "Aug 22, 12:30 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 9:50 a.m.",
+      "LastUpdated": "Aug 22, 10:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -117,13 +94,13 @@
       ]
     },
     {
-      "Latitude": 45.51598171049681,
-      "Longitude": -87.79893017203418,
-      "OffTime": "Aug 22, 9:04 a.m.",
-      "ETR": "Aug 22, 12:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 45.48892155680149,
+      "Longitude": -87.77341248010181,
+      "OffTime": "Aug 22, 7:36 a.m.",
+      "ETR": "Aug 22, 10:30 a.m.",
+      "CrewStatus": "Specialized crew needed",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 9:50 a.m.",
+      "LastUpdated": "Aug 22, 10:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -146,7 +123,7 @@
       "ETR": "Aug 22, 10:30 a.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 9:50 a.m.",
+      "LastUpdated": "Aug 22, 10:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -163,13 +140,36 @@
       ]
     },
     {
+      "Latitude": 42.777862682646116,
+      "Longitude": -87.85301761809164,
+      "OffTime": "Aug 22, 9:59 a.m.",
+      "ETR": "Aug 22, 1:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 10:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "racine",
+          "CityCusts": 58964,
+          "County": "racine",
+          "CountyCusts": 102529,
+          "Zip": "53402",
+          "ZipCusts": 16002,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
       "Latitude": 44.46998509805927,
       "Longitude": -88.72382097138875,
       "OffTime": "Aug 22, 8:36 a.m.",
       "ETR": "Aug 22, 11:30 a.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 9:50 a.m.",
+      "LastUpdated": "Aug 22, 10:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -182,6 +182,29 @@
           "ZipCusts": 3694,
           "Region": "fox valley wi",
           "RegionCusts": 143371
+        }
+      ]
+    },
+    {
+      "Latitude": 45.51598171049681,
+      "Longitude": -87.79893017203418,
+      "OffTime": "Aug 22, 9:04 a.m.",
+      "ETR": "Aug 22, 12:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 10:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "stephenson",
+          "CityCusts": 7,
+          "County": "menominee",
+          "CountyCusts": 3000,
+          "Zip": "49887",
+          "ZipCusts": 7,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41391
         }
       ]
     }
