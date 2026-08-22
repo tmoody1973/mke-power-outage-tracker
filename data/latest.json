@@ -1,6 +1,75 @@
 {
-  "captured_at": "2026-08-22T17:35:25+00:00",
+  "captured_at": "2026-08-22T17:55:57+00:00",
   "events": [
+    {
+      "Latitude": 45.679144719107235,
+      "Longitude": -87.7488275130386,
+      "OffTime": "Aug 22, 12:16 p.m.",
+      "ETR": "Aug 22, 3:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 12:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "vulcan",
+          "CityCusts": 1024,
+          "County": "menominee",
+          "CountyCusts": 3000,
+          "Zip": "49892",
+          "ZipCusts": 1066,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41391
+        }
+      ]
+    },
+    {
+      "Latitude": 42.980820131310296,
+      "Longitude": -88.06173072513808,
+      "OffTime": "Aug 22, 8:43 a.m.",
+      "ETR": "Aug 22, 1:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Damage by foreign object",
+      "LastUpdated": "Aug 22, 12:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 7,
+          "City": "milwaukee",
+          "CityCusts": 352186,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53228",
+          "ZipCusts": 8266,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 42.777862682646116,
+      "Longitude": -87.85301761809164,
+      "OffTime": "Aug 22, 9:59 a.m.",
+      "ETR": "Aug 22, 4:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Transformer problem",
+      "LastUpdated": "Aug 22, 12:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "racine",
+          "CityCusts": 58964,
+          "County": "racine",
+          "CountyCusts": 102529,
+          "Zip": "53402",
+          "ZipCusts": 16002,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
     {
       "Latitude": 45.67933062526818,
       "Longitude": -87.75022226434513,
@@ -8,7 +77,7 @@
       "ETR": "Aug 22, 3:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 12:30 p.m.",
+      "LastUpdated": "Aug 22, 12:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -29,9 +98,9 @@
       "Longitude": -88.04656954272608,
       "OffTime": "Aug 22, 11:05 a.m.",
       "ETR": "Aug 22, 2:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 12:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Aug 22, 12:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,25 +117,48 @@
       ]
     },
     {
-      "Latitude": 42.980820131310296,
-      "Longitude": -88.06173072513808,
-      "OffTime": "Aug 22, 8:43 a.m.",
-      "ETR": "Aug 22, 1:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Damage by foreign object",
-      "LastUpdated": "Aug 22, 12:30 p.m.",
+      "Latitude": 44.270082805734866,
+      "Longitude": -88.70861746143352,
+      "OffTime": "Aug 22, 12:35 p.m.",
+      "ETR": "Aug 22, 3:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 12:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 7,
-          "City": "milwaukee",
-          "CityCusts": 352186,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53228",
-          "ZipCusts": 8266,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
+          "AffectedCusts": 2,
+          "City": "fremont",
+          "CityCusts": 3187,
+          "County": "outagamie",
+          "CountyCusts": 80154,
+          "Zip": "54940",
+          "ZipCusts": 3186,
+          "Region": "fox valley wi",
+          "RegionCusts": 143371
+        }
+      ]
+    },
+    {
+      "Latitude": 45.48892155680149,
+      "Longitude": -87.77341248010181,
+      "OffTime": "Aug 22, 7:36 a.m.",
+      "ETR": "Aug 22, 2:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 12:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "stephenson",
+          "CityCusts": 7,
+          "County": "menominee",
+          "CountyCusts": 3000,
+          "Zip": "49887",
+          "ZipCusts": 7,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41391
         }
       ]
     },
@@ -77,7 +169,7 @@
       "ETR": "Aug 22, 2:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 12:30 p.m.",
+      "LastUpdated": "Aug 22, 12:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -100,7 +192,7 @@
       "ETR": "Aug 22, 1:30 p.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 12:30 p.m.",
+      "LastUpdated": "Aug 22, 12:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -117,36 +209,13 @@
       ]
     },
     {
-      "Latitude": 42.777862682646116,
-      "Longitude": -87.85301761809164,
-      "OffTime": "Aug 22, 9:59 a.m.",
-      "ETR": "Aug 22, 1:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Aug 22, 12:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "racine",
-          "CityCusts": 58964,
-          "County": "racine",
-          "CountyCusts": 102529,
-          "Zip": "53402",
-          "ZipCusts": 16002,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
       "Latitude": 43.070870621835724,
       "Longitude": -88.06433794972676,
       "OffTime": "Aug 22, 10:51 a.m.",
       "ETR": "Aug 22, 1:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 12:30 p.m.",
+      "LastUpdated": "Aug 22, 12:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -159,52 +228,6 @@
           "ZipCusts": 13597,
           "Region": "southeast wi",
           "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
-      "Latitude": 45.48892155680149,
-      "Longitude": -87.77341248010181,
-      "OffTime": "Aug 22, 7:36 a.m.",
-      "ETR": "Aug 22, 2:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 12:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "stephenson",
-          "CityCusts": 7,
-          "County": "menominee",
-          "CountyCusts": 3000,
-          "Zip": "49887",
-          "ZipCusts": 7,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41391
-        }
-      ]
-    },
-    {
-      "Latitude": 45.679144719107235,
-      "Longitude": -87.7488275130386,
-      "OffTime": "Aug 22, 12:16 p.m.",
-      "ETR": "Aug 22, 3:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 12:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "vulcan",
-          "CityCusts": 1024,
-          "County": "menominee",
-          "CountyCusts": 3000,
-          "Zip": "49892",
-          "ZipCusts": 1066,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41391
         }
       ]
     }
