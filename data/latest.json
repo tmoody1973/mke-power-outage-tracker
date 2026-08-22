@@ -1,70 +1,47 @@
 {
-  "captured_at": "2026-08-22T02:20:27+00:00",
+  "captured_at": "2026-08-22T03:13:02+00:00",
   "events": [
     {
-      "Latitude": 42.61005467004283,
-      "Longitude": -87.8657515099008,
-      "OffTime": "Aug 21, 8:53 p.m.",
-      "ETR": "Aug 21, 11:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies equipment problem",
-      "LastUpdated": "Aug 21, 9:20 p.m.",
+      "Latitude": 43.064579946977055,
+      "Longitude": -87.97060316703072,
+      "OffTime": "Aug 21, 9:43 p.m.",
+      "ETR": "Aug 22, 12:30 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Aug 21, 10:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54306,
-          "County": "kenosha",
-          "CountyCusts": 80159,
-          "Zip": "53144",
-          "ZipCusts": 14030,
+          "City": "milwaukee",
+          "CityCusts": 352186,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53210",
+          "ZipCusts": 12254,
           "Region": "southeast wi",
           "RegionCusts": 1074153
         }
       ]
     },
     {
-      "Latitude": 42.82826457948094,
-      "Longitude": -87.86421197829449,
-      "OffTime": "Aug 21, 6:19 p.m.",
-      "ETR": "Aug 22, 12:30 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 21, 9:20 p.m.",
+      "Latitude": 42.750871100720836,
+      "Longitude": -87.80622843244605,
+      "OffTime": "Aug 21, 4:54 p.m.",
+      "ETR": "Aug 21, 10:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Aug 21, 10:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
+          "AffectedCusts": 12,
           "City": "racine",
           "CityCusts": 58964,
           "County": "racine",
           "CountyCusts": 102529,
-          "Zip": "53402",
-          "ZipCusts": 16002,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
-      "Latitude": 42.73421385942124,
-      "Longitude": -87.95488103167213,
-      "OffTime": "Aug 21, 5:33 p.m.",
-      "ETR": "Aug 22, 12:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Aug 21, 9:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "sturtevant",
-          "CityCusts": 4035,
-          "County": "racine",
-          "CountyCusts": 102529,
-          "Zip": "53177",
-          "ZipCusts": 4699,
+          "Zip": "53404",
+          "ZipCusts": 7236,
           "Region": "southeast wi",
           "RegionCusts": 1074153
         }
@@ -77,20 +54,9 @@
       "ETR": "Aug 21, 11:00 p.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 21, 9:20 p.m.",
+      "LastUpdated": "Aug 21, 10:10 p.m.",
       "IsGlobal": false,
       "Slices": [
-        {
-          "AffectedCusts": 13,
-          "City": "rock",
-          "CityCusts": 567,
-          "County": "delta",
-          "CountyCusts": 1711,
-          "Zip": "49880",
-          "ZipCusts": 568,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41391
-        },
         {
           "AffectedCusts": 3,
           "City": "perkins",
@@ -99,6 +65,17 @@
           "CountyCusts": 1711,
           "Zip": "49872",
           "ZipCusts": 126,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41391
+        },
+        {
+          "AffectedCusts": 13,
+          "City": "rock",
+          "CityCusts": 567,
+          "County": "delta",
+          "CountyCusts": 1711,
+          "Zip": "49880",
+          "ZipCusts": 568,
           "Region": "upper peninsula mi",
           "RegionCusts": 41391
         },
@@ -116,36 +93,13 @@
       ]
     },
     {
-      "Latitude": 43.24464524496798,
-      "Longitude": -88.2932355577466,
-      "OffTime": "Aug 21, 8:37 p.m.",
-      "ETR": "Aug 21, 11:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 21, 9:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "hubertus",
-          "CityCusts": 2739,
-          "County": "washington",
-          "CountyCusts": 61671,
-          "Zip": "53033",
-          "ZipCusts": 2746,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
       "Latitude": 43.016463802287646,
       "Longitude": -87.9515104650209,
       "OffTime": "Aug 21, 3:03 p.m.",
       "ETR": "Aug 21, 11:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Facilities patrolled - no problems found",
-      "LastUpdated": "Aug 21, 9:20 p.m.",
+      "LastUpdated": "Aug 21, 10:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -162,46 +116,23 @@
       ]
     },
     {
-      "Latitude": 43.1045139814832,
-      "Longitude": -88.01144517836345,
-      "OffTime": "Aug 21, 8:59 p.m.",
-      "ETR": "Aug 22, 12:00 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 21, 9:20 p.m.",
+      "Latitude": 43.24464524496798,
+      "Longitude": -88.2932355577466,
+      "OffTime": "Aug 21, 8:37 p.m.",
+      "ETR": "Aug 21, 11:30 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Aug 21, 10:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352186,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53218",
-          "ZipCusts": 17050,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
-      "Latitude": 42.750871100720836,
-      "Longitude": -87.80622843244605,
-      "OffTime": "Aug 21, 4:54 p.m.",
-      "ETR": "Aug 21, 10:30 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 21, 9:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 12,
-          "City": "racine",
-          "CityCusts": 58964,
-          "County": "racine",
-          "CountyCusts": 102529,
-          "Zip": "53404",
-          "ZipCusts": 7236,
+          "City": "hubertus",
+          "CityCusts": 2739,
+          "County": "washington",
+          "CountyCusts": 61671,
+          "Zip": "53033",
+          "ZipCusts": 2746,
           "Region": "southeast wi",
           "RegionCusts": 1074153
         }
