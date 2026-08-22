@@ -1,75 +1,6 @@
 {
-  "captured_at": "2026-08-22T22:37:49+00:00",
+  "captured_at": "2026-08-22T22:57:09+00:00",
   "events": [
-    {
-      "Latitude": 44.23986175127481,
-      "Longitude": -88.40344088751496,
-      "OffTime": "Aug 22, 3:56 p.m.",
-      "ETR": "Aug 22, 6:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 5:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 29,
-          "City": "appleton",
-          "CityCusts": 62952,
-          "County": "calumet",
-          "CountyCusts": 14457,
-          "Zip": "54915",
-          "ZipCusts": 20158,
-          "Region": "fox valley wi",
-          "RegionCusts": 143371
-        }
-      ]
-    },
-    {
-      "Latitude": 43.15340496852673,
-      "Longitude": -88.2501361265984,
-      "OffTime": "Aug 22, 2:47 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 5:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "sussex",
-          "CityCusts": 9894,
-          "County": "waukesha",
-          "CountyCusts": 203500,
-          "Zip": "53089",
-          "ZipCusts": 10044,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
-      "Latitude": 43.13821374090027,
-      "Longitude": -88.005153140352,
-      "OffTime": "Aug 22, 3:28 p.m.",
-      "ETR": "Aug 22, 6:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 5:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352186,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53223",
-          "ZipCusts": 14110,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
     {
       "Latitude": 45.6793154116524,
       "Longitude": -87.75296951071796,
@@ -77,7 +8,7 @@
       "ETR": "Aug 22, 8:00 p.m.",
       "CrewStatus": "On the way",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 22, 5:30 p.m.",
+      "LastUpdated": "Aug 22, 5:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -94,25 +25,25 @@
       ]
     },
     {
-      "Latitude": 42.77842225123917,
-      "Longitude": -87.85611177268845,
-      "OffTime": "Aug 22, 9:59 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Aug 22, 5:30 p.m.",
+      "Latitude": 44.23986175127481,
+      "Longitude": -88.40344088751496,
+      "OffTime": "Aug 22, 3:56 p.m.",
+      "ETR": "Aug 22, 6:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Aug 22, 5:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 4,
-          "City": "racine",
-          "CityCusts": 58964,
-          "County": "racine",
-          "CountyCusts": 102529,
-          "Zip": "53402",
-          "ZipCusts": 16002,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
+          "AffectedCusts": 29,
+          "City": "appleton",
+          "CityCusts": 62952,
+          "County": "calumet",
+          "CountyCusts": 14457,
+          "Zip": "54915",
+          "ZipCusts": 20158,
+          "Region": "fox valley wi",
+          "RegionCusts": 143371
         }
       ]
     },
@@ -123,7 +54,7 @@
       "ETR": "Aug 22, 8:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 5:30 p.m.",
+      "LastUpdated": "Aug 22, 5:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -134,6 +65,52 @@
           "CountyCusts": 80159,
           "Zip": "53144",
           "ZipCusts": 14030,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 43.13821374090027,
+      "Longitude": -88.005153140352,
+      "OffTime": "Aug 22, 3:28 p.m.",
+      "ETR": "Aug 22, 6:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 5:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352186,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53223",
+          "ZipCusts": 14110,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 43.15340496852673,
+      "Longitude": -88.2501361265984,
+      "OffTime": "Aug 22, 2:47 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 5:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "sussex",
+          "CityCusts": 9894,
+          "County": "waukesha",
+          "CountyCusts": 203500,
+          "Zip": "53089",
+          "ZipCusts": 10044,
           "Region": "southeast wi",
           "RegionCusts": 1074153
         }
