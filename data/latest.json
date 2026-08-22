@@ -1,83 +1,83 @@
 {
-  "captured_at": "2026-08-22T20:16:38+00:00",
+  "captured_at": "2026-08-22T20:45:52+00:00",
   "events": [
     {
-      "Latitude": 43.139920822429666,
-      "Longitude": -88.00586612939864,
-      "OffTime": "Aug 22, 3:00 p.m.",
-      "ETR": "Aug 22, 6:00 p.m.",
+      "Latitude": 42.77842225123917,
+      "Longitude": -87.85611177268845,
+      "OffTime": "Aug 22, 9:59 a.m.",
+      "ETR": "Aug 22, 4:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Transformer problem",
+      "LastUpdated": "Aug 22, 3:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 4,
+          "City": "racine",
+          "CityCusts": 58964,
+          "County": "racine",
+          "CountyCusts": 102529,
+          "Zip": "53402",
+          "ZipCusts": 16002,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 45.679144719107235,
+      "Longitude": -87.7488275130386,
+      "OffTime": "Aug 22, 12:16 p.m.",
+      "ETR": "Aug 22, 8:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 3:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 36,
-          "City": "milwaukee",
-          "CityCusts": 352186,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53223",
-          "ZipCusts": 14110,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
-      "Latitude": 43.01113349981555,
-      "Longitude": -87.9109514278834,
-      "OffTime": "Aug 22, 2:12 p.m.",
-      "ETR": "Aug 22, 5:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 3:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352186,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53204",
-          "ZipCusts": 17656,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
-      "Latitude": 44.270082805734866,
-      "Longitude": -88.70861746143352,
-      "OffTime": "Aug 22, 12:35 p.m.",
-      "ETR": "Aug 22, 3:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 3:10 p.m.",
+      "LastUpdated": "Aug 22, 3:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 2,
-          "City": "fremont",
-          "CityCusts": 3187,
-          "County": "outagamie",
-          "CountyCusts": 80154,
-          "Zip": "54940",
-          "ZipCusts": 3186,
-          "Region": "fox valley wi",
-          "RegionCusts": 143371
+          "City": "vulcan",
+          "CityCusts": 1024,
+          "County": "menominee",
+          "CountyCusts": 3000,
+          "Zip": "49892",
+          "ZipCusts": 1066,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41391
         }
       ]
     },
     {
-      "Latitude": 46.17687881619498,
-      "Longitude": -88.80317403255869,
-      "OffTime": "Aug 22, 2:57 p.m.",
+      "Latitude": 46.16138801068283,
+      "Longitude": -88.75905892005854,
+      "OffTime": "Aug 22, 3:01 p.m.",
       "ETR": "Aug 22, 6:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 3:10 p.m.",
+      "LastUpdated": "Aug 22, 3:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "iron river",
+          "CityCusts": 1763,
+          "County": "iron",
+          "CountyCusts": 4270,
+          "Zip": "49935",
+          "ZipCusts": 1764,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41391
+        }
+      ]
+    },
+    {
+      "Latitude": 46.16895402974105,
+      "Longitude": -88.76942562840387,
+      "OffTime": "Aug 22, 3:04 p.m.",
+      "ETR": "Aug 22, 6:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 3:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -86,11 +86,23 @@
           "CityCusts": 1763,
           "County": "iron",
           "CountyCusts": 4270,
-          "Zip": "49964",
-          "ZipCusts": 17,
+          "Zip": "49935",
+          "ZipCusts": 1764,
           "Region": "upper peninsula mi",
           "RegionCusts": 41391
-        },
+        }
+      ]
+    },
+    {
+      "Latitude": 46.17687881619498,
+      "Longitude": -88.80317403255869,
+      "OffTime": "Aug 22, 2:57 p.m.",
+      "ETR": "Aug 22, 6:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 3:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
         {
           "AffectedCusts": 5,
           "City": "stambaugh",
@@ -112,27 +124,15 @@
           "ZipCusts": 1764,
           "Region": "upper peninsula mi",
           "RegionCusts": 41391
-        }
-      ]
-    },
-    {
-      "Latitude": 46.16895402974105,
-      "Longitude": -88.76942562840387,
-      "OffTime": "Aug 22, 3:04 p.m.",
-      "ETR": "Aug 22, 6:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 3:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
+        },
         {
           "AffectedCusts": 1,
           "City": "iron river",
           "CityCusts": 1763,
           "County": "iron",
           "CountyCusts": 4270,
-          "Zip": "49935",
-          "ZipCusts": 1764,
+          "Zip": "49964",
+          "ZipCusts": 17,
           "Region": "upper peninsula mi",
           "RegionCusts": 41391
         }
@@ -145,7 +145,7 @@
       "ETR": "Aug 22, 5:30 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 3:10 p.m.",
+      "LastUpdated": "Aug 22, 3:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -162,128 +162,13 @@
       ]
     },
     {
-      "Latitude": 46.16138801068283,
-      "Longitude": -88.75905892005854,
-      "OffTime": "Aug 22, 3:01 p.m.",
-      "ETR": "Aug 22, 6:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 3:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "iron river",
-          "CityCusts": 1763,
-          "County": "iron",
-          "CountyCusts": 4270,
-          "Zip": "49935",
-          "ZipCusts": 1764,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41391
-        }
-      ]
-    },
-    {
-      "Latitude": 43.02254178537862,
-      "Longitude": -88.25495805722548,
-      "OffTime": "Aug 22, 2:00 p.m.",
-      "ETR": "Aug 22, 5:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 3:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "waukesha",
-          "CityCusts": 48440,
-          "County": "waukesha",
-          "CountyCusts": 203500,
-          "Zip": "53188",
-          "ZipCusts": 17768,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
-      "Latitude": 45.679144719107235,
-      "Longitude": -87.7488275130386,
-      "OffTime": "Aug 22, 12:16 p.m.",
-      "ETR": "Aug 22, 8:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 3:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "vulcan",
-          "CityCusts": 1024,
-          "County": "menominee",
-          "CountyCusts": 3000,
-          "Zip": "49892",
-          "ZipCusts": 1066,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41391
-        }
-      ]
-    },
-    {
-      "Latitude": 42.77842225123917,
-      "Longitude": -87.85611177268845,
-      "OffTime": "Aug 22, 9:59 a.m.",
-      "ETR": "Aug 22, 4:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Aug 22, 3:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 4,
-          "City": "racine",
-          "CityCusts": 58964,
-          "County": "racine",
-          "CountyCusts": 102529,
-          "Zip": "53402",
-          "ZipCusts": 16002,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
-      "Latitude": 45.67933062526818,
-      "Longitude": -87.75022226434513,
-      "OffTime": "Aug 22, 12:14 p.m.",
-      "ETR": "Aug 22, 8:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 22, 3:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "vulcan",
-          "CityCusts": 1024,
-          "County": "menominee",
-          "CountyCusts": 3000,
-          "Zip": "49892",
-          "ZipCusts": 1066,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41391
-        }
-      ]
-    },
-    {
       "Latitude": 43.40546392493063,
       "Longitude": -88.28153581965734,
       "OffTime": "Aug 22, 2:17 p.m.",
       "ETR": "Aug 22, 5:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Aug 22, 3:10 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "We Energies fuse problem",
+      "LastUpdated": "Aug 22, 3:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -300,13 +185,36 @@
       ]
     },
     {
+      "Latitude": 43.139920822429666,
+      "Longitude": -88.00586612939864,
+      "OffTime": "Aug 22, 3:00 p.m.",
+      "ETR": "Aug 22, 6:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 3:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 36,
+          "City": "milwaukee",
+          "CityCusts": 352186,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53223",
+          "ZipCusts": 14110,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
       "Latitude": 42.63998153223799,
       "Longitude": -87.90422123569698,
       "OffTime": "Aug 22, 1:36 p.m.",
       "ETR": "Aug 22, 4:30 p.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 3:10 p.m.",
+      "LastUpdated": "Aug 22, 3:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -317,6 +225,52 @@
           "CountyCusts": 80159,
           "Zip": "53144",
           "ZipCusts": 14030,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 45.67933062526818,
+      "Longitude": -87.75022226434513,
+      "OffTime": "Aug 22, 12:14 p.m.",
+      "ETR": "Aug 22, 8:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 22, 3:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "vulcan",
+          "CityCusts": 1024,
+          "County": "menominee",
+          "CountyCusts": 3000,
+          "Zip": "49892",
+          "ZipCusts": 1066,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41391
+        }
+      ]
+    },
+    {
+      "Latitude": 43.13821374090027,
+      "Longitude": -88.005153140352,
+      "OffTime": "Aug 22, 3:28 p.m.",
+      "ETR": "Aug 22, 6:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 3:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352186,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53223",
+          "ZipCusts": 14110,
           "Region": "southeast wi",
           "RegionCusts": 1074153
         }
