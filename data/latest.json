@@ -1,60 +1,14 @@
 {
-  "captured_at": "2026-08-22T14:37:22+00:00",
+  "captured_at": "2026-08-22T14:56:40+00:00",
   "events": [
-    {
-      "Latitude": 43.07426235924534,
-      "Longitude": -88.05635407655943,
-      "OffTime": "Aug 22, 8:31 a.m.",
-      "ETR": "Aug 22, 11:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 9:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 8,
-          "City": "wauwatosa",
-          "CityCusts": 10605,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53222",
-          "ZipCusts": 13597,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
-      "Latitude": 44.28174884805089,
-      "Longitude": -88.94275992940385,
-      "OffTime": "Aug 22, 8:23 a.m.",
-      "ETR": "Aug 22, 11:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 9:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "weyauwega",
-          "CityCusts": 2740,
-          "County": "waupaca",
-          "CountyCusts": 8903,
-          "Zip": "54983",
-          "ZipCusts": 2740,
-          "Region": "fox valley wi",
-          "RegionCusts": 143371
-        }
-      ]
-    },
     {
       "Latitude": 42.980820131310296,
       "Longitude": -88.06173072513808,
       "OffTime": "Aug 22, 8:43 a.m.",
       "ETR": "Aug 22, 11:30 a.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 9:30 a.m.",
+      "LastUpdated": "Aug 22, 9:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -71,13 +25,128 @@
       ]
     },
     {
+      "Latitude": 45.48892155680149,
+      "Longitude": -87.77341248010181,
+      "OffTime": "Aug 22, 7:36 a.m.",
+      "ETR": "Aug 22, 10:30 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "stephenson",
+          "CityCusts": 7,
+          "County": "menominee",
+          "CountyCusts": 3000,
+          "Zip": "49887",
+          "ZipCusts": 7,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41391
+        }
+      ]
+    },
+    {
+      "Latitude": 45.75022758909121,
+      "Longitude": -88.08516712781201,
+      "OffTime": "Aug 22, 8:16 a.m.",
+      "ETR": "Aug 22, 11:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "niagara",
+          "CityCusts": 2256,
+          "County": "florence",
+          "CountyCusts": 3052,
+          "Zip": "54151",
+          "ZipCusts": 2265,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41391
+        }
+      ]
+    },
+    {
+      "Latitude": 44.28174884805089,
+      "Longitude": -88.94275992940385,
+      "OffTime": "Aug 22, 8:23 a.m.",
+      "ETR": "Aug 22, 11:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "weyauwega",
+          "CityCusts": 2740,
+          "County": "waupaca",
+          "CountyCusts": 8903,
+          "Zip": "54983",
+          "ZipCusts": 2740,
+          "Region": "fox valley wi",
+          "RegionCusts": 143371
+        }
+      ]
+    },
+    {
+      "Latitude": 43.17339292435459,
+      "Longitude": -88.57014524619312,
+      "OffTime": "Aug 22, 9:45 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "ixonia",
+          "CityCusts": 1834,
+          "County": "jefferson",
+          "CountyCusts": 35186,
+          "Zip": "53036",
+          "ZipCusts": 1835,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 45.51598171049681,
+      "Longitude": -87.79893017203418,
+      "OffTime": "Aug 22, 9:04 a.m.",
+      "ETR": "Aug 22, 12:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "stephenson",
+          "CityCusts": 7,
+          "County": "menominee",
+          "CountyCusts": 3000,
+          "Zip": "49887",
+          "ZipCusts": 7,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41391
+        }
+      ]
+    },
+    {
       "Latitude": 42.60738231038217,
       "Longitude": -88.06236769543206,
       "OffTime": "Aug 22, 7:49 a.m.",
       "ETR": "Aug 22, 10:30 a.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 9:30 a.m.",
+      "LastUpdated": "Aug 22, 9:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -100,7 +169,7 @@
       "ETR": "Aug 22, 11:30 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 9:30 a.m.",
+      "LastUpdated": "Aug 22, 9:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -113,75 +182,6 @@
           "ZipCusts": 3694,
           "Region": "fox valley wi",
           "RegionCusts": 143371
-        }
-      ]
-    },
-    {
-      "Latitude": 45.75022758909121,
-      "Longitude": -88.08516712781201,
-      "OffTime": "Aug 22, 8:16 a.m.",
-      "ETR": "Aug 22, 11:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 9:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "niagara",
-          "CityCusts": 2256,
-          "County": "florence",
-          "CountyCusts": 3052,
-          "Zip": "54151",
-          "ZipCusts": 2265,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41391
-        }
-      ]
-    },
-    {
-      "Latitude": 45.51598171049681,
-      "Longitude": -87.79893017203418,
-      "OffTime": "Aug 22, 9:04 a.m.",
-      "ETR": "Aug 22, 12:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 9:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "stephenson",
-          "CityCusts": 7,
-          "County": "menominee",
-          "CountyCusts": 3000,
-          "Zip": "49887",
-          "ZipCusts": 7,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41391
-        }
-      ]
-    },
-    {
-      "Latitude": 45.48892155680149,
-      "Longitude": -87.77341248010181,
-      "OffTime": "Aug 22, 7:36 a.m.",
-      "ETR": "Aug 22, 10:30 a.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 9:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "stephenson",
-          "CityCusts": 7,
-          "County": "menominee",
-          "CountyCusts": 3000,
-          "Zip": "49887",
-          "ZipCusts": 7,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41391
         }
       ]
     }
