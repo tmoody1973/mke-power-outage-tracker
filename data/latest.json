@@ -1,29 +1,6 @@
 {
-  "captured_at": "2026-08-22T11:42:25+00:00",
+  "captured_at": "2026-08-22T11:57:28+00:00",
   "events": [
-    {
-      "Latitude": 42.74392911391677,
-      "Longitude": -87.78853460739869,
-      "OffTime": "Aug 22, 6:10 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 6:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 17,
-          "City": "racine",
-          "CityCusts": 58964,
-          "County": "racine",
-          "CountyCusts": 102529,
-          "Zip": "53402",
-          "ZipCusts": 16002,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
     {
       "Latitude": 42.77544797096941,
       "Longitude": -88.06208750623905,
@@ -31,7 +8,7 @@
       "ETR": "Not yet determined",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 6:40 a.m.",
+      "LastUpdated": "Aug 22, 6:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -42,6 +19,29 @@
           "CountyCusts": 102529,
           "Zip": "53126",
           "ZipCusts": 4015,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 42.74392911391677,
+      "Longitude": -87.78853460739869,
+      "OffTime": "Aug 22, 6:10 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 6:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 17,
+          "City": "racine",
+          "CityCusts": 58964,
+          "County": "racine",
+          "CountyCusts": 102529,
+          "Zip": "53402",
+          "ZipCusts": 16002,
           "Region": "southeast wi",
           "RegionCusts": 1074153
         }
