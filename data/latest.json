@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-22T12:33:12+00:00",
+  "captured_at": "2026-08-22T13:17:34+00:00",
   "events": [
     {
       "Latitude": 42.77544797096941,
@@ -8,7 +8,7 @@
       "ETR": "Aug 22, 9:30 a.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 7:30 a.m.",
+      "LastUpdated": "Aug 22, 8:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -19,6 +19,98 @@
           "CountyCusts": 102529,
           "Zip": "53126",
           "ZipCusts": 4015,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 45.48892155680149,
+      "Longitude": -87.77341248010181,
+      "OffTime": "Aug 22, 7:36 a.m.",
+      "ETR": "Aug 22, 10:30 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 8:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "stephenson",
+          "CityCusts": 7,
+          "County": "menominee",
+          "CountyCusts": 3000,
+          "Zip": "49887",
+          "ZipCusts": 7,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41391
+        }
+      ]
+    },
+    {
+      "Latitude": 42.60738231038217,
+      "Longitude": -88.06236769543206,
+      "OffTime": "Aug 22, 7:49 a.m.",
+      "ETR": "Aug 22, 10:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 8:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "bristol",
+          "CityCusts": 3602,
+          "County": "kenosha",
+          "CountyCusts": 80159,
+          "Zip": "53104",
+          "ZipCusts": 3594,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 44.272668176417575,
+      "Longitude": -88.47117093316744,
+      "OffTime": "Aug 22, 7:51 a.m.",
+      "ETR": "Aug 22, 10:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 8:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62952,
+          "County": "outagamie",
+          "CountyCusts": 80154,
+          "Zip": "54913",
+          "ZipCusts": 13930,
+          "Region": "fox valley wi",
+          "RegionCusts": 143371
+        }
+      ]
+    },
+    {
+      "Latitude": 43.11667784234629,
+      "Longitude": -88.01484433378198,
+      "OffTime": "Aug 22, 8:08 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 8:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352186,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53218",
+          "ZipCusts": 17050,
           "Region": "southeast wi",
           "RegionCusts": 1074153
         }
