@@ -1,24 +1,47 @@
 {
-  "captured_at": "2026-08-22T09:18:35+00:00",
+  "captured_at": "2026-08-22T09:48:49+00:00",
   "events": [
     {
-      "Latitude": 43.0271685143057,
-      "Longitude": -88.19574762562472,
-      "OffTime": "Aug 22, 1:17 a.m.",
-      "ETR": "Aug 22, 5:00 a.m.",
+      "Latitude": 43.098222304842686,
+      "Longitude": -87.98365857526852,
+      "OffTime": "Aug 22, 4:13 a.m.",
+      "ETR": "Aug 22, 7:00 a.m.",
       "CrewStatus": "On site",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Aug 22, 4:10 a.m.",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 4:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 34,
+          "City": "milwaukee",
+          "CityCusts": 352186,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53218",
+          "ZipCusts": 17050,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 43.292745721660616,
+      "Longitude": -88.8956700533755,
+      "OffTime": "Aug 22, 4:14 a.m.",
+      "ETR": "Aug 22, 7:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 4:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "waukesha",
-          "CityCusts": 48440,
-          "County": "waukesha",
-          "CountyCusts": 203500,
-          "Zip": "53186",
-          "ZipCusts": 17758,
+          "City": "reeseville",
+          "CityCusts": 1118,
+          "County": "dodge",
+          "CountyCusts": 17211,
+          "Zip": "53579",
+          "ZipCusts": 1118,
           "Region": "southeast wi",
           "RegionCusts": 1074153
         }
