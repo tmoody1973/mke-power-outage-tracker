@@ -1,70 +1,24 @@
 {
-  "captured_at": "2026-08-22T05:24:07+00:00",
+  "captured_at": "2026-08-22T05:50:35+00:00",
   "events": [
     {
-      "Latitude": 42.777862682646116,
-      "Longitude": -87.85301761809164,
-      "OffTime": "Aug 21, 11:04 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 12:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "racine",
-          "CityCusts": 58964,
-          "County": "racine",
-          "CountyCusts": 102529,
-          "Zip": "53402",
-          "ZipCusts": 16002,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
-      "Latitude": 42.750871100720836,
-      "Longitude": -87.80622843244605,
-      "OffTime": "Aug 21, 4:54 p.m.",
+      "Latitude": 43.064579946977055,
+      "Longitude": -87.97060316703072,
+      "OffTime": "Aug 21, 9:43 p.m.",
       "ETR": "Aug 22, 2:30 a.m.",
-      "CrewStatus": "On site",
+      "CrewStatus": "Assigned",
       "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 22, 12:20 a.m.",
+      "LastUpdated": "Aug 22, 12:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 12,
-          "City": "racine",
-          "CityCusts": 58964,
-          "County": "racine",
-          "CountyCusts": 102529,
-          "Zip": "53404",
-          "ZipCusts": 7236,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
-      "Latitude": 42.77785539686627,
-      "Longitude": -87.85479035799568,
-      "OffTime": "Aug 21, 11:04 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 12:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "racine",
-          "CityCusts": 58964,
-          "County": "racine",
-          "CountyCusts": 102529,
-          "Zip": "53402",
-          "ZipCusts": 16002,
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352186,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53210",
+          "ZipCusts": 12254,
           "Region": "southeast wi",
           "RegionCusts": 1074153
         }
@@ -75,9 +29,9 @@
       "Longitude": -88.2932355577466,
       "OffTime": "Aug 21, 8:37 p.m.",
       "ETR": "Aug 22, 1:30 a.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On the way",
       "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 22, 12:20 a.m.",
+      "LastUpdated": "Aug 22, 12:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -94,23 +48,92 @@
       ]
     },
     {
-      "Latitude": 43.064579946977055,
-      "Longitude": -87.97060316703072,
-      "OffTime": "Aug 21, 9:43 p.m.",
+      "Latitude": 42.750871100720836,
+      "Longitude": -87.80622843244605,
+      "OffTime": "Aug 21, 4:54 p.m.",
       "ETR": "Aug 22, 2:30 a.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On site",
       "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 22, 12:20 a.m.",
+      "LastUpdated": "Aug 22, 12:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
+          "AffectedCusts": 12,
+          "City": "racine",
+          "CityCusts": 58964,
+          "County": "racine",
+          "CountyCusts": 102529,
+          "Zip": "53404",
+          "ZipCusts": 7236,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 42.777862682646116,
+      "Longitude": -87.85301761809164,
+      "OffTime": "Aug 21, 11:04 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 12:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "racine",
+          "CityCusts": 58964,
+          "County": "racine",
+          "CountyCusts": 102529,
+          "Zip": "53402",
+          "ZipCusts": 16002,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 42.77785539686627,
+      "Longitude": -87.85479035799568,
+      "OffTime": "Aug 21, 11:04 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 12:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "racine",
+          "CityCusts": 58964,
+          "County": "racine",
+          "CountyCusts": 102529,
+          "Zip": "53402",
+          "ZipCusts": 16002,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 43.03422192515247,
+      "Longitude": -88.02682191529152,
+      "OffTime": "Aug 22, 12:27 a.m.",
+      "ETR": "Aug 22, 4:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 12:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 39,
           "City": "milwaukee",
           "CityCusts": 352186,
           "County": "milwaukee",
           "CountyCusts": 479860,
-          "Zip": "53210",
-          "ZipCusts": 12254,
+          "Zip": "53226",
+          "ZipCusts": 11015,
           "Region": "southeast wi",
           "RegionCusts": 1074153
         }
