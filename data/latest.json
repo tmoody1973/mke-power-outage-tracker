@@ -1,75 +1,6 @@
 {
-  "captured_at": "2026-08-22T07:07:49+00:00",
+  "captured_at": "2026-08-22T07:44:07+00:00",
   "events": [
-    {
-      "Latitude": 43.24464524496798,
-      "Longitude": -88.2932355577466,
-      "OffTime": "Aug 21, 8:37 p.m.",
-      "ETR": "Aug 22, 2:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 22, 2:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "hubertus",
-          "CityCusts": 2739,
-          "County": "washington",
-          "CountyCusts": 61671,
-          "Zip": "53033",
-          "ZipCusts": 2746,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
-      "Latitude": 43.064579946977055,
-      "Longitude": -87.97060316703072,
-      "OffTime": "Aug 21, 9:43 p.m.",
-      "ETR": "Aug 22, 2:30 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 22, 2:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352186,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53210",
-          "ZipCusts": 12254,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
-      "Latitude": 43.02201769395358,
-      "Longitude": -88.08332802092887,
-      "OffTime": "Aug 22, 12:49 a.m.",
-      "ETR": "Aug 22, 4:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 2:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 4,
-          "City": "brookfield",
-          "CityCusts": 23376,
-          "County": "waukesha",
-          "CountyCusts": 203500,
-          "Zip": "53005",
-          "ZipCusts": 11572,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
     {
       "Latitude": 42.778497073149005,
       "Longitude": -87.85587570834944,
@@ -77,7 +8,7 @@
       "ETR": "Aug 22, 5:00 a.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 2:00 a.m.",
+      "LastUpdated": "Aug 22, 2:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -98,9 +29,9 @@
       "Longitude": -88.19574762562472,
       "OffTime": "Aug 22, 1:17 a.m.",
       "ETR": "Aug 22, 4:00 a.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 2:00 a.m.",
+      "LastUpdated": "Aug 22, 2:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -117,25 +48,25 @@
       ]
     },
     {
-      "Latitude": 44.166068111344906,
-      "Longitude": -88.97830546312959,
-      "OffTime": "Aug 22, 12:43 a.m.",
+      "Latitude": 43.064579946977055,
+      "Longitude": -87.97060316703072,
+      "OffTime": "Aug 21, 9:43 p.m.",
       "ETR": "Aug 22, 3:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 2:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Aug 22, 2:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "pine river",
-          "CityCusts": 201,
-          "County": "waushara",
-          "CountyCusts": 867,
-          "Zip": "54965",
-          "ZipCusts": 201,
-          "Region": "fox valley wi",
-          "RegionCusts": 143371
+          "City": "milwaukee",
+          "CityCusts": 352186,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53210",
+          "ZipCusts": 12254,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
         }
       ]
     }
