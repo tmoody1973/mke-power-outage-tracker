@@ -1,14 +1,37 @@
 {
-  "captured_at": "2026-08-22T10:13:39+00:00",
+  "captured_at": "2026-08-22T10:40:16+00:00",
   "events": [
+    {
+      "Latitude": 43.098222304842686,
+      "Longitude": -87.98365857526852,
+      "OffTime": "Aug 22, 5:12 a.m.",
+      "ETR": "Aug 22, 8:00 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 22, 5:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 34,
+          "City": "milwaukee",
+          "CityCusts": 352186,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53218",
+          "ZipCusts": 17050,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
     {
       "Latitude": 43.292745721660616,
       "Longitude": -88.8956700533755,
       "OffTime": "Aug 22, 4:14 a.m.",
       "ETR": "Aug 22, 7:00 a.m.",
-      "CrewStatus": "On the way",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 5:10 a.m.",
+      "LastUpdated": "Aug 22, 5:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
