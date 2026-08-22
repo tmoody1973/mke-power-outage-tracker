@@ -1,60 +1,14 @@
 {
-  "captured_at": "2026-08-22T03:13:02+00:00",
+  "captured_at": "2026-08-22T03:56:00+00:00",
   "events": [
-    {
-      "Latitude": 43.064579946977055,
-      "Longitude": -87.97060316703072,
-      "OffTime": "Aug 21, 9:43 p.m.",
-      "ETR": "Aug 22, 12:30 a.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 21, 10:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352186,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53210",
-          "ZipCusts": 12254,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
-      "Latitude": 42.750871100720836,
-      "Longitude": -87.80622843244605,
-      "OffTime": "Aug 21, 4:54 p.m.",
-      "ETR": "Aug 21, 10:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 21, 10:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 12,
-          "City": "racine",
-          "CityCusts": 58964,
-          "County": "racine",
-          "CountyCusts": 102529,
-          "Zip": "53404",
-          "ZipCusts": 7236,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
     {
       "Latitude": 45.97062101232268,
       "Longitude": -87.11849744151377,
       "OffTime": "Aug 21, 8:14 p.m.",
       "ETR": "Aug 21, 11:00 p.m.",
-      "CrewStatus": "On the way",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 21, 10:10 p.m.",
+      "LastUpdated": "Aug 21, 10:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -93,13 +47,36 @@
       ]
     },
     {
+      "Latitude": 42.77544797096941,
+      "Longitude": -88.06208750623905,
+      "OffTime": "Aug 21, 10:22 p.m.",
+      "ETR": "Aug 22, 2:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 21, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "franksville",
+          "CityCusts": 3942,
+          "County": "racine",
+          "CountyCusts": 102529,
+          "Zip": "53126",
+          "ZipCusts": 4015,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
       "Latitude": 43.016463802287646,
       "Longitude": -87.9515104650209,
       "OffTime": "Aug 21, 3:03 p.m.",
       "ETR": "Aug 21, 11:00 p.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On the way",
       "Cause": "Facilities patrolled - no problems found",
-      "LastUpdated": "Aug 21, 10:10 p.m.",
+      "LastUpdated": "Aug 21, 10:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -116,13 +93,59 @@
       ]
     },
     {
+      "Latitude": 43.064579946977055,
+      "Longitude": -87.97060316703072,
+      "OffTime": "Aug 21, 9:43 p.m.",
+      "ETR": "Aug 22, 12:30 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Aug 21, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352186,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53210",
+          "ZipCusts": 12254,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 44.262875083858425,
+      "Longitude": -88.40130461997809,
+      "OffTime": "Aug 21, 10:47 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 21, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62952,
+          "County": "outagamie",
+          "CountyCusts": 80154,
+          "Zip": "54911",
+          "ZipCusts": 13388,
+          "Region": "fox valley wi",
+          "RegionCusts": 143371
+        }
+      ]
+    },
+    {
       "Latitude": 43.24464524496798,
       "Longitude": -88.2932355577466,
       "OffTime": "Aug 21, 8:37 p.m.",
       "ETR": "Aug 21, 11:30 p.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 21, 10:10 p.m.",
+      "LastUpdated": "Aug 21, 10:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -133,6 +156,29 @@
           "CountyCusts": 61671,
           "Zip": "53033",
           "ZipCusts": 2746,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 42.750871100720836,
+      "Longitude": -87.80622843244605,
+      "OffTime": "Aug 21, 4:54 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Assigned",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Aug 21, 10:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 12,
+          "City": "racine",
+          "CityCusts": 58964,
+          "County": "racine",
+          "CountyCusts": 102529,
+          "Zip": "53404",
+          "ZipCusts": 7236,
           "Region": "southeast wi",
           "RegionCusts": 1074153
         }
