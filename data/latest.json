@@ -1,22 +1,22 @@
 {
-  "captured_at": "2026-08-23T09:19:38+00:00",
+  "captured_at": "2026-08-23T09:50:00+00:00",
   "events": [
     {
-      "Latitude": 43.225919651593664,
-      "Longitude": -88.62704698365239,
-      "OffTime": "Aug 23, 1:58 a.m.",
+      "Latitude": 43.225924360670895,
+      "Longitude": -88.62713923046125,
+      "OffTime": "Aug 23, 1:57 a.m.",
       "ETR": "Aug 23, 5:00 a.m.",
       "CrewStatus": "On site",
       "Cause": "Vehicle accident",
-      "LastUpdated": "Aug 23, 4:10 a.m.",
+      "LastUpdated": "Aug 23, 4:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 3,
+          "AffectedCusts": 81,
           "City": "ixonia",
           "CityCusts": 1834,
-          "County": "jefferson",
-          "CountyCusts": 35186,
+          "County": "dodge",
+          "CountyCusts": 17211,
           "Zip": "53036",
           "ZipCusts": 1835,
           "Region": "southeast wi",
@@ -34,6 +34,17 @@
           "RegionCusts": 1074153
         },
         {
+          "AffectedCusts": 98,
+          "City": "watertown",
+          "CityCusts": 16249,
+          "County": "dodge",
+          "CountyCusts": 17211,
+          "Zip": "53098",
+          "ZipCusts": 6055,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        },
+        {
           "AffectedCusts": 1,
           "City": "oconomowoc",
           "CityCusts": 8559,
@@ -45,26 +56,38 @@
           "RegionCusts": 1074153
         },
         {
-          "AffectedCusts": 81,
+          "AffectedCusts": 3,
           "City": "ixonia",
           "CityCusts": 1834,
-          "County": "dodge",
-          "CountyCusts": 17211,
+          "County": "jefferson",
+          "CountyCusts": 35186,
           "Zip": "53036",
           "ZipCusts": 1835,
           "Region": "southeast wi",
           "RegionCusts": 1074153
-        },
+        }
+      ]
+    },
+    {
+      "Latitude": 44.279516602569835,
+      "Longitude": -88.44250997787029,
+      "OffTime": "Aug 23, 4:33 a.m.",
+      "ETR": "Aug 23, 7:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 23, 4:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
         {
-          "AffectedCusts": 98,
-          "City": "watertown",
-          "CityCusts": 16249,
-          "County": "dodge",
-          "CountyCusts": 17211,
-          "Zip": "53098",
-          "ZipCusts": 6055,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62952,
+          "County": "outagamie",
+          "CountyCusts": 80154,
+          "Zip": "54914",
+          "ZipCusts": 16306,
+          "Region": "fox valley wi",
+          "RegionCusts": 143371
         }
       ]
     }
