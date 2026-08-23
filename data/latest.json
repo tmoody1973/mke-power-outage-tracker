@@ -1,52 +1,6 @@
 {
-  "captured_at": "2026-08-23T15:25:11+00:00",
+  "captured_at": "2026-08-23T15:44:00+00:00",
   "events": [
-    {
-      "Latitude": 44.489290725579664,
-      "Longitude": -88.78720493663387,
-      "OffTime": "Aug 23, 9:17 a.m.",
-      "ETR": "Aug 23, 12:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 10:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "manawa",
-          "CityCusts": 204,
-          "County": "waupaca",
-          "CountyCusts": 8903,
-          "Zip": "54949",
-          "ZipCusts": 203,
-          "Region": "fox valley wi",
-          "RegionCusts": 143371
-        }
-      ]
-    },
-    {
-      "Latitude": 42.99830099477979,
-      "Longitude": -87.92316957986161,
-      "OffTime": "Aug 23, 9:38 a.m.",
-      "ETR": "Aug 23, 12:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 10:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352187,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53215",
-          "ZipCusts": 22354,
-          "Region": "southeast wi",
-          "RegionCusts": 1074154
-        }
-      ]
-    },
     {
       "Latitude": 43.252742205762026,
       "Longitude": -88.17154969492685,
@@ -54,7 +8,7 @@
       "ETR": "Aug 23, 12:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 10:20 a.m.",
+      "LastUpdated": "Aug 23, 10:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -71,48 +25,25 @@
       ]
     },
     {
-      "Latitude": 43.09433138368092,
-      "Longitude": -88.05177636891324,
-      "OffTime": "Aug 23, 10:08 a.m.",
-      "ETR": "Aug 23, 1:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 44.489290725579664,
+      "Longitude": -88.78720493663387,
+      "OffTime": "Aug 23, 9:17 a.m.",
+      "ETR": "Aug 23, 12:00 p.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 10:20 a.m.",
+      "LastUpdated": "Aug 23, 10:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352187,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53222",
-          "ZipCusts": 13597,
-          "Region": "southeast wi",
-          "RegionCusts": 1074154
-        }
-      ]
-    },
-    {
-      "Latitude": 43.01647464927288,
-      "Longitude": -87.95246850109237,
-      "OffTime": "Aug 23, 8:35 a.m.",
-      "ETR": "Aug 23, 11:30 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 10:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352187,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53215",
-          "ZipCusts": 22354,
-          "Region": "southeast wi",
-          "RegionCusts": 1074154
+          "City": "manawa",
+          "CityCusts": 204,
+          "County": "waupaca",
+          "CountyCusts": 8903,
+          "Zip": "54949",
+          "ZipCusts": 203,
+          "Region": "fox valley wi",
+          "RegionCusts": 143371
         }
       ]
     },
@@ -123,7 +54,7 @@
       "ETR": "Aug 23, 2:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 23, 10:20 a.m.",
+      "LastUpdated": "Aug 23, 10:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -140,13 +71,36 @@
       ]
     },
     {
+      "Latitude": 43.01647464927288,
+      "Longitude": -87.95246850109237,
+      "OffTime": "Aug 23, 8:35 a.m.",
+      "ETR": "Aug 23, 11:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 23, 10:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352187,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53215",
+          "ZipCusts": 22354,
+          "Region": "southeast wi",
+          "RegionCusts": 1074154
+        }
+      ]
+    },
+    {
       "Latitude": 44.43674608219358,
       "Longitude": -88.75745838982472,
       "OffTime": "Aug 23, 8:40 a.m.",
       "ETR": "Aug 23, 11:30 a.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 10:20 a.m.",
+      "LastUpdated": "Aug 23, 10:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -159,6 +113,29 @@
           "ZipCusts": 3694,
           "Region": "fox valley wi",
           "RegionCusts": 143371
+        }
+      ]
+    },
+    {
+      "Latitude": 42.99830099477979,
+      "Longitude": -87.92316957986161,
+      "OffTime": "Aug 23, 9:38 a.m.",
+      "ETR": "Aug 23, 12:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 23, 10:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352187,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53215",
+          "ZipCusts": 22354,
+          "Region": "southeast wi",
+          "RegionCusts": 1074154
         }
       ]
     }
