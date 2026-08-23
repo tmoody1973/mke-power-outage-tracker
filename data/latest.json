@@ -1,60 +1,14 @@
 {
-  "captured_at": "2026-08-23T19:42:48+00:00",
+  "captured_at": "2026-08-23T19:55:49+00:00",
   "events": [
-    {
-      "Latitude": 42.99830099477979,
-      "Longitude": -87.92316957986161,
-      "OffTime": "Aug 23, 9:38 a.m.",
-      "ETR": "Aug 23, 4:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 23, 2:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352187,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53215",
-          "ZipCusts": 22354,
-          "Region": "southeast wi",
-          "RegionCusts": 1074154
-        }
-      ]
-    },
-    {
-      "Latitude": 43.00774858141907,
-      "Longitude": -88.06768136756982,
-      "OffTime": "Aug 23, 2:17 p.m.",
-      "ETR": "Aug 23, 5:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 2:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "new berlin",
-          "CityCusts": 20462,
-          "County": "waukesha",
-          "CountyCusts": 203500,
-          "Zip": "53151",
-          "ZipCusts": 16755,
-          "Region": "southeast wi",
-          "RegionCusts": 1074154
-        }
-      ]
-    },
     {
       "Latitude": 43.07264461148403,
       "Longitude": -87.91468813025726,
       "OffTime": "Aug 23, 11:57 a.m.",
       "ETR": "Aug 23, 4:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 2:40 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Aug 23, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -71,13 +25,13 @@
       ]
     },
     {
-      "Latitude": 43.145736028428196,
-      "Longitude": -87.90547152990518,
-      "OffTime": "Aug 23, 2:19 p.m.",
-      "ETR": "Aug 23, 5:00 p.m.",
+      "Latitude": 43.074894820827765,
+      "Longitude": -88.00227487899141,
+      "OffTime": "Aug 23, 2:39 p.m.",
+      "ETR": "Aug 23, 5:30 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 2:40 p.m.",
+      "LastUpdated": "Aug 23, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -86,33 +40,56 @@
           "CityCusts": 352187,
           "County": "milwaukee",
           "CountyCusts": 479860,
-          "Zip": "53217",
-          "ZipCusts": 15172,
+          "Zip": "53210",
+          "ZipCusts": 12254,
           "Region": "southeast wi",
           "RegionCusts": 1074154
         }
       ]
     },
     {
-      "Latitude": 45.750927369958546,
-      "Longitude": -88.09958044473382,
-      "OffTime": "Aug 23, 12:31 p.m.",
-      "ETR": "Aug 23, 3:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Wildlife contact with equipment",
-      "LastUpdated": "Aug 23, 2:40 p.m.",
+      "Latitude": 43.09878225823117,
+      "Longitude": -88.00894215692087,
+      "OffTime": "Aug 23, 2:48 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 23, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 3,
-          "City": "niagara",
-          "CityCusts": 2256,
-          "County": "florence",
-          "CountyCusts": 3052,
-          "Zip": "54151",
-          "ZipCusts": 2265,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41391
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352187,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53218",
+          "ZipCusts": 17050,
+          "Region": "southeast wi",
+          "RegionCusts": 1074154
+        }
+      ]
+    },
+    {
+      "Latitude": 43.00774858141907,
+      "Longitude": -88.06768136756982,
+      "OffTime": "Aug 23, 2:17 p.m.",
+      "ETR": "Aug 23, 5:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 23, 2:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "new berlin",
+          "CityCusts": 20462,
+          "County": "waukesha",
+          "CountyCusts": 203500,
+          "Zip": "53151",
+          "ZipCusts": 16755,
+          "Region": "southeast wi",
+          "RegionCusts": 1074154
         }
       ]
     },
@@ -123,7 +100,7 @@
       "ETR": "Aug 23, 4:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Pole equipment problem",
-      "LastUpdated": "Aug 23, 2:40 p.m.",
+      "LastUpdated": "Aug 23, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -136,6 +113,75 @@
           "ZipCusts": 203,
           "Region": "fox valley wi",
           "RegionCusts": 143371
+        }
+      ]
+    },
+    {
+      "Latitude": 42.50138134421659,
+      "Longitude": -87.88635721612748,
+      "OffTime": "Aug 23, 2:47 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 23, 2:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "pleasant pr",
+          "CityCusts": 6399,
+          "County": "kenosha",
+          "CountyCusts": 80159,
+          "Zip": "53158",
+          "ZipCusts": 9519,
+          "Region": "southeast wi",
+          "RegionCusts": 1074154
+        }
+      ]
+    },
+    {
+      "Latitude": 42.99830099477979,
+      "Longitude": -87.92316957986161,
+      "OffTime": "Aug 23, 9:38 a.m.",
+      "ETR": "Aug 23, 4:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Aug 23, 2:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352187,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53215",
+          "ZipCusts": 22354,
+          "Region": "southeast wi",
+          "RegionCusts": 1074154
+        }
+      ]
+    },
+    {
+      "Latitude": 43.01409811137627,
+      "Longitude": -88.08112880677567,
+      "OffTime": "Aug 23, 2:39 p.m.",
+      "ETR": "Aug 23, 5:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 23, 2:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 8,
+          "City": "new berlin",
+          "CityCusts": 20462,
+          "County": "waukesha",
+          "CountyCusts": 203500,
+          "Zip": "53151",
+          "ZipCusts": 16755,
+          "Region": "southeast wi",
+          "RegionCusts": 1074154
         }
       ]
     }
