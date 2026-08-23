@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-23T17:54:49+00:00",
+  "captured_at": "2026-08-23T18:16:13+00:00",
   "events": [
     {
       "Latitude": 43.009209996215255,
@@ -8,7 +8,7 @@
       "ETR": "Aug 23, 3:00 p.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 12:50 p.m.",
+      "LastUpdated": "Aug 23, 1:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -29,9 +29,9 @@
       "Longitude": -88.11130268740862,
       "OffTime": "Aug 23, 12:31 p.m.",
       "ETR": "Aug 23, 3:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 12:50 p.m.",
+      "LastUpdated": "Aug 23, 1:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,36 +48,13 @@
       ]
     },
     {
-      "Latitude": 44.315515959670016,
-      "Longitude": -88.29190427066249,
-      "OffTime": "Aug 23, 12:44 p.m.",
-      "ETR": "Aug 23, 3:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 12:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "kaukauna",
-          "CityCusts": 2396,
-          "County": "outagamie",
-          "CountyCusts": 80154,
-          "Zip": "54130",
-          "ZipCusts": 2981,
-          "Region": "fox valley wi",
-          "RegionCusts": 143371
-        }
-      ]
-    },
-    {
       "Latitude": 43.059687805846785,
       "Longitude": -87.89266856475597,
       "OffTime": "Aug 23, 7:05 a.m.",
       "ETR": "Aug 23, 2:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 23, 12:50 p.m.",
+      "LastUpdated": "Aug 23, 1:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -94,13 +71,36 @@
       ]
     },
     {
+      "Latitude": 43.07264461148403,
+      "Longitude": -87.91468813025726,
+      "OffTime": "Aug 23, 11:57 a.m.",
+      "ETR": "Aug 23, 3:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 23, 1:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352187,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53212",
+          "ZipCusts": 17010,
+          "Region": "southeast wi",
+          "RegionCusts": 1074154
+        }
+      ]
+    },
+    {
       "Latitude": 42.99830099477979,
       "Longitude": -87.92316957986161,
       "OffTime": "Aug 23, 9:38 a.m.",
       "ETR": "Aug 23, 2:30 p.m.",
       "CrewStatus": "On the way",
       "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 23, 12:50 p.m.",
+      "LastUpdated": "Aug 23, 1:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -117,25 +117,25 @@
       ]
     },
     {
-      "Latitude": 43.07264461148403,
-      "Longitude": -87.91468813025726,
-      "OffTime": "Aug 23, 11:57 a.m.",
-      "ETR": "Aug 23, 3:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 44.315515959670016,
+      "Longitude": -88.29190427066249,
+      "OffTime": "Aug 23, 12:44 p.m.",
+      "ETR": "Aug 23, 3:30 p.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 12:50 p.m.",
+      "LastUpdated": "Aug 23, 1:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352187,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53212",
-          "ZipCusts": 17010,
-          "Region": "southeast wi",
-          "RegionCusts": 1074154
+          "City": "kaukauna",
+          "CityCusts": 2396,
+          "County": "outagamie",
+          "CountyCusts": 80154,
+          "Zip": "54130",
+          "ZipCusts": 2981,
+          "Region": "fox valley wi",
+          "RegionCusts": 143371
         }
       ]
     }
