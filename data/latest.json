@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-23T16:48:55+00:00",
+  "captured_at": "2026-08-23T17:13:03+00:00",
   "events": [
     {
       "Latitude": 43.059687805846785,
@@ -8,7 +8,7 @@
       "ETR": "Aug 23, 2:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 23, 11:40 a.m.",
+      "LastUpdated": "Aug 23, 12:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,13 +25,36 @@
       ]
     },
     {
+      "Latitude": 42.99830099477979,
+      "Longitude": -87.92316957986161,
+      "OffTime": "Aug 23, 9:38 a.m.",
+      "ETR": "Aug 23, 12:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Aug 23, 12:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352187,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53215",
+          "ZipCusts": 22354,
+          "Region": "southeast wi",
+          "RegionCusts": 1074154
+        }
+      ]
+    },
+    {
       "Latitude": 43.252742205762026,
       "Longitude": -88.17154969492685,
       "OffTime": "Aug 23, 6:47 a.m.",
       "ETR": "Aug 23, 12:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 11:40 a.m.",
+      "LastUpdated": "Aug 23, 12:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,36 +71,13 @@
       ]
     },
     {
-      "Latitude": 44.489290725579664,
-      "Longitude": -88.78720493663387,
-      "OffTime": "Aug 23, 9:17 a.m.",
-      "ETR": "Aug 23, 12:00 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 43.07264461148403,
+      "Longitude": -87.91468813025726,
+      "OffTime": "Aug 23, 11:57 a.m.",
+      "ETR": "Aug 23, 3:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 11:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "manawa",
-          "CityCusts": 204,
-          "County": "waupaca",
-          "CountyCusts": 8903,
-          "Zip": "54949",
-          "ZipCusts": 203,
-          "Region": "fox valley wi",
-          "RegionCusts": 143371
-        }
-      ]
-    },
-    {
-      "Latitude": 42.99830099477979,
-      "Longitude": -87.92316957986161,
-      "OffTime": "Aug 23, 9:38 a.m.",
-      "ETR": "Aug 23, 12:30 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 23, 11:40 a.m.",
+      "LastUpdated": "Aug 23, 12:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -86,8 +86,8 @@
           "CityCusts": 352187,
           "County": "milwaukee",
           "CountyCusts": 479860,
-          "Zip": "53215",
-          "ZipCusts": 22354,
+          "Zip": "53212",
+          "ZipCusts": 17010,
           "Region": "southeast wi",
           "RegionCusts": 1074154
         }
