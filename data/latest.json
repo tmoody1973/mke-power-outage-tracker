@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-23T10:14:39+00:00",
+  "captured_at": "2026-08-23T10:42:05+00:00",
   "events": [
     {
       "Latitude": 43.225924360670895,
@@ -8,9 +8,42 @@
       "ETR": "Aug 23, 7:30 a.m.",
       "CrewStatus": "On site",
       "Cause": "Vehicle accident",
-      "LastUpdated": "Aug 23, 5:10 a.m.",
+      "LastUpdated": "Aug 23, 5:40 a.m.",
       "IsGlobal": false,
       "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "lebanon",
+          "CityCusts": 126,
+          "County": "dodge",
+          "CountyCusts": 17211,
+          "Zip": "53047",
+          "ZipCusts": 121,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        },
+        {
+          "AffectedCusts": 98,
+          "City": "watertown",
+          "CityCusts": 16249,
+          "County": "dodge",
+          "CountyCusts": 17211,
+          "Zip": "53098",
+          "ZipCusts": 6055,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        },
+        {
+          "AffectedCusts": 3,
+          "City": "ixonia",
+          "CityCusts": 1834,
+          "County": "jefferson",
+          "CountyCusts": 35186,
+          "Zip": "53036",
+          "ZipCusts": 1835,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        },
         {
           "AffectedCusts": 1,
           "City": "oconomowoc",
@@ -30,39 +63,6 @@
           "CountyCusts": 17211,
           "Zip": "53036",
           "ZipCusts": 1835,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "lebanon",
-          "CityCusts": 126,
-          "County": "dodge",
-          "CountyCusts": 17211,
-          "Zip": "53047",
-          "ZipCusts": 121,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        },
-        {
-          "AffectedCusts": 3,
-          "City": "ixonia",
-          "CityCusts": 1834,
-          "County": "jefferson",
-          "CountyCusts": 35186,
-          "Zip": "53036",
-          "ZipCusts": 1835,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        },
-        {
-          "AffectedCusts": 98,
-          "City": "watertown",
-          "CityCusts": 16249,
-          "County": "dodge",
-          "CountyCusts": 17211,
-          "Zip": "53098",
-          "ZipCusts": 6055,
           "Region": "southeast wi",
           "RegionCusts": 1074153
         }
