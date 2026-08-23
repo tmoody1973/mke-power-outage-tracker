@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-23T11:20:31+00:00",
+  "captured_at": "2026-08-23T11:42:44+00:00",
   "events": [
     {
       "Latitude": 43.225924360670895,
@@ -8,31 +8,9 @@
       "ETR": "Aug 23, 7:30 a.m.",
       "CrewStatus": "On site",
       "Cause": "Vehicle accident",
-      "LastUpdated": "Aug 23, 6:20 a.m.",
+      "LastUpdated": "Aug 23, 6:40 a.m.",
       "IsGlobal": false,
       "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "lebanon",
-          "CityCusts": 126,
-          "County": "dodge",
-          "CountyCusts": 17211,
-          "Zip": "53047",
-          "ZipCusts": 121,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        },
-        {
-          "AffectedCusts": 3,
-          "City": "ixonia",
-          "CityCusts": 1834,
-          "County": "jefferson",
-          "CountyCusts": 35186,
-          "Zip": "53036",
-          "ZipCusts": 1835,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        },
         {
           "AffectedCusts": 1,
           "City": "oconomowoc",
@@ -41,6 +19,17 @@
           "CountyCusts": 17211,
           "Zip": "53066",
           "ZipCusts": 8884,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "lebanon",
+          "CityCusts": 126,
+          "County": "dodge",
+          "CountyCusts": 17211,
+          "Zip": "53047",
+          "ZipCusts": 121,
           "Region": "southeast wi",
           "RegionCusts": 1074153
         },
@@ -63,6 +52,40 @@
           "CountyCusts": 17211,
           "Zip": "53036",
           "ZipCusts": 1835,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        },
+        {
+          "AffectedCusts": 3,
+          "City": "ixonia",
+          "CityCusts": 1834,
+          "County": "jefferson",
+          "CountyCusts": 35186,
+          "Zip": "53036",
+          "ZipCusts": 1835,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 42.90411595670204,
+      "Longitude": -88.14739504118376,
+      "OffTime": "Aug 23, 6:35 a.m.",
+      "ETR": "Aug 23, 9:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 23, 6:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 99,
+          "City": "muskego",
+          "CityCusts": 12258,
+          "County": "waukesha",
+          "CountyCusts": 203500,
+          "Zip": "53150",
+          "ZipCusts": 12258,
           "Region": "southeast wi",
           "RegionCusts": 1074153
         }
