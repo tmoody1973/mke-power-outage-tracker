@@ -1,29 +1,6 @@
 {
-  "captured_at": "2026-08-23T08:19:20+00:00",
+  "captured_at": "2026-08-23T08:55:03+00:00",
   "events": [
-    {
-      "Latitude": 46.06878602827774,
-      "Longitude": -88.99038183636559,
-      "OffTime": "Aug 23, 1:21 a.m.",
-      "ETR": "Aug 23, 4:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 3:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "phelps",
-          "CityCusts": 2049,
-          "County": "vilas",
-          "CountyCusts": 6268,
-          "Zip": "54554",
-          "ZipCusts": 2046,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41391
-        }
-      ]
-    },
     {
       "Latitude": 43.225919651593664,
       "Longitude": -88.62704698365239,
@@ -31,28 +8,17 @@
       "ETR": "Aug 23, 5:00 a.m.",
       "CrewStatus": "On site",
       "Cause": "Third-party damage",
-      "LastUpdated": "Aug 23, 3:10 a.m.",
+      "LastUpdated": "Aug 23, 3:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 98,
-          "City": "watertown",
-          "CityCusts": 16249,
+          "AffectedCusts": 81,
+          "City": "ixonia",
+          "CityCusts": 1834,
           "County": "dodge",
           "CountyCusts": 17211,
-          "Zip": "53098",
-          "ZipCusts": 6055,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "oconomowoc",
-          "CityCusts": 8559,
-          "County": "dodge",
-          "CountyCusts": 17211,
-          "Zip": "53066",
-          "ZipCusts": 8884,
+          "Zip": "53036",
+          "ZipCusts": 1835,
           "Region": "southeast wi",
           "RegionCusts": 1074153
         },
@@ -68,6 +34,17 @@
           "RegionCusts": 1074153
         },
         {
+          "AffectedCusts": 1,
+          "City": "oconomowoc",
+          "CityCusts": 8559,
+          "County": "dodge",
+          "CountyCusts": 17211,
+          "Zip": "53066",
+          "ZipCusts": 8884,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        },
+        {
           "AffectedCusts": 3,
           "City": "ixonia",
           "CityCusts": 1834,
@@ -79,13 +56,13 @@
           "RegionCusts": 1074153
         },
         {
-          "AffectedCusts": 81,
-          "City": "ixonia",
-          "CityCusts": 1834,
+          "AffectedCusts": 98,
+          "City": "watertown",
+          "CityCusts": 16249,
           "County": "dodge",
           "CountyCusts": 17211,
-          "Zip": "53036",
-          "ZipCusts": 1835,
+          "Zip": "53098",
+          "ZipCusts": 6055,
           "Region": "southeast wi",
           "RegionCusts": 1074153
         }
