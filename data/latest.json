@@ -1,37 +1,14 @@
 {
-  "captured_at": "2026-08-23T23:34:29+00:00",
+  "captured_at": "2026-08-23T23:55:36+00:00",
   "events": [
-    {
-      "Latitude": 44.27582722408628,
-      "Longitude": -88.47102886088159,
-      "OffTime": "Aug 23, 5:09 p.m.",
-      "ETR": "Aug 23, 8:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 6:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62952,
-          "County": "outagamie",
-          "CountyCusts": 80154,
-          "Zip": "54913",
-          "ZipCusts": 13930,
-          "Region": "fox valley wi",
-          "RegionCusts": 143371
-        }
-      ]
-    },
     {
       "Latitude": 42.634593887391965,
       "Longitude": -88.23883429706945,
       "OffTime": "Aug 23, 5:39 p.m.",
       "ETR": "Aug 23, 8:30 p.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 6:30 p.m.",
+      "LastUpdated": "Aug 23, 6:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -42,6 +19,29 @@
           "CountyCusts": 102529,
           "Zip": "53105",
           "ZipCusts": 15595,
+          "Region": "southeast wi",
+          "RegionCusts": 1074154
+        }
+      ]
+    },
+    {
+      "Latitude": 42.72281252074142,
+      "Longitude": -87.83546566671035,
+      "OffTime": "Aug 23, 6:41 p.m.",
+      "ETR": "Aug 23, 9:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 23, 6:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 58964,
+          "County": "racine",
+          "CountyCusts": 102529,
+          "Zip": "53405",
+          "ZipCusts": 11773,
           "Region": "southeast wi",
           "RegionCusts": 1074154
         }
