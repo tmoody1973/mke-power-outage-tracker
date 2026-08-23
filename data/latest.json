@@ -1,52 +1,6 @@
 {
-  "captured_at": "2026-08-23T05:59:58+00:00",
+  "captured_at": "2026-08-23T06:48:08+00:00",
   "events": [
-    {
-      "Latitude": 42.584551947202264,
-      "Longitude": -87.83804790883211,
-      "OffTime": "Aug 22, 11:13 p.m.",
-      "ETR": "Aug 23, 2:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 12:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54306,
-          "County": "kenosha",
-          "CountyCusts": 80159,
-          "Zip": "53140",
-          "ZipCusts": 14888,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
-      "Latitude": 44.33392236013147,
-      "Longitude": -88.3748091172969,
-      "OffTime": "Aug 22, 7:34 p.m.",
-      "ETR": "Aug 23, 1:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Aug 23, 12:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62952,
-          "County": "outagamie",
-          "CountyCusts": 80154,
-          "Zip": "54913",
-          "ZipCusts": 13930,
-          "Region": "fox valley wi",
-          "RegionCusts": 143371
-        }
-      ]
-    },
     {
       "Latitude": 43.22205100562142,
       "Longitude": -88.54083657440516,
@@ -54,7 +8,7 @@
       "ETR": "Aug 23, 3:30 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 12:50 a.m.",
+      "LastUpdated": "Aug 23, 1:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -67,6 +21,29 @@
           "ZipCusts": 1835,
           "Region": "southeast wi",
           "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 46.06878602827774,
+      "Longitude": -88.99038183636559,
+      "OffTime": "Aug 23, 1:21 a.m.",
+      "ETR": "Aug 23, 4:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 23, 1:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "phelps",
+          "CityCusts": 2049,
+          "County": "vilas",
+          "CountyCusts": 6268,
+          "Zip": "54554",
+          "ZipCusts": 2046,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41391
         }
       ]
     }
