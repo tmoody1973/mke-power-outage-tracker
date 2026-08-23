@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-08-23T22:17:14+00:00",
+  "captured_at": "2026-08-23T22:45:18+00:00",
   "events": [
     {
       "Latitude": 42.50138134421659,
       "Longitude": -87.88635721612748,
       "OffTime": "Aug 23, 2:47 p.m.",
-      "ETR": "Aug 23, 5:30 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "On site",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 23, 5:10 p.m.",
+      "LastUpdated": "Aug 23, 5:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,69 +25,23 @@
       ]
     },
     {
-      "Latitude": 43.06132099263491,
-      "Longitude": -88.31951980455554,
-      "OffTime": "Aug 23, 4:55 p.m.",
-      "ETR": "Aug 23, 7:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 5:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "pewaukee",
-          "CityCusts": 14881,
-          "County": "waukesha",
-          "CountyCusts": 203500,
-          "Zip": "53072",
-          "ZipCusts": 14945,
-          "Region": "southeast wi",
-          "RegionCusts": 1074154
-        }
-      ]
-    },
-    {
-      "Latitude": 46.025156810862924,
-      "Longitude": -88.39517284312575,
-      "OffTime": "Aug 23, 3:11 p.m.",
-      "ETR": "Aug 23, 6:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 5:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "crystal falls",
-          "CityCusts": 2026,
-          "County": "iron",
-          "CountyCusts": 4270,
-          "Zip": "49920",
-          "ZipCusts": 2029,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41391
-        }
-      ]
-    },
-    {
-      "Latitude": 44.489290725579664,
-      "Longitude": -88.78720493663387,
-      "OffTime": "Aug 23, 1:20 p.m.",
-      "ETR": "Aug 23, 5:30 p.m.",
+      "Latitude": 44.27582722408628,
+      "Longitude": -88.47102886088159,
+      "OffTime": "Aug 23, 5:09 p.m.",
+      "ETR": "Aug 23, 8:00 p.m.",
       "CrewStatus": "Assigned",
-      "Cause": "Pole equipment problem",
-      "LastUpdated": "Aug 23, 5:10 p.m.",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 23, 5:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "manawa",
-          "CityCusts": 204,
-          "County": "waupaca",
-          "CountyCusts": 8903,
-          "Zip": "54949",
-          "ZipCusts": 203,
+          "City": "appleton",
+          "CityCusts": 62952,
+          "County": "outagamie",
+          "CountyCusts": 80154,
+          "Zip": "54913",
+          "ZipCusts": 13930,
           "Region": "fox valley wi",
           "RegionCusts": 143371
         }
