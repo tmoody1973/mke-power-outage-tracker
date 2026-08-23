@@ -1,29 +1,6 @@
 {
-  "captured_at": "2026-08-23T14:14:53+00:00",
+  "captured_at": "2026-08-23T14:42:01+00:00",
   "events": [
-    {
-      "Latitude": 43.03815258244648,
-      "Longitude": -88.12420010257362,
-      "OffTime": "Aug 23, 8:07 a.m.",
-      "ETR": "Aug 23, 11:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 9:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "brookfield",
-          "CityCusts": 23376,
-          "County": "waukesha",
-          "CountyCusts": 203500,
-          "Zip": "53005",
-          "ZipCusts": 11572,
-          "Region": "southeast wi",
-          "RegionCusts": 1074154
-        }
-      ]
-    },
     {
       "Latitude": 43.01647464927288,
       "Longitude": -87.95246850109237,
@@ -31,7 +8,7 @@
       "ETR": "Aug 23, 11:30 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 9:10 a.m.",
+      "LastUpdated": "Aug 23, 9:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,13 +25,82 @@
       ]
     },
     {
+      "Latitude": 43.252742205762026,
+      "Longitude": -88.17154969492685,
+      "OffTime": "Aug 23, 6:47 a.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 23, 9:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "richfield",
+          "CityCusts": 2114,
+          "County": "washington",
+          "CountyCusts": 61671,
+          "Zip": "53076",
+          "ZipCusts": 2096,
+          "Region": "southeast wi",
+          "RegionCusts": 1074154
+        }
+      ]
+    },
+    {
+      "Latitude": 44.489290725579664,
+      "Longitude": -88.78720493663387,
+      "OffTime": "Aug 23, 9:17 a.m.",
+      "ETR": "Aug 23, 12:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 23, 9:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "manawa",
+          "CityCusts": 204,
+          "County": "waupaca",
+          "CountyCusts": 8903,
+          "Zip": "54949",
+          "ZipCusts": 203,
+          "Region": "fox valley wi",
+          "RegionCusts": 143371
+        }
+      ]
+    },
+    {
+      "Latitude": 42.9447685287991,
+      "Longitude": -88.03223308137528,
+      "OffTime": "Aug 23, 8:22 a.m.",
+      "ETR": "Aug 23, 11:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 23, 9:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 46,
+          "City": "hales corners",
+          "CityCusts": 4392,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53130",
+          "ZipCusts": 4395,
+          "Region": "southeast wi",
+          "RegionCusts": 1074154
+        }
+      ]
+    },
+    {
       "Latitude": 43.059687805846785,
       "Longitude": -87.89266856475597,
       "OffTime": "Aug 23, 7:05 a.m.",
       "ETR": "Aug 23, 10:00 a.m.",
       "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 9:10 a.m.",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 23, 9:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -77,7 +123,7 @@
       "ETR": "Aug 23, 11:30 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 9:10 a.m.",
+      "LastUpdated": "Aug 23, 9:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -90,98 +136,6 @@
           "ZipCusts": 3694,
           "Region": "fox valley wi",
           "RegionCusts": 143371
-        }
-      ]
-    },
-    {
-      "Latitude": 43.252742205762026,
-      "Longitude": -88.17154969492685,
-      "OffTime": "Aug 23, 6:47 a.m.",
-      "ETR": "Aug 23, 9:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 9:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "richfield",
-          "CityCusts": 2114,
-          "County": "washington",
-          "CountyCusts": 61671,
-          "Zip": "53076",
-          "ZipCusts": 2096,
-          "Region": "southeast wi",
-          "RegionCusts": 1074154
-        }
-      ]
-    },
-    {
-      "Latitude": 43.10146217075644,
-      "Longitude": -87.91875923084469,
-      "OffTime": "Aug 23, 9:06 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 9:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "glendale",
-          "CityCusts": 3747,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53209",
-          "ZipCusts": 23889,
-          "Region": "southeast wi",
-          "RegionCusts": 1074154
-        }
-      ]
-    },
-    {
-      "Latitude": 42.9447685287991,
-      "Longitude": -88.03223308137528,
-      "OffTime": "Aug 23, 8:22 a.m.",
-      "ETR": "Aug 23, 11:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 9:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 46,
-          "City": "hales corners",
-          "CityCusts": 4392,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53130",
-          "ZipCusts": 4395,
-          "Region": "southeast wi",
-          "RegionCusts": 1074154
-        }
-      ]
-    },
-    {
-      "Latitude": 43.01175026617843,
-      "Longitude": -87.94575773563326,
-      "OffTime": "Aug 23, 9:03 a.m.",
-      "ETR": "Aug 23, 12:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 9:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352187,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53204",
-          "ZipCusts": 17656,
-          "Region": "southeast wi",
-          "RegionCusts": 1074154
         }
       ]
     }
