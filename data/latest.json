@@ -1,26 +1,49 @@
 {
-  "captured_at": "2026-08-23T21:56:55+00:00",
+  "captured_at": "2026-08-23T22:17:14+00:00",
   "events": [
     {
-      "Latitude": 44.489290725579664,
-      "Longitude": -88.78720493663387,
-      "OffTime": "Aug 23, 1:20 p.m.",
+      "Latitude": 42.50138134421659,
+      "Longitude": -87.88635721612748,
+      "OffTime": "Aug 23, 2:47 p.m.",
       "ETR": "Aug 23, 5:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Pole equipment problem",
-      "LastUpdated": "Aug 23, 4:50 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 23, 5:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "manawa",
-          "CityCusts": 204,
-          "County": "waupaca",
-          "CountyCusts": 8903,
-          "Zip": "54949",
-          "ZipCusts": 203,
-          "Region": "fox valley wi",
-          "RegionCusts": 143371
+          "City": "pleasant pr",
+          "CityCusts": 6399,
+          "County": "kenosha",
+          "CountyCusts": 80159,
+          "Zip": "53158",
+          "ZipCusts": 9519,
+          "Region": "southeast wi",
+          "RegionCusts": 1074154
+        }
+      ]
+    },
+    {
+      "Latitude": 43.06132099263491,
+      "Longitude": -88.31951980455554,
+      "OffTime": "Aug 23, 4:55 p.m.",
+      "ETR": "Aug 23, 7:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 23, 5:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "pewaukee",
+          "CityCusts": 14881,
+          "County": "waukesha",
+          "CountyCusts": 203500,
+          "Zip": "53072",
+          "ZipCusts": 14945,
+          "Region": "southeast wi",
+          "RegionCusts": 1074154
         }
       ]
     },
@@ -31,7 +54,7 @@
       "ETR": "Aug 23, 6:00 p.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 4:50 p.m.",
+      "LastUpdated": "Aug 23, 5:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,25 +71,25 @@
       ]
     },
     {
-      "Latitude": 42.50138134421659,
-      "Longitude": -87.88635721612748,
-      "OffTime": "Aug 23, 2:47 p.m.",
+      "Latitude": 44.489290725579664,
+      "Longitude": -88.78720493663387,
+      "OffTime": "Aug 23, 1:20 p.m.",
       "ETR": "Aug 23, 5:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 23, 4:50 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Pole equipment problem",
+      "LastUpdated": "Aug 23, 5:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "pleasant pr",
-          "CityCusts": 6399,
-          "County": "kenosha",
-          "CountyCusts": 80159,
-          "Zip": "53158",
-          "ZipCusts": 9519,
-          "Region": "southeast wi",
-          "RegionCusts": 1074154
+          "City": "manawa",
+          "CityCusts": 204,
+          "County": "waupaca",
+          "CountyCusts": 8903,
+          "Zip": "54949",
+          "ZipCusts": 203,
+          "Region": "fox valley wi",
+          "RegionCusts": 143371
         }
       ]
     }
