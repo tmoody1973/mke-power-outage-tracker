@@ -1,68 +1,47 @@
 {
-  "captured_at": "2026-08-23T11:57:31+00:00",
+  "captured_at": "2026-08-23T12:34:24+00:00",
   "events": [
     {
-      "Latitude": 43.225924360670895,
-      "Longitude": -88.62713923046125,
-      "OffTime": "Aug 23, 1:57 a.m.",
-      "ETR": "Aug 23, 7:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Vehicle accident",
-      "LastUpdated": "Aug 23, 6:50 a.m.",
+      "Latitude": 43.056005022006694,
+      "Longitude": -87.8890593806796,
+      "OffTime": "Aug 23, 7:23 a.m.",
+      "ETR": "Aug 23, 10:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 23, 7:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 81,
-          "City": "ixonia",
-          "CityCusts": 1834,
-          "County": "dodge",
-          "CountyCusts": 17211,
-          "Zip": "53036",
-          "ZipCusts": 1835,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        },
-        {
           "AffectedCusts": 1,
-          "City": "oconomowoc",
-          "CityCusts": 8559,
-          "County": "dodge",
-          "CountyCusts": 17211,
-          "Zip": "53066",
-          "ZipCusts": 8884,
+          "City": "milwaukee",
+          "CityCusts": 352186,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53202",
+          "ZipCusts": 22388,
           "Region": "southeast wi",
           "RegionCusts": 1074153
-        },
+        }
+      ]
+    },
+    {
+      "Latitude": 43.059687805846785,
+      "Longitude": -87.89266856475597,
+      "OffTime": "Aug 23, 7:05 a.m.",
+      "ETR": "Aug 23, 10:00 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 23, 7:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
         {
-          "AffectedCusts": 98,
-          "City": "watertown",
-          "CityCusts": 16249,
-          "County": "dodge",
-          "CountyCusts": 17211,
-          "Zip": "53098",
-          "ZipCusts": 6055,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        },
-        {
-          "AffectedCusts": 3,
-          "City": "ixonia",
-          "CityCusts": 1834,
-          "County": "jefferson",
-          "CountyCusts": 35186,
-          "Zip": "53036",
-          "ZipCusts": 1835,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "lebanon",
-          "CityCusts": 126,
-          "County": "dodge",
-          "CountyCusts": 17211,
-          "Zip": "53047",
-          "ZipCusts": 121,
+          "AffectedCusts": 83,
+          "City": "milwaukee",
+          "CityCusts": 352186,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53202",
+          "ZipCusts": 22388,
           "Region": "southeast wi",
           "RegionCusts": 1074153
         }
@@ -75,7 +54,7 @@
       "ETR": "Aug 23, 9:30 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 6:50 a.m.",
+      "LastUpdated": "Aug 23, 7:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -92,13 +71,59 @@
       ]
     },
     {
-      "Latitude": 43.252742205762026,
-      "Longitude": -88.17154969492685,
-      "OffTime": "Aug 23, 6:47 a.m.",
+      "Latitude": 44.27059310143279,
+      "Longitude": -88.44114315107942,
+      "OffTime": "Aug 23, 7:14 a.m.",
+      "ETR": "Aug 23, 10:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 23, 7:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62952,
+          "County": "outagamie",
+          "CountyCusts": 80154,
+          "Zip": "54914",
+          "ZipCusts": 16306,
+          "Region": "fox valley wi",
+          "RegionCusts": 143371
+        }
+      ]
+    },
+    {
+      "Latitude": 42.71216421726282,
+      "Longitude": -87.80562438416636,
+      "OffTime": "Aug 23, 7:28 a.m.",
       "ETR": "Not yet determined",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 6:50 a.m.",
+      "LastUpdated": "Aug 23, 7:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 58964,
+          "County": "racine",
+          "CountyCusts": 102529,
+          "Zip": "53403",
+          "ZipCusts": 14384,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 43.252742205762026,
+      "Longitude": -88.17154969492685,
+      "OffTime": "Aug 23, 6:47 a.m.",
+      "ETR": "Aug 23, 9:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 23, 7:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
