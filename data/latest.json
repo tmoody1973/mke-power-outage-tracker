@@ -1,83 +1,14 @@
 {
-  "captured_at": "2026-08-23T12:34:24+00:00",
+  "captured_at": "2026-08-23T13:18:42+00:00",
   "events": [
-    {
-      "Latitude": 43.056005022006694,
-      "Longitude": -87.8890593806796,
-      "OffTime": "Aug 23, 7:23 a.m.",
-      "ETR": "Aug 23, 10:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 7:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352186,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53202",
-          "ZipCusts": 22388,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
-      "Latitude": 43.059687805846785,
-      "Longitude": -87.89266856475597,
-      "OffTime": "Aug 23, 7:05 a.m.",
-      "ETR": "Aug 23, 10:00 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 7:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 83,
-          "City": "milwaukee",
-          "CityCusts": 352186,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53202",
-          "ZipCusts": 22388,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
-      "Latitude": 42.90411595670204,
-      "Longitude": -88.14739504118376,
-      "OffTime": "Aug 23, 6:35 a.m.",
-      "ETR": "Aug 23, 9:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 7:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 99,
-          "City": "muskego",
-          "CityCusts": 12258,
-          "County": "waukesha",
-          "CountyCusts": 203500,
-          "Zip": "53150",
-          "ZipCusts": 12258,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
     {
       "Latitude": 44.27059310143279,
       "Longitude": -88.44114315107942,
       "OffTime": "Aug 23, 7:14 a.m.",
       "ETR": "Aug 23, 10:00 a.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 7:30 a.m.",
+      "LastUpdated": "Aug 23, 8:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -94,36 +25,13 @@
       ]
     },
     {
-      "Latitude": 42.71216421726282,
-      "Longitude": -87.80562438416636,
-      "OffTime": "Aug 23, 7:28 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 7:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 58964,
-          "County": "racine",
-          "CountyCusts": 102529,
-          "Zip": "53403",
-          "ZipCusts": 14384,
-          "Region": "southeast wi",
-          "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
       "Latitude": 43.252742205762026,
       "Longitude": -88.17154969492685,
       "OffTime": "Aug 23, 6:47 a.m.",
       "ETR": "Aug 23, 9:30 a.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 7:30 a.m.",
+      "LastUpdated": "Aug 23, 8:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -134,6 +42,98 @@
           "CountyCusts": 61671,
           "Zip": "53076",
           "ZipCusts": 2096,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 43.03815258244648,
+      "Longitude": -88.12420010257362,
+      "OffTime": "Aug 23, 8:07 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 23, 8:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "brookfield",
+          "CityCusts": 23376,
+          "County": "waukesha",
+          "CountyCusts": 203500,
+          "Zip": "53005",
+          "ZipCusts": 11572,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 43.056005022006694,
+      "Longitude": -87.8890593806796,
+      "OffTime": "Aug 23, 7:23 a.m.",
+      "ETR": "Aug 23, 10:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 23, 8:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352186,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53202",
+          "ZipCusts": 22388,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 42.90411595670204,
+      "Longitude": -88.14739504118376,
+      "OffTime": "Aug 23, 6:35 a.m.",
+      "ETR": "Aug 23, 9:30 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Squirrel contact with equipment",
+      "LastUpdated": "Aug 23, 8:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 99,
+          "City": "muskego",
+          "CityCusts": 12258,
+          "County": "waukesha",
+          "CountyCusts": 203500,
+          "Zip": "53150",
+          "ZipCusts": 12258,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        }
+      ]
+    },
+    {
+      "Latitude": 43.059687805846785,
+      "Longitude": -87.89266856475597,
+      "OffTime": "Aug 23, 7:05 a.m.",
+      "ETR": "Aug 23, 10:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 23, 8:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 83,
+          "City": "milwaukee",
+          "CityCusts": 352186,
+          "County": "milwaukee",
+          "CountyCusts": 479860,
+          "Zip": "53202",
+          "ZipCusts": 22388,
           "Region": "southeast wi",
           "RegionCusts": 1074153
         }
