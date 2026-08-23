@@ -1,24 +1,68 @@
 {
-  "captured_at": "2026-08-23T06:48:08+00:00",
+  "captured_at": "2026-08-23T07:26:00+00:00",
   "events": [
     {
-      "Latitude": 43.22205100562142,
-      "Longitude": -88.54083657440516,
+      "Latitude": 43.225919651593664,
+      "Longitude": -88.62704698365239,
       "OffTime": "Aug 23, 12:30 a.m.",
-      "ETR": "Aug 23, 3:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 1:40 a.m.",
+      "ETR": "Aug 23, 5:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Aug 23, 2:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
+          "AffectedCusts": 98,
+          "City": "watertown",
+          "CityCusts": 16249,
+          "County": "dodge",
+          "CountyCusts": 17211,
+          "Zip": "53098",
+          "ZipCusts": 6055,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        },
+        {
           "AffectedCusts": 1,
+          "City": "lebanon",
+          "CityCusts": 126,
+          "County": "dodge",
+          "CountyCusts": 17211,
+          "Zip": "53047",
+          "ZipCusts": 121,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        },
+        {
+          "AffectedCusts": 3,
+          "City": "ixonia",
+          "CityCusts": 1834,
+          "County": "jefferson",
+          "CountyCusts": 35186,
+          "Zip": "53036",
+          "ZipCusts": 1835,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        },
+        {
+          "AffectedCusts": 81,
           "City": "ixonia",
           "CityCusts": 1834,
           "County": "dodge",
           "CountyCusts": 17211,
           "Zip": "53036",
           "ZipCusts": 1835,
+          "Region": "southeast wi",
+          "RegionCusts": 1074153
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "oconomowoc",
+          "CityCusts": 8559,
+          "County": "dodge",
+          "CountyCusts": 17211,
+          "Zip": "53066",
+          "ZipCusts": 8884,
           "Region": "southeast wi",
           "RegionCusts": 1074153
         }
@@ -29,9 +73,9 @@
       "Longitude": -88.99038183636559,
       "OffTime": "Aug 23, 1:21 a.m.",
       "ETR": "Aug 23, 4:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 1:40 a.m.",
+      "LastUpdated": "Aug 23, 2:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
