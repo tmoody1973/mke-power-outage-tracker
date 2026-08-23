@@ -1,6 +1,29 @@
 {
-  "captured_at": "2026-08-23T04:59:07+00:00",
+  "captured_at": "2026-08-23T05:30:44+00:00",
   "events": [
+    {
+      "Latitude": 44.33392236013147,
+      "Longitude": -88.3748091172969,
+      "OffTime": "Aug 22, 7:34 p.m.",
+      "ETR": "Aug 23, 1:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Transformer problem",
+      "LastUpdated": "Aug 23, 12:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62952,
+          "County": "outagamie",
+          "CountyCusts": 80154,
+          "Zip": "54913",
+          "ZipCusts": 13930,
+          "Region": "fox valley wi",
+          "RegionCusts": 143371
+        }
+      ]
+    },
     {
       "Latitude": 42.584551947202264,
       "Longitude": -87.83804790883211,
@@ -8,7 +31,7 @@
       "ETR": "Aug 23, 2:00 a.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 11:50 p.m.",
+      "LastUpdated": "Aug 23, 12:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -31,7 +54,7 @@
       "ETR": "Aug 23, 1:00 a.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 11:50 p.m.",
+      "LastUpdated": "Aug 23, 12:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -44,29 +67,6 @@
           "ZipCusts": 17656,
           "Region": "southeast wi",
           "RegionCusts": 1074153
-        }
-      ]
-    },
-    {
-      "Latitude": 44.33392236013147,
-      "Longitude": -88.3748091172969,
-      "OffTime": "Aug 22, 7:34 p.m.",
-      "ETR": "Aug 23, 1:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Aug 22, 11:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62952,
-          "County": "outagamie",
-          "CountyCusts": 80154,
-          "Zip": "54913",
-          "ZipCusts": 13930,
-          "Region": "fox valley wi",
-          "RegionCusts": 143371
         }
       ]
     }
