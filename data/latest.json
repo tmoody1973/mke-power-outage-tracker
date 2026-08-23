@@ -1,29 +1,6 @@
 {
-  "captured_at": "2026-08-23T22:45:18+00:00",
+  "captured_at": "2026-08-23T23:12:13+00:00",
   "events": [
-    {
-      "Latitude": 42.50138134421659,
-      "Longitude": -87.88635721612748,
-      "OffTime": "Aug 23, 2:47 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 23, 5:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "pleasant pr",
-          "CityCusts": 6399,
-          "County": "kenosha",
-          "CountyCusts": 80159,
-          "Zip": "53158",
-          "ZipCusts": 9519,
-          "Region": "southeast wi",
-          "RegionCusts": 1074154
-        }
-      ]
-    },
     {
       "Latitude": 44.27582722408628,
       "Longitude": -88.47102886088159,
@@ -31,7 +8,7 @@
       "ETR": "Aug 23, 8:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 5:40 p.m.",
+      "LastUpdated": "Aug 23, 6:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -44,6 +21,29 @@
           "ZipCusts": 13930,
           "Region": "fox valley wi",
           "RegionCusts": 143371
+        }
+      ]
+    },
+    {
+      "Latitude": 42.634593887391965,
+      "Longitude": -88.23883429706945,
+      "OffTime": "Aug 23, 5:39 p.m.",
+      "ETR": "Aug 23, 8:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 23, 6:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "burlington",
+          "CityCusts": 15553,
+          "County": "racine",
+          "CountyCusts": 102529,
+          "Zip": "53105",
+          "ZipCusts": 15595,
+          "Region": "southeast wi",
+          "RegionCusts": 1074154
         }
       ]
     }
