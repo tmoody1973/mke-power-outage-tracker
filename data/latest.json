@@ -1,14 +1,60 @@
 {
-  "captured_at": "2026-08-23T02:36:21+00:00",
+  "captured_at": "2026-08-23T03:34:04+00:00",
   "events": [
+    {
+      "Latitude": 44.3335957906533,
+      "Longitude": -88.37482566477455,
+      "OffTime": "Aug 22, 6:32 p.m.",
+      "ETR": "Aug 23, 2:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 22, 10:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62952,
+          "County": "outagamie",
+          "CountyCusts": 80154,
+          "Zip": "54913",
+          "ZipCusts": 13930,
+          "Region": "fox valley wi",
+          "RegionCusts": 143371
+        }
+      ]
+    },
+    {
+      "Latitude": 44.23986175127481,
+      "Longitude": -88.40344088751496,
+      "OffTime": "Aug 22, 3:56 p.m.",
+      "ETR": "Aug 23, 1:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Aug 22, 10:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 29,
+          "City": "appleton",
+          "CityCusts": 62952,
+          "County": "calumet",
+          "CountyCusts": 14457,
+          "Zip": "54915",
+          "ZipCusts": 20158,
+          "Region": "fox valley wi",
+          "RegionCusts": 143371
+        }
+      ]
+    },
     {
       "Latitude": 44.287009848213806,
       "Longitude": -88.63714620164231,
       "OffTime": "Aug 22, 6:51 p.m.",
-      "ETR": "Aug 22, 11:15 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 9:30 p.m.",
+      "Cause": "Facilities patrolled - no problems found",
+      "LastUpdated": "Aug 22, 10:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -28,10 +74,10 @@
       "Latitude": 44.33392236013147,
       "Longitude": -88.3748091172969,
       "OffTime": "Aug 22, 7:34 p.m.",
-      "ETR": "Aug 22, 10:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 9:30 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Assigned",
+      "Cause": "Transformer problem",
+      "LastUpdated": "Aug 22, 10:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -51,14 +97,14 @@
       "Latitude": 43.13938532014067,
       "Longitude": -88.00381657863993,
       "OffTime": "Aug 22, 3:00 p.m.",
-      "ETR": "Aug 23, 12:00 a.m.",
+      "ETR": "Aug 23, 1:00 a.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Third-party damage",
-      "LastUpdated": "Aug 22, 9:30 p.m.",
+      "LastUpdated": "Aug 22, 10:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 140,
+          "AffectedCusts": 142,
           "City": "milwaukee",
           "CityCusts": 352186,
           "County": "milwaukee",
@@ -82,59 +128,13 @@
       ]
     },
     {
-      "Latitude": 44.23986175127481,
-      "Longitude": -88.40344088751496,
-      "OffTime": "Aug 22, 3:56 p.m.",
-      "ETR": "Aug 23, 1:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 22, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 29,
-          "City": "appleton",
-          "CityCusts": 62952,
-          "County": "calumet",
-          "CountyCusts": 14457,
-          "Zip": "54915",
-          "ZipCusts": 20158,
-          "Region": "fox valley wi",
-          "RegionCusts": 143371
-        }
-      ]
-    },
-    {
-      "Latitude": 44.3335957906533,
-      "Longitude": -88.37482566477455,
-      "OffTime": "Aug 22, 6:32 p.m.",
-      "ETR": "Aug 22, 11:15 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62952,
-          "County": "outagamie",
-          "CountyCusts": 80154,
-          "Zip": "54913",
-          "ZipCusts": 13930,
-          "Region": "fox valley wi",
-          "RegionCusts": 143371
-        }
-      ]
-    },
-    {
       "Latitude": 43.026743716519164,
       "Longitude": -87.92136982851802,
-      "OffTime": "Aug 22, 8:38 p.m.",
-      "ETR": "Aug 22, 11:30 p.m.",
-      "CrewStatus": "On site",
+      "OffTime": "Aug 22, 9:59 p.m.",
+      "ETR": "Aug 23, 1:00 a.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 22, 9:30 p.m.",
+      "LastUpdated": "Aug 22, 10:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
