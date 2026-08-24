@@ -1,14 +1,106 @@
 {
-  "captured_at": "2026-08-24T19:25:55+00:00",
+  "captured_at": "2026-08-24T19:52:25+00:00",
   "events": [
     {
-      "Latitude": 43.01558301428371,
-      "Longitude": -87.94432427343666,
-      "OffTime": "Aug 24, 2:04 p.m.",
+      "Latitude": 42.57505579710203,
+      "Longitude": -88.25660563877332,
+      "OffTime": "Aug 24, 2:12 p.m.",
       "ETR": "Aug 24, 5:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 24, 2:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "burlington",
+          "CityCusts": 15554,
+          "County": "kenosha",
+          "CountyCusts": 80163,
+          "Zip": "53105",
+          "ZipCusts": 15596,
+          "Region": "southeast wi",
+          "RegionCusts": 1074335
+        }
+      ]
+    },
+    {
+      "Latitude": 43.03500640960564,
+      "Longitude": -88.06218112155983,
+      "OffTime": "Aug 24, 2:43 p.m.",
+      "ETR": "Aug 24, 5:30 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 24, 2:20 p.m.",
+      "LastUpdated": "Aug 24, 2:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352239,
+          "County": "milwaukee",
+          "CountyCusts": 480011,
+          "Zip": "53226",
+          "ZipCusts": 11015,
+          "Region": "southeast wi",
+          "RegionCusts": 1074335
+        }
+      ]
+    },
+    {
+      "Latitude": 42.93763389996581,
+      "Longitude": -87.9777360069705,
+      "OffTime": "Aug 24, 2:41 p.m.",
+      "ETR": "Aug 24, 5:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 24, 2:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 27,
+          "City": "greendale",
+          "CityCusts": 7127,
+          "County": "milwaukee",
+          "CountyCusts": 480011,
+          "Zip": "53129",
+          "ZipCusts": 7126,
+          "Region": "southeast wi",
+          "RegionCusts": 1074335
+        }
+      ]
+    },
+    {
+      "Latitude": 44.71830765582997,
+      "Longitude": -88.37353641589844,
+      "OffTime": "Aug 24, 4:45 a.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 24, 2:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "bonduel",
+          "CityCusts": 2055,
+          "County": "shawano",
+          "CountyCusts": 8370,
+          "Zip": "54107",
+          "ZipCusts": 2059,
+          "Region": "fox valley wi",
+          "RegionCusts": 143380
+        }
+      ]
+    },
+    {
+      "Latitude": 43.007453611691794,
+      "Longitude": -87.92894684639033,
+      "OffTime": "Aug 24, 11:23 a.m.",
+      "ETR": "Aug 24, 3:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 24, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -31,7 +123,7 @@
       "ETR": "Aug 24, 5:00 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 24, 2:20 p.m.",
+      "LastUpdated": "Aug 24, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,13 +140,13 @@
       ]
     },
     {
-      "Latitude": 43.007453611691794,
-      "Longitude": -87.92894684639033,
-      "OffTime": "Aug 24, 11:23 a.m.",
-      "ETR": "Aug 24, 3:30 p.m.",
-      "CrewStatus": "On the way",
+      "Latitude": 43.01558301428371,
+      "Longitude": -87.94432427343666,
+      "OffTime": "Aug 24, 2:04 p.m.",
+      "ETR": "Aug 24, 5:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 24, 2:20 p.m.",
+      "LastUpdated": "Aug 24, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -71,105 +163,13 @@
       ]
     },
     {
-      "Latitude": 44.71830765582997,
-      "Longitude": -88.37353641589844,
-      "OffTime": "Aug 24, 4:45 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 24, 2:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "bonduel",
-          "CityCusts": 2055,
-          "County": "shawano",
-          "CountyCusts": 8370,
-          "Zip": "54107",
-          "ZipCusts": 2059,
-          "Region": "fox valley wi",
-          "RegionCusts": 143380
-        }
-      ]
-    },
-    {
-      "Latitude": 42.57505579710203,
-      "Longitude": -88.25660563877332,
-      "OffTime": "Aug 24, 2:12 p.m.",
-      "ETR": "Aug 24, 5:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 24, 2:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "burlington",
-          "CityCusts": 15554,
-          "County": "kenosha",
-          "CountyCusts": 80163,
-          "Zip": "53105",
-          "ZipCusts": 15596,
-          "Region": "southeast wi",
-          "RegionCusts": 1074335
-        }
-      ]
-    },
-    {
-      "Latitude": 43.12728116923504,
-      "Longitude": -87.9221471205572,
-      "OffTime": "Aug 24, 1:46 p.m.",
-      "ETR": "Aug 24, 4:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 24, 2:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352239,
-          "County": "milwaukee",
-          "CountyCusts": 480011,
-          "Zip": "53217",
-          "ZipCusts": 15176,
-          "Region": "southeast wi",
-          "RegionCusts": 1074335
-        }
-      ]
-    },
-    {
-      "Latitude": 43.06673516505183,
-      "Longitude": -87.93570187585169,
-      "OffTime": "Aug 24, 1:54 p.m.",
-      "ETR": "Aug 24, 4:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Aug 24, 2:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352239,
-          "County": "milwaukee",
-          "CountyCusts": 480011,
-          "Zip": "53206",
-          "ZipCusts": 10794,
-          "Region": "southeast wi",
-          "RegionCusts": 1074335
-        }
-      ]
-    },
-    {
       "Latitude": 42.57865271970511,
       "Longitude": -88.2563799018144,
       "OffTime": "Aug 24, 2:12 p.m.",
       "ETR": "Aug 24, 5:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 24, 2:20 p.m.",
+      "LastUpdated": "Aug 24, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
