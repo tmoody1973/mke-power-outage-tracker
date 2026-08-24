@@ -1,26 +1,26 @@
 {
-  "captured_at": "2026-08-24T11:18:42+00:00",
+  "captured_at": "2026-08-24T11:50:46+00:00",
   "events": [
     {
-      "Latitude": 44.71344014392551,
-      "Longitude": -88.37183458623102,
-      "OffTime": "Aug 24, 4:45 a.m.",
-      "ETR": "Aug 24, 7:30 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 24, 6:10 a.m.",
+      "Latitude": 43.221476433377696,
+      "Longitude": -87.99641624737201,
+      "OffTime": "Aug 24, 3:23 a.m.",
+      "ETR": "Aug 24, 9:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Transformer problem",
+      "LastUpdated": "Aug 24, 6:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "bonduel",
-          "CityCusts": 2055,
-          "County": "shawano",
-          "CountyCusts": 8370,
-          "Zip": "54107",
-          "ZipCusts": 2059,
-          "Region": "fox valley wi",
-          "RegionCusts": 143380
+          "AffectedCusts": 2,
+          "City": "mequon",
+          "CityCusts": 12358,
+          "County": "ozaukee",
+          "CountyCusts": 42626,
+          "Zip": "53092",
+          "ZipCusts": 11526,
+          "Region": "southeast wi",
+          "RegionCusts": 1074335
         }
       ]
     },
@@ -29,9 +29,9 @@
       "Longitude": -88.27102366930077,
       "OffTime": "Aug 24, 5:44 a.m.",
       "ETR": "Aug 24, 8:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 24, 6:10 a.m.",
+      "LastUpdated": "Aug 24, 6:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,25 +48,25 @@
       ]
     },
     {
-      "Latitude": 43.221476433377696,
-      "Longitude": -87.99641624737201,
-      "OffTime": "Aug 24, 3:23 a.m.",
-      "ETR": "Aug 24, 9:00 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Aug 24, 6:10 a.m.",
+      "Latitude": 44.71344014392551,
+      "Longitude": -88.37183458623102,
+      "OffTime": "Aug 24, 4:45 a.m.",
+      "ETR": "Aug 24, 7:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 24, 6:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 2,
-          "City": "mequon",
-          "CityCusts": 12358,
-          "County": "ozaukee",
-          "CountyCusts": 42626,
-          "Zip": "53092",
-          "ZipCusts": 11526,
-          "Region": "southeast wi",
-          "RegionCusts": 1074335
+          "AffectedCusts": 1,
+          "City": "bonduel",
+          "CityCusts": 2055,
+          "County": "shawano",
+          "CountyCusts": 8370,
+          "Zip": "54107",
+          "ZipCusts": 2059,
+          "Region": "fox valley wi",
+          "RegionCusts": 143380
         }
       ]
     }
