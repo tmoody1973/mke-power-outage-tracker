@@ -1,37 +1,14 @@
 {
-  "captured_at": "2026-08-24T02:17:23+00:00",
+  "captured_at": "2026-08-24T03:29:23+00:00",
   "events": [
-    {
-      "Latitude": 42.75277338394334,
-      "Longitude": -88.22910625151077,
-      "OffTime": "Aug 23, 8:49 p.m.",
-      "ETR": "Aug 23, 11:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 9:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 4,
-          "City": "waterford",
-          "CityCusts": 7621,
-          "County": "racine",
-          "CountyCusts": 102529,
-          "Zip": "53185",
-          "ZipCusts": 9925,
-          "Region": "southeast wi",
-          "RegionCusts": 1074155
-        }
-      ]
-    },
     {
       "Latitude": 43.1193931141469,
       "Longitude": -88.10191810599265,
       "OffTime": "Aug 23, 7:49 p.m.",
       "ETR": "Aug 23, 10:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Aug 23, 9:10 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Transformer problem",
+      "LastUpdated": "Aug 23, 10:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,57 +25,23 @@
       ]
     },
     {
-      "Latitude": 43.03718420316089,
-      "Longitude": -87.98291915683156,
-      "OffTime": "Aug 23, 7:43 p.m.",
-      "ETR": "Aug 23, 10:30 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 42.75277338394334,
+      "Longitude": -88.22910625151077,
+      "OffTime": "Aug 23, 8:49 p.m.",
+      "ETR": "Aug 23, 11:30 p.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 9:10 p.m.",
+      "LastUpdated": "Aug 23, 10:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 4,
-          "City": "milwaukee",
-          "CityCusts": 352188,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53208",
-          "ZipCusts": 15437,
-          "Region": "southeast wi",
-          "RegionCusts": 1074155
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352188,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53213",
-          "ZipCusts": 13819,
-          "Region": "southeast wi",
-          "RegionCusts": 1074155
-        }
-      ]
-    },
-    {
-      "Latitude": 43.09032024275344,
-      "Longitude": -87.96334718104278,
-      "OffTime": "Aug 23, 8:09 p.m.",
-      "ETR": "Aug 23, 11:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 9:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 9,
-          "City": "milwaukee",
-          "CityCusts": 352188,
-          "County": "milwaukee",
-          "CountyCusts": 479860,
-          "Zip": "53216",
-          "ZipCusts": 14833,
+          "City": "waterford",
+          "CityCusts": 7621,
+          "County": "racine",
+          "CountyCusts": 102529,
+          "Zip": "53185",
+          "ZipCusts": 9925,
           "Region": "southeast wi",
           "RegionCusts": 1074155
         }
@@ -109,9 +52,9 @@
       "Longitude": -88.31951980455554,
       "OffTime": "Aug 23, 8:59 p.m.",
       "ETR": "Aug 24, 12:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 23, 9:10 p.m.",
+      "LastUpdated": "Aug 23, 10:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
