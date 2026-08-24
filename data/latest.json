@@ -1,6 +1,52 @@
 {
-  "captured_at": "2026-08-24T11:50:46+00:00",
+  "captured_at": "2026-08-24T12:29:23+00:00",
   "events": [
+    {
+      "Latitude": 43.09061138405242,
+      "Longitude": -87.9516140201138,
+      "OffTime": "Aug 24, 6:54 a.m.",
+      "ETR": "Aug 24, 9:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 24, 7:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352239,
+          "County": "milwaukee",
+          "CountyCusts": 480011,
+          "Zip": "53216",
+          "ZipCusts": 14837,
+          "Region": "southeast wi",
+          "RegionCusts": 1074335
+        }
+      ]
+    },
+    {
+      "Latitude": 44.74287139868686,
+      "Longitude": -88.59275535773453,
+      "OffTime": "Aug 24, 7:12 a.m.",
+      "ETR": "Aug 24, 10:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 24, 7:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "shawano",
+          "CityCusts": 2991,
+          "County": "shawano",
+          "CountyCusts": 8370,
+          "Zip": "54166",
+          "ZipCusts": 2991,
+          "Region": "fox valley wi",
+          "RegionCusts": 143380
+        }
+      ]
+    },
     {
       "Latitude": 43.221476433377696,
       "Longitude": -87.99641624737201,
@@ -8,7 +54,7 @@
       "ETR": "Aug 24, 9:00 a.m.",
       "CrewStatus": "On site",
       "Cause": "Transformer problem",
-      "LastUpdated": "Aug 24, 6:40 a.m.",
+      "LastUpdated": "Aug 24, 7:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,13 +71,59 @@
       ]
     },
     {
-      "Latitude": 44.47329707130744,
-      "Longitude": -88.27102366930077,
-      "OffTime": "Aug 24, 5:44 a.m.",
-      "ETR": "Aug 24, 8:30 a.m.",
+      "Latitude": 43.11906471500987,
+      "Longitude": -87.90360148369588,
+      "OffTime": "Aug 24, 7:10 a.m.",
+      "ETR": "Aug 24, 10:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 24, 7:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "whitefish bay",
+          "CityCusts": 1792,
+          "County": "milwaukee",
+          "CountyCusts": 480011,
+          "Zip": "53217",
+          "ZipCusts": 15176,
+          "Region": "southeast wi",
+          "RegionCusts": 1074335
+        }
+      ]
+    },
+    {
+      "Latitude": 44.71344014392551,
+      "Longitude": -88.37183458623102,
+      "OffTime": "Aug 24, 4:45 a.m.",
+      "ETR": "Aug 24, 10:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 24, 7:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "bonduel",
+          "CityCusts": 2055,
+          "County": "shawano",
+          "CountyCusts": 8370,
+          "Zip": "54107",
+          "ZipCusts": 2059,
+          "Region": "fox valley wi",
+          "RegionCusts": 143380
+        }
+      ]
+    },
+    {
+      "Latitude": 44.47204600617523,
+      "Longitude": -88.30666819886108,
+      "OffTime": "Aug 24, 6:44 a.m.",
+      "ETR": "Aug 24, 9:30 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 24, 6:40 a.m.",
+      "LastUpdated": "Aug 24, 7:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,23 +140,23 @@
       ]
     },
     {
-      "Latitude": 44.71344014392551,
-      "Longitude": -88.37183458623102,
-      "OffTime": "Aug 24, 4:45 a.m.",
-      "ETR": "Aug 24, 7:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 24, 6:40 a.m.",
+      "Latitude": 44.47329707130744,
+      "Longitude": -88.27102366930077,
+      "OffTime": "Aug 24, 5:44 a.m.",
+      "ETR": "Aug 24, 8:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 24, 7:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "bonduel",
-          "CityCusts": 2055,
-          "County": "shawano",
-          "CountyCusts": 8370,
-          "Zip": "54107",
-          "ZipCusts": 2059,
+          "City": "seymour",
+          "CityCusts": 3959,
+          "County": "outagamie",
+          "CountyCusts": 80160,
+          "Zip": "54165",
+          "ZipCusts": 3979,
           "Region": "fox valley wi",
           "RegionCusts": 143380
         }
