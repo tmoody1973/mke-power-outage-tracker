@@ -1,4 +1,28 @@
 {
-  "captured_at": "2026-08-24T08:26:12+00:00",
-  "events": []
+  "captured_at": "2026-08-24T09:11:52+00:00",
+  "events": [
+    {
+      "Latitude": 43.221476433377696,
+      "Longitude": -87.99641624737201,
+      "OffTime": "Aug 24, 3:23 a.m.",
+      "ETR": "Aug 24, 6:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 24, 4:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "mequon",
+          "CityCusts": 12358,
+          "County": "ozaukee",
+          "CountyCusts": 42626,
+          "Zip": "53092",
+          "ZipCusts": 11526,
+          "Region": "southeast wi",
+          "RegionCusts": 1074155
+        }
+      ]
+    }
+  ]
 }
