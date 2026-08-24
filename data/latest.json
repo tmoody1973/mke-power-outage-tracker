@@ -1,37 +1,14 @@
 {
-  "captured_at": "2026-08-24T04:21:26+00:00",
+  "captured_at": "2026-08-24T05:09:05+00:00",
   "events": [
-    {
-      "Latitude": 42.75277338394334,
-      "Longitude": -88.22910625151077,
-      "OffTime": "Aug 23, 8:49 p.m.",
-      "ETR": "Aug 23, 11:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Wildlife contact with equipment",
-      "LastUpdated": "Aug 23, 11:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 4,
-          "City": "waterford",
-          "CityCusts": 7621,
-          "County": "racine",
-          "CountyCusts": 102529,
-          "Zip": "53185",
-          "ZipCusts": 9925,
-          "Region": "southeast wi",
-          "RegionCusts": 1074155
-        }
-      ]
-    },
     {
       "Latitude": 43.1193931141469,
       "Longitude": -88.10191810599265,
       "OffTime": "Aug 23, 7:49 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Assigned",
+      "ETR": "Aug 24, 1:00 a.m.",
+      "CrewStatus": "On site",
       "Cause": "Transformer problem",
-      "LastUpdated": "Aug 23, 11:20 p.m.",
+      "LastUpdated": "Aug 24, 12:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -42,6 +19,29 @@
           "CountyCusts": 203500,
           "Zip": "53051",
           "ZipCusts": 21576,
+          "Region": "southeast wi",
+          "RegionCusts": 1074155
+        }
+      ]
+    },
+    {
+      "Latitude": 42.75277338394334,
+      "Longitude": -88.22910625151077,
+      "OffTime": "Aug 23, 8:49 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "On site",
+      "Cause": "Wildlife contact with equipment",
+      "LastUpdated": "Aug 24, 12:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 4,
+          "City": "waterford",
+          "CityCusts": 7621,
+          "County": "racine",
+          "CountyCusts": 102529,
+          "Zip": "53185",
+          "ZipCusts": 9925,
           "Region": "southeast wi",
           "RegionCusts": 1074155
         }
