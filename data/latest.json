@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-08-24T10:02:30+00:00",
+  "captured_at": "2026-08-24T10:51:20+00:00",
   "events": [
     {
       "Latitude": 43.221476433377696,
       "Longitude": -87.99641624737201,
       "OffTime": "Aug 24, 3:23 a.m.",
-      "ETR": "Aug 24, 6:00 a.m.",
-      "CrewStatus": "Assigned",
+      "ETR": "Aug 24, 9:00 a.m.",
+      "CrewStatus": "On the way",
       "Cause": "Transformer problem",
-      "LastUpdated": "Aug 24, 5:00 a.m.",
+      "LastUpdated": "Aug 24, 5:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -20,7 +20,7 @@
           "Zip": "53092",
           "ZipCusts": 11526,
           "Region": "southeast wi",
-          "RegionCusts": 1074155
+          "RegionCusts": 1074335
         }
       ]
     },
@@ -29,9 +29,9 @@
       "Longitude": -88.37183458623102,
       "OffTime": "Aug 24, 4:45 a.m.",
       "ETR": "Aug 24, 7:30 a.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 24, 5:00 a.m.",
+      "LastUpdated": "Aug 24, 5:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -39,11 +39,34 @@
           "City": "bonduel",
           "CityCusts": 2055,
           "County": "shawano",
-          "CountyCusts": 8367,
+          "CountyCusts": 8370,
           "Zip": "54107",
           "ZipCusts": 2059,
           "Region": "fox valley wi",
-          "RegionCusts": 143371
+          "RegionCusts": 143380
+        }
+      ]
+    },
+    {
+      "Latitude": 44.47329707130744,
+      "Longitude": -88.27102366930077,
+      "OffTime": "Aug 24, 5:44 a.m.",
+      "ETR": "Aug 24, 8:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 24, 5:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "seymour",
+          "CityCusts": 3959,
+          "County": "outagamie",
+          "CountyCusts": 80160,
+          "Zip": "54165",
+          "ZipCusts": 3979,
+          "Region": "fox valley wi",
+          "RegionCusts": 143380
         }
       ]
     }
