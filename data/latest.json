@@ -1,24 +1,47 @@
 {
-  "captured_at": "2026-08-24T12:29:23+00:00",
+  "captured_at": "2026-08-24T13:31:00+00:00",
   "events": [
     {
-      "Latitude": 43.09061138405242,
-      "Longitude": -87.9516140201138,
-      "OffTime": "Aug 24, 6:54 a.m.",
-      "ETR": "Aug 24, 9:30 a.m.",
-      "CrewStatus": "On site",
+      "Latitude": 42.95993636140866,
+      "Longitude": -87.93071727423516,
+      "OffTime": "Aug 24, 8:26 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 24, 7:20 a.m.",
+      "LastUpdated": "Aug 24, 8:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
+          "AffectedCusts": 6,
           "City": "milwaukee",
           "CityCusts": 352239,
           "County": "milwaukee",
           "CountyCusts": 480011,
-          "Zip": "53216",
-          "ZipCusts": 14837,
+          "Zip": "53221",
+          "ZipCusts": 18460,
+          "Region": "southeast wi",
+          "RegionCusts": 1074335
+        }
+      ]
+    },
+    {
+      "Latitude": 43.0474564730574,
+      "Longitude": -88.46432093640263,
+      "OffTime": "Aug 24, 8:15 a.m.",
+      "ETR": "Aug 24, 11:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 24, 8:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "oconomowoc",
+          "CityCusts": 8560,
+          "County": "waukesha",
+          "CountyCusts": 203508,
+          "Zip": "53066",
+          "ZipCusts": 8885,
           "Region": "southeast wi",
           "RegionCusts": 1074335
         }
@@ -29,9 +52,9 @@
       "Longitude": -88.59275535773453,
       "OffTime": "Aug 24, 7:12 a.m.",
       "ETR": "Aug 24, 10:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "CrewStatus": "Specialized crew needed",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 24, 7:20 a.m.",
+      "LastUpdated": "Aug 24, 8:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,36 +71,13 @@
       ]
     },
     {
-      "Latitude": 43.221476433377696,
-      "Longitude": -87.99641624737201,
-      "OffTime": "Aug 24, 3:23 a.m.",
-      "ETR": "Aug 24, 9:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Aug 24, 7:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "mequon",
-          "CityCusts": 12358,
-          "County": "ozaukee",
-          "CountyCusts": 42626,
-          "Zip": "53092",
-          "ZipCusts": 11526,
-          "Region": "southeast wi",
-          "RegionCusts": 1074335
-        }
-      ]
-    },
-    {
       "Latitude": 43.11906471500987,
       "Longitude": -87.90360148369588,
       "OffTime": "Aug 24, 7:10 a.m.",
       "ETR": "Aug 24, 10:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 24, 7:20 a.m.",
+      "LastUpdated": "Aug 24, 8:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -94,13 +94,82 @@
       ]
     },
     {
-      "Latitude": 44.71344014392551,
-      "Longitude": -88.37183458623102,
+      "Latitude": 44.24710528752038,
+      "Longitude": -88.43004553078538,
+      "OffTime": "Aug 24, 7:21 a.m.",
+      "ETR": "Aug 24, 10:00 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 24, 8:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 11,
+          "City": "appleton",
+          "CityCusts": 62954,
+          "County": "outagamie",
+          "CountyCusts": 80160,
+          "Zip": "54914",
+          "ZipCusts": 16307,
+          "Region": "fox valley wi",
+          "RegionCusts": 143380
+        }
+      ]
+    },
+    {
+      "Latitude": 43.221476433377696,
+      "Longitude": -87.99641624737201,
+      "OffTime": "Aug 24, 3:23 a.m.",
+      "ETR": "Aug 24, 9:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Transformer problem",
+      "LastUpdated": "Aug 24, 8:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "mequon",
+          "CityCusts": 12358,
+          "County": "ozaukee",
+          "CountyCusts": 42626,
+          "Zip": "53092",
+          "ZipCusts": 11526,
+          "Region": "southeast wi",
+          "RegionCusts": 1074335
+        }
+      ]
+    },
+    {
+      "Latitude": 42.5410021275492,
+      "Longitude": -87.82892548352172,
+      "OffTime": "Aug 24, 8:22 a.m.",
+      "ETR": "Aug 24, 11:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 24, 8:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 10,
+          "City": "kenosha",
+          "CityCusts": 54309,
+          "County": "kenosha",
+          "CountyCusts": 80163,
+          "Zip": "53143",
+          "ZipCusts": 10243,
+          "Region": "southeast wi",
+          "RegionCusts": 1074335
+        }
+      ]
+    },
+    {
+      "Latitude": 44.71830765582997,
+      "Longitude": -88.37353641589844,
       "OffTime": "Aug 24, 4:45 a.m.",
       "ETR": "Aug 24, 10:30 a.m.",
       "CrewStatus": "On site",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 24, 7:20 a.m.",
+      "LastUpdated": "Aug 24, 8:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -117,48 +186,71 @@
       ]
     },
     {
-      "Latitude": 44.47204600617523,
-      "Longitude": -88.30666819886108,
-      "OffTime": "Aug 24, 6:44 a.m.",
-      "ETR": "Aug 24, 9:30 a.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 44.16722092332016,
+      "Longitude": -88.51168293036564,
+      "OffTime": "Aug 24, 8:17 a.m.",
+      "ETR": "Aug 24, 11:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 24, 7:20 a.m.",
+      "LastUpdated": "Aug 24, 8:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "seymour",
-          "CityCusts": 3959,
-          "County": "outagamie",
-          "CountyCusts": 80160,
-          "Zip": "54165",
-          "ZipCusts": 3979,
+          "AffectedCusts": 2,
+          "City": "neenah",
+          "CityCusts": 21387,
+          "County": "winnebago",
+          "CountyCusts": 27738,
+          "Zip": "54956",
+          "ZipCusts": 21381,
           "Region": "fox valley wi",
           "RegionCusts": 143380
         }
       ]
     },
     {
-      "Latitude": 44.47329707130744,
-      "Longitude": -88.27102366930077,
-      "OffTime": "Aug 24, 5:44 a.m.",
-      "ETR": "Aug 24, 8:30 a.m.",
+      "Latitude": 46.04214996507682,
+      "Longitude": -88.50673995615566,
+      "OffTime": "Aug 24, 7:22 a.m.",
+      "ETR": "Aug 24, 10:00 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 24, 7:20 a.m.",
+      "LastUpdated": "Aug 24, 8:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 5,
+          "City": "crystal falls",
+          "CityCusts": 2026,
+          "County": "iron",
+          "CountyCusts": 4270,
+          "Zip": "49920",
+          "ZipCusts": 2029,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41395
+        }
+      ]
+    },
+    {
+      "Latitude": 43.01691678189092,
+      "Longitude": -88.22268345598722,
+      "OffTime": "Aug 24, 8:26 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 24, 8:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "seymour",
-          "CityCusts": 3959,
-          "County": "outagamie",
-          "CountyCusts": 80160,
-          "Zip": "54165",
-          "ZipCusts": 3979,
-          "Region": "fox valley wi",
-          "RegionCusts": 143380
+          "City": "waukesha",
+          "CityCusts": 48444,
+          "County": "waukesha",
+          "CountyCusts": 203508,
+          "Zip": "53186",
+          "ZipCusts": 17761,
+          "Region": "southeast wi",
+          "RegionCusts": 1074335
         }
       ]
     }
