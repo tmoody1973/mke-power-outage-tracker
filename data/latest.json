@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-25T15:59:08+00:00",
+  "captured_at": "2026-08-25T16:39:04+00:00",
   "events": [
     {
       "Latitude": 42.59310642416844,
@@ -8,7 +8,7 @@
       "ETR": "Aug 25, 1:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 10:50 a.m.",
+      "LastUpdated": "Aug 25, 11:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -29,9 +29,9 @@
       "Longitude": -88.15574829931062,
       "OffTime": "Aug 25, 10:23 a.m.",
       "ETR": "Aug 25, 1:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 10:50 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Aug 25, 11:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,34 +48,57 @@
       ]
     },
     {
-      "Latitude": 43.07665068033739,
-      "Longitude": -88.05097333283996,
-      "OffTime": "Aug 25, 7:08 a.m.",
-      "ETR": "Aug 25, 11:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Aug 25, 10:50 a.m.",
+      "Latitude": 42.99720504846111,
+      "Longitude": -88.00814227018016,
+      "OffTime": "Aug 25, 11:18 a.m.",
+      "ETR": "Aug 25, 2:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 25, 11:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 2,
-          "City": "milwaukee",
-          "CityCusts": 352253,
+          "AffectedCusts": 28,
+          "City": "west allis",
+          "CityCusts": 15161,
           "County": "milwaukee",
           "CountyCusts": 480039,
-          "Zip": "53222",
-          "ZipCusts": 13596,
+          "Zip": "53219",
+          "ZipCusts": 17487,
           "Region": "southeast wi",
           "RegionCusts": 1074366
         },
         {
           "AffectedCusts": 4,
-          "City": "wauwatosa",
-          "CityCusts": 10605,
+          "City": "milwaukee",
+          "CityCusts": 352253,
           "County": "milwaukee",
           "CountyCusts": 480039,
-          "Zip": "53222",
-          "ZipCusts": 13596,
+          "Zip": "53219",
+          "ZipCusts": 17487,
+          "Region": "southeast wi",
+          "RegionCusts": 1074366
+        }
+      ]
+    },
+    {
+      "Latitude": 43.062589878506024,
+      "Longitude": -87.94072133074309,
+      "OffTime": "Aug 25, 11:16 a.m.",
+      "ETR": "Aug 25, 2:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 25, 11:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 5,
+          "City": "milwaukee",
+          "CityCusts": 352253,
+          "County": "milwaukee",
+          "CountyCusts": 480039,
+          "Zip": "53206",
+          "ZipCusts": 10795,
           "Region": "southeast wi",
           "RegionCusts": 1074366
         }
