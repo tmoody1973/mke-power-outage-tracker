@@ -1,49 +1,26 @@
 {
-  "captured_at": "2026-08-24T23:58:18+00:00",
+  "captured_at": "2026-08-25T01:14:11+00:00",
   "events": [
     {
-      "Latitude": 42.971973669547566,
-      "Longitude": -87.99822727172341,
-      "OffTime": "Aug 24, 5:01 p.m.",
-      "ETR": "Aug 24, 8:00 p.m.",
+      "Latitude": 44.575816392330786,
+      "Longitude": -88.8482957390059,
+      "OffTime": "Aug 24, 7:15 p.m.",
+      "ETR": "Aug 24, 10:00 p.m.",
       "CrewStatus": "On the way",
-      "Cause": "Balloons",
-      "LastUpdated": "Aug 24, 6:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 7,
-          "City": "milwaukee",
-          "CityCusts": 352239,
-          "County": "milwaukee",
-          "CountyCusts": 480011,
-          "Zip": "53220",
-          "ZipCusts": 13709,
-          "Region": "southeast wi",
-          "RegionCusts": 1074335
-        }
-      ]
-    },
-    {
-      "Latitude": 42.993692644032286,
-      "Longitude": -87.98675925468253,
-      "OffTime": "Aug 24, 3:34 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 24, 6:50 p.m.",
+      "LastUpdated": "Aug 24, 8:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352239,
-          "County": "milwaukee",
-          "CountyCusts": 480011,
-          "Zip": "53219",
-          "ZipCusts": 17488,
-          "Region": "southeast wi",
-          "RegionCusts": 1074335
+          "AffectedCusts": 22,
+          "City": "clintonville",
+          "CityCusts": 495,
+          "County": "waupaca",
+          "CountyCusts": 8903,
+          "Zip": "54929",
+          "ZipCusts": 497,
+          "Region": "fox valley wi",
+          "RegionCusts": 143380
         }
       ]
     },
@@ -51,10 +28,10 @@
       "Latitude": 42.972389304722356,
       "Longitude": -87.90584065809057,
       "OffTime": "Aug 24, 2:56 p.m.",
-      "ETR": "Aug 24, 7:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 24, 6:50 p.m.",
+      "ETR": "Aug 24, 9:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Aug 24, 8:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -74,10 +51,10 @@
       "Latitude": 42.57485066482581,
       "Longitude": -88.25697323454584,
       "OffTime": "Aug 24, 2:12 p.m.",
-      "ETR": "Aug 24, 8:00 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "Assigned",
       "Cause": "Third-party damage",
-      "LastUpdated": "Aug 24, 6:50 p.m.",
+      "LastUpdated": "Aug 24, 8:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -94,46 +71,23 @@
       ]
     },
     {
-      "Latitude": 43.06277929718095,
-      "Longitude": -87.93210380268796,
-      "OffTime": "Aug 24, 5:17 p.m.",
-      "ETR": "Aug 24, 8:00 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 43.015716013911536,
+      "Longitude": -88.11589831470403,
+      "OffTime": "Aug 24, 7:43 p.m.",
+      "ETR": "Aug 24, 10:30 p.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 24, 6:50 p.m.",
+      "LastUpdated": "Aug 24, 8:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352239,
-          "County": "milwaukee",
-          "CountyCusts": 480011,
-          "Zip": "53206",
-          "ZipCusts": 10794,
-          "Region": "southeast wi",
-          "RegionCusts": 1074335
-        }
-      ]
-    },
-    {
-      "Latitude": 43.09737120809924,
-      "Longitude": -87.93529313379094,
-      "OffTime": "Aug 24, 3:36 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Aug 24, 6:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352239,
-          "County": "milwaukee",
-          "CountyCusts": 480011,
-          "Zip": "53209",
-          "ZipCusts": 23993,
+          "City": "new berlin",
+          "CityCusts": 20463,
+          "County": "waukesha",
+          "CountyCusts": 203508,
+          "Zip": "53151",
+          "ZipCusts": 16756,
           "Region": "southeast wi",
           "RegionCusts": 1074335
         }
