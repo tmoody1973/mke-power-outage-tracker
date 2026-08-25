@@ -1,4 +1,28 @@
 {
-  "captured_at": "2026-08-25T04:08:56+00:00",
-  "events": []
+  "captured_at": "2026-08-25T04:51:06+00:00",
+  "events": [
+    {
+      "Latitude": 43.099203885556356,
+      "Longitude": -87.91801983535476,
+      "OffTime": "Aug 24, 11:07 p.m.",
+      "ETR": "Aug 25, 2:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Aug 24, 11:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 9,
+          "City": "milwaukee",
+          "CityCusts": 352239,
+          "County": "milwaukee",
+          "CountyCusts": 480011,
+          "Zip": "53212",
+          "ZipCusts": 17010,
+          "Region": "southeast wi",
+          "RegionCusts": 1074335
+        }
+      ]
+    }
+  ]
 }
