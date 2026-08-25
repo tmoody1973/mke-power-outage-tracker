@@ -1,92 +1,24 @@
 {
-  "captured_at": "2026-08-25T13:29:16+00:00",
+  "captured_at": "2026-08-25T14:20:24+00:00",
   "events": [
     {
-      "Latitude": 42.6546449875869,
-      "Longitude": -87.92163329009327,
-      "OffTime": "Aug 25, 7:22 a.m.",
-      "ETR": "Aug 25, 10:00 a.m.",
+      "Latitude": 42.875424592178945,
+      "Longitude": -88.31412551485242,
+      "OffTime": "Aug 25, 9:10 a.m.",
+      "ETR": "Aug 25, 12:00 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 8:20 a.m.",
+      "LastUpdated": "Aug 25, 9:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 4,
-          "City": "kenosha",
-          "CityCusts": 54309,
-          "County": "kenosha",
-          "CountyCusts": 80163,
-          "Zip": "53144",
-          "ZipCusts": 14032,
-          "Region": "southeast wi",
-          "RegionCusts": 1074366
-        }
-      ]
-    },
-    {
-      "Latitude": 44.32890560625277,
-      "Longitude": -88.34389189683992,
-      "OffTime": "Aug 25, 7:05 a.m.",
-      "ETR": "Aug 25, 10:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Wildlife contact with equipment",
-      "LastUpdated": "Aug 25, 8:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 24,
-          "City": "freedom",
-          "CityCusts": 1099,
-          "County": "outagamie",
-          "CountyCusts": 80166,
-          "Zip": "54913",
-          "ZipCusts": 13931,
-          "Region": "fox valley wi",
-          "RegionCusts": 143388
-        },
-        {
-          "AffectedCusts": 55,
-          "City": "appleton",
-          "CityCusts": 62955,
-          "County": "outagamie",
-          "CountyCusts": 80166,
-          "Zip": "54913",
-          "ZipCusts": 13931,
-          "Region": "fox valley wi",
-          "RegionCusts": 143388
-        }
-      ]
-    },
-    {
-      "Latitude": 43.07665068033739,
-      "Longitude": -88.05097333283996,
-      "OffTime": "Aug 25, 7:14 a.m.",
-      "ETR": "Aug 25, 10:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 8:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 4,
-          "City": "wauwatosa",
-          "CityCusts": 10605,
-          "County": "milwaukee",
-          "CountyCusts": 480039,
-          "Zip": "53222",
-          "ZipCusts": 13596,
-          "Region": "southeast wi",
-          "RegionCusts": 1074366
-        },
-        {
-          "AffectedCusts": 2,
-          "City": "milwaukee",
-          "CityCusts": 352253,
-          "County": "milwaukee",
-          "CountyCusts": 480039,
-          "Zip": "53222",
-          "ZipCusts": 13596,
+          "AffectedCusts": 1,
+          "City": "mukwonago",
+          "CityCusts": 9890,
+          "County": "waukesha",
+          "CountyCusts": 203512,
+          "Zip": "53149",
+          "ZipCusts": 9906,
           "Region": "southeast wi",
           "RegionCusts": 1074366
         }
@@ -97,9 +29,9 @@
       "Longitude": -88.22670208840778,
       "OffTime": "Aug 25, 7:56 a.m.",
       "ETR": "Aug 25, 10:30 a.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 8:20 a.m.",
+      "LastUpdated": "Aug 25, 9:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -112,6 +44,86 @@
           "ZipCusts": 2763,
           "Region": "fox valley wi",
           "RegionCusts": 143388
+        }
+      ]
+    },
+    {
+      "Latitude": 43.07665068033739,
+      "Longitude": -88.05097333283996,
+      "OffTime": "Aug 25, 7:08 a.m.",
+      "ETR": "Aug 25, 10:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "We Energies overhead line problem",
+      "LastUpdated": "Aug 25, 9:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "milwaukee",
+          "CityCusts": 352253,
+          "County": "milwaukee",
+          "CountyCusts": 480039,
+          "Zip": "53222",
+          "ZipCusts": 13596,
+          "Region": "southeast wi",
+          "RegionCusts": 1074366
+        },
+        {
+          "AffectedCusts": 4,
+          "City": "wauwatosa",
+          "CityCusts": 10605,
+          "County": "milwaukee",
+          "CountyCusts": 480039,
+          "Zip": "53222",
+          "ZipCusts": 13596,
+          "Region": "southeast wi",
+          "RegionCusts": 1074366
+        }
+      ]
+    },
+    {
+      "Latitude": 43.14530711501322,
+      "Longitude": -88.02949347200607,
+      "OffTime": "Aug 25, 8:26 a.m.",
+      "ETR": "Aug 25, 11:00 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 25, 9:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352253,
+          "County": "milwaukee",
+          "CountyCusts": 480039,
+          "Zip": "53224",
+          "ZipCusts": 9526,
+          "Region": "southeast wi",
+          "RegionCusts": 1074366
+        }
+      ]
+    },
+    {
+      "Latitude": 42.96988264563746,
+      "Longitude": -88.0136694009812,
+      "OffTime": "Aug 25, 9:14 a.m.",
+      "ETR": "Aug 25, 12:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 25, 9:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352253,
+          "County": "milwaukee",
+          "CountyCusts": 480039,
+          "Zip": "53220",
+          "ZipCusts": 13709,
+          "Region": "southeast wi",
+          "RegionCusts": 1074366
         }
       ]
     }
