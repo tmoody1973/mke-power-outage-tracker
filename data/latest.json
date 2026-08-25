@@ -1,14 +1,37 @@
 {
-  "captured_at": "2026-08-25T22:28:44+00:00",
+  "captured_at": "2026-08-25T22:55:41+00:00",
   "events": [
+    {
+      "Latitude": 43.050175223081574,
+      "Longitude": -87.90029987581963,
+      "OffTime": "Aug 25, 5:43 p.m.",
+      "ETR": "Aug 25, 8:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 25, 5:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352253,
+          "County": "milwaukee",
+          "CountyCusts": 480039,
+          "Zip": "53202",
+          "ZipCusts": 22386,
+          "Region": "southeast wi",
+          "RegionCusts": 1074366
+        }
+      ]
+    },
     {
       "Latitude": 42.89100953746056,
       "Longitude": -87.96862568959843,
       "OffTime": "Aug 25, 12:36 p.m.",
-      "ETR": "Aug 25, 5:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Aug 25, 5:20 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Damage from third-party tree trimmer",
+      "LastUpdated": "Aug 25, 5:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,128 +48,13 @@
       ]
     },
     {
-      "Latitude": 43.112787814176905,
-      "Longitude": -87.97940949356857,
-      "OffTime": "Aug 25, 5:04 p.m.",
-      "ETR": "Aug 25, 8:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 5:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352253,
-          "County": "milwaukee",
-          "CountyCusts": 480039,
-          "Zip": "53218",
-          "ZipCusts": 17055,
-          "Region": "southeast wi",
-          "RegionCusts": 1074366
-        }
-      ]
-    },
-    {
-      "Latitude": 43.080374461597785,
-      "Longitude": -88.11351713516106,
-      "OffTime": "Aug 25, 4:54 p.m.",
-      "ETR": "Aug 25, 7:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 5:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "brookfield",
-          "CityCusts": 23377,
-          "County": "waukesha",
-          "CountyCusts": 203512,
-          "Zip": "53005",
-          "ZipCusts": 11572,
-          "Region": "southeast wi",
-          "RegionCusts": 1074366
-        }
-      ]
-    },
-    {
-      "Latitude": 43.13609511209501,
-      "Longitude": -88.19603193987969,
-      "OffTime": "Aug 25, 4:23 p.m.",
-      "ETR": "Aug 25, 7:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 5:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "sussex",
-          "CityCusts": 9896,
-          "County": "waukesha",
-          "CountyCusts": 203512,
-          "Zip": "53089",
-          "ZipCusts": 10046,
-          "Region": "southeast wi",
-          "RegionCusts": 1074366
-        }
-      ]
-    },
-    {
-      "Latitude": 42.92163453663752,
-      "Longitude": -88.08108447507195,
-      "OffTime": "Aug 25, 4:29 p.m.",
-      "ETR": "Aug 25, 7:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 5:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 6,
-          "City": "muskego",
-          "CityCusts": 12258,
-          "County": "waukesha",
-          "CountyCusts": 203512,
-          "Zip": "53150",
-          "ZipCusts": 12258,
-          "Region": "southeast wi",
-          "RegionCusts": 1074366
-        }
-      ]
-    },
-    {
-      "Latitude": 43.070686140845915,
-      "Longitude": -87.8997272770625,
-      "OffTime": "Aug 25, 4:18 p.m.",
-      "ETR": "Aug 25, 7:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 5:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352253,
-          "County": "milwaukee",
-          "CountyCusts": 480039,
-          "Zip": "53212",
-          "ZipCusts": 17011,
-          "Region": "southeast wi",
-          "RegionCusts": 1074366
-        }
-      ]
-    },
-    {
       "Latitude": 44.34076702672326,
       "Longitude": -88.67599817771469,
       "OffTime": "Aug 25, 4:23 p.m.",
       "ETR": "Aug 25, 7:00 p.m.",
-      "CrewStatus": "On the way",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 5:20 p.m.",
+      "LastUpdated": "Aug 25, 5:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -166,10 +74,10 @@
       "Latitude": 44.43089975613299,
       "Longitude": -88.41288605998227,
       "OffTime": "Aug 25, 2:42 p.m.",
-      "ETR": "Aug 25, 5:30 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "",
-      "LastUpdated": "Aug 25, 5:20 p.m.",
+      "ETR": "Aug 25, 9:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Vehicle accident",
+      "LastUpdated": "Aug 25, 5:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -182,6 +90,29 @@
           "ZipCusts": 2434,
           "Region": "fox valley wi",
           "RegionCusts": 143388
+        }
+      ]
+    },
+    {
+      "Latitude": 43.13609511209501,
+      "Longitude": -88.19603193987969,
+      "OffTime": "Aug 25, 4:23 p.m.",
+      "ETR": "Aug 25, 7:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Aug 25, 5:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "sussex",
+          "CityCusts": 9896,
+          "County": "waukesha",
+          "CountyCusts": 203512,
+          "Zip": "53089",
+          "ZipCusts": 10046,
+          "Region": "southeast wi",
+          "RegionCusts": 1074366
         }
       ]
     }
