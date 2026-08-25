@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-25T23:18:32+00:00",
+  "captured_at": "2026-08-25T23:46:02+00:00",
   "events": [
     {
       "Latitude": 42.89100953746056,
@@ -8,7 +8,7 @@
       "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Damage from third-party tree trimmer",
-      "LastUpdated": "Aug 25, 6:10 p.m.",
+      "LastUpdated": "Aug 25, 6:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,13 +25,13 @@
       ]
     },
     {
-      "Latitude": 43.06339426073095,
-      "Longitude": -87.88496925862415,
-      "OffTime": "Aug 25, 6:05 p.m.",
-      "ETR": "Not yet determined",
+      "Latitude": 43.1245146741296,
+      "Longitude": -88.06120855862073,
+      "OffTime": "Aug 25, 6:34 p.m.",
+      "ETR": "Aug 25, 9:30 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 6:10 p.m.",
+      "LastUpdated": "Aug 25, 6:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -40,10 +40,79 @@
           "CityCusts": 352253,
           "County": "milwaukee",
           "CountyCusts": 480039,
-          "Zip": "53211",
-          "ZipCusts": 18155,
+          "Zip": "53225",
+          "ZipCusts": 12037,
           "Region": "southeast wi",
           "RegionCusts": 1074366
+        }
+      ]
+    },
+    {
+      "Latitude": 45.765529790738626,
+      "Longitude": -87.97535119444072,
+      "OffTime": "Aug 25, 6:37 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 25, 6:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 4,
+          "City": "niagara",
+          "CityCusts": 2257,
+          "County": "marinette",
+          "CountyCusts": 1616,
+          "Zip": "54151",
+          "ZipCusts": 2266,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41397
+        }
+      ]
+    },
+    {
+      "Latitude": 43.13521627471713,
+      "Longitude": -88.19460571003795,
+      "OffTime": "Aug 25, 4:23 p.m.",
+      "ETR": "Aug 25, 7:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 25, 6:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 6,
+          "City": "sussex",
+          "CityCusts": 9896,
+          "County": "waukesha",
+          "CountyCusts": 203512,
+          "Zip": "53089",
+          "ZipCusts": 10046,
+          "Region": "southeast wi",
+          "RegionCusts": 1074366
+        }
+      ]
+    },
+    {
+      "Latitude": 46.05123393590835,
+      "Longitude": -89.25754335881741,
+      "OffTime": "Aug 25, 6:27 p.m.",
+      "ETR": "Aug 25, 9:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 25, 6:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "conover",
+          "CityCusts": 2091,
+          "County": "vilas",
+          "CountyCusts": 6268,
+          "Zip": "54519",
+          "ZipCusts": 2091,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41397
         }
       ]
     },
@@ -54,7 +123,7 @@
       "ETR": "Aug 25, 9:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Vehicle accident",
-      "LastUpdated": "Aug 25, 6:10 p.m.",
+      "LastUpdated": "Aug 25, 6:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -65,29 +134,6 @@
           "CountyCusts": 80166,
           "Zip": "54106",
           "ZipCusts": 2434,
-          "Region": "fox valley wi",
-          "RegionCusts": 143388
-        }
-      ]
-    },
-    {
-      "Latitude": 44.34076702672326,
-      "Longitude": -88.67599817771469,
-      "OffTime": "Aug 25, 4:23 p.m.",
-      "ETR": "Aug 25, 7:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 6:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "hortonville",
-          "CityCusts": 4668,
-          "County": "outagamie",
-          "CountyCusts": 80166,
-          "Zip": "54944",
-          "ZipCusts": 4674,
           "Region": "fox valley wi",
           "RegionCusts": 143388
         }
