@@ -1,14 +1,82 @@
 {
-  "captured_at": "2026-08-25T11:51:40+00:00",
+  "captured_at": "2026-08-25T12:29:56+00:00",
   "events": [
+    {
+      "Latitude": 44.32890560625277,
+      "Longitude": -88.34389189683992,
+      "OffTime": "Aug 25, 7:05 a.m.",
+      "ETR": "Aug 25, 10:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 25, 7:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 55,
+          "City": "appleton",
+          "CityCusts": 62955,
+          "County": "outagamie",
+          "CountyCusts": 80166,
+          "Zip": "54913",
+          "ZipCusts": 13931,
+          "Region": "fox valley wi",
+          "RegionCusts": 143388
+        },
+        {
+          "AffectedCusts": 24,
+          "City": "freedom",
+          "CityCusts": 1099,
+          "County": "outagamie",
+          "CountyCusts": 80166,
+          "Zip": "54913",
+          "ZipCusts": 13931,
+          "Region": "fox valley wi",
+          "RegionCusts": 143388
+        }
+      ]
+    },
+    {
+      "Latitude": 43.07602186723842,
+      "Longitude": -88.05122051099937,
+      "OffTime": "Aug 25, 7:08 a.m.",
+      "ETR": "Aug 25, 10:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 25, 7:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 4,
+          "City": "wauwatosa",
+          "CityCusts": 10605,
+          "County": "milwaukee",
+          "CountyCusts": 480039,
+          "Zip": "53222",
+          "ZipCusts": 13596,
+          "Region": "southeast wi",
+          "RegionCusts": 1074366
+        },
+        {
+          "AffectedCusts": 2,
+          "City": "milwaukee",
+          "CityCusts": 352253,
+          "County": "milwaukee",
+          "CountyCusts": 480039,
+          "Zip": "53222",
+          "ZipCusts": 13596,
+          "Region": "southeast wi",
+          "RegionCusts": 1074366
+        }
+      ]
+    },
     {
       "Latitude": 43.099203885556356,
       "Longitude": -87.91801983535476,
       "OffTime": "Aug 25, 6:31 a.m.",
       "ETR": "Aug 25, 9:30 a.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 6:50 a.m.",
+      "LastUpdated": "Aug 25, 7:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,46 +93,23 @@
       ]
     },
     {
-      "Latitude": 43.16359941698372,
-      "Longitude": -88.03177522387419,
-      "OffTime": "Aug 25, 6:30 a.m.",
-      "ETR": "Aug 25, 9:30 a.m.",
+      "Latitude": 43.076649351380404,
+      "Longitude": -88.05174109206779,
+      "OffTime": "Aug 25, 7:14 a.m.",
+      "ETR": "Aug 25, 10:00 a.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 6:50 a.m.",
+      "LastUpdated": "Aug 25, 7:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352253,
+          "City": "wauwatosa",
+          "CityCusts": 10605,
           "County": "milwaukee",
           "CountyCusts": 480039,
-          "Zip": "53224",
-          "ZipCusts": 9526,
-          "Region": "southeast wi",
-          "RegionCusts": 1074366
-        }
-      ]
-    },
-    {
-      "Latitude": 43.11935128092896,
-      "Longitude": -88.0191547229547,
-      "OffTime": "Aug 25, 6:42 a.m.",
-      "ETR": "Aug 25, 9:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 6:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352253,
-          "County": "milwaukee",
-          "CountyCusts": 480039,
-          "Zip": "53225",
-          "ZipCusts": 12037,
+          "Zip": "53222",
+          "ZipCusts": 13596,
           "Region": "southeast wi",
           "RegionCusts": 1074366
         }
