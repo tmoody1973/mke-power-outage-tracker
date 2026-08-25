@@ -1,6 +1,29 @@
 {
-  "captured_at": "2026-08-25T04:51:06+00:00",
+  "captured_at": "2026-08-25T05:23:52+00:00",
   "events": [
+    {
+      "Latitude": 42.79722875499978,
+      "Longitude": -87.79102768463619,
+      "OffTime": "Aug 25, 12:00 a.m.",
+      "ETR": "Aug 25, 3:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 25, 12:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 58977,
+          "County": "racine",
+          "CountyCusts": 102543,
+          "Zip": "53402",
+          "ZipCusts": 16001,
+          "Region": "southeast wi",
+          "RegionCusts": 1074335
+        }
+      ]
+    },
     {
       "Latitude": 43.099203885556356,
       "Longitude": -87.91801983535476,
@@ -8,7 +31,7 @@
       "ETR": "Aug 25, 2:00 a.m.",
       "CrewStatus": "On site",
       "Cause": "We Energies equipment problem",
-      "LastUpdated": "Aug 24, 11:50 p.m.",
+      "LastUpdated": "Aug 25, 12:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
