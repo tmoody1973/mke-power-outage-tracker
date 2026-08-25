@@ -1,27 +1,39 @@
 {
-  "captured_at": "2026-08-25T12:29:56+00:00",
+  "captured_at": "2026-08-25T13:29:16+00:00",
   "events": [
+    {
+      "Latitude": 42.6546449875869,
+      "Longitude": -87.92163329009327,
+      "OffTime": "Aug 25, 7:22 a.m.",
+      "ETR": "Aug 25, 10:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 25, 8:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 4,
+          "City": "kenosha",
+          "CityCusts": 54309,
+          "County": "kenosha",
+          "CountyCusts": 80163,
+          "Zip": "53144",
+          "ZipCusts": 14032,
+          "Region": "southeast wi",
+          "RegionCusts": 1074366
+        }
+      ]
+    },
     {
       "Latitude": 44.32890560625277,
       "Longitude": -88.34389189683992,
       "OffTime": "Aug 25, 7:05 a.m.",
       "ETR": "Aug 25, 10:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 7:20 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Wildlife contact with equipment",
+      "LastUpdated": "Aug 25, 8:20 a.m.",
       "IsGlobal": false,
       "Slices": [
-        {
-          "AffectedCusts": 55,
-          "City": "appleton",
-          "CityCusts": 62955,
-          "County": "outagamie",
-          "CountyCusts": 80166,
-          "Zip": "54913",
-          "ZipCusts": 13931,
-          "Region": "fox valley wi",
-          "RegionCusts": 143388
-        },
         {
           "AffectedCusts": 24,
           "City": "freedom",
@@ -32,17 +44,28 @@
           "ZipCusts": 13931,
           "Region": "fox valley wi",
           "RegionCusts": 143388
+        },
+        {
+          "AffectedCusts": 55,
+          "City": "appleton",
+          "CityCusts": 62955,
+          "County": "outagamie",
+          "CountyCusts": 80166,
+          "Zip": "54913",
+          "ZipCusts": 13931,
+          "Region": "fox valley wi",
+          "RegionCusts": 143388
         }
       ]
     },
     {
-      "Latitude": 43.07602186723842,
-      "Longitude": -88.05122051099937,
-      "OffTime": "Aug 25, 7:08 a.m.",
+      "Latitude": 43.07665068033739,
+      "Longitude": -88.05097333283996,
+      "OffTime": "Aug 25, 7:14 a.m.",
       "ETR": "Aug 25, 10:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 7:20 a.m.",
+      "LastUpdated": "Aug 25, 8:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -70,48 +93,25 @@
       ]
     },
     {
-      "Latitude": 43.099203885556356,
-      "Longitude": -87.91801983535476,
-      "OffTime": "Aug 25, 6:31 a.m.",
-      "ETR": "Aug 25, 9:30 a.m.",
-      "CrewStatus": "On the way",
+      "Latitude": 44.66555793341242,
+      "Longitude": -88.22670208840778,
+      "OffTime": "Aug 25, 7:56 a.m.",
+      "ETR": "Aug 25, 10:30 a.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 7:20 a.m.",
+      "LastUpdated": "Aug 25, 8:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352253,
-          "County": "milwaukee",
-          "CountyCusts": 480039,
-          "Zip": "53212",
-          "ZipCusts": 17011,
-          "Region": "southeast wi",
-          "RegionCusts": 1074366
-        }
-      ]
-    },
-    {
-      "Latitude": 43.076649351380404,
-      "Longitude": -88.05174109206779,
-      "OffTime": "Aug 25, 7:14 a.m.",
-      "ETR": "Aug 25, 10:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 7:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "wauwatosa",
-          "CityCusts": 10605,
-          "County": "milwaukee",
-          "CountyCusts": 480039,
-          "Zip": "53222",
-          "ZipCusts": 13596,
-          "Region": "southeast wi",
-          "RegionCusts": 1074366
+          "AffectedCusts": 2,
+          "City": "pulaski",
+          "CityCusts": 2762,
+          "County": "brown",
+          "CountyCusts": 1901,
+          "Zip": "54162",
+          "ZipCusts": 2763,
+          "Region": "fox valley wi",
+          "RegionCusts": 143388
         }
       ]
     }
