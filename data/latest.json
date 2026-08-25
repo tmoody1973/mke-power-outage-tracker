@@ -1,52 +1,6 @@
 {
-  "captured_at": "2026-08-25T21:41:15+00:00",
+  "captured_at": "2026-08-25T21:58:55+00:00",
   "events": [
-    {
-      "Latitude": 43.070686140845915,
-      "Longitude": -87.8997272770625,
-      "OffTime": "Aug 25, 4:18 p.m.",
-      "ETR": "Aug 25, 7:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 4:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352253,
-          "County": "milwaukee",
-          "CountyCusts": 480039,
-          "Zip": "53212",
-          "ZipCusts": 17011,
-          "Region": "southeast wi",
-          "RegionCusts": 1074366
-        }
-      ]
-    },
-    {
-      "Latitude": 43.13609511209501,
-      "Longitude": -88.19603193987969,
-      "OffTime": "Aug 25, 4:23 p.m.",
-      "ETR": "Aug 25, 7:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 4:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "sussex",
-          "CityCusts": 9896,
-          "County": "waukesha",
-          "CountyCusts": 203512,
-          "Zip": "53089",
-          "ZipCusts": 10046,
-          "Region": "southeast wi",
-          "RegionCusts": 1074366
-        }
-      ]
-    },
     {
       "Latitude": 42.89100953746056,
       "Longitude": -87.96862568959843,
@@ -54,7 +8,7 @@
       "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 4:40 p.m.",
+      "LastUpdated": "Aug 25, 4:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -71,13 +25,59 @@
       ]
     },
     {
+      "Latitude": 44.43397527898122,
+      "Longitude": -88.41257537892649,
+      "OffTime": "Aug 25, 2:42 p.m.",
+      "ETR": "Aug 25, 5:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 25, 4:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "black creek",
+          "CityCusts": 2432,
+          "County": "outagamie",
+          "CountyCusts": 80166,
+          "Zip": "54106",
+          "ZipCusts": 2434,
+          "Region": "fox valley wi",
+          "RegionCusts": 143388
+        }
+      ]
+    },
+    {
+      "Latitude": 43.13609511209501,
+      "Longitude": -88.19603193987969,
+      "OffTime": "Aug 25, 4:23 p.m.",
+      "ETR": "Aug 25, 7:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 25, 4:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "sussex",
+          "CityCusts": 9896,
+          "County": "waukesha",
+          "CountyCusts": 203512,
+          "Zip": "53089",
+          "ZipCusts": 10046,
+          "Region": "southeast wi",
+          "RegionCusts": 1074366
+        }
+      ]
+    },
+    {
       "Latitude": 44.34076702672326,
       "Longitude": -88.67599817771469,
       "OffTime": "Aug 25, 4:23 p.m.",
       "ETR": "Aug 25, 7:00 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 4:40 p.m.",
+      "LastUpdated": "Aug 25, 4:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -94,13 +94,36 @@
       ]
     },
     {
+      "Latitude": 43.070686140845915,
+      "Longitude": -87.8997272770625,
+      "OffTime": "Aug 25, 4:18 p.m.",
+      "ETR": "Aug 25, 7:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 25, 4:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352253,
+          "County": "milwaukee",
+          "CountyCusts": 480039,
+          "Zip": "53212",
+          "ZipCusts": 17011,
+          "Region": "southeast wi",
+          "RegionCusts": 1074366
+        }
+      ]
+    },
+    {
       "Latitude": 42.92163453663752,
       "Longitude": -88.08108447507195,
       "OffTime": "Aug 25, 4:29 p.m.",
       "ETR": "Aug 25, 7:30 p.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 4:40 p.m.",
+      "LastUpdated": "Aug 25, 4:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -113,29 +136,6 @@
           "ZipCusts": 12258,
           "Region": "southeast wi",
           "RegionCusts": 1074366
-        }
-      ]
-    },
-    {
-      "Latitude": 44.43397527898122,
-      "Longitude": -88.41257537892649,
-      "OffTime": "Aug 25, 2:42 p.m.",
-      "ETR": "Aug 25, 5:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 4:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "black creek",
-          "CityCusts": 2432,
-          "County": "outagamie",
-          "CountyCusts": 80166,
-          "Zip": "54106",
-          "ZipCusts": 2434,
-          "Region": "fox valley wi",
-          "RegionCusts": 143388
         }
       ]
     }
