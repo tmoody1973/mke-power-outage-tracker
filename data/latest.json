@@ -1,24 +1,47 @@
 {
-  "captured_at": "2026-08-25T15:12:03+00:00",
+  "captured_at": "2026-08-25T15:59:08+00:00",
   "events": [
     {
-      "Latitude": 43.040975396855366,
-      "Longitude": -88.81437918656708,
-      "OffTime": "Aug 25, 9:36 a.m.",
-      "ETR": "Aug 25, 12:30 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 42.59310642416844,
+      "Longitude": -87.83869180422356,
+      "OffTime": "Aug 25, 10:18 a.m.",
+      "ETR": "Aug 25, 1:00 p.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 10:10 a.m.",
+      "LastUpdated": "Aug 25, 10:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "jefferson",
-          "CityCusts": 1580,
-          "County": "jefferson",
-          "CountyCusts": 35189,
-          "Zip": "53549",
-          "ZipCusts": 1584,
+          "City": "kenosha",
+          "CityCusts": 54309,
+          "County": "kenosha",
+          "CountyCusts": 80163,
+          "Zip": "53140",
+          "ZipCusts": 14889,
+          "Region": "southeast wi",
+          "RegionCusts": 1074366
+        }
+      ]
+    },
+    {
+      "Latitude": 42.51876043762514,
+      "Longitude": -88.15574829931062,
+      "OffTime": "Aug 25, 10:23 a.m.",
+      "ETR": "Aug 25, 1:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 25, 10:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "trevor",
+          "CityCusts": 2961,
+          "County": "kenosha",
+          "CountyCusts": 80163,
+          "Zip": "53179",
+          "ZipCusts": 2966,
           "Region": "southeast wi",
           "RegionCusts": 1074366
         }
@@ -28,23 +51,12 @@
       "Latitude": 43.07665068033739,
       "Longitude": -88.05097333283996,
       "OffTime": "Aug 25, 7:08 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "ETR": "Aug 25, 11:00 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Aug 25, 10:10 a.m.",
+      "LastUpdated": "Aug 25, 10:50 a.m.",
       "IsGlobal": false,
       "Slices": [
-        {
-          "AffectedCusts": 4,
-          "City": "wauwatosa",
-          "CityCusts": 10605,
-          "County": "milwaukee",
-          "CountyCusts": 480039,
-          "Zip": "53222",
-          "ZipCusts": 13596,
-          "Region": "southeast wi",
-          "RegionCusts": 1074366
-        },
         {
           "AffectedCusts": 2,
           "City": "milwaukee",
@@ -55,27 +67,15 @@
           "ZipCusts": 13596,
           "Region": "southeast wi",
           "RegionCusts": 1074366
-        }
-      ]
-    },
-    {
-      "Latitude": 43.06006243072148,
-      "Longitude": -88.38813228386465,
-      "OffTime": "Aug 25, 10:05 a.m.",
-      "ETR": "Aug 25, 1:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 10:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
+        },
         {
-          "AffectedCusts": 1,
-          "City": "south milwaukee",
-          "CityCusts": 10357,
+          "AffectedCusts": 4,
+          "City": "wauwatosa",
+          "CityCusts": 10605,
           "County": "milwaukee",
           "CountyCusts": 480039,
-          "Zip": "53172",
-          "ZipCusts": 10358,
+          "Zip": "53222",
+          "ZipCusts": 13596,
           "Region": "southeast wi",
           "RegionCusts": 1074366
         }
