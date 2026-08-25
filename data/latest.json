@@ -1,49 +1,26 @@
 {
-  "captured_at": "2026-08-25T19:07:15+00:00",
+  "captured_at": "2026-08-25T19:43:44+00:00",
   "events": [
     {
-      "Latitude": 45.93843490743339,
-      "Longitude": -88.16060672460476,
-      "OffTime": "Aug 25, 12:48 p.m.",
-      "ETR": "Aug 25, 3:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "",
-      "LastUpdated": "Aug 25, 2:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "florence",
-          "CityCusts": 1535,
-          "County": "florence",
-          "CountyCusts": 3055,
-          "Zip": "54121",
-          "ZipCusts": 1543,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41397
-        }
-      ]
-    },
-    {
-      "Latitude": 46.18821992119614,
-      "Longitude": -89.44177280711702,
-      "OffTime": "Aug 25, 1:54 p.m.",
-      "ETR": "Aug 25, 4:30 p.m.",
+      "Latitude": 44.24239467931823,
+      "Longitude": -88.43521168003797,
+      "OffTime": "Aug 25, 2:26 p.m.",
+      "ETR": "Aug 25, 5:00 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 2:00 p.m.",
+      "LastUpdated": "Aug 25, 2:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "land o lakes",
-          "CityCusts": 1708,
-          "County": "vilas",
-          "CountyCusts": 6268,
-          "Zip": "54540",
-          "ZipCusts": 1706,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41397
+          "City": "appleton",
+          "CityCusts": 62955,
+          "County": "winnebago",
+          "CountyCusts": 27740,
+          "Zip": "54915",
+          "ZipCusts": 20159,
+          "Region": "fox valley wi",
+          "RegionCusts": 143388
         }
       ]
     },
@@ -52,9 +29,9 @@
       "Longitude": -87.96862568959843,
       "OffTime": "Aug 25, 12:36 p.m.",
       "ETR": "Aug 25, 3:30 p.m.",
-      "CrewStatus": "On site",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 2:00 p.m.",
+      "LastUpdated": "Aug 25, 2:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -65,6 +42,29 @@
           "CountyCusts": 480039,
           "Zip": "53132",
           "ZipCusts": 17459,
+          "Region": "southeast wi",
+          "RegionCusts": 1074366
+        }
+      ]
+    },
+    {
+      "Latitude": 43.122580014373895,
+      "Longitude": -87.95921118139545,
+      "OffTime": "Aug 25, 2:35 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 25, 2:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352253,
+          "County": "milwaukee",
+          "CountyCusts": 480039,
+          "Zip": "53209",
+          "ZipCusts": 24005,
           "Region": "southeast wi",
           "RegionCusts": 1074366
         }
