@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-26T10:25:41+00:00",
+  "captured_at": "2026-08-26T10:59:25+00:00",
   "events": [
     {
       "Latitude": 45.79540808281078,
@@ -8,7 +8,7 @@
       "ETR": "Aug 26, 6:30 a.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 26, 5:20 a.m.",
+      "LastUpdated": "Aug 26, 5:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -31,7 +31,7 @@
       "ETR": "Aug 26, 8:00 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 26, 5:20 a.m.",
+      "LastUpdated": "Aug 26, 5:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -59,13 +59,36 @@
       ]
     },
     {
+      "Latitude": 42.59179842954355,
+      "Longitude": -87.82843365316047,
+      "OffTime": "Aug 26, 5:28 a.m.",
+      "ETR": "Aug 26, 8:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 26, 5:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54307,
+          "County": "kenosha",
+          "CountyCusts": 80161,
+          "Zip": "53140",
+          "ZipCusts": 14888,
+          "Region": "southeast wi",
+          "RegionCusts": 1074397
+        }
+      ]
+    },
+    {
       "Latitude": 42.667746257762374,
       "Longitude": -87.82688648758419,
       "OffTime": "Aug 26, 5:03 a.m.",
       "ETR": "Aug 26, 8:00 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 26, 5:20 a.m.",
+      "LastUpdated": "Aug 26, 5:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
