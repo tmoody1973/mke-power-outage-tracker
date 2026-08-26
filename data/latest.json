@@ -1,37 +1,14 @@
 {
-  "captured_at": "2026-08-26T07:38:38+00:00",
+  "captured_at": "2026-08-26T08:22:32+00:00",
   "events": [
-    {
-      "Latitude": 42.74596044696048,
-      "Longitude": -87.8356399914447,
-      "OffTime": "Aug 25, 10:47 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Assigned",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Aug 26, 2:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "racine",
-          "CityCusts": 58977,
-          "County": "racine",
-          "CountyCusts": 102543,
-          "Zip": "53405",
-          "ZipCusts": 11774,
-          "Region": "southeast wi",
-          "RegionCusts": 1074366
-        }
-      ]
-    },
     {
       "Latitude": 44.28972010204837,
       "Longitude": -88.39937191129326,
       "OffTime": "Aug 25, 9:01 p.m.",
-      "ETR": "Aug 26, 4:30 a.m.",
-      "CrewStatus": "Assigned",
+      "ETR": "Aug 26, 6:00 a.m.",
+      "CrewStatus": "On the way",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 26, 2:30 a.m.",
+      "LastUpdated": "Aug 26, 3:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -44,6 +21,29 @@
           "ZipCusts": 13388,
           "Region": "fox valley wi",
           "RegionCusts": 143388
+        }
+      ]
+    },
+    {
+      "Latitude": 42.74596044696048,
+      "Longitude": -87.8356399914447,
+      "OffTime": "Aug 25, 10:47 p.m.",
+      "ETR": "Aug 26, 5:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Transformer problem",
+      "LastUpdated": "Aug 26, 3:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "racine",
+          "CityCusts": 58977,
+          "County": "racine",
+          "CountyCusts": 102543,
+          "Zip": "53405",
+          "ZipCusts": 11774,
+          "Region": "southeast wi",
+          "RegionCusts": 1074366
         }
       ]
     }
