@@ -1,58 +1,47 @@
 {
-  "captured_at": "2026-08-26T18:23:07+00:00",
+  "captured_at": "2026-08-26T20:23:26+00:00",
   "events": [
     {
-      "Latitude": 43.18821512231927,
-      "Longitude": -87.98841954604022,
-      "OffTime": "Aug 26, 1:14 p.m.",
-      "ETR": "Aug 26, 4:00 p.m.",
+      "Latitude": 42.98679960964007,
+      "Longitude": -88.0355091784841,
+      "OffTime": "Aug 26, 3:07 p.m.",
+      "ETR": "Aug 26, 6:00 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 26, 1:20 p.m.",
+      "LastUpdated": "Aug 26, 3:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 7,
+          "AffectedCusts": 1,
           "City": "milwaukee",
           "CityCusts": 352270,
           "County": "milwaukee",
           "CountyCusts": 480062,
-          "Zip": "53223",
-          "ZipCusts": 14120,
-          "Region": "southeast wi",
-          "RegionCusts": 1074397
-        },
-        {
-          "AffectedCusts": 2,
-          "City": "brown deer",
-          "CityCusts": 3534,
-          "County": "milwaukee",
-          "CountyCusts": 480062,
-          "Zip": "53223",
-          "ZipCusts": 14120,
+          "Zip": "53227",
+          "ZipCusts": 12593,
           "Region": "southeast wi",
           "RegionCusts": 1074397
         }
       ]
     },
     {
-      "Latitude": 43.54136608399008,
-      "Longitude": -88.20567404852655,
-      "OffTime": "Aug 26, 1:04 p.m.",
-      "ETR": "Aug 26, 4:00 p.m.",
+      "Latitude": 43.01627289352649,
+      "Longitude": -87.91907871018778,
+      "OffTime": "Aug 26, 3:00 p.m.",
+      "ETR": "Aug 26, 6:00 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 26, 1:20 p.m.",
+      "LastUpdated": "Aug 26, 3:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "kewaskum",
-          "CityCusts": 4410,
-          "County": "washington",
-          "CountyCusts": 61671,
-          "Zip": "53040",
-          "ZipCusts": 4416,
+          "City": "milwaukee",
+          "CityCusts": 352270,
+          "County": "milwaukee",
+          "CountyCusts": 480062,
+          "Zip": "53204",
+          "ZipCusts": 17661,
           "Region": "southeast wi",
           "RegionCusts": 1074397
         }
@@ -62,10 +51,10 @@
       "Latitude": 44.391888655880216,
       "Longitude": -88.42372313821316,
       "OffTime": "Aug 26, 12:23 p.m.",
-      "ETR": "Aug 26, 3:00 p.m.",
-      "CrewStatus": "On site",
+      "ETR": "Aug 26, 5:00 p.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 26, 1:20 p.m.",
+      "LastUpdated": "Aug 26, 3:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -82,46 +71,103 @@
       ]
     },
     {
-      "Latitude": 42.606449603922634,
-      "Longitude": -88.06974143309901,
-      "OffTime": "Aug 26, 12:19 p.m.",
-      "ETR": "Aug 26, 3:00 p.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 42.77378118492418,
+      "Longitude": -87.85529896600357,
+      "OffTime": "Aug 26, 3:09 p.m.",
+      "ETR": "Aug 26, 6:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 26, 1:20 p.m.",
+      "LastUpdated": "Aug 26, 3:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "bristol",
-          "CityCusts": 3602,
-          "County": "kenosha",
-          "CountyCusts": 80161,
-          "Zip": "53104",
-          "ZipCusts": 3594,
+          "City": "racine",
+          "CityCusts": 58975,
+          "County": "racine",
+          "CountyCusts": 102541,
+          "Zip": "53406",
+          "ZipCusts": 14547,
           "Region": "southeast wi",
           "RegionCusts": 1074397
         }
       ]
     },
     {
-      "Latitude": 42.97501009650773,
-      "Longitude": -88.02794176539422,
-      "OffTime": "Aug 26, 1:18 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 43.18821512231927,
+      "Longitude": -87.98841954604022,
+      "OffTime": "Aug 26, 1:14 p.m.",
+      "ETR": "Aug 26, 4:00 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 26, 1:20 p.m.",
+      "LastUpdated": "Aug 26, 3:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
+          "AffectedCusts": 2,
+          "City": "brown deer",
+          "CityCusts": 3534,
+          "County": "milwaukee",
+          "CountyCusts": 480062,
+          "Zip": "53223",
+          "ZipCusts": 14120,
+          "Region": "southeast wi",
+          "RegionCusts": 1074397
+        },
+        {
+          "AffectedCusts": 7,
           "City": "milwaukee",
           "CityCusts": 352270,
           "County": "milwaukee",
           "CountyCusts": 480062,
-          "Zip": "53228",
-          "ZipCusts": 8266,
+          "Zip": "53223",
+          "ZipCusts": 14120,
+          "Region": "southeast wi",
+          "RegionCusts": 1074397
+        }
+      ]
+    },
+    {
+      "Latitude": 42.72746664143496,
+      "Longitude": -87.82024865084107,
+      "OffTime": "Aug 26, 3:11 p.m.",
+      "ETR": "Aug 26, 6:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 26, 3:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 10,
+          "City": "racine",
+          "CityCusts": 58975,
+          "County": "racine",
+          "CountyCusts": 102541,
+          "Zip": "53405",
+          "ZipCusts": 11772,
+          "Region": "southeast wi",
+          "RegionCusts": 1074397
+        }
+      ]
+    },
+    {
+      "Latitude": 42.72813487788955,
+      "Longitude": -87.82025211380285,
+      "OffTime": "Aug 26, 3:13 p.m.",
+      "ETR": "Aug 26, 6:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 26, 3:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 16,
+          "City": "racine",
+          "CityCusts": 58975,
+          "County": "racine",
+          "CountyCusts": 102541,
+          "Zip": "53405",
+          "ZipCusts": 11772,
           "Region": "southeast wi",
           "RegionCusts": 1074397
         }
