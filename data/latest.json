@@ -1,37 +1,14 @@
 {
-  "captured_at": "2026-08-26T05:58:10+00:00",
+  "captured_at": "2026-08-26T06:47:56+00:00",
   "events": [
-    {
-      "Latitude": 44.28972010204837,
-      "Longitude": -88.39937191129326,
-      "OffTime": "Aug 25, 9:01 p.m.",
-      "ETR": "Aug 26, 4:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 26, 12:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 20,
-          "City": "appleton",
-          "CityCusts": 62955,
-          "County": "outagamie",
-          "CountyCusts": 80166,
-          "Zip": "54911",
-          "ZipCusts": 13388,
-          "Region": "fox valley wi",
-          "RegionCusts": 143388
-        }
-      ]
-    },
     {
       "Latitude": 42.74596044696048,
       "Longitude": -87.8356399914447,
       "OffTime": "Aug 25, 10:47 p.m.",
-      "ETR": "Aug 26, 1:30 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 26, 12:50 a.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Transformer problem",
+      "LastUpdated": "Aug 26, 1:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,34 +25,23 @@
       ]
     },
     {
-      "Latitude": 44.377528743236326,
-      "Longitude": -88.55604160880429,
-      "OffTime": "Aug 25, 9:58 p.m.",
-      "ETR": "Aug 26, 1:00 a.m.",
-      "CrewStatus": "On site",
+      "Latitude": 44.28972010204837,
+      "Longitude": -88.39937191129326,
+      "OffTime": "Aug 25, 9:01 p.m.",
+      "ETR": "Aug 26, 4:30 a.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 26, 12:50 a.m.",
+      "LastUpdated": "Aug 26, 1:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 2,
-          "City": "hortonville",
-          "CityCusts": 4668,
+          "AffectedCusts": 20,
+          "City": "appleton",
+          "CityCusts": 62955,
           "County": "outagamie",
           "CountyCusts": 80166,
-          "Zip": "54944",
-          "ZipCusts": 4674,
-          "Region": "fox valley wi",
-          "RegionCusts": 143388
-        },
-        {
-          "AffectedCusts": 4,
-          "City": "shiocton",
-          "CityCusts": 2129,
-          "County": "outagamie",
-          "CountyCusts": 80166,
-          "Zip": "54170",
-          "ZipCusts": 2130,
+          "Zip": "54911",
+          "ZipCusts": 13388,
           "Region": "fox valley wi",
           "RegionCusts": 143388
         }
