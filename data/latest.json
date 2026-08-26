@@ -1,48 +1,14 @@
 {
-  "captured_at": "2026-08-26T02:14:03+00:00",
+  "captured_at": "2026-08-26T03:18:42+00:00",
   "events": [
     {
-      "Latitude": 43.11744898416069,
-      "Longitude": -87.92010647626809,
-      "OffTime": "Aug 25, 8:12 p.m.",
-      "ETR": "Aug 25, 11:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 25, 9:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 174,
-          "City": "glendale",
-          "CityCusts": 3858,
-          "County": "milwaukee",
-          "CountyCusts": 480039,
-          "Zip": "53209",
-          "ZipCusts": 24005,
-          "Region": "southeast wi",
-          "RegionCusts": 1074366
-        },
-        {
-          "AffectedCusts": 287,
-          "City": "milwaukee",
-          "CityCusts": 352253,
-          "County": "milwaukee",
-          "CountyCusts": 480039,
-          "Zip": "53209",
-          "ZipCusts": 24005,
-          "Region": "southeast wi",
-          "RegionCusts": 1074366
-        }
-      ]
-    },
-    {
-      "Latitude": 43.11845120138136,
-      "Longitude": -87.91778132916869,
-      "OffTime": "Aug 25, 8:15 p.m.",
-      "ETR": "Aug 25, 11:00 p.m.",
+      "Latitude": 42.97856136515866,
+      "Longitude": -87.88885176132187,
+      "OffTime": "Aug 25, 9:56 p.m.",
+      "ETR": "Aug 26, 12:30 a.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 9:10 p.m.",
+      "LastUpdated": "Aug 25, 10:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -51,67 +17,56 @@
           "CityCusts": 352253,
           "County": "milwaukee",
           "CountyCusts": 480039,
-          "Zip": "53217",
-          "ZipCusts": 15179,
-          "Region": "southeast wi",
-          "RegionCusts": 1074366
-        },
-        {
-          "AffectedCusts": 2,
-          "City": "glendale",
-          "CityCusts": 3858,
-          "County": "milwaukee",
-          "CountyCusts": 480039,
-          "Zip": "53217",
-          "ZipCusts": 15179,
+          "Zip": "53207",
+          "ZipCusts": 20425,
           "Region": "southeast wi",
           "RegionCusts": 1074366
         }
       ]
     },
     {
-      "Latitude": 42.90405647863389,
-      "Longitude": -87.86682296633926,
-      "OffTime": "Aug 25, 8:06 p.m.",
-      "ETR": "Aug 25, 11:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 9:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "south milwaukee",
-          "CityCusts": 10357,
-          "County": "milwaukee",
-          "CountyCusts": 480039,
-          "Zip": "53172",
-          "ZipCusts": 10358,
-          "Region": "southeast wi",
-          "RegionCusts": 1074366
-        }
-      ]
-    },
-    {
-      "Latitude": 43.038038768088036,
-      "Longitude": -87.95311149414006,
-      "OffTime": "Aug 25, 8:39 p.m.",
+      "Latitude": 44.43089975613299,
+      "Longitude": -88.41288605998227,
+      "OffTime": "Aug 25, 2:42 p.m.",
       "ETR": "Aug 25, 11:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 9:10 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Vehicle accident",
+      "LastUpdated": "Aug 25, 10:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 128,
-          "City": "milwaukee",
-          "CityCusts": 352253,
-          "County": "milwaukee",
-          "CountyCusts": 480039,
-          "Zip": "53208",
-          "ZipCusts": 15438,
-          "Region": "southeast wi",
-          "RegionCusts": 1074366
+          "AffectedCusts": 1,
+          "City": "black creek",
+          "CityCusts": 2432,
+          "County": "outagamie",
+          "CountyCusts": 80166,
+          "Zip": "54106",
+          "ZipCusts": 2434,
+          "Region": "fox valley wi",
+          "RegionCusts": 143388
+        }
+      ]
+    },
+    {
+      "Latitude": 44.37620405874966,
+      "Longitude": -88.54417077913305,
+      "OffTime": "Aug 25, 10:07 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 25, 10:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "hortonville",
+          "CityCusts": 4668,
+          "County": "outagamie",
+          "CountyCusts": 80166,
+          "Zip": "54944",
+          "ZipCusts": 4674,
+          "Region": "fox valley wi",
+          "RegionCusts": 143388
         }
       ]
     },
@@ -120,9 +75,9 @@
       "Longitude": -88.39937191129326,
       "OffTime": "Aug 25, 9:01 p.m.",
       "ETR": "Aug 26, 12:00 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 9:10 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 25, 10:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -139,48 +94,48 @@
       ]
     },
     {
-      "Latitude": 42.902356321782094,
-      "Longitude": -88.14477750252,
-      "OffTime": "Aug 25, 8:04 p.m.",
-      "ETR": "Aug 25, 11:00 p.m.",
+      "Latitude": 44.37664891585526,
+      "Longitude": -88.55253725419288,
+      "OffTime": "Aug 25, 9:58 p.m.",
+      "ETR": "Aug 26, 1:00 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 9:10 p.m.",
+      "LastUpdated": "Aug 25, 10:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "muskego",
-          "CityCusts": 12258,
-          "County": "waukesha",
-          "CountyCusts": 203512,
-          "Zip": "53150",
-          "ZipCusts": 12258,
-          "Region": "southeast wi",
-          "RegionCusts": 1074366
+          "AffectedCusts": 3,
+          "City": "shiocton",
+          "CityCusts": 2129,
+          "County": "outagamie",
+          "CountyCusts": 80166,
+          "Zip": "54170",
+          "ZipCusts": 2130,
+          "Region": "fox valley wi",
+          "RegionCusts": 143388
         }
       ]
     },
     {
-      "Latitude": 44.43089975613299,
-      "Longitude": -88.41288605998227,
-      "OffTime": "Aug 25, 2:42 p.m.",
-      "ETR": "Aug 25, 11:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Vehicle accident",
-      "LastUpdated": "Aug 25, 9:10 p.m.",
+      "Latitude": 43.08799325865606,
+      "Longitude": -88.00178029075718,
+      "OffTime": "Aug 25, 10:03 p.m.",
+      "ETR": "Aug 26, 1:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 25, 10:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "black creek",
-          "CityCusts": 2432,
-          "County": "outagamie",
-          "CountyCusts": 80166,
-          "Zip": "54106",
-          "ZipCusts": 2434,
-          "Region": "fox valley wi",
-          "RegionCusts": 143388
+          "City": "milwaukee",
+          "CityCusts": 352253,
+          "County": "milwaukee",
+          "CountyCusts": 480039,
+          "Zip": "53216",
+          "ZipCusts": 14839,
+          "Region": "southeast wi",
+          "RegionCusts": 1074366
         }
       ]
     }
