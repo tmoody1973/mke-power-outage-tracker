@@ -1,37 +1,14 @@
 {
-  "captured_at": "2026-08-26T04:53:56+00:00",
+  "captured_at": "2026-08-26T05:25:34+00:00",
   "events": [
-    {
-      "Latitude": 44.28972010204837,
-      "Longitude": -88.39937191129326,
-      "OffTime": "Aug 25, 9:01 p.m.",
-      "ETR": "Aug 26, 4:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 25, 11:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 20,
-          "City": "appleton",
-          "CityCusts": 62955,
-          "County": "outagamie",
-          "CountyCusts": 80166,
-          "Zip": "54911",
-          "ZipCusts": 13388,
-          "Region": "fox valley wi",
-          "RegionCusts": 143388
-        }
-      ]
-    },
     {
       "Latitude": 44.377528743236326,
       "Longitude": -88.55604160880429,
       "OffTime": "Aug 25, 9:58 p.m.",
       "ETR": "Aug 26, 1:00 a.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On site",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 25, 11:50 p.m.",
+      "LastUpdated": "Aug 26, 12:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -65,7 +42,7 @@
       "ETR": "Aug 26, 1:30 a.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 11:50 p.m.",
+      "LastUpdated": "Aug 26, 12:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -78,6 +55,29 @@
           "ZipCusts": 11774,
           "Region": "southeast wi",
           "RegionCusts": 1074366
+        }
+      ]
+    },
+    {
+      "Latitude": 44.28972010204837,
+      "Longitude": -88.39937191129326,
+      "OffTime": "Aug 25, 9:01 p.m.",
+      "ETR": "Aug 26, 4:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 26, 12:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 20,
+          "City": "appleton",
+          "CityCusts": 62955,
+          "County": "outagamie",
+          "CountyCusts": 80166,
+          "Zip": "54911",
+          "ZipCusts": 13388,
+          "Region": "fox valley wi",
+          "RegionCusts": 143388
         }
       ]
     }
