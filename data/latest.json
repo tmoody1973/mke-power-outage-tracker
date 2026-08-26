@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-08-26T08:22:32+00:00",
+  "captured_at": "2026-08-26T09:08:45+00:00",
   "events": [
     {
       "Latitude": 44.28972010204837,
       "Longitude": -88.39937191129326,
       "OffTime": "Aug 25, 9:01 p.m.",
       "ETR": "Aug 26, 6:00 a.m.",
-      "CrewStatus": "On the way",
+      "CrewStatus": "On site",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 26, 3:20 a.m.",
+      "LastUpdated": "Aug 26, 4:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,13 +25,59 @@
       ]
     },
     {
+      "Latitude": 45.79540808281078,
+      "Longitude": -88.23031128151196,
+      "OffTime": "Aug 26, 3:36 a.m.",
+      "ETR": "Aug 26, 6:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 26, 4:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "florence",
+          "CityCusts": 1535,
+          "County": "florence",
+          "CountyCusts": 3055,
+          "Zip": "54121",
+          "ZipCusts": 1543,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41397
+        }
+      ]
+    },
+    {
+      "Latitude": 42.970763067973614,
+      "Longitude": -88.23136472076753,
+      "OffTime": "Aug 26, 3:21 a.m.",
+      "ETR": "Aug 26, 6:00 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 26, 4:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 6,
+          "City": "waukesha",
+          "CityCusts": 48447,
+          "County": "waukesha",
+          "CountyCusts": 203512,
+          "Zip": "53189",
+          "ZipCusts": 12984,
+          "Region": "southeast wi",
+          "RegionCusts": 1074366
+        }
+      ]
+    },
+    {
       "Latitude": 42.74596044696048,
       "Longitude": -87.8356399914447,
       "OffTime": "Aug 25, 10:47 p.m.",
       "ETR": "Aug 26, 5:30 a.m.",
       "CrewStatus": "On site",
       "Cause": "Transformer problem",
-      "LastUpdated": "Aug 26, 3:20 a.m.",
+      "LastUpdated": "Aug 26, 4:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
