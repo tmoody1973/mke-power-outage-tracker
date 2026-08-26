@@ -1,6 +1,40 @@
 {
-  "captured_at": "2026-08-26T11:32:08+00:00",
+  "captured_at": "2026-08-26T12:01:19+00:00",
   "events": [
+    {
+      "Latitude": 42.66787180430681,
+      "Longitude": -87.82572044081593,
+      "OffTime": "Aug 26, 4:52 a.m.",
+      "ETR": "Aug 26, 8:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 26, 7:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 39,
+          "City": "racine",
+          "CityCusts": 58975,
+          "County": "racine",
+          "CountyCusts": 102541,
+          "Zip": "53403",
+          "ZipCusts": 14389,
+          "Region": "southeast wi",
+          "RegionCusts": 1074397
+        },
+        {
+          "AffectedCusts": 3,
+          "City": "mount pleasant",
+          "CityCusts": 5490,
+          "County": "racine",
+          "CountyCusts": 102541,
+          "Zip": "53403",
+          "ZipCusts": 14389,
+          "Region": "southeast wi",
+          "RegionCusts": 1074397
+        }
+      ]
+    },
     {
       "Latitude": 42.667746257762374,
       "Longitude": -87.82688648758419,
@@ -8,7 +42,7 @@
       "ETR": "Aug 26, 8:00 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 26, 6:30 a.m.",
+      "LastUpdated": "Aug 26, 7:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,47 +59,13 @@
       ]
     },
     {
-      "Latitude": 42.66787180430681,
-      "Longitude": -87.82572044081593,
-      "OffTime": "Aug 26, 4:52 a.m.",
-      "ETR": "Aug 26, 8:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 26, 6:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "mount pleasant",
-          "CityCusts": 5490,
-          "County": "racine",
-          "CountyCusts": 102541,
-          "Zip": "53403",
-          "ZipCusts": 14389,
-          "Region": "southeast wi",
-          "RegionCusts": 1074397
-        },
-        {
-          "AffectedCusts": 39,
-          "City": "racine",
-          "CityCusts": 58975,
-          "County": "racine",
-          "CountyCusts": 102541,
-          "Zip": "53403",
-          "ZipCusts": 14389,
-          "Region": "southeast wi",
-          "RegionCusts": 1074397
-        }
-      ]
-    },
-    {
       "Latitude": 42.59179842954355,
       "Longitude": -87.82843365316047,
       "OffTime": "Aug 26, 5:28 a.m.",
       "ETR": "Aug 26, 8:30 a.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 26, 6:30 a.m.",
+      "LastUpdated": "Aug 26, 7:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
