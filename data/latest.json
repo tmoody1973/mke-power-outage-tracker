@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-08-26T04:08:40+00:00",
+  "captured_at": "2026-08-26T04:53:56+00:00",
   "events": [
     {
       "Latitude": 44.28972010204837,
       "Longitude": -88.39937191129326,
       "OffTime": "Aug 25, 9:01 p.m.",
-      "ETR": "Aug 26, 12:00 a.m.",
-      "CrewStatus": "On site",
+      "ETR": "Aug 26, 4:30 a.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 25, 11:00 p.m.",
+      "LastUpdated": "Aug 25, 11:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,36 +25,13 @@
       ]
     },
     {
-      "Latitude": 42.74596044696048,
-      "Longitude": -87.8356399914447,
-      "OffTime": "Aug 25, 10:47 p.m.",
-      "ETR": "Aug 26, 1:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 11:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "racine",
-          "CityCusts": 58977,
-          "County": "racine",
-          "CountyCusts": 102543,
-          "Zip": "53405",
-          "ZipCusts": 11774,
-          "Region": "southeast wi",
-          "RegionCusts": 1074366
-        }
-      ]
-    },
-    {
       "Latitude": 44.377528743236326,
       "Longitude": -88.55604160880429,
       "OffTime": "Aug 25, 9:58 p.m.",
       "ETR": "Aug 26, 1:00 a.m.",
       "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 25, 11:00 p.m.",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 25, 11:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -78,6 +55,29 @@
           "ZipCusts": 4674,
           "Region": "fox valley wi",
           "RegionCusts": 143388
+        }
+      ]
+    },
+    {
+      "Latitude": 42.74596044696048,
+      "Longitude": -87.8356399914447,
+      "OffTime": "Aug 25, 10:47 p.m.",
+      "ETR": "Aug 26, 1:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 25, 11:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "racine",
+          "CityCusts": 58977,
+          "County": "racine",
+          "CountyCusts": 102543,
+          "Zip": "53405",
+          "ZipCusts": 11774,
+          "Region": "southeast wi",
+          "RegionCusts": 1074366
         }
       ]
     }
