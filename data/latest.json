@@ -1,129 +1,164 @@
 {
-  "captured_at": "2026-08-27T05:54:56+00:00",
+  "captured_at": "2026-08-27T17:08:37+00:00",
   "events": [
     {
-      "Latitude": 44.19890109324277,
-      "Longitude": -88.87879343963961,
-      "OffTime": "Aug 26, 10:09 p.m.",
-      "ETR": "Aug 27, 1:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Tree contact with We Energies equipment",
-      "LastUpdated": "Aug 27, 12:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 25,
-          "City": "fremont",
-          "CityCusts": 3187,
-          "County": "winnebago",
-          "CountyCusts": 27739,
-          "Zip": "54940",
-          "ZipCusts": 3186,
-          "Region": "fox valley wi",
-          "RegionCusts": 143386
-        }
-      ]
-    },
-    {
-      "Latitude": 42.68312910541599,
-      "Longitude": -88.26784843737651,
-      "OffTime": "Aug 26, 9:01 p.m.",
-      "ETR": "Aug 27, 2:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Vehicle accident",
-      "LastUpdated": "Aug 27, 12:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 7,
-          "City": "burlington",
-          "CityCusts": 15556,
-          "County": "walworth",
-          "CountyCusts": 24222,
-          "Zip": "53105",
-          "ZipCusts": 15598,
-          "Region": "southeast wi",
-          "RegionCusts": 1074397
-        },
-        {
-          "AffectedCusts": 1293,
-          "City": "burlington",
-          "CityCusts": 15556,
-          "County": "racine",
-          "CountyCusts": 102541,
-          "Zip": "53105",
-          "ZipCusts": 15598,
-          "Region": "southeast wi",
-          "RegionCusts": 1074397
-        }
-      ]
-    },
-    {
-      "Latitude": 42.68365503818583,
-      "Longitude": -88.26743347263194,
-      "OffTime": "Aug 26, 8:59 p.m.",
-      "ETR": "Aug 27, 2:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Vehicle accident",
-      "LastUpdated": "Aug 27, 12:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 151,
-          "City": "burlington",
-          "CityCusts": 15556,
-          "County": "racine",
-          "CountyCusts": 102541,
-          "Zip": "53105",
-          "ZipCusts": 15598,
-          "Region": "southeast wi",
-          "RegionCusts": 1074397
-        }
-      ]
-    },
-    {
-      "Latitude": 43.385834148426994,
-      "Longitude": -87.87708134942456,
-      "OffTime": "Aug 26, 11:19 p.m.",
-      "ETR": "Aug 27, 2:00 a.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 46.49414415108307,
+      "Longitude": -87.89441768666116,
+      "OffTime": "Aug 27, 11:49 a.m.",
+      "ETR": "Aug 27, 2:30 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 27, 12:50 a.m.",
+      "LastUpdated": "Aug 27, 12:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "burlington",
-          "CityCusts": 15556,
-          "County": "racine",
-          "CountyCusts": 102541,
-          "Zip": "53105",
-          "ZipCusts": 15598,
-          "Region": "southeast wi",
-          "RegionCusts": 1074397
+          "City": "champion",
+          "CityCusts": 726,
+          "County": "marquette",
+          "CountyCusts": 1442,
+          "Zip": "49814",
+          "ZipCusts": 725,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41398
         }
       ]
     },
     {
-      "Latitude": 43.06084987407436,
-      "Longitude": -88.39463135312366,
-      "OffTime": "Aug 26, 8:09 p.m.",
-      "ETR": "Aug 27, 3:30 a.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Aug 27, 12:50 a.m.",
+      "Latitude": 42.57430656845177,
+      "Longitude": -87.83203698872214,
+      "OffTime": "Aug 27, 11:45 a.m.",
+      "ETR": "Aug 27, 2:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 27, 12:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 2,
-          "City": "delafield",
-          "CityCusts": 4284,
-          "County": "waukesha",
-          "CountyCusts": 203507,
-          "Zip": "53018",
-          "ZipCusts": 4226,
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54303,
+          "County": "kenosha",
+          "CountyCusts": 80158,
+          "Zip": "53143",
+          "ZipCusts": 10242,
           "Region": "southeast wi",
-          "RegionCusts": 1074397
+          "RegionCusts": 1074398
+        }
+      ]
+    },
+    {
+      "Latitude": 43.05607324007633,
+      "Longitude": -87.94934222296405,
+      "OffTime": "Aug 27, 10:36 a.m.",
+      "ETR": "Aug 27, 1:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 27, 12:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352267,
+          "County": "milwaukee",
+          "CountyCusts": 480060,
+          "Zip": "53208",
+          "ZipCusts": 15434,
+          "Region": "southeast wi",
+          "RegionCusts": 1074398
+        }
+      ]
+    },
+    {
+      "Latitude": 42.737382706355525,
+      "Longitude": -87.85326087865523,
+      "OffTime": "Aug 27, 11:00 a.m.",
+      "ETR": "Aug 27, 2:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 27, 12:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 58974,
+          "County": "racine",
+          "CountyCusts": 102541,
+          "Zip": "53406",
+          "ZipCusts": 14546,
+          "Region": "southeast wi",
+          "RegionCusts": 1074398
+        }
+      ]
+    },
+    {
+      "Latitude": 42.93863783999166,
+      "Longitude": -87.87919754557265,
+      "OffTime": "Aug 27, 11:10 a.m.",
+      "ETR": "Aug 27, 2:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 27, 12:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 19,
+          "City": "cudahy",
+          "CityCusts": 9871,
+          "County": "milwaukee",
+          "CountyCusts": 480060,
+          "Zip": "53110",
+          "ZipCusts": 9870,
+          "Region": "southeast wi",
+          "RegionCusts": 1074398
+        }
+      ]
+    },
+    {
+      "Latitude": 42.57840348670625,
+      "Longitude": -87.84676308499121,
+      "OffTime": "Aug 27, 11:50 a.m.",
+      "ETR": "Aug 27, 2:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 27, 12:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54303,
+          "County": "kenosha",
+          "CountyCusts": 80158,
+          "Zip": "53142",
+          "ZipCusts": 15167,
+          "Region": "southeast wi",
+          "RegionCusts": 1074398
+        }
+      ]
+    },
+    {
+      "Latitude": 42.89868378015737,
+      "Longitude": -87.95453957657368,
+      "OffTime": "Aug 27, 11:21 a.m.",
+      "ETR": "Aug 27, 2:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 27, 12:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 8,
+          "City": "franklin",
+          "CityCusts": 17458,
+          "County": "milwaukee",
+          "CountyCusts": 480060,
+          "Zip": "53132",
+          "ZipCusts": 17459,
+          "Region": "southeast wi",
+          "RegionCusts": 1074398
         }
       ]
     }
