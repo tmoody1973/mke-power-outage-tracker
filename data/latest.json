@@ -1,60 +1,139 @@
 {
-  "captured_at": "2026-08-27T17:08:37+00:00",
+  "captured_at": "2026-08-28T01:28:58+00:00",
   "events": [
     {
-      "Latitude": 46.49414415108307,
-      "Longitude": -87.89441768666116,
-      "OffTime": "Aug 27, 11:49 a.m.",
-      "ETR": "Aug 27, 2:30 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 44.28974243270999,
+      "Longitude": -88.79595180031168,
+      "OffTime": "Aug 27, 7:56 p.m.",
+      "ETR": "Aug 27, 10:30 p.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 27, 12:00 p.m.",
+      "LastUpdated": "Aug 27, 8:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "champion",
-          "CityCusts": 726,
-          "County": "marquette",
-          "CountyCusts": 1442,
-          "Zip": "49814",
-          "ZipCusts": 725,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41398
+          "AffectedCusts": 8,
+          "City": "fremont",
+          "CityCusts": 3188,
+          "County": "waupaca",
+          "CountyCusts": 8903,
+          "Zip": "54940",
+          "ZipCusts": 3187,
+          "Region": "fox valley wi",
+          "RegionCusts": 143387
         }
       ]
     },
     {
-      "Latitude": 42.57430656845177,
-      "Longitude": -87.83203698872214,
-      "OffTime": "Aug 27, 11:45 a.m.",
-      "ETR": "Aug 27, 2:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 27, 12:00 p.m.",
+      "Latitude": 43.162376132467614,
+      "Longitude": -87.92091089963124,
+      "OffTime": "Aug 27, 3:51 p.m.",
+      "ETR": "Aug 27, 10:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies fuse problem",
+      "LastUpdated": "Aug 27, 8:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
+          "AffectedCusts": 2,
+          "City": "river hills",
+          "CityCusts": 473,
+          "County": "milwaukee",
+          "CountyCusts": 480060,
+          "Zip": "53217",
+          "ZipCusts": 15178,
+          "Region": "southeast wi",
+          "RegionCusts": 1074398
+        },
+        {
           "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54303,
-          "County": "kenosha",
-          "CountyCusts": 80158,
-          "Zip": "53143",
-          "ZipCusts": 10242,
+          "City": "milwaukee",
+          "CityCusts": 352267,
+          "County": "milwaukee",
+          "CountyCusts": 480060,
+          "Zip": "53217",
+          "ZipCusts": 15178,
           "Region": "southeast wi",
           "RegionCusts": 1074398
         }
       ]
     },
     {
-      "Latitude": 43.05607324007633,
-      "Longitude": -87.94934222296405,
-      "OffTime": "Aug 27, 10:36 a.m.",
-      "ETR": "Aug 27, 1:30 p.m.",
+      "Latitude": 44.38061538878775,
+      "Longitude": -88.45788315357667,
+      "OffTime": "Aug 27, 5:44 p.m.",
+      "ETR": "Aug 27, 11:30 p.m.",
       "CrewStatus": "Assigned",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Aug 27, 8:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "black creek",
+          "CityCusts": 2432,
+          "County": "outagamie",
+          "CountyCusts": 80164,
+          "Zip": "54106",
+          "ZipCusts": 2434,
+          "Region": "fox valley wi",
+          "RegionCusts": 143387
+        }
+      ]
+    },
+    {
+      "Latitude": 45.77339976773944,
+      "Longitude": -88.32403009636549,
+      "OffTime": "Aug 27, 8:02 p.m.",
+      "ETR": "Aug 27, 11:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 27, 12:00 p.m.",
+      "LastUpdated": "Aug 27, 8:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "homestead",
+          "CityCusts": 5,
+          "County": "florence",
+          "CountyCusts": 3053,
+          "Zip": "54121",
+          "ZipCusts": 1541,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41398
+        },
+        {
+          "AffectedCusts": 3,
+          "City": "fence",
+          "CityCusts": 56,
+          "County": "florence",
+          "CountyCusts": 3053,
+          "Zip": "54120",
+          "ZipCusts": 51,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41398
+        },
+        {
+          "AffectedCusts": 17,
+          "City": "florence",
+          "CityCusts": 1533,
+          "County": "florence",
+          "CountyCusts": 3053,
+          "Zip": "54121",
+          "ZipCusts": 1541,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41398
+        }
+      ]
+    },
+    {
+      "Latitude": 43.073161257102285,
+      "Longitude": -87.98680458940552,
+      "OffTime": "Aug 27, 8:16 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 27, 8:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -63,102 +142,56 @@
           "CityCusts": 352267,
           "County": "milwaukee",
           "CountyCusts": 480060,
-          "Zip": "53208",
-          "ZipCusts": 15434,
+          "Zip": "53210",
+          "ZipCusts": 12255,
           "Region": "southeast wi",
           "RegionCusts": 1074398
         }
       ]
     },
     {
-      "Latitude": 42.737382706355525,
-      "Longitude": -87.85326087865523,
-      "OffTime": "Aug 27, 11:00 a.m.",
-      "ETR": "Aug 27, 2:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 27, 12:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 58974,
-          "County": "racine",
-          "CountyCusts": 102541,
-          "Zip": "53406",
-          "ZipCusts": 14546,
-          "Region": "southeast wi",
-          "RegionCusts": 1074398
-        }
-      ]
-    },
-    {
-      "Latitude": 42.93863783999166,
-      "Longitude": -87.87919754557265,
-      "OffTime": "Aug 27, 11:10 a.m.",
-      "ETR": "Aug 27, 2:00 p.m.",
+      "Latitude": 46.026810781847054,
+      "Longitude": -88.83491806228643,
+      "OffTime": "Aug 27, 7:18 p.m.",
+      "ETR": "Aug 27, 10:00 p.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 27, 12:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 19,
-          "City": "cudahy",
-          "CityCusts": 9871,
-          "County": "milwaukee",
-          "CountyCusts": 480060,
-          "Zip": "53110",
-          "ZipCusts": 9870,
-          "Region": "southeast wi",
-          "RegionCusts": 1074398
-        }
-      ]
-    },
-    {
-      "Latitude": 42.57840348670625,
-      "Longitude": -87.84676308499121,
-      "OffTime": "Aug 27, 11:50 a.m.",
-      "ETR": "Aug 27, 2:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 27, 12:00 p.m.",
+      "LastUpdated": "Aug 27, 8:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54303,
-          "County": "kenosha",
-          "CountyCusts": 80158,
-          "Zip": "53142",
-          "ZipCusts": 15167,
-          "Region": "southeast wi",
-          "RegionCusts": 1074398
+          "City": "alvin",
+          "CityCusts": 304,
+          "County": "forest",
+          "CountyCusts": 741,
+          "Zip": "54542",
+          "ZipCusts": 1176,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41398
         }
       ]
     },
     {
-      "Latitude": 42.89868378015737,
-      "Longitude": -87.95453957657368,
-      "OffTime": "Aug 27, 11:21 a.m.",
-      "ETR": "Aug 27, 2:00 p.m.",
-      "CrewStatus": "On the way",
+      "Latitude": 44.28992283202316,
+      "Longitude": -88.79940498516247,
+      "OffTime": "Aug 27, 8:12 p.m.",
+      "ETR": "Aug 27, 11:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 27, 12:00 p.m.",
+      "LastUpdated": "Aug 27, 8:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 8,
-          "City": "franklin",
-          "CityCusts": 17458,
-          "County": "milwaukee",
-          "CountyCusts": 480060,
-          "Zip": "53132",
-          "ZipCusts": 17459,
-          "Region": "southeast wi",
-          "RegionCusts": 1074398
+          "AffectedCusts": 1,
+          "City": "fremont",
+          "CityCusts": 3188,
+          "County": "waupaca",
+          "CountyCusts": 8903,
+          "Zip": "54940",
+          "ZipCusts": 3187,
+          "Region": "fox valley wi",
+          "RegionCusts": 143387
         }
       ]
     }
