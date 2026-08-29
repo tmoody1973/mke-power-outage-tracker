@@ -1,49 +1,26 @@
 {
-  "captured_at": "2026-08-29T18:50:47+00:00",
+  "captured_at": "2026-08-29T21:24:37+00:00",
   "events": [
     {
-      "Latitude": 42.901656662001315,
-      "Longitude": -87.90075947753373,
-      "OffTime": "Aug 28, 7:47 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 29, 1:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "oak creek",
-          "CityCusts": 19952,
-          "County": "milwaukee",
-          "CountyCusts": 480059,
-          "Zip": "53154",
-          "ZipCusts": 19944,
-          "Region": "southeast wi",
-          "RegionCusts": 1074411
-        }
-      ]
-    },
-    {
-      "Latitude": 43.07568546971264,
-      "Longitude": -87.90340848879497,
-      "OffTime": "Aug 29, 1:42 p.m.",
-      "ETR": "Aug 29, 4:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 45.83688858939371,
+      "Longitude": -88.06202670817451,
+      "OffTime": "Aug 29, 3:03 p.m.",
+      "ETR": "Aug 29, 6:00 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 29, 1:50 p.m.",
+      "LastUpdated": "Aug 29, 4:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352262,
-          "County": "milwaukee",
-          "CountyCusts": 480059,
-          "Zip": "53212",
-          "ZipCusts": 17011,
-          "Region": "southeast wi",
-          "RegionCusts": 1074411
+          "AffectedCusts": 61,
+          "City": "iron mountain",
+          "CityCusts": 7100,
+          "County": "dickinson",
+          "CountyCusts": 14085,
+          "Zip": "49801",
+          "ZipCusts": 7101,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41402
         }
       ]
     },
@@ -51,10 +28,10 @@
       "Latitude": 42.897619595741844,
       "Longitude": -87.87624913167313,
       "OffTime": "Aug 29, 12:47 p.m.",
-      "ETR": "Aug 29, 3:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 29, 1:50 p.m.",
+      "ETR": "Aug 29, 6:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Aug 29, 4:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -65,52 +42,6 @@
           "CountyCusts": 480059,
           "Zip": "53172",
           "ZipCusts": 10359,
-          "Region": "southeast wi",
-          "RegionCusts": 1074411
-        }
-      ]
-    },
-    {
-      "Latitude": 43.3194595564917,
-      "Longitude": -87.9658143966621,
-      "OffTime": "Aug 29, 1:22 p.m.",
-      "ETR": "Aug 29, 4:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 29, 1:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 12,
-          "City": "grafton",
-          "CityCusts": 10520,
-          "County": "ozaukee",
-          "CountyCusts": 42631,
-          "Zip": "53024",
-          "ZipCusts": 10541,
-          "Region": "southeast wi",
-          "RegionCusts": 1074411
-        }
-      ]
-    },
-    {
-      "Latitude": 43.111152775922264,
-      "Longitude": -87.94715692713469,
-      "OffTime": "Aug 29, 1:00 p.m.",
-      "ETR": "Aug 29, 4:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 29, 1:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 33,
-          "City": "milwaukee",
-          "CityCusts": 352262,
-          "County": "milwaukee",
-          "CountyCusts": 480059,
-          "Zip": "53209",
-          "ZipCusts": 24015,
           "Region": "southeast wi",
           "RegionCusts": 1074411
         }
