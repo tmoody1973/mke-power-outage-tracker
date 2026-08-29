@@ -1,94 +1,14 @@
 {
-  "captured_at": "2026-08-29T15:36:15+00:00",
+  "captured_at": "2026-08-29T18:50:47+00:00",
   "events": [
-    {
-      "Latitude": 43.00561384309869,
-      "Longitude": -87.92630576729576,
-      "OffTime": "Aug 29, 10:24 a.m.",
-      "ETR": "Aug 29, 1:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 29, 10:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352262,
-          "County": "milwaukee",
-          "CountyCusts": 480059,
-          "Zip": "53215",
-          "ZipCusts": 22360,
-          "Region": "southeast wi",
-          "RegionCusts": 1074411
-        }
-      ]
-    },
-    {
-      "Latitude": 44.25035269426955,
-      "Longitude": -88.46897360386052,
-      "OffTime": "Aug 29, 10:21 a.m.",
-      "ETR": "Aug 29, 1:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 29, 10:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 20,
-          "City": "appleton",
-          "CityCusts": 62955,
-          "County": "outagamie",
-          "CountyCusts": 80168,
-          "Zip": "54914",
-          "ZipCusts": 16306,
-          "Region": "fox valley wi",
-          "RegionCusts": 143392
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62955,
-          "County": "outagamie",
-          "CountyCusts": 80168,
-          "Zip": "54915",
-          "ZipCusts": 20156,
-          "Region": "fox valley wi",
-          "RegionCusts": 143392
-        }
-      ]
-    },
-    {
-      "Latitude": 44.249865174939764,
-      "Longitude": -88.4690739317289,
-      "OffTime": "Aug 29, 10:14 a.m.",
-      "ETR": "Aug 29, 1:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 29, 10:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 21,
-          "City": "appleton",
-          "CityCusts": 62955,
-          "County": "outagamie",
-          "CountyCusts": 80168,
-          "Zip": "54914",
-          "ZipCusts": 16306,
-          "Region": "fox valley wi",
-          "RegionCusts": 143392
-        }
-      ]
-    },
     {
       "Latitude": 42.901656662001315,
       "Longitude": -87.90075947753373,
       "OffTime": "Aug 28, 7:47 p.m.",
       "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "On site",
+      "CrewStatus": "Specialized crew needed",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Aug 29, 10:30 a.m.",
+      "LastUpdated": "Aug 29, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -105,69 +25,92 @@
       ]
     },
     {
-      "Latitude": 43.0819116318057,
-      "Longitude": -88.11013961312365,
-      "OffTime": "Aug 29, 10:24 a.m.",
-      "ETR": "Aug 29, 1:00 p.m.",
+      "Latitude": 43.07568546971264,
+      "Longitude": -87.90340848879497,
+      "OffTime": "Aug 29, 1:42 p.m.",
+      "ETR": "Aug 29, 4:30 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 29, 10:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "brookfield",
-          "CityCusts": 23379,
-          "County": "waukesha",
-          "CountyCusts": 203524,
-          "Zip": "53005",
-          "ZipCusts": 11573,
-          "Region": "southeast wi",
-          "RegionCusts": 1074411
-        }
-      ]
-    },
-    {
-      "Latitude": 43.311039187308964,
-      "Longitude": -88.25989670756864,
-      "OffTime": "Aug 29, 2:42 a.m.",
-      "ETR": "Aug 29, 12:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Vehicle accident",
-      "LastUpdated": "Aug 29, 10:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "slinger",
-          "CityCusts": 1791,
-          "County": "washington",
-          "CountyCusts": 61669,
-          "Zip": "53086",
-          "ZipCusts": 1801,
-          "Region": "southeast wi",
-          "RegionCusts": 1074411
-        }
-      ]
-    },
-    {
-      "Latitude": 43.016867230139695,
-      "Longitude": -88.05294439982043,
-      "OffTime": "Aug 29, 9:57 a.m.",
-      "ETR": "Aug 29, 12:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 29, 10:30 a.m.",
+      "LastUpdated": "Aug 29, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "west allis",
-          "CityCusts": 15161,
+          "City": "milwaukee",
+          "CityCusts": 352262,
           "County": "milwaukee",
           "CountyCusts": 480059,
-          "Zip": "53214",
-          "ZipCusts": 19805,
+          "Zip": "53212",
+          "ZipCusts": 17011,
+          "Region": "southeast wi",
+          "RegionCusts": 1074411
+        }
+      ]
+    },
+    {
+      "Latitude": 42.897619595741844,
+      "Longitude": -87.87624913167313,
+      "OffTime": "Aug 29, 12:47 p.m.",
+      "ETR": "Aug 29, 3:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 29, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 13,
+          "City": "south milwaukee",
+          "CityCusts": 10358,
+          "County": "milwaukee",
+          "CountyCusts": 480059,
+          "Zip": "53172",
+          "ZipCusts": 10359,
+          "Region": "southeast wi",
+          "RegionCusts": 1074411
+        }
+      ]
+    },
+    {
+      "Latitude": 43.3194595564917,
+      "Longitude": -87.9658143966621,
+      "OffTime": "Aug 29, 1:22 p.m.",
+      "ETR": "Aug 29, 4:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 29, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 12,
+          "City": "grafton",
+          "CityCusts": 10520,
+          "County": "ozaukee",
+          "CountyCusts": 42631,
+          "Zip": "53024",
+          "ZipCusts": 10541,
+          "Region": "southeast wi",
+          "RegionCusts": 1074411
+        }
+      ]
+    },
+    {
+      "Latitude": 43.111152775922264,
+      "Longitude": -87.94715692713469,
+      "OffTime": "Aug 29, 1:00 p.m.",
+      "ETR": "Aug 29, 4:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 29, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 33,
+          "City": "milwaukee",
+          "CityCusts": 352262,
+          "County": "milwaukee",
+          "CountyCusts": 480059,
+          "Zip": "53209",
+          "ZipCusts": 24015,
           "Region": "southeast wi",
           "RegionCusts": 1074411
         }
