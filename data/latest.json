@@ -1,72 +1,26 @@
 {
-  "captured_at": "2026-08-31T23:23:45+00:00",
+  "captured_at": "2026-09-01T01:55:30+00:00",
   "events": [
     {
-      "Latitude": 43.09083718613819,
-      "Longitude": -88.02330430565831,
-      "OffTime": "Aug 31, 5:20 p.m.",
-      "ETR": "Aug 31, 8:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 31, 6:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352300,
-          "County": "milwaukee",
-          "CountyCusts": 480102,
-          "Zip": "53222",
-          "ZipCusts": 13596,
-          "Region": "southeast wi",
-          "RegionCusts": 1074518
-        }
-      ]
-    },
-    {
-      "Latitude": 43.144712022556774,
-      "Longitude": -88.10419298048485,
-      "OffTime": "Aug 31, 5:21 p.m.",
-      "ETR": "Aug 31, 8:00 p.m.",
+      "Latitude": 44.22046256918376,
+      "Longitude": -88.42925908038208,
+      "OffTime": "Aug 31, 8:40 p.m.",
+      "ETR": "Aug 31, 11:30 p.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Aug 31, 6:20 p.m.",
+      "LastUpdated": "Aug 31, 8:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "menomonee falls",
-          "CityCusts": 6015,
-          "County": "waukesha",
-          "CountyCusts": 203538,
-          "Zip": "53051",
-          "ZipCusts": 21577,
-          "Region": "southeast wi",
-          "RegionCusts": 1074518
-        }
-      ]
-    },
-    {
-      "Latitude": 43.32344196836962,
-      "Longitude": -88.12288953453283,
-      "OffTime": "Aug 31, 4:03 p.m.",
-      "ETR": "Aug 31, 7:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 31, 6:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "jackson",
-          "CityCusts": 5881,
-          "County": "washington",
-          "CountyCusts": 61673,
-          "Zip": "53037",
-          "ZipCusts": 5874,
-          "Region": "southeast wi",
-          "RegionCusts": 1074518
+          "City": "menasha",
+          "CityCusts": 4801,
+          "County": "winnebago",
+          "CountyCusts": 27741,
+          "Zip": "54952",
+          "ZipCusts": 4814,
+          "Region": "fox valley wi",
+          "RegionCusts": 143394
         }
       ]
     },
@@ -75,9 +29,9 @@
       "Longitude": -87.94716460070664,
       "OffTime": "Aug 31, 6:11 p.m.",
       "ETR": "Aug 31, 9:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 31, 6:20 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Aug 31, 8:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -94,13 +48,36 @@
       ]
     },
     {
+      "Latitude": 42.80302566395,
+      "Longitude": -88.21041658020816,
+      "OffTime": "Aug 31, 7:38 p.m.",
+      "ETR": "Sep 1, 12:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Aug 31, 8:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "waterford",
+          "CityCusts": 7623,
+          "County": "racine",
+          "CountyCusts": 102571,
+          "Zip": "53185",
+          "ZipCusts": 9927,
+          "Region": "southeast wi",
+          "RegionCusts": 1074518
+        }
+      ]
+    },
+    {
       "Latitude": 43.12568050904328,
       "Longitude": -88.02269005148572,
       "OffTime": "Aug 31, 4:40 p.m.",
       "ETR": "Aug 31, 9:30 p.m.",
-      "CrewStatus": "Specialized crew needed",
+      "CrewStatus": "Assigned",
       "Cause": "Equipment damaged by lightning",
-      "LastUpdated": "Aug 31, 6:20 p.m.",
+      "LastUpdated": "Aug 31, 8:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -111,29 +88,6 @@
           "CountyCusts": 480102,
           "Zip": "53225",
           "ZipCusts": 12038,
-          "Region": "southeast wi",
-          "RegionCusts": 1074518
-        }
-      ]
-    },
-    {
-      "Latitude": 43.14688286292479,
-      "Longitude": -88.50001078641726,
-      "OffTime": "Aug 31, 6:14 p.m.",
-      "ETR": "Aug 31, 9:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Aug 31, 6:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "oconomowoc",
-          "CityCusts": 8561,
-          "County": "waukesha",
-          "CountyCusts": 203538,
-          "Zip": "53066",
-          "ZipCusts": 8886,
           "Region": "southeast wi",
           "RegionCusts": 1074518
         }
