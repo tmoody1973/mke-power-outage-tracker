@@ -1,93 +1,462 @@
 {
-  "captured_at": "2026-09-02T04:27:21+00:00",
+  "captured_at": "2026-09-02T08:55:57+00:00",
   "events": [
     {
-      "Latitude": 44.15901510559015,
-      "Longitude": -88.45857421621201,
-      "OffTime": "Sep 1, 9:53 p.m.",
-      "ETR": "Sep 2, 12:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 1, 11:20 p.m.",
+      "Latitude": 43.57168866480057,
+      "Longitude": -88.09982246043762,
+      "OffTime": "Sep 2, 12:44 a.m.",
+      "ETR": "Sep 2, 6:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Equipment damaged by wind",
+      "LastUpdated": "Sep 2, 3:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 7,
-          "City": "neenah",
-          "CityCusts": 21386,
-          "County": "winnebago",
-          "CountyCusts": 27739,
-          "Zip": "54956",
-          "ZipCusts": 21380,
+          "AffectedCusts": 13,
+          "City": "random lake",
+          "CityCusts": 1903,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53075",
+          "ZipCusts": 1906,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        },
+        {
+          "AffectedCusts": 21,
+          "City": "adell",
+          "CityCusts": 959,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53001",
+          "ZipCusts": 958,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        }
+      ]
+    },
+    {
+      "Latitude": 43.6007241603563,
+      "Longitude": -87.89583418380316,
+      "OffTime": "Sep 2, 1:01 a.m.",
+      "ETR": "Sep 2, 4:00 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Equipment damaged by lightning",
+      "LastUpdated": "Sep 2, 3:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "belgium",
+          "CityCusts": 1925,
+          "County": "ozaukee",
+          "CountyCusts": 42636,
+          "Zip": "53004",
+          "ZipCusts": 1920,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "cedar grove",
+          "CityCusts": 1796,
+          "County": "brown",
+          "CountyCusts": 1902,
+          "Zip": "53013",
+          "ZipCusts": 1802,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        },
+        {
+          "AffectedCusts": 122,
+          "City": "oostburg",
+          "CityCusts": 2563,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53070",
+          "ZipCusts": 2561,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        },
+        {
+          "AffectedCusts": 55,
+          "City": "cedar grove",
+          "CityCusts": 1796,
+          "County": "ozaukee",
+          "CountyCusts": 42636,
+          "Zip": "53013",
+          "ZipCusts": 1802,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        },
+        {
+          "AffectedCusts": 3,
+          "City": "oostburg",
+          "CityCusts": 2563,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53013",
+          "ZipCusts": 1802,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        },
+        {
+          "AffectedCusts": 1338,
+          "City": "cedar grove",
+          "CityCusts": 1796,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53013",
+          "ZipCusts": 1802,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "belgium",
+          "CityCusts": 1925,
+          "County": "ozaukee",
+          "CountyCusts": 42636,
+          "Zip": "53092",
+          "ZipCusts": 11526,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        },
+        {
+          "AffectedCusts": 2,
+          "City": "belgium",
+          "CityCusts": 1925,
+          "County": "ozaukee",
+          "CountyCusts": 42636,
+          "Zip": "53013",
+          "ZipCusts": 1802,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        }
+      ]
+    },
+    {
+      "Latitude": 43.63834555318583,
+      "Longitude": -88.43819414384137,
+      "OffTime": "Sep 2, 3:06 a.m.",
+      "ETR": "Sep 2, 6:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 2, 3:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "fond du lac",
+          "CityCusts": 559,
+          "County": "fond du lac",
+          "CountyCusts": 6947,
+          "Zip": "54935",
+          "ZipCusts": 261,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        }
+      ]
+    },
+    {
+      "Latitude": 43.50069265040068,
+      "Longitude": -87.90058692093888,
+      "OffTime": "Sep 2, 1:01 a.m.",
+      "ETR": "Sep 2, 4:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Equipment damaged by lightning",
+      "LastUpdated": "Sep 2, 3:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 14,
+          "City": "random lake",
+          "CityCusts": 1903,
+          "County": "ozaukee",
+          "CountyCusts": 42636,
+          "Zip": "53075",
+          "ZipCusts": 1906,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        },
+        {
+          "AffectedCusts": 3,
+          "City": "cedar grove",
+          "CityCusts": 1796,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53013",
+          "ZipCusts": 1802,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        },
+        {
+          "AffectedCusts": 8,
+          "City": "belgium",
+          "CityCusts": 1925,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53004",
+          "ZipCusts": 1920,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        },
+        {
+          "AffectedCusts": 42,
+          "City": "random lake",
+          "CityCusts": 1903,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53075",
+          "ZipCusts": 1906,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "belgium",
+          "CityCusts": 1925,
+          "County": "ozaukee",
+          "CountyCusts": 42636,
+          "Zip": "53075",
+          "ZipCusts": 1906,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        },
+        {
+          "AffectedCusts": 5,
+          "City": "belgium",
+          "CityCusts": 1925,
+          "County": "ozaukee",
+          "CountyCusts": 42636,
+          "Zip": "53004",
+          "ZipCusts": 1920,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        }
+      ]
+    },
+    {
+      "Latitude": 43.74882733295701,
+      "Longitude": -88.06025374628946,
+      "OffTime": "Sep 2, 2:06 a.m.",
+      "ETR": "Sep 2, 5:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Sep 2, 3:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "plymouth",
+          "CityCusts": 1492,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53073",
+          "ZipCusts": 1488,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        }
+      ]
+    },
+    {
+      "Latitude": 43.58628706943924,
+      "Longitude": -88.49981191436243,
+      "OffTime": "Sep 2, 12:04 a.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Sep 2, 3:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "brownsville",
+          "CityCusts": 804,
+          "County": "dodge",
+          "CountyCusts": 17215,
+          "Zip": "53006",
+          "ZipCusts": 828,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        },
+        {
+          "AffectedCusts": 69,
+          "City": "lomira",
+          "CityCusts": 1838,
+          "County": "dodge",
+          "CountyCusts": 17215,
+          "Zip": "53048",
+          "ZipCusts": 1837,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "lomira",
+          "CityCusts": 1838,
+          "County": "dodge",
+          "CountyCusts": 17215,
+          "Zip": "53050",
+          "ZipCusts": 241,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        },
+        {
+          "AffectedCusts": 40,
+          "City": "mayville",
+          "CityCusts": 239,
+          "County": "dodge",
+          "CountyCusts": 17215,
+          "Zip": "53050",
+          "ZipCusts": 241,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        }
+      ]
+    },
+    {
+      "Latitude": 43.50069265040068,
+      "Longitude": -87.90058692093888,
+      "OffTime": "Sep 2, 12:59 a.m.",
+      "ETR": "Sep 2, 4:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Equipment damaged by lightning",
+      "LastUpdated": "Sep 2, 3:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 5,
+          "City": "cedar grove",
+          "CityCusts": 1796,
+          "County": "ozaukee",
+          "CountyCusts": 42636,
+          "Zip": "53013",
+          "ZipCusts": 1802,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        },
+        {
+          "AffectedCusts": 43,
+          "City": "cedar grove",
+          "CityCusts": 1796,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53013",
+          "ZipCusts": 1802,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        },
+        {
+          "AffectedCusts": 91,
+          "City": "random lake",
+          "CityCusts": 1903,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53075",
+          "ZipCusts": 1906,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        },
+        {
+          "AffectedCusts": 28,
+          "City": "random lake",
+          "CityCusts": 1903,
+          "County": "ozaukee",
+          "CountyCusts": 42636,
+          "Zip": "53075",
+          "ZipCusts": 1906,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        },
+        {
+          "AffectedCusts": 73,
+          "City": "belgium",
+          "CityCusts": 1925,
+          "County": "ozaukee",
+          "CountyCusts": 42636,
+          "Zip": "53004",
+          "ZipCusts": 1920,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        }
+      ]
+    },
+    {
+      "Latitude": 44.33718605304137,
+      "Longitude": -88.66751621958133,
+      "OffTime": "Sep 2, 2:42 a.m.",
+      "ETR": "Sep 2, 5:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 2, 3:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "hortonville",
+          "CityCusts": 4667,
+          "County": "outagamie",
+          "CountyCusts": 80170,
+          "Zip": "54944",
+          "ZipCusts": 4673,
           "Region": "fox valley wi",
           "RegionCusts": 143393
         }
       ]
     },
     {
-      "Latitude": 43.156735835032336,
-      "Longitude": -88.2507298342026,
-      "OffTime": "Sep 1, 3:26 p.m.",
-      "ETR": "Sep 1, 11:30 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Sep 1, 11:20 p.m.",
+      "Latitude": 43.55728853723893,
+      "Longitude": -88.20022067476445,
+      "OffTime": "Sep 2, 12:35 a.m.",
+      "ETR": "Sep 2, 5:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Equipment damaged by lightning",
+      "LastUpdated": "Sep 2, 3:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 13,
+          "City": "kewaskum",
+          "CityCusts": 4410,
+          "County": "fond du lac",
+          "CountyCusts": 6947,
+          "Zip": "53040",
+          "ZipCusts": 4416,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        },
+        {
+          "AffectedCusts": 5,
+          "City": "campbellsport",
+          "CityCusts": 3462,
+          "County": "fond du lac",
+          "CountyCusts": 6947,
+          "Zip": "53010",
+          "ZipCusts": 3460,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        }
+      ]
+    },
+    {
+      "Latitude": 43.549874044604486,
+      "Longitude": -88.09075453117798,
+      "OffTime": "Sep 2, 2:54 a.m.",
+      "ETR": "Sep 2, 5:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 2, 3:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "sussex",
-          "CityCusts": 9896,
-          "County": "waukesha",
-          "CountyCusts": 203545,
-          "Zip": "53089",
-          "ZipCusts": 10046,
-          "Region": "southeast wi",
-          "RegionCusts": 1074529
-        }
-      ]
-    },
-    {
-      "Latitude": 42.707336505081436,
-      "Longitude": -87.95574195240012,
-      "OffTime": "Sep 1, 3:07 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Assigned",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Sep 1, 11:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 4,
-          "City": "sturtevant",
-          "CityCusts": 4034,
-          "County": "racine",
-          "CountyCusts": 102571,
-          "Zip": "53177",
-          "ZipCusts": 4718,
-          "Region": "southeast wi",
-          "RegionCusts": 1074529
-        }
-      ]
-    },
-    {
-      "Latitude": 42.591288814685505,
-      "Longitude": -87.84972335859274,
-      "OffTime": "Sep 1, 8:39 p.m.",
-      "ETR": "Sep 2, 3:00 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Sep 1, 11:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 30,
-          "City": "kenosha",
-          "CityCusts": 54312,
-          "County": "kenosha",
-          "CountyCusts": 80171,
-          "Zip": "53144",
-          "ZipCusts": 14034,
+          "City": "random lake",
+          "CityCusts": 1903,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53075",
+          "ZipCusts": 1906,
           "Region": "southeast wi",
           "RegionCusts": 1074529
         }
@@ -97,10 +466,10 @@
       "Latitude": 43.10570722027005,
       "Longitude": -88.36584622410892,
       "OffTime": "Sep 1, 10:20 p.m.",
-      "ETR": "Sep 2, 3:00 a.m.",
+      "ETR": "Sep 2, 4:00 a.m.",
       "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 1, 11:20 p.m.",
+      "Cause": "Transformer problem",
+      "LastUpdated": "Sep 2, 3:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -111,6 +480,29 @@
           "CountyCusts": 203545,
           "Zip": "53029",
           "ZipCusts": 11366,
+          "Region": "southeast wi",
+          "RegionCusts": 1074529
+        }
+      ]
+    },
+    {
+      "Latitude": 43.55706610185743,
+      "Longitude": -88.02999046691241,
+      "OffTime": "Sep 2, 12:45 a.m.",
+      "ETR": "Sep 2, 5:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Equipment damaged by lightning",
+      "LastUpdated": "Sep 2, 3:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 4,
+          "City": "random lake",
+          "CityCusts": 1903,
+          "County": "sheboygan",
+          "CountyCusts": 14257,
+          "Zip": "53075",
+          "ZipCusts": 1906,
           "Region": "southeast wi",
           "RegionCusts": 1074529
         }
