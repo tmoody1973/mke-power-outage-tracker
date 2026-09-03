@@ -1,26 +1,49 @@
 {
-  "captured_at": "2026-09-03T04:33:51+00:00",
+  "captured_at": "2026-09-03T09:11:11+00:00",
   "events": [
     {
-      "Latitude": 42.68141899435762,
-      "Longitude": -88.27997559456159,
-      "OffTime": "Sep 2, 4:29 p.m.",
-      "ETR": "Sep 3, 12:00 a.m.",
+      "Latitude": 42.66018730201633,
+      "Longitude": -88.03415925563922,
+      "OffTime": "Sep 3, 2:47 a.m.",
+      "ETR": "Sep 3, 5:30 a.m.",
       "CrewStatus": "On site",
-      "Cause": "Facilities patrolled - no problems found",
-      "LastUpdated": "Sep 2, 11:30 p.m.",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 3, 4:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "union grove",
+          "CityCusts": 5251,
+          "County": "kenosha",
+          "CountyCusts": 80167,
+          "Zip": "53182",
+          "ZipCusts": 5251,
+          "Region": "southeast wi",
+          "RegionCusts": 1074526
+        }
+      ]
+    },
+    {
+      "Latitude": 44.193656121329795,
+      "Longitude": -88.49186320189756,
+      "OffTime": "Sep 3, 3:18 a.m.",
+      "ETR": "Sep 3, 8:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 3, 4:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "burlington",
-          "CityCusts": 15560,
-          "County": "racine",
-          "CountyCusts": 102569,
-          "Zip": "53105",
-          "ZipCusts": 15602,
-          "Region": "southeast wi",
-          "RegionCusts": 1074526
+          "City": "neenah",
+          "CityCusts": 21390,
+          "County": "winnebago",
+          "CountyCusts": 27744,
+          "Zip": "54956",
+          "ZipCusts": 21384,
+          "Region": "fox valley wi",
+          "RegionCusts": 143396
         }
       ]
     },
@@ -31,7 +54,7 @@
       "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Sep 2, 11:30 p.m.",
+      "LastUpdated": "Sep 3, 4:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -44,29 +67,6 @@
           "ZipCusts": 18159,
           "Region": "southeast wi",
           "RegionCusts": 1074526
-        }
-      ]
-    },
-    {
-      "Latitude": 45.861140192370975,
-      "Longitude": -88.08240150854554,
-      "OffTime": "Sep 2, 10:34 p.m.",
-      "ETR": "Sep 3, 1:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 2, 11:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "iron mountain",
-          "CityCusts": 7099,
-          "County": "dickinson",
-          "CountyCusts": 14085,
-          "Zip": "49801",
-          "ZipCusts": 7100,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41401
         }
       ]
     }
