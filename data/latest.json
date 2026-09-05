@@ -1,178 +1,6 @@
 {
-  "captured_at": "2026-09-05T05:10:25+00:00",
+  "captured_at": "2026-09-05T09:01:47+00:00",
   "events": [
-    {
-      "Latitude": 43.54275928414831,
-      "Longitude": -88.13493533476013,
-      "OffTime": "Sep 4, 9:07 a.m.",
-      "ETR": "Sep 5, 12:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "kewaskum",
-          "CityCusts": 4410,
-          "County": "washington",
-          "CountyCusts": 61679,
-          "Zip": "53040",
-          "ZipCusts": 4416,
-          "Region": "southeast wi",
-          "RegionCusts": 1074538
-        }
-      ]
-    },
-    {
-      "Latitude": 43.33901338064544,
-      "Longitude": -88.34869461349797,
-      "OffTime": "Sep 4, 9:57 a.m.",
-      "ETR": "Sep 5, 10:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 9,
-          "City": "hartford",
-          "CityCusts": 4246,
-          "County": "washington",
-          "CountyCusts": 61679,
-          "Zip": "53027",
-          "ZipCusts": 4252,
-          "Region": "southeast wi",
-          "RegionCusts": 1074538
-        }
-      ]
-    },
-    {
-      "Latitude": 43.1006085956113,
-      "Longitude": -88.14589236680052,
-      "OffTime": "Sep 4, 5:06 p.m.",
-      "ETR": "Sep 5, 7:00 a.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 11,
-          "City": "brookfield",
-          "CityCusts": 23375,
-          "County": "waukesha",
-          "CountyCusts": 203541,
-          "Zip": "53045",
-          "ZipCusts": 11750,
-          "Region": "southeast wi",
-          "RegionCusts": 1074538
-        }
-      ]
-    },
-    {
-      "Latitude": 43.00460774051016,
-      "Longitude": -87.93051722627872,
-      "OffTime": "Sep 4, 4:02 p.m.",
-      "ETR": "Sep 5, 7:00 a.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352207,
-          "County": "milwaukee",
-          "CountyCusts": 480003,
-          "Zip": "53215",
-          "ZipCusts": 22350,
-          "Region": "southeast wi",
-          "RegionCusts": 1074538
-        }
-      ]
-    },
-    {
-      "Latitude": 44.22286855421368,
-      "Longitude": -88.378585558335,
-      "OffTime": "Sep 5, 12:08 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62958,
-          "County": "calumet",
-          "CountyCusts": 14461,
-          "Zip": "54915",
-          "ZipCusts": 20156,
-          "Region": "fox valley wi",
-          "RegionCusts": 143395
-        }
-      ]
-    },
-    {
-      "Latitude": 43.16282664350515,
-      "Longitude": -87.89542583830682,
-      "OffTime": "Sep 4, 3:59 a.m.",
-      "ETR": "Sep 5, 12:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 39,
-          "City": "milwaukee",
-          "CityCusts": 352207,
-          "County": "milwaukee",
-          "CountyCusts": 480003,
-          "Zip": "53217",
-          "ZipCusts": 15172,
-          "Region": "southeast wi",
-          "RegionCusts": 1074538
-        },
-        {
-          "AffectedCusts": 17,
-          "City": "fox point",
-          "CityCusts": 1366,
-          "County": "milwaukee",
-          "CountyCusts": 480003,
-          "Zip": "53217",
-          "ZipCusts": 15172,
-          "Region": "southeast wi",
-          "RegionCusts": 1074538
-        }
-      ]
-    },
-    {
-      "Latitude": 43.123011578561815,
-      "Longitude": -87.9580646720318,
-      "OffTime": "Sep 4, 11:52 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352207,
-          "County": "milwaukee",
-          "CountyCusts": 480003,
-          "Zip": "53209",
-          "ZipCusts": 24015,
-          "Region": "southeast wi",
-          "RegionCusts": 1074538
-        }
-      ]
-    },
     {
       "Latitude": 42.930238674324656,
       "Longitude": -87.8684154211003,
@@ -180,7 +8,7 @@
       "ETR": "Sep 5, 7:00 a.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -208,34 +36,80 @@
       ]
     },
     {
-      "Latitude": 43.16967689280988,
-      "Longitude": -87.91754337679015,
-      "OffTime": "Sep 4, 9:16 a.m.",
-      "ETR": "Sep 5, 12:30 a.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Equipment damaged by lightning",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
+      "Latitude": 43.19736425278416,
+      "Longitude": -87.9092355506754,
+      "OffTime": "Sep 4, 4:31 p.m.",
+      "ETR": "Sep 5, 10:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 8,
-          "City": "river hills",
-          "CityCusts": 473,
-          "County": "milwaukee",
-          "CountyCusts": 480003,
-          "Zip": "53217",
-          "ZipCusts": 15172,
+          "AffectedCusts": 43,
+          "City": "mequon",
+          "CityCusts": 12360,
+          "County": "ozaukee",
+          "CountyCusts": 42652,
+          "Zip": "53092",
+          "ZipCusts": 11523,
           "Region": "southeast wi",
           "RegionCusts": 1074538
         },
         {
-          "AffectedCusts": 7,
-          "City": "milwaukee",
-          "CityCusts": 352207,
-          "County": "milwaukee",
-          "CountyCusts": 480003,
-          "Zip": "53217",
-          "ZipCusts": 15172,
+          "AffectedCusts": 1,
+          "City": "thiensville",
+          "CityCusts": 2019,
+          "County": "ozaukee",
+          "CountyCusts": 42652,
+          "Zip": "53092",
+          "ZipCusts": 11523,
+          "Region": "southeast wi",
+          "RegionCusts": 1074538
+        }
+      ]
+    },
+    {
+      "Latitude": 43.151571712615784,
+      "Longitude": -88.1603868429808,
+      "OffTime": "Sep 4, 10:22 a.m.",
+      "ETR": "Sep 5, 12:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 5,
+          "City": "lannon",
+          "CityCusts": 1336,
+          "County": "waukesha",
+          "CountyCusts": 203541,
+          "Zip": "53046",
+          "ZipCusts": 1346,
+          "Region": "southeast wi",
+          "RegionCusts": 1074538
+        }
+      ]
+    },
+    {
+      "Latitude": 43.415131059508994,
+      "Longitude": -88.44138100031073,
+      "OffTime": "Sep 4, 7:48 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "hartford",
+          "CityCusts": 4246,
+          "County": "dodge",
+          "CountyCusts": 17216,
+          "Zip": "53027",
+          "ZipCusts": 4252,
           "Region": "southeast wi",
           "RegionCusts": 1074538
         }
@@ -245,14 +119,14 @@
       "Latitude": 43.183868992688645,
       "Longitude": -87.88887522743639,
       "OffTime": "Sep 4, 5:06 a.m.",
-      "ETR": "Sep 5, 8:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
+      "ETR": "Sep 5, 12:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 3,
+          "AffectedCusts": 4,
           "City": "milwaukee",
           "CityCusts": 352207,
           "County": "milwaukee",
@@ -276,13 +150,13 @@
       ]
     },
     {
-      "Latitude": 43.1839056975777,
-      "Longitude": -87.88964424899389,
-      "OffTime": "Sep 4, 6:24 a.m.",
-      "ETR": "Sep 5, 12:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
+      "Latitude": 43.17164026060631,
+      "Longitude": -87.90283180889543,
+      "OffTime": "Sep 5, 1:23 a.m.",
+      "ETR": "Sep 5, 6:00 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -299,17 +173,109 @@
       ]
     },
     {
-      "Latitude": 43.162923832253654,
-      "Longitude": -87.91104068943109,
-      "OffTime": "Sep 4, 1:27 a.m.",
-      "ETR": "Sep 5, 12:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
+      "Latitude": 44.8961379007777,
+      "Longitude": -88.27746739264457,
+      "OffTime": "Sep 4, 9:06 p.m.",
+      "ETR": "Sep 5, 5:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 5,
+          "AffectedCusts": 9,
+          "City": "gillett",
+          "CityCusts": 1132,
+          "County": "oconto",
+          "CountyCusts": 1187,
+          "Zip": "54124",
+          "ZipCusts": 1136,
+          "Region": "fox valley wi",
+          "RegionCusts": 143395
+        }
+      ]
+    },
+    {
+      "Latitude": 43.33901338064544,
+      "Longitude": -88.34869461349797,
+      "OffTime": "Sep 4, 9:57 a.m.",
+      "ETR": "Sep 5, 10:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "hartford",
+          "CityCusts": 4246,
+          "County": "washington",
+          "CountyCusts": 61679,
+          "Zip": "53027",
+          "ZipCusts": 4252,
+          "Region": "southeast wi",
+          "RegionCusts": 1074538
+        }
+      ]
+    },
+    {
+      "Latitude": 43.03483851160961,
+      "Longitude": -88.14372284107388,
+      "OffTime": "Sep 5, 3:53 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "brookfield",
+          "CityCusts": 23375,
+          "County": "waukesha",
+          "CountyCusts": 203541,
+          "Zip": "53045",
+          "ZipCusts": 11750,
+          "Region": "southeast wi",
+          "RegionCusts": 1074538
+        }
+      ]
+    },
+    {
+      "Latitude": 43.18093209982055,
+      "Longitude": -87.90441345075686,
+      "OffTime": "Sep 4, 4:01 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352207,
+          "County": "milwaukee",
+          "CountyCusts": 480003,
+          "Zip": "53217",
+          "ZipCusts": 15172,
+          "Region": "southeast wi",
+          "RegionCusts": 1074538
+        }
+      ]
+    },
+    {
+      "Latitude": 43.16282664350515,
+      "Longitude": -87.89542583830682,
+      "OffTime": "Sep 4, 3:59 a.m.",
+      "ETR": "Sep 5, 12:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 17,
           "City": "fox point",
           "CityCusts": 1366,
           "County": "milwaukee",
@@ -320,6 +286,63 @@
           "RegionCusts": 1074538
         },
         {
+          "AffectedCusts": 39,
+          "City": "milwaukee",
+          "CityCusts": 352207,
+          "County": "milwaukee",
+          "CountyCusts": 480003,
+          "Zip": "53217",
+          "ZipCusts": 15172,
+          "Region": "southeast wi",
+          "RegionCusts": 1074538
+        }
+      ]
+    },
+    {
+      "Latitude": 44.531920741696645,
+      "Longitude": -88.83879688843506,
+      "OffTime": "Sep 5, 2:00 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 6,
+          "City": "bear creek",
+          "CityCusts": 708,
+          "County": "waupaca",
+          "CountyCusts": 8907,
+          "Zip": "54922",
+          "ZipCusts": 706,
+          "Region": "fox valley wi",
+          "RegionCusts": 143395
+        },
+        {
+          "AffectedCusts": 13,
+          "City": "clintonville",
+          "CityCusts": 496,
+          "County": "waupaca",
+          "CountyCusts": 8907,
+          "Zip": "54929",
+          "ZipCusts": 498,
+          "Region": "fox valley wi",
+          "RegionCusts": 143395
+        }
+      ]
+    },
+    {
+      "Latitude": 43.162923832253654,
+      "Longitude": -87.91104068943109,
+      "OffTime": "Sep 4, 1:27 a.m.",
+      "ETR": "Sep 5, 12:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
           "AffectedCusts": 20,
           "City": "milwaukee",
           "CityCusts": 352207,
@@ -329,66 +352,9 @@
           "ZipCusts": 15172,
           "Region": "southeast wi",
           "RegionCusts": 1074538
-        }
-      ]
-    },
-    {
-      "Latitude": 43.19736425278416,
-      "Longitude": -87.9092355506754,
-      "OffTime": "Sep 4, 4:31 p.m.",
-      "ETR": "Sep 5, 10:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "thiensville",
-          "CityCusts": 2019,
-          "County": "ozaukee",
-          "CountyCusts": 42652,
-          "Zip": "53092",
-          "ZipCusts": 11523,
-          "Region": "southeast wi",
-          "RegionCusts": 1074538
         },
         {
-          "AffectedCusts": 43,
-          "City": "mequon",
-          "CityCusts": 12360,
-          "County": "ozaukee",
-          "CountyCusts": 42652,
-          "Zip": "53092",
-          "ZipCusts": 11523,
-          "Region": "southeast wi",
-          "RegionCusts": 1074538
-        }
-      ]
-    },
-    {
-      "Latitude": 43.16150806684418,
-      "Longitude": -87.90006162942716,
-      "OffTime": "Sep 4, 1:38 a.m.",
-      "ETR": "Sep 5, 12:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact with We Energies equipment",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 45,
-          "City": "milwaukee",
-          "CityCusts": 352207,
-          "County": "milwaukee",
-          "CountyCusts": 480003,
-          "Zip": "53217",
-          "ZipCusts": 15172,
-          "Region": "southeast wi",
-          "RegionCusts": 1074538
-        },
-        {
-          "AffectedCusts": 16,
+          "AffectedCusts": 5,
           "City": "fox point",
           "CityCusts": 1366,
           "County": "milwaukee",
@@ -407,7 +373,7 @@
       "ETR": "Sep 5, 12:00 p.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -424,174 +390,25 @@
       ]
     },
     {
-      "Latitude": 43.415131059508994,
-      "Longitude": -88.44138100031073,
-      "OffTime": "Sep 4, 7:48 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "hartford",
-          "CityCusts": 4246,
-          "County": "dodge",
-          "CountyCusts": 17216,
-          "Zip": "53027",
-          "ZipCusts": 4252,
-          "Region": "southeast wi",
-          "RegionCusts": 1074538
-        }
-      ]
-    },
-    {
-      "Latitude": 43.26576826255025,
-      "Longitude": -88.26134362995674,
-      "OffTime": "Sep 4, 6:49 p.m.",
-      "ETR": "Sep 5, 10:00 a.m.",
+      "Latitude": 43.1006085956113,
+      "Longitude": -88.14589236680052,
+      "OffTime": "Sep 4, 5:06 p.m.",
+      "ETR": "Sep 5, 7:00 a.m.",
       "CrewStatus": "Specialized crew needed",
-      "Cause": "Equipment damaged by lightning",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "richfield",
-          "CityCusts": 2112,
-          "County": "washington",
-          "CountyCusts": 61679,
-          "Zip": "53076",
-          "ZipCusts": 2094,
-          "Region": "southeast wi",
-          "RegionCusts": 1074538
-        }
-      ]
-    },
-    {
-      "Latitude": 43.16966115123275,
-      "Longitude": -87.9197459794428,
-      "OffTime": "Sep 4, 12:12 p.m.",
-      "ETR": "Sep 5, 12:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 10,
-          "City": "milwaukee",
-          "CityCusts": 352207,
-          "County": "milwaukee",
-          "CountyCusts": 480003,
-          "Zip": "53217",
-          "ZipCusts": 15172,
-          "Region": "southeast wi",
-          "RegionCusts": 1074538
-        },
-        {
-          "AffectedCusts": 14,
-          "City": "river hills",
-          "CityCusts": 473,
-          "County": "milwaukee",
-          "CountyCusts": 480003,
-          "Zip": "53217",
-          "ZipCusts": 15172,
-          "Region": "southeast wi",
-          "RegionCusts": 1074538
-        }
-      ]
-    },
-    {
-      "Latitude": 43.014214935102515,
-      "Longitude": -87.93465992290807,
-      "OffTime": "Sep 4, 9:02 p.m.",
-      "ETR": "Sep 5, 3:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352207,
-          "County": "milwaukee",
-          "CountyCusts": 480003,
-          "Zip": "53204",
-          "ZipCusts": 17654,
-          "Region": "southeast wi",
-          "RegionCusts": 1074538
-        }
-      ]
-    },
-    {
-      "Latitude": 43.01487656821168,
-      "Longitude": -87.93459847373032,
-      "OffTime": "Sep 4, 8:50 p.m.",
-      "ETR": "Sep 5, 3:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 20,
-          "City": "milwaukee",
-          "CityCusts": 352207,
-          "County": "milwaukee",
-          "CountyCusts": 480003,
-          "Zip": "53204",
-          "ZipCusts": 17654,
-          "Region": "southeast wi",
-          "RegionCusts": 1074538
-        }
-      ]
-    },
-    {
-      "Latitude": 43.151571712615784,
-      "Longitude": -88.1603868429808,
-      "OffTime": "Sep 4, 10:22 a.m.",
-      "ETR": "Sep 5, 12:00 p.m.",
-      "CrewStatus": "On the way",
       "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 5,
-          "City": "lannon",
-          "CityCusts": 1336,
+          "AffectedCusts": 11,
+          "City": "brookfield",
+          "CityCusts": 23375,
           "County": "waukesha",
           "CountyCusts": 203541,
-          "Zip": "53046",
-          "ZipCusts": 1346,
+          "Zip": "53045",
+          "ZipCusts": 11750,
           "Region": "southeast wi",
           "RegionCusts": 1074538
-        }
-      ]
-    },
-    {
-      "Latitude": 44.421357449536444,
-      "Longitude": -88.89366173054167,
-      "OffTime": "Sep 4, 11:07 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "new london",
-          "CityCusts": 3688,
-          "County": "waupaca",
-          "CountyCusts": 8907,
-          "Zip": "54961",
-          "ZipCusts": 3696,
-          "Region": "fox valley wi",
-          "RegionCusts": 143395
         }
       ]
     },
@@ -602,7 +419,7 @@
       "ETR": "Sep 5, 12:00 p.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -630,82 +447,13 @@
       ]
     },
     {
-      "Latitude": 43.12160328332406,
-      "Longitude": -87.96043725416527,
-      "OffTime": "Sep 4, 8:16 a.m.",
-      "ETR": "Sep 5, 12:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 52,
-          "City": "milwaukee",
-          "CityCusts": 352207,
-          "County": "milwaukee",
-          "CountyCusts": 480003,
-          "Zip": "53209",
-          "ZipCusts": 24015,
-          "Region": "southeast wi",
-          "RegionCusts": 1074538
-        }
-      ]
-    },
-    {
-      "Latitude": 42.959554205404764,
-      "Longitude": -88.47235871900925,
-      "OffTime": "Sep 4, 9:02 p.m.",
-      "ETR": "Sep 5, 2:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "dousman",
-          "CityCusts": 3868,
-          "County": "waukesha",
-          "CountyCusts": 203541,
-          "Zip": "53118",
-          "ZipCusts": 3864,
-          "Region": "southeast wi",
-          "RegionCusts": 1074538
-        }
-      ]
-    },
-    {
-      "Latitude": 43.44024209391573,
-      "Longitude": -88.44039410505579,
-      "OffTime": "Sep 4, 10:41 a.m.",
-      "ETR": "Sep 5, 8:00 a.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Equipment damaged by lightning",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "hartford",
-          "CityCusts": 4246,
-          "County": "dodge",
-          "CountyCusts": 17216,
-          "Zip": "53027",
-          "ZipCusts": 4252,
-          "Region": "southeast wi",
-          "RegionCusts": 1074538
-        }
-      ]
-    },
-    {
       "Latitude": 42.944690037831194,
       "Longitude": -87.97564801140469,
       "OffTime": "Sep 4, 8:37 p.m.",
-      "ETR": "Sep 5, 1:00 a.m.",
+      "ETR": "Sep 5, 7:00 a.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -722,82 +470,13 @@
       ]
     },
     {
-      "Latitude": 43.18093209982055,
-      "Longitude": -87.90441345075686,
-      "OffTime": "Sep 4, 4:01 p.m.",
-      "ETR": "Sep 5, 4:00 a.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352207,
-          "County": "milwaukee",
-          "CountyCusts": 480003,
-          "Zip": "53217",
-          "ZipCusts": 15172,
-          "Region": "southeast wi",
-          "RegionCusts": 1074538
-        }
-      ]
-    },
-    {
-      "Latitude": 43.03462614937973,
-      "Longitude": -88.14417605848716,
-      "OffTime": "Sep 4, 10:03 p.m.",
-      "ETR": "Sep 5, 3:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "brookfield",
-          "CityCusts": 23375,
-          "County": "waukesha",
-          "CountyCusts": 203541,
-          "Zip": "53045",
-          "ZipCusts": 11750,
-          "Region": "southeast wi",
-          "RegionCusts": 1074538
-        }
-      ]
-    },
-    {
-      "Latitude": 44.8961379007777,
-      "Longitude": -88.27746739264457,
-      "OffTime": "Sep 4, 9:06 p.m.",
-      "ETR": "Sep 5, 2:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 9,
-          "City": "gillett",
-          "CityCusts": 1132,
-          "County": "oconto",
-          "CountyCusts": 1187,
-          "Zip": "54124",
-          "ZipCusts": 1136,
-          "Region": "fox valley wi",
-          "RegionCusts": 143395
-        }
-      ]
-    },
-    {
       "Latitude": 42.81894262764556,
       "Longitude": -88.42504858369358,
       "OffTime": "Sep 4, 7:55 p.m.",
-      "ETR": "Sep 5, 12:30 a.m.",
-      "CrewStatus": "Specialized crew needed",
+      "ETR": "Sep 5, 7:00 a.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -814,13 +493,150 @@
       ]
     },
     {
+      "Latitude": 43.12160328332406,
+      "Longitude": -87.96043725416527,
+      "OffTime": "Sep 4, 8:16 a.m.",
+      "ETR": "Sep 5, 12:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 52,
+          "City": "milwaukee",
+          "CityCusts": 352207,
+          "County": "milwaukee",
+          "CountyCusts": 480003,
+          "Zip": "53209",
+          "ZipCusts": 24015,
+          "Region": "southeast wi",
+          "RegionCusts": 1074538
+        }
+      ]
+    },
+    {
+      "Latitude": 44.24156496048204,
+      "Longitude": -88.21003379679871,
+      "OffTime": "Sep 5, 3:31 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kaukauna",
+          "CityCusts": 2398,
+          "County": "calumet",
+          "CountyCusts": 14461,
+          "Zip": "54130",
+          "ZipCusts": 2985,
+          "Region": "fox valley wi",
+          "RegionCusts": 143395
+        }
+      ]
+    },
+    {
+      "Latitude": 43.16150806684418,
+      "Longitude": -87.90006162942716,
+      "OffTime": "Sep 4, 1:38 a.m.",
+      "ETR": "Sep 5, 12:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Tree contact with We Energies equipment",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 16,
+          "City": "fox point",
+          "CityCusts": 1366,
+          "County": "milwaukee",
+          "CountyCusts": 480003,
+          "Zip": "53217",
+          "ZipCusts": 15172,
+          "Region": "southeast wi",
+          "RegionCusts": 1074538
+        },
+        {
+          "AffectedCusts": 45,
+          "City": "milwaukee",
+          "CityCusts": 352207,
+          "County": "milwaukee",
+          "CountyCusts": 480003,
+          "Zip": "53217",
+          "ZipCusts": 15172,
+          "Region": "southeast wi",
+          "RegionCusts": 1074538
+        }
+      ]
+    },
+    {
+      "Latitude": 43.54275928414831,
+      "Longitude": -88.13493533476013,
+      "OffTime": "Sep 4, 9:07 a.m.",
+      "ETR": "Sep 5, 12:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kewaskum",
+          "CityCusts": 4410,
+          "County": "washington",
+          "CountyCusts": 61679,
+          "Zip": "53040",
+          "ZipCusts": 4416,
+          "Region": "southeast wi",
+          "RegionCusts": 1074538
+        }
+      ]
+    },
+    {
+      "Latitude": 43.16966115123275,
+      "Longitude": -87.9197459794428,
+      "OffTime": "Sep 4, 12:12 p.m.",
+      "ETR": "Sep 5, 10:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 10,
+          "City": "milwaukee",
+          "CityCusts": 352207,
+          "County": "milwaukee",
+          "CountyCusts": 480003,
+          "Zip": "53217",
+          "ZipCusts": 15172,
+          "Region": "southeast wi",
+          "RegionCusts": 1074538
+        },
+        {
+          "AffectedCusts": 14,
+          "City": "river hills",
+          "CityCusts": 473,
+          "County": "milwaukee",
+          "CountyCusts": 480003,
+          "Zip": "53217",
+          "ZipCusts": 15172,
+          "Region": "southeast wi",
+          "RegionCusts": 1074538
+        }
+      ]
+    },
+    {
       "Latitude": 43.206921017807936,
       "Longitude": -87.95205156825268,
       "OffTime": "Sep 4, 4:37 a.m.",
       "ETR": "Sep 5, 10:00 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Sep 5, 12:10 a.m.",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -831,6 +647,86 @@
           "CountyCusts": 42652,
           "Zip": "53092",
           "ZipCusts": 11523,
+          "Region": "southeast wi",
+          "RegionCusts": 1074538
+        }
+      ]
+    },
+    {
+      "Latitude": 44.421357449536444,
+      "Longitude": -88.89366173054167,
+      "OffTime": "Sep 4, 11:07 p.m.",
+      "ETR": "Sep 5, 7:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Equipment damaged by wind",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "new london",
+          "CityCusts": 3688,
+          "County": "waupaca",
+          "CountyCusts": 8907,
+          "Zip": "54961",
+          "ZipCusts": 3696,
+          "Region": "fox valley wi",
+          "RegionCusts": 143395
+        }
+      ]
+    },
+    {
+      "Latitude": 43.16967689280988,
+      "Longitude": -87.91754337679015,
+      "OffTime": "Sep 4, 9:16 a.m.",
+      "ETR": "Sep 5, 10:00 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Equipment damaged by lightning",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 8,
+          "City": "river hills",
+          "CityCusts": 473,
+          "County": "milwaukee",
+          "CountyCusts": 480003,
+          "Zip": "53217",
+          "ZipCusts": 15172,
+          "Region": "southeast wi",
+          "RegionCusts": 1074538
+        },
+        {
+          "AffectedCusts": 7,
+          "City": "milwaukee",
+          "CityCusts": 352207,
+          "County": "milwaukee",
+          "CountyCusts": 480003,
+          "Zip": "53217",
+          "ZipCusts": 15172,
+          "Region": "southeast wi",
+          "RegionCusts": 1074538
+        }
+      ]
+    },
+    {
+      "Latitude": 43.00460774051016,
+      "Longitude": -87.93051722627872,
+      "OffTime": "Sep 4, 4:02 p.m.",
+      "ETR": "Sep 5, 7:00 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 5, 4:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352207,
+          "County": "milwaukee",
+          "CountyCusts": 480003,
+          "Zip": "53215",
+          "ZipCusts": 22350,
           "Region": "southeast wi",
           "RegionCusts": 1074538
         }
