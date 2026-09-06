@@ -1,4 +1,120 @@
 {
-  "captured_at": "2026-09-06T09:56:43+00:00",
-  "events": []
+  "captured_at": "2026-09-06T13:21:34+00:00",
+  "events": [
+    {
+      "Latitude": 45.48892155680149,
+      "Longitude": -87.77341248010181,
+      "OffTime": "Sep 6, 7:29 a.m.",
+      "ETR": "Sep 6, 10:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 6, 8:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "stephenson",
+          "CityCusts": 7,
+          "County": "menominee",
+          "CountyCusts": 3003,
+          "Zip": "49887",
+          "ZipCusts": 7,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41410
+        }
+      ]
+    },
+    {
+      "Latitude": 42.93194870638675,
+      "Longitude": -88.16233745548182,
+      "OffTime": "Sep 6, 6:02 a.m.",
+      "ETR": "Sep 6, 9:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 6, 8:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "new berlin",
+          "CityCusts": 20463,
+          "County": "waukesha",
+          "CountyCusts": 203541,
+          "Zip": "53151",
+          "ZipCusts": 16755,
+          "Region": "southeast wi",
+          "RegionCusts": 1074538
+        }
+      ]
+    },
+    {
+      "Latitude": 42.895425429650246,
+      "Longitude": -88.02636053819718,
+      "OffTime": "Sep 6, 8:00 a.m.",
+      "ETR": "Sep 6, 11:00 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 6, 8:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "franklin",
+          "CityCusts": 17456,
+          "County": "milwaukee",
+          "CountyCusts": 480003,
+          "Zip": "53132",
+          "ZipCusts": 17457,
+          "Region": "southeast wi",
+          "RegionCusts": 1074538
+        }
+      ]
+    },
+    {
+      "Latitude": 45.51598171049681,
+      "Longitude": -87.79893017203418,
+      "OffTime": "Sep 6, 8:11 a.m.",
+      "ETR": "Sep 6, 11:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 6, 8:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "stephenson",
+          "CityCusts": 7,
+          "County": "menominee",
+          "CountyCusts": 3003,
+          "Zip": "49887",
+          "ZipCusts": 7,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41410
+        }
+      ]
+    },
+    {
+      "Latitude": 43.28510699141007,
+      "Longitude": -88.75295751032921,
+      "OffTime": "Sep 6, 7:04 a.m.",
+      "ETR": "Sep 6, 10:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "We Energies overhead line problem",
+      "LastUpdated": "Sep 6, 8:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "watertown",
+          "CityCusts": 16255,
+          "County": "dodge",
+          "CountyCusts": 17216,
+          "Zip": "53098",
+          "ZipCusts": 6061,
+          "Region": "southeast wi",
+          "RegionCusts": 1074538
+        }
+      ]
+    }
+  ]
 }
