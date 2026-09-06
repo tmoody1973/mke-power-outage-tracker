@@ -1,24 +1,70 @@
 {
-  "captured_at": "2026-09-06T18:27:07+00:00",
+  "captured_at": "2026-09-06T20:37:38+00:00",
   "events": [
     {
-      "Latitude": 42.9358267821292,
-      "Longitude": -88.22896671266238,
-      "OffTime": "Sep 6, 9:24 a.m.",
-      "ETR": "Sep 6, 2:00 p.m.",
+      "Latitude": 42.74324305622821,
+      "Longitude": -87.81140640473072,
+      "OffTime": "Sep 6, 3:15 p.m.",
+      "ETR": "Sep 6, 6:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 6, 3:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 58970,
+          "County": "racine",
+          "CountyCusts": 102577,
+          "Zip": "53404",
+          "ZipCusts": 7239,
+          "Region": "southeast wi",
+          "RegionCusts": 1074538
+        }
+      ]
+    },
+    {
+      "Latitude": 42.81781495914048,
+      "Longitude": -88.00625978392998,
+      "OffTime": "Sep 6, 1:49 p.m.",
+      "ETR": "Sep 6, 4:30 p.m.",
       "CrewStatus": "On site",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Sep 6, 1:20 p.m.",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Sep 6, 3:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 4,
-          "City": "waukesha",
-          "CityCusts": 48442,
-          "County": "waukesha",
-          "CountyCusts": 203541,
-          "Zip": "53189",
-          "ZipCusts": 12982,
+          "City": "caledonia",
+          "CityCusts": 2182,
+          "County": "racine",
+          "CountyCusts": 102577,
+          "Zip": "53108",
+          "ZipCusts": 1988,
+          "Region": "southeast wi",
+          "RegionCusts": 1074538
+        }
+      ]
+    },
+    {
+      "Latitude": 43.08690831562998,
+      "Longitude": -87.93641256850384,
+      "OffTime": "Sep 6, 2:48 p.m.",
+      "ETR": "Sep 6, 5:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 6, 3:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352207,
+          "County": "milwaukee",
+          "CountyCusts": 480003,
+          "Zip": "53206",
+          "ZipCusts": 10787,
           "Region": "southeast wi",
           "RegionCusts": 1074538
         }
