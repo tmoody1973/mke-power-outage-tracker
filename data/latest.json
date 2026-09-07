@@ -1,49 +1,72 @@
 {
-  "captured_at": "2026-09-07T09:43:05+00:00",
+  "captured_at": "2026-09-07T15:16:11+00:00",
   "events": [
     {
-      "Latitude": 42.59775992389306,
-      "Longitude": -87.83086055100104,
-      "OffTime": "Sep 7, 3:04 a.m.",
-      "ETR": "Sep 7, 6:00 a.m.",
+      "Latitude": 43.42621763943328,
+      "Longitude": -88.21760800117103,
+      "OffTime": "Sep 7, 8:17 a.m.",
+      "ETR": "Sep 7, 11:00 a.m.",
       "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Sep 7, 4:40 a.m.",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Sep 7, 10:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54302,
-          "County": "kenosha",
-          "CountyCusts": 80159,
-          "Zip": "53140",
-          "ZipCusts": 14887,
+          "City": "west bend",
+          "CityCusts": 26119,
+          "County": "washington",
+          "CountyCusts": 61683,
+          "Zip": "53095",
+          "ZipCusts": 15590,
           "Region": "southeast wi",
-          "RegionCusts": 1074538
+          "RegionCusts": 1074621
         }
       ]
     },
     {
-      "Latitude": 44.531920741696645,
-      "Longitude": -88.83879688843506,
-      "OffTime": "Sep 6, 10:43 p.m.",
-      "ETR": "Sep 7, 6:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Sep 7, 4:40 a.m.",
+      "Latitude": 42.977981325613804,
+      "Longitude": -88.25955359899713,
+      "OffTime": "Sep 7, 9:39 a.m.",
+      "ETR": "Sep 7, 12:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 7, 10:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 5,
-          "City": "clintonville",
-          "CityCusts": 496,
-          "County": "waupaca",
-          "CountyCusts": 8907,
-          "Zip": "54929",
-          "ZipCusts": 498,
-          "Region": "fox valley wi",
-          "RegionCusts": 143395
+          "AffectedCusts": 1,
+          "City": "waukesha",
+          "CityCusts": 48449,
+          "County": "waukesha",
+          "CountyCusts": 203552,
+          "Zip": "53189",
+          "ZipCusts": 12983,
+          "Region": "southeast wi",
+          "RegionCusts": 1074621
+        }
+      ]
+    },
+    {
+      "Latitude": 42.67240968624636,
+      "Longitude": -88.27701091471525,
+      "OffTime": "Sep 7, 9:38 a.m.",
+      "ETR": "Sep 7, 12:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 7, 10:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "burlington",
+          "CityCusts": 15561,
+          "County": "racine",
+          "CountyCusts": 102580,
+          "Zip": "53105",
+          "ZipCusts": 15603,
+          "Region": "southeast wi",
+          "RegionCusts": 1074621
         }
       ]
     }
