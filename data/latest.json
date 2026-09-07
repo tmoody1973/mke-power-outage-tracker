@@ -1,29 +1,41 @@
 {
-  "captured_at": "2026-09-07T04:33:34+00:00",
+  "captured_at": "2026-09-07T09:43:05+00:00",
   "events": [
+    {
+      "Latitude": 42.59775992389306,
+      "Longitude": -87.83086055100104,
+      "OffTime": "Sep 7, 3:04 a.m.",
+      "ETR": "Sep 7, 6:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Sep 7, 4:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54302,
+          "County": "kenosha",
+          "CountyCusts": 80159,
+          "Zip": "53140",
+          "ZipCusts": 14887,
+          "Region": "southeast wi",
+          "RegionCusts": 1074538
+        }
+      ]
+    },
     {
       "Latitude": 44.531920741696645,
       "Longitude": -88.83879688843506,
       "OffTime": "Sep 6, 10:43 p.m.",
-      "ETR": "Sep 7, 1:30 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 6, 11:30 p.m.",
+      "ETR": "Sep 7, 6:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Sep 7, 4:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 6,
-          "City": "bear creek",
-          "CityCusts": 708,
-          "County": "waupaca",
-          "CountyCusts": 8907,
-          "Zip": "54922",
-          "ZipCusts": 706,
-          "Region": "fox valley wi",
-          "RegionCusts": 143395
-        },
-        {
-          "AffectedCusts": 13,
+          "AffectedCusts": 5,
           "City": "clintonville",
           "CityCusts": 496,
           "County": "waupaca",
