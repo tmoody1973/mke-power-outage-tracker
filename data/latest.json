@@ -1,64 +1,18 @@
 {
-  "captured_at": "2026-09-07T19:18:02+00:00",
+  "captured_at": "2026-09-07T22:09:04+00:00",
   "events": [
     {
-      "Latitude": 42.740859582234286,
-      "Longitude": -87.78542708673788,
-      "OffTime": "Sep 7, 12:56 p.m.",
-      "ETR": "Sep 7, 3:30 p.m.",
+      "Latitude": 43.074671617116714,
+      "Longitude": -88.25016274330471,
+      "OffTime": "Sep 7, 10:41 a.m.",
+      "ETR": "Sep 7, 6:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 7, 2:10 p.m.",
+      "LastUpdated": "Sep 7, 5:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 13,
-          "City": "racine",
-          "CityCusts": 58969,
-          "County": "racine",
-          "CountyCusts": 102580,
-          "Zip": "53402",
-          "ZipCusts": 15998,
-          "Region": "southeast wi",
-          "RegionCusts": 1074621
-        }
-      ]
-    },
-    {
-      "Latitude": 46.06275050067469,
-      "Longitude": -88.78483589241408,
-      "OffTime": "Sep 7, 10:53 a.m.",
-      "ETR": "Sep 7, 4:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Sep 7, 2:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "iron river",
-          "CityCusts": 1763,
-          "County": "iron",
-          "CountyCusts": 4272,
-          "Zip": "49935",
-          "ZipCusts": 1764,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41413
-        }
-      ]
-    },
-    {
-      "Latitude": 43.07588727902312,
-      "Longitude": -88.25087129026593,
-      "OffTime": "Sep 7, 10:39 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 7, 2:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 37,
+          "AffectedCusts": 19,
           "City": "pewaukee",
           "CityCusts": 14877,
           "County": "waukesha",
@@ -71,46 +25,46 @@
       ]
     },
     {
-      "Latitude": 42.741517958417134,
-      "Longitude": -87.7854329643975,
-      "OffTime": "Sep 7, 12:56 p.m.",
-      "ETR": "Sep 7, 3:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies equipment problem",
-      "LastUpdated": "Sep 7, 2:10 p.m.",
+      "Latitude": 43.10745709074613,
+      "Longitude": -87.93219747793414,
+      "OffTime": "Sep 7, 2:40 p.m.",
+      "ETR": "Sep 7, 6:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Sep 7, 5:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 25,
-          "City": "racine",
-          "CityCusts": 58969,
-          "County": "racine",
-          "CountyCusts": 102580,
-          "Zip": "53402",
-          "ZipCusts": 15998,
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352205,
+          "County": "milwaukee",
+          "CountyCusts": 480031,
+          "Zip": "53209",
+          "ZipCusts": 24012,
           "Region": "southeast wi",
           "RegionCusts": 1074621
         }
       ]
     },
     {
-      "Latitude": 43.58924068808904,
-      "Longitude": -88.28122122236098,
-      "OffTime": "Sep 7, 2:07 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 43.175361763327594,
+      "Longitude": -87.9030759627555,
+      "OffTime": "Sep 7, 4:27 p.m.",
+      "ETR": "Sep 7, 7:30 p.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 7, 2:10 p.m.",
+      "LastUpdated": "Sep 7, 5:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "campbellsport",
-          "CityCusts": 3464,
-          "County": "fond du lac",
-          "CountyCusts": 6950,
-          "Zip": "53010",
-          "ZipCusts": 3462,
+          "City": "milwaukee",
+          "CityCusts": 352205,
+          "County": "milwaukee",
+          "CountyCusts": 480031,
+          "Zip": "53217",
+          "ZipCusts": 15172,
           "Region": "southeast wi",
           "RegionCusts": 1074621
         }
