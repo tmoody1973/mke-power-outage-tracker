@@ -1,72 +1,37 @@
 {
-  "captured_at": "2026-09-07T00:06:47+00:00",
+  "captured_at": "2026-09-07T04:33:34+00:00",
   "events": [
     {
-      "Latitude": 43.31655258444252,
-      "Longitude": -88.28061344698568,
-      "OffTime": "Sep 6, 4:36 p.m.",
-      "ETR": "Sep 6, 7:30 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 44.531920741696645,
+      "Longitude": -88.83879688843506,
+      "OffTime": "Sep 6, 10:43 p.m.",
+      "ETR": "Sep 7, 1:30 a.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 6, 7:00 p.m.",
+      "LastUpdated": "Sep 6, 11:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "slinger",
-          "CityCusts": 1791,
-          "County": "washington",
-          "CountyCusts": 61679,
-          "Zip": "53086",
-          "ZipCusts": 1801,
-          "Region": "southeast wi",
-          "RegionCusts": 1074538
-        }
-      ]
-    },
-    {
-      "Latitude": 43.22707355886261,
-      "Longitude": -88.1123754361198,
-      "OffTime": "Sep 6, 5:17 p.m.",
-      "ETR": "Sep 6, 8:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 6, 7:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
+          "AffectedCusts": 6,
+          "City": "bear creek",
+          "CityCusts": 708,
+          "County": "waupaca",
+          "CountyCusts": 8907,
+          "Zip": "54922",
+          "ZipCusts": 706,
+          "Region": "fox valley wi",
+          "RegionCusts": 143395
+        },
         {
-          "AffectedCusts": 22,
-          "City": "germantown",
-          "CityCusts": 10396,
-          "County": "washington",
-          "CountyCusts": 61679,
-          "Zip": "53022",
-          "ZipCusts": 10395,
-          "Region": "southeast wi",
-          "RegionCusts": 1074538
-        }
-      ]
-    },
-    {
-      "Latitude": 43.16600950839552,
-      "Longitude": -88.88031664525928,
-      "OffTime": "Sep 6, 6:37 p.m.",
-      "ETR": "Sep 6, 9:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 6, 7:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "watertown",
-          "CityCusts": 16255,
-          "County": "jefferson",
-          "CountyCusts": 35283,
-          "Zip": "53094",
-          "ZipCusts": 10261,
-          "Region": "southeast wi",
-          "RegionCusts": 1074538
+          "AffectedCusts": 13,
+          "City": "clintonville",
+          "CityCusts": 496,
+          "County": "waupaca",
+          "CountyCusts": 8907,
+          "Zip": "54929",
+          "ZipCusts": 498,
+          "Region": "fox valley wi",
+          "RegionCusts": 143395
         }
       ]
     }
