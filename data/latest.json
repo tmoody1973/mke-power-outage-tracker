@@ -1,4 +1,62 @@
 {
-  "captured_at": "2026-09-08T04:55:41+00:00",
-  "events": []
+  "captured_at": "2026-09-08T09:16:33+00:00",
+  "events": [
+    {
+      "Latitude": 43.22332771042235,
+      "Longitude": -88.2428497425585,
+      "OffTime": "Sep 8, 1:48 a.m.",
+      "ETR": "Sep 8, 4:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 8, 4:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "colgate",
+          "CityCusts": 2586,
+          "County": "washington",
+          "CountyCusts": 61683,
+          "Zip": "53017",
+          "ZipCusts": 2597,
+          "Region": "southeast wi",
+          "RegionCusts": 1074621
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "hubertus",
+          "CityCusts": 2739,
+          "County": "washington",
+          "CountyCusts": 61683,
+          "Zip": "53033",
+          "ZipCusts": 2746,
+          "Region": "southeast wi",
+          "RegionCusts": 1074621
+        }
+      ]
+    },
+    {
+      "Latitude": 44.56766319459394,
+      "Longitude": -88.70775453789851,
+      "OffTime": "Sep 8, 2:01 a.m.",
+      "ETR": "Sep 8, 5:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 8, 4:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 12,
+          "City": "bear creek",
+          "CityCusts": 708,
+          "County": "outagamie",
+          "CountyCusts": 80172,
+          "Zip": "54922",
+          "ZipCusts": 706,
+          "Region": "fox valley wi",
+          "RegionCusts": 143406
+        }
+      ]
+    }
+  ]
 }
