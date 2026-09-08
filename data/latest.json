@@ -1,14 +1,106 @@
 {
-  "captured_at": "2026-09-08T17:31:54+00:00",
+  "captured_at": "2026-09-08T20:16:46+00:00",
   "events": [
+    {
+      "Latitude": 43.032765559198104,
+      "Longitude": -88.24241317071727,
+      "OffTime": "Sep 8, 10:03 a.m.",
+      "ETR": "Sep 8, 3:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Sep 8, 3:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "waukesha",
+          "CityCusts": 48449,
+          "County": "waukesha",
+          "CountyCusts": 203552,
+          "Zip": "53188",
+          "ZipCusts": 17778,
+          "Region": "southeast wi",
+          "RegionCusts": 1074621
+        }
+      ]
+    },
+    {
+      "Latitude": 42.89100953746056,
+      "Longitude": -87.96862568959843,
+      "OffTime": "Sep 8, 2:00 p.m.",
+      "ETR": "Sep 8, 5:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 8, 3:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "franklin",
+          "CityCusts": 17458,
+          "County": "milwaukee",
+          "CountyCusts": 480030,
+          "Zip": "53132",
+          "ZipCusts": 17459,
+          "Region": "southeast wi",
+          "RegionCusts": 1074621
+        }
+      ]
+    },
+    {
+      "Latitude": 44.33158531191451,
+      "Longitude": -88.7538826170742,
+      "OffTime": "Sep 8, 12:01 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 8, 3:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 4,
+          "City": "new london",
+          "CityCusts": 3688,
+          "County": "waupaca",
+          "CountyCusts": 8908,
+          "Zip": "54961",
+          "ZipCusts": 3696,
+          "Region": "fox valley wi",
+          "RegionCusts": 143406
+        }
+      ]
+    },
+    {
+      "Latitude": 42.62941056861564,
+      "Longitude": -88.07135989940393,
+      "OffTime": "Sep 8, 2:49 p.m.",
+      "ETR": "Sep 8, 5:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 8, 3:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "union grove",
+          "CityCusts": 5252,
+          "County": "kenosha",
+          "CountyCusts": 80166,
+          "Zip": "53182",
+          "ZipCusts": 5252,
+          "Region": "southeast wi",
+          "RegionCusts": 1074621
+        }
+      ]
+    },
     {
       "Latitude": 44.33301102507931,
       "Longitude": -88.75790009708427,
       "OffTime": "Sep 8, 11:58 a.m.",
-      "ETR": "Sep 8, 3:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 8, 12:30 p.m.",
+      "ETR": "Sep 8, 3:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Sep 8, 3:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,128 +117,13 @@
       ]
     },
     {
-      "Latitude": 43.10107201131682,
-      "Longitude": -87.9591727083334,
-      "OffTime": "Sep 8, 9:06 a.m.",
-      "ETR": "Sep 8, 2:00 p.m.",
+      "Latitude": 43.0238186087842,
+      "Longitude": -88.24213094295256,
+      "OffTime": "Sep 8, 2:08 p.m.",
+      "ETR": "Sep 8, 5:00 p.m.",
       "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 8, 12:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 14,
-          "City": "milwaukee",
-          "CityCusts": 352204,
-          "County": "milwaukee",
-          "CountyCusts": 480030,
-          "Zip": "53209",
-          "ZipCusts": 24012,
-          "Region": "southeast wi",
-          "RegionCusts": 1074620
-        }
-      ]
-    },
-    {
-      "Latitude": 43.17267711422122,
-      "Longitude": -89.1180438653094,
-      "OffTime": "Sep 8, 11:37 a.m.",
-      "ETR": "Sep 8, 2:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 8, 12:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "marshall",
-          "CityCusts": 2695,
-          "County": "dane",
-          "CountyCusts": 3389,
-          "Zip": "53559",
-          "ZipCusts": 2697,
-          "Region": "southeast wi",
-          "RegionCusts": 1074620
-        }
-      ]
-    },
-    {
-      "Latitude": 46.06286593755826,
-      "Longitude": -88.83754980880373,
-      "OffTime": "Sep 8, 8:35 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact with We Energies equipment",
-      "LastUpdated": "Sep 8, 12:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 7,
-          "City": "iron river",
-          "CityCusts": 1763,
-          "County": "iron",
-          "CountyCusts": 4272,
-          "Zip": "49935",
-          "ZipCusts": 1764,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41413
-        }
-      ]
-    },
-    {
-      "Latitude": 43.06989349605936,
-      "Longitude": -88.14743043064634,
-      "OffTime": "Sep 8, 9:17 a.m.",
-      "ETR": "Sep 8, 1:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Sep 8, 12:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 8,
-          "City": "brookfield",
-          "CityCusts": 23378,
-          "County": "waukesha",
-          "CountyCusts": 203552,
-          "Zip": "53045",
-          "ZipCusts": 11752,
-          "Region": "southeast wi",
-          "RegionCusts": 1074620
-        }
-      ]
-    },
-    {
-      "Latitude": 44.168956530022555,
-      "Longitude": -88.18370935689387,
-      "OffTime": "Sep 8, 5:51 a.m.",
-      "ETR": "Sep 8, 2:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Sep 8, 12:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 6,
-          "City": "hilbert",
-          "CityCusts": 1066,
-          "County": "calumet",
-          "CountyCusts": 14463,
-          "Zip": "54129",
-          "ZipCusts": 1066,
-          "Region": "fox valley wi",
-          "RegionCusts": 143406
-        }
-      ]
-    },
-    {
-      "Latitude": 43.032765559198104,
-      "Longitude": -88.24241317071727,
-      "OffTime": "Sep 8, 10:03 a.m.",
-      "ETR": "Sep 8, 1:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Sep 8, 12:30 p.m.",
+      "Cause": "We Energies overhead line problem",
+      "LastUpdated": "Sep 8, 3:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -158,30 +135,156 @@
           "Zip": "53188",
           "ZipCusts": 17778,
           "Region": "southeast wi",
-          "RegionCusts": 1074620
+          "RegionCusts": 1074621
         }
       ]
     },
     {
-      "Latitude": 44.33158531191451,
-      "Longitude": -88.7538826170742,
-      "OffTime": "Sep 8, 12:01 p.m.",
-      "ETR": "Sep 8, 3:00 p.m.",
+      "Latitude": 44.17089677903571,
+      "Longitude": -88.48415267458803,
+      "OffTime": "Sep 8, 3:01 p.m.",
+      "ETR": "Sep 8, 6:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 8, 12:30 p.m.",
+      "LastUpdated": "Sep 8, 3:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 4,
-          "City": "new london",
-          "CityCusts": 3688,
-          "County": "waupaca",
-          "CountyCusts": 8908,
-          "Zip": "54961",
-          "ZipCusts": 3696,
+          "AffectedCusts": 1,
+          "City": "neenah",
+          "CityCusts": 21388,
+          "County": "winnebago",
+          "CountyCusts": 27744,
+          "Zip": "54956",
+          "ZipCusts": 21382,
           "Region": "fox valley wi",
           "RegionCusts": 143406
+        }
+      ]
+    },
+    {
+      "Latitude": 42.62899990166895,
+      "Longitude": -87.88293419575264,
+      "OffTime": "Sep 8, 2:47 p.m.",
+      "ETR": "Sep 8, 5:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 8, 3:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 15,
+          "City": "kenosha",
+          "CityCusts": 54309,
+          "County": "kenosha",
+          "CountyCusts": 80166,
+          "Zip": "53144",
+          "ZipCusts": 14034,
+          "Region": "southeast wi",
+          "RegionCusts": 1074621
+        }
+      ]
+    },
+    {
+      "Latitude": 42.837927094469116,
+      "Longitude": -88.72732859264819,
+      "OffTime": "Sep 8, 12:38 p.m.",
+      "ETR": "Sep 8, 3:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 8, 3:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 8,
+          "City": "whitewater",
+          "CityCusts": 9490,
+          "County": "walworth",
+          "CountyCusts": 24232,
+          "Zip": "53190",
+          "ZipCusts": 9493,
+          "Region": "southeast wi",
+          "RegionCusts": 1074621
+        }
+      ]
+    },
+    {
+      "Latitude": 42.57336996338808,
+      "Longitude": -87.82277673422789,
+      "OffTime": "Sep 8, 1:05 p.m.",
+      "ETR": "Sep 8, 4:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 8, 3:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54309,
+          "County": "kenosha",
+          "CountyCusts": 80166,
+          "Zip": "53143",
+          "ZipCusts": 10239,
+          "Region": "southeast wi",
+          "RegionCusts": 1074621
+        }
+      ]
+    },
+    {
+      "Latitude": 42.75679000299926,
+      "Longitude": -87.98323425428542,
+      "OffTime": "Sep 8, 2:30 p.m.",
+      "ETR": "Sep 8, 5:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 8, 3:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 41,
+          "City": "franksville",
+          "CityCusts": 3943,
+          "County": "racine",
+          "CountyCusts": 102580,
+          "Zip": "53126",
+          "ZipCusts": 4019,
+          "Region": "southeast wi",
+          "RegionCusts": 1074621
+        },
+        {
+          "AffectedCusts": 6,
+          "City": "union grove",
+          "CityCusts": 5252,
+          "County": "racine",
+          "CountyCusts": 102580,
+          "Zip": "53182",
+          "ZipCusts": 5252,
+          "Region": "southeast wi",
+          "RegionCusts": 1074621
+        }
+      ]
+    },
+    {
+      "Latitude": 43.17267711422122,
+      "Longitude": -89.1180438653094,
+      "OffTime": "Sep 8, 11:37 a.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 8, 3:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "marshall",
+          "CityCusts": 2695,
+          "County": "dane",
+          "CountyCusts": 3389,
+          "Zip": "53559",
+          "ZipCusts": 2697,
+          "Region": "southeast wi",
+          "RegionCusts": 1074621
         }
       ]
     }
