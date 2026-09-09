@@ -1,49 +1,106 @@
 {
-  "captured_at": "2026-09-09T05:35:11+00:00",
+  "captured_at": "2026-09-09T10:06:06+00:00",
   "events": [
     {
-      "Latitude": 43.58826178639138,
-      "Longitude": -88.46818765733222,
-      "OffTime": "Sep 8, 9:32 p.m.",
-      "ETR": "Sep 9, 3:00 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Sep 9, 12:30 a.m.",
+      "Latitude": 43.20753606543556,
+      "Longitude": -88.2255549434103,
+      "OffTime": "Sep 9, 4:16 a.m.",
+      "ETR": "Sep 9, 7:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 9, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "lomira",
-          "CityCusts": 1837,
-          "County": "dodge",
-          "CountyCusts": 17216,
-          "Zip": "53048",
-          "ZipCusts": 1836,
+          "City": "colgate",
+          "CityCusts": 2586,
+          "County": "washington",
+          "CountyCusts": 61683,
+          "Zip": "53017",
+          "ZipCusts": 2597,
           "Region": "southeast wi",
           "RegionCusts": 1074622
         }
       ]
     },
     {
-      "Latitude": 46.16695073295892,
-      "Longitude": -89.29410509359838,
-      "OffTime": "Sep 8, 11:14 p.m.",
-      "ETR": "Sep 9, 2:00 a.m.",
-      "CrewStatus": "On the way",
+      "Latitude": 43.20712919370753,
+      "Longitude": -88.23644977800267,
+      "OffTime": "Sep 9, 4:13 a.m.",
+      "ETR": "Sep 9, 7:00 a.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 9, 12:30 a.m.",
+      "LastUpdated": "Sep 9, 5:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 41,
-          "City": "land o lakes",
-          "CityCusts": 1708,
-          "County": "vilas",
-          "CountyCusts": 6270,
-          "Zip": "54540",
-          "ZipCusts": 1706,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41413
+          "AffectedCusts": 99,
+          "City": "colgate",
+          "CityCusts": 2586,
+          "County": "washington",
+          "CountyCusts": 61683,
+          "Zip": "53017",
+          "ZipCusts": 2597,
+          "Region": "southeast wi",
+          "RegionCusts": 1074622
+        },
+        {
+          "AffectedCusts": 114,
+          "City": "hubertus",
+          "CityCusts": 2739,
+          "County": "washington",
+          "CountyCusts": 61683,
+          "Zip": "53033",
+          "ZipCusts": 2746,
+          "Region": "southeast wi",
+          "RegionCusts": 1074622
+        }
+      ]
+    },
+    {
+      "Latitude": 43.35141437253707,
+      "Longitude": -88.07794688452485,
+      "OffTime": "Sep 9, 3:09 a.m.",
+      "ETR": "Sep 9, 6:00 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 9, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "west bend",
+          "CityCusts": 26119,
+          "County": "washington",
+          "CountyCusts": 61683,
+          "Zip": "53095",
+          "ZipCusts": 15590,
+          "Region": "southeast wi",
+          "RegionCusts": 1074622
+        }
+      ]
+    },
+    {
+      "Latitude": 43.451006363426906,
+      "Longitude": -88.0663918644789,
+      "OffTime": "Sep 9, 1:29 a.m.",
+      "ETR": "Sep 9, 6:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 9, 5:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "west bend",
+          "CityCusts": 26119,
+          "County": "washington",
+          "CountyCusts": 61683,
+          "Zip": "53090",
+          "ZipCusts": 10560,
+          "Region": "southeast wi",
+          "RegionCusts": 1074622
         }
       ]
     }
