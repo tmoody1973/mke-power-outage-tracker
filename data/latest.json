@@ -1,94 +1,164 @@
 {
-  "captured_at": "2026-09-10T09:54:22+00:00",
+  "captured_at": "2026-09-10T13:57:57+00:00",
   "events": [
     {
-      "Latitude": 43.09018274273137,
-      "Longitude": -88.03402661346877,
-      "OffTime": "Sep 9, 6:41 p.m.",
-      "ETR": "Sep 10, 5:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "",
-      "LastUpdated": "Sep 10, 4:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "wauwatosa",
-          "CityCusts": 10628,
-          "County": "milwaukee",
-          "CountyCusts": 480045,
-          "Zip": "53222",
-          "ZipCusts": 13598,
-          "Region": "southeast wi",
-          "RegionCusts": 1074710
-        },
-        {
-          "AffectedCusts": 73,
-          "City": "milwaukee",
-          "CityCusts": 352212,
-          "County": "milwaukee",
-          "CountyCusts": 480045,
-          "Zip": "53222",
-          "ZipCusts": 13598,
-          "Region": "southeast wi",
-          "RegionCusts": 1074710
-        },
-        {
-          "AffectedCusts": 34,
-          "City": "milwaukee",
-          "CityCusts": 352212,
-          "County": "milwaukee",
-          "CountyCusts": 480045,
-          "Zip": "53225",
-          "ZipCusts": 12040,
-          "Region": "southeast wi",
-          "RegionCusts": 1074710
-        }
-      ]
-    },
-    {
-      "Latitude": 43.09018274273137,
-      "Longitude": -88.03402661346877,
-      "OffTime": "Sep 9, 6:38 p.m.",
-      "ETR": "Sep 10, 5:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Broken pole",
-      "LastUpdated": "Sep 10, 4:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 119,
-          "City": "milwaukee",
-          "CityCusts": 352212,
-          "County": "milwaukee",
-          "CountyCusts": 480045,
-          "Zip": "53222",
-          "ZipCusts": 13598,
-          "Region": "southeast wi",
-          "RegionCusts": 1074710
-        }
-      ]
-    },
-    {
-      "Latitude": 46.017964865788024,
-      "Longitude": -87.1299692976052,
-      "OffTime": "Sep 10, 3:03 a.m.",
-      "ETR": "Sep 10, 6:00 a.m.",
-      "CrewStatus": "On the way",
+      "Latitude": 42.67370311005072,
+      "Longitude": -88.28248399114761,
+      "OffTime": "Sep 10, 8:44 a.m.",
+      "ETR": "Sep 10, 11:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 10, 4:50 a.m.",
+      "LastUpdated": "Sep 10, 8:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 5,
+          "City": "burlington",
+          "CityCusts": 15561,
+          "County": "racine",
+          "CountyCusts": 102589,
+          "Zip": "53105",
+          "ZipCusts": 15603,
+          "Region": "southeast wi",
+          "RegionCusts": 1074778
+        }
+      ]
+    },
+    {
+      "Latitude": 42.72721976376034,
+      "Longitude": -87.79798495216912,
+      "OffTime": "Sep 10, 8:21 a.m.",
+      "ETR": "Sep 10, 10:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Sep 10, 8:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 26,
+          "City": "racine",
+          "CityCusts": 58976,
+          "County": "racine",
+          "CountyCusts": 102589,
+          "Zip": "53404",
+          "ZipCusts": 7239,
+          "Region": "southeast wi",
+          "RegionCusts": 1074778
+        }
+      ]
+    },
+    {
+      "Latitude": 43.14991947865757,
+      "Longitude": -88.6731185600261,
+      "OffTime": "Sep 10, 8:36 a.m.",
+      "ETR": "Sep 10, 11:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 10, 8:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "rock",
-          "CityCusts": 569,
-          "County": "delta",
-          "CountyCusts": 1713,
-          "Zip": "49880",
-          "ZipCusts": 570,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41416
+          "City": "watertown",
+          "CityCusts": 16257,
+          "County": "jefferson",
+          "CountyCusts": 35291,
+          "Zip": "53094",
+          "ZipCusts": 10265,
+          "Region": "southeast wi",
+          "RegionCusts": 1074778
+        }
+      ]
+    },
+    {
+      "Latitude": 43.38335943080403,
+      "Longitude": -88.36189329102234,
+      "OffTime": "Sep 10, 8:45 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 10, 8:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "hartford",
+          "CityCusts": 4246,
+          "County": "washington",
+          "CountyCusts": 61685,
+          "Zip": "53027",
+          "ZipCusts": 4252,
+          "Region": "southeast wi",
+          "RegionCusts": 1074778
+        }
+      ]
+    },
+    {
+      "Latitude": 43.2193721071473,
+      "Longitude": -88.34579632047999,
+      "OffTime": "Sep 10, 7:50 a.m.",
+      "ETR": "Sep 10, 10:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 10, 8:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "hartford",
+          "CityCusts": 4246,
+          "County": "washington",
+          "CountyCusts": 61685,
+          "Zip": "53027",
+          "ZipCusts": 4252,
+          "Region": "southeast wi",
+          "RegionCusts": 1074778
+        }
+      ]
+    },
+    {
+      "Latitude": 43.264271214088765,
+      "Longitude": -88.1627719202302,
+      "OffTime": "Sep 10, 8:44 a.m.",
+      "ETR": "Sep 10, 11:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 10, 8:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 59,
+          "City": "richfield",
+          "CityCusts": 2112,
+          "County": "washington",
+          "CountyCusts": 61685,
+          "Zip": "53076",
+          "ZipCusts": 2094,
+          "Region": "southeast wi",
+          "RegionCusts": 1074778
+        }
+      ]
+    },
+    {
+      "Latitude": 42.738542628306575,
+      "Longitude": -87.80248410152997,
+      "OffTime": "Sep 10, 8:22 a.m.",
+      "ETR": "Sep 10, 11:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 10, 8:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 58976,
+          "County": "racine",
+          "CountyCusts": 102589,
+          "Zip": "53404",
+          "ZipCusts": 7239,
+          "Region": "southeast wi",
+          "RegionCusts": 1074778
         }
       ]
     }
