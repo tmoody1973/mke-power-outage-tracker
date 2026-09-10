@@ -1,20 +1,20 @@
 {
-  "captured_at": "2026-09-10T05:16:00+00:00",
+  "captured_at": "2026-09-10T09:54:22+00:00",
   "events": [
     {
       "Latitude": 43.09018274273137,
       "Longitude": -88.03402661346877,
       "OffTime": "Sep 9, 6:41 p.m.",
       "ETR": "Sep 10, 5:00 a.m.",
-      "CrewStatus": "Specialized crew needed",
+      "CrewStatus": "Assigned",
       "Cause": "",
-      "LastUpdated": "Sep 10, 12:10 a.m.",
+      "LastUpdated": "Sep 10, 4:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 73,
-          "City": "milwaukee",
-          "CityCusts": 352212,
+          "AffectedCusts": 2,
+          "City": "wauwatosa",
+          "CityCusts": 10628,
           "County": "milwaukee",
           "CountyCusts": 480045,
           "Zip": "53222",
@@ -23,9 +23,9 @@
           "RegionCusts": 1074710
         },
         {
-          "AffectedCusts": 2,
-          "City": "wauwatosa",
-          "CityCusts": 10628,
+          "AffectedCusts": 73,
+          "City": "milwaukee",
+          "CityCusts": 352212,
           "County": "milwaukee",
           "CountyCusts": 480045,
           "Zip": "53222",
@@ -47,36 +47,13 @@
       ]
     },
     {
-      "Latitude": 43.824263682829866,
-      "Longitude": -88.01768746045506,
-      "OffTime": "Sep 10, 12:08 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 10, 12:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 11,
-          "City": "elkhart lake",
-          "CityCusts": 2473,
-          "County": "sheboygan",
-          "CountyCusts": 14258,
-          "Zip": "53020",
-          "ZipCusts": 2479,
-          "Region": "southeast wi",
-          "RegionCusts": 1074710
-        }
-      ]
-    },
-    {
       "Latitude": 43.09018274273137,
       "Longitude": -88.03402661346877,
       "OffTime": "Sep 9, 6:38 p.m.",
       "ETR": "Sep 10, 5:00 a.m.",
-      "CrewStatus": "Specialized crew needed",
+      "CrewStatus": "Assigned",
       "Cause": "Broken pole",
-      "LastUpdated": "Sep 10, 12:10 a.m.",
+      "LastUpdated": "Sep 10, 4:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -93,25 +70,25 @@
       ]
     },
     {
-      "Latitude": 42.91694756457841,
-      "Longitude": -87.87019942136209,
-      "OffTime": "Sep 9, 11:27 p.m.",
-      "ETR": "Sep 10, 2:30 a.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 46.017964865788024,
+      "Longitude": -87.1299692976052,
+      "OffTime": "Sep 10, 3:03 a.m.",
+      "ETR": "Sep 10, 6:00 a.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 10, 12:10 a.m.",
+      "LastUpdated": "Sep 10, 4:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "south milwaukee",
-          "CityCusts": 10361,
-          "County": "milwaukee",
-          "CountyCusts": 480045,
-          "Zip": "53172",
-          "ZipCusts": 10362,
-          "Region": "southeast wi",
-          "RegionCusts": 1074710
+          "City": "rock",
+          "CityCusts": 569,
+          "County": "delta",
+          "CountyCusts": 1713,
+          "Zip": "49880",
+          "ZipCusts": 570,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41416
         }
       ]
     }
