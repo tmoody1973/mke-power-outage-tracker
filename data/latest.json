@@ -1,106 +1,14 @@
 {
-  "captured_at": "2026-09-11T00:18:04+00:00",
+  "captured_at": "2026-09-11T04:55:35+00:00",
   "events": [
-    {
-      "Latitude": 42.56267884065339,
-      "Longitude": -87.82461781685464,
-      "OffTime": "Sep 10, 12:17 p.m.",
-      "ETR": "Sep 10, 7:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Sep 10, 7:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54313,
-          "County": "kenosha",
-          "CountyCusts": 80171,
-          "Zip": "53143",
-          "ZipCusts": 10241,
-          "Region": "southeast wi",
-          "RegionCusts": 1074778
-        }
-      ]
-    },
-    {
-      "Latitude": 46.17579082060057,
-      "Longitude": -89.19218527416633,
-      "OffTime": "Sep 10, 3:59 p.m.",
-      "ETR": "Sep 10, 10:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Sep 10, 7:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 39,
-          "City": "watersmeet",
-          "CityCusts": 2015,
-          "County": "gogebic",
-          "CountyCusts": 2020,
-          "Zip": "49969",
-          "ZipCusts": 2011,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41413
-        }
-      ]
-    },
-    {
-      "Latitude": 44.85444507605995,
-      "Longitude": -88.35558025178595,
-      "OffTime": "Sep 10, 11:04 a.m.",
-      "ETR": "Sep 10, 9:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Sep 10, 7:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "cecil",
-          "CityCusts": 1375,
-          "County": "oconto",
-          "CountyCusts": 1187,
-          "Zip": "54111",
-          "ZipCusts": 1377,
-          "Region": "fox valley wi",
-          "RegionCusts": 143409
-        }
-      ]
-    },
-    {
-      "Latitude": 42.75024638503229,
-      "Longitude": -87.95553412208378,
-      "OffTime": "Sep 10, 2:01 p.m.",
-      "ETR": "Sep 10, 9:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Sep 10, 7:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "franksville",
-          "CityCusts": 3943,
-          "County": "racine",
-          "CountyCusts": 102589,
-          "Zip": "53126",
-          "ZipCusts": 4019,
-          "Region": "southeast wi",
-          "RegionCusts": 1074778
-        }
-      ]
-    },
     {
       "Latitude": 44.17566516622995,
       "Longitude": -88.45408480793718,
       "OffTime": "Sep 10, 5:11 p.m.",
-      "ETR": "Sep 10, 8:00 p.m.",
+      "ETR": "Sep 11, 12:00 a.m.",
       "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 10, 7:10 p.m.",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Sep 10, 11:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -113,52 +21,6 @@
           "ZipCusts": 21381,
           "Region": "fox valley wi",
           "RegionCusts": 143409
-        }
-      ]
-    },
-    {
-      "Latitude": 43.058407121082276,
-      "Longitude": -88.05191372955649,
-      "OffTime": "Sep 10, 6:37 p.m.",
-      "ETR": "Sep 10, 9:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 10, 7:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "wauwatosa",
-          "CityCusts": 10628,
-          "County": "milwaukee",
-          "CountyCusts": 480078,
-          "Zip": "53226",
-          "ZipCusts": 11011,
-          "Region": "southeast wi",
-          "RegionCusts": 1074778
-        }
-      ]
-    },
-    {
-      "Latitude": 43.045016057338984,
-      "Longitude": -88.09272708232119,
-      "OffTime": "Sep 10, 4:17 p.m.",
-      "ETR": "Sep 10, 9:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Sep 10, 7:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "elm grove",
-          "CityCusts": 3382,
-          "County": "waukesha",
-          "CountyCusts": 203572,
-          "Zip": "53122",
-          "ZipCusts": 3381,
-          "Region": "southeast wi",
-          "RegionCusts": 1074778
         }
       ]
     }
