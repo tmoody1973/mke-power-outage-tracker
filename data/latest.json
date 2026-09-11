@@ -1,26 +1,37 @@
 {
-  "captured_at": "2026-09-11T04:55:35+00:00",
+  "captured_at": "2026-09-11T09:17:02+00:00",
   "events": [
     {
-      "Latitude": 44.17566516622995,
-      "Longitude": -88.45408480793718,
-      "OffTime": "Sep 10, 5:11 p.m.",
-      "ETR": "Sep 11, 12:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Sep 10, 11:50 p.m.",
+      "Latitude": 42.9002916184932,
+      "Longitude": -87.9218299884614,
+      "OffTime": "Sep 11, 3:33 a.m.",
+      "ETR": "Sep 11, 6:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 11, 4:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "neenah",
-          "CityCusts": 21387,
-          "County": "winnebago",
-          "CountyCusts": 27741,
-          "Zip": "54956",
-          "ZipCusts": 21381,
-          "Region": "fox valley wi",
-          "RegionCusts": 143409
+          "City": "milwaukee",
+          "CityCusts": 352242,
+          "County": "milwaukee",
+          "CountyCusts": 480078,
+          "Zip": "53154",
+          "ZipCusts": 19948,
+          "Region": "southeast wi",
+          "RegionCusts": 1074778
+        },
+        {
+          "AffectedCusts": 457,
+          "City": "oak creek",
+          "CityCusts": 19956,
+          "County": "milwaukee",
+          "CountyCusts": 480078,
+          "Zip": "53154",
+          "ZipCusts": 19948,
+          "Region": "southeast wi",
+          "RegionCusts": 1074778
         }
       ]
     }
