@@ -1,37 +1,106 @@
 {
-  "captured_at": "2026-09-11T09:17:02+00:00",
+  "captured_at": "2026-09-11T13:41:05+00:00",
   "events": [
     {
-      "Latitude": 42.9002916184932,
-      "Longitude": -87.9218299884614,
-      "OffTime": "Sep 11, 3:33 a.m.",
-      "ETR": "Sep 11, 6:30 a.m.",
+      "Latitude": 43.17801122367321,
+      "Longitude": -88.98192133154308,
+      "OffTime": "Sep 11, 8:13 a.m.",
+      "ETR": "Sep 11, 11:00 a.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 11, 4:10 a.m.",
+      "LastUpdated": "Sep 11, 8:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352242,
-          "County": "milwaukee",
-          "CountyCusts": 480078,
-          "Zip": "53154",
-          "ZipCusts": 19948,
+          "City": "waterloo",
+          "CityCusts": 867,
+          "County": "jefferson",
+          "CountyCusts": 35293,
+          "Zip": "53594",
+          "ZipCusts": 866,
           "Region": "southeast wi",
-          "RegionCusts": 1074778
+          "RegionCusts": 1074765
+        }
+      ]
+    },
+    {
+      "Latitude": 42.698510902595636,
+      "Longitude": -87.92825357458935,
+      "OffTime": "Sep 11, 6:56 a.m.",
+      "ETR": "Sep 11, 9:30 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Sep 11, 8:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "mount pleasant",
+          "CityCusts": 5516,
+          "County": "racine",
+          "CountyCusts": 102584,
+          "Zip": "53406",
+          "ZipCusts": 14551,
+          "Region": "southeast wi",
+          "RegionCusts": 1074765
+        }
+      ]
+    },
+    {
+      "Latitude": 43.65454840717582,
+      "Longitude": -88.27331619553712,
+      "OffTime": "Sep 11, 8:37 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 11, 8:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "eden",
+          "CityCusts": 916,
+          "County": "fond du lac",
+          "CountyCusts": 6950,
+          "Zip": "53019",
+          "ZipCusts": 912,
+          "Region": "southeast wi",
+          "RegionCusts": 1074765
+        }
+      ]
+    },
+    {
+      "Latitude": 43.12000531394596,
+      "Longitude": -87.90146986956805,
+      "OffTime": "Sep 11, 8:23 a.m.",
+      "ETR": "Sep 11, 11:00 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 11, 8:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 10,
+          "City": "milwaukee",
+          "CityCusts": 352232,
+          "County": "milwaukee",
+          "CountyCusts": 480073,
+          "Zip": "53217",
+          "ZipCusts": 15173,
+          "Region": "southeast wi",
+          "RegionCusts": 1074765
         },
         {
-          "AffectedCusts": 457,
-          "City": "oak creek",
-          "CityCusts": 19956,
+          "AffectedCusts": 3,
+          "City": "whitefish bay",
+          "CityCusts": 1792,
           "County": "milwaukee",
-          "CountyCusts": 480078,
-          "Zip": "53154",
-          "ZipCusts": 19948,
+          "CountyCusts": 480073,
+          "Zip": "53217",
+          "ZipCusts": 15173,
           "Region": "southeast wi",
-          "RegionCusts": 1074778
+          "RegionCusts": 1074765
         }
       ]
     }
