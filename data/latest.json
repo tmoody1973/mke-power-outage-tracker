@@ -1,4 +1,51 @@
 {
-  "captured_at": "2026-09-12T07:15:07+00:00",
-  "events": []
+  "captured_at": "2026-09-12T11:37:17+00:00",
+  "events": [
+    {
+      "Latitude": 43.384412074814094,
+      "Longitude": -88.3610167949242,
+      "OffTime": "Sep 12, 4:35 a.m.",
+      "ETR": "Sep 12, 7:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 12, 6:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "hartford",
+          "CityCusts": 4246,
+          "County": "washington",
+          "CountyCusts": 61685,
+          "Zip": "53027",
+          "ZipCusts": 4252,
+          "Region": "southeast wi",
+          "RegionCusts": 1074765
+        }
+      ]
+    },
+    {
+      "Latitude": 43.384565754062436,
+      "Longitude": -88.35823487949895,
+      "OffTime": "Sep 12, 4:30 a.m.",
+      "ETR": "Sep 12, 7:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 12, 6:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 24,
+          "City": "hartford",
+          "CityCusts": 4246,
+          "County": "washington",
+          "CountyCusts": 61685,
+          "Zip": "53027",
+          "ZipCusts": 4252,
+          "Region": "southeast wi",
+          "RegionCusts": 1074765
+        }
+      ]
+    }
+  ]
 }
