@@ -1,24 +1,24 @@
 {
-  "captured_at": "2026-09-12T21:38:10+00:00",
+  "captured_at": "2026-09-12T23:20:50+00:00",
   "events": [
     {
-      "Latitude": 43.40479385035741,
-      "Longitude": -88.28152512726675,
-      "OffTime": "Sep 12, 2:17 p.m.",
-      "ETR": "Sep 12, 5:00 p.m.",
+      "Latitude": 43.22829477894563,
+      "Longitude": -88.52037178871767,
+      "OffTime": "Sep 12, 5:50 p.m.",
+      "ETR": "Sep 12, 8:30 p.m.",
       "CrewStatus": "Assigned",
-      "Cause": "Vehicle accident",
-      "LastUpdated": "Sep 12, 4:30 p.m.",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 12, 6:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "west bend",
-          "CityCusts": 26120,
-          "County": "washington",
-          "CountyCusts": 61685,
-          "Zip": "53095",
-          "ZipCusts": 15591,
+          "City": "oconomowoc",
+          "CityCusts": 8565,
+          "County": "dodge",
+          "CountyCusts": 17215,
+          "Zip": "53066",
+          "ZipCusts": 8890,
           "Region": "southeast wi",
           "RegionCusts": 1074765
         }
@@ -29,9 +29,9 @@
       "Longitude": -88.06355702832882,
       "OffTime": "Sep 12, 3:56 p.m.",
       "ETR": "Sep 12, 6:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 12, 4:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Sep 12, 6:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -51,10 +51,10 @@
       "Latitude": 43.0021557926985,
       "Longitude": -87.9116876140987,
       "OffTime": "Sep 12, 12:32 p.m.",
-      "ETR": "Sep 12, 5:30 p.m.",
+      "ETR": "Sep 12, 8:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Facilities patrolled - no problems found",
-      "LastUpdated": "Sep 12, 4:30 p.m.",
+      "LastUpdated": "Sep 12, 6:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -65,52 +65,6 @@
           "CountyCusts": 480073,
           "Zip": "53207",
           "ZipCusts": 20431,
-          "Region": "southeast wi",
-          "RegionCusts": 1074765
-        }
-      ]
-    },
-    {
-      "Latitude": 43.16461958677434,
-      "Longitude": -88.18367497629907,
-      "OffTime": "Sep 12, 2:06 p.m.",
-      "ETR": "Sep 12, 5:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 12, 4:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "sussex",
-          "CityCusts": 9896,
-          "County": "waukesha",
-          "CountyCusts": 203570,
-          "Zip": "53089",
-          "ZipCusts": 10046,
-          "Region": "southeast wi",
-          "RegionCusts": 1074765
-        }
-      ]
-    },
-    {
-      "Latitude": 42.707464443869064,
-      "Longitude": -87.95186587364688,
-      "OffTime": "Sep 12, 4:28 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 12, 4:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "sturtevant",
-          "CityCusts": 4036,
-          "County": "racine",
-          "CountyCusts": 102584,
-          "Zip": "53177",
-          "ZipCusts": 4723,
           "Region": "southeast wi",
           "RegionCusts": 1074765
         }
