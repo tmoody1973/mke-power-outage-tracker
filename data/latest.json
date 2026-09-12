@@ -1,47 +1,104 @@
 {
-  "captured_at": "2026-09-12T14:21:38+00:00",
+  "captured_at": "2026-09-12T17:19:32+00:00",
   "events": [
     {
-      "Latitude": 42.69668340025867,
-      "Longitude": -87.85353838265338,
-      "OffTime": "Sep 12, 9:16 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Assigned",
+      "Latitude": 43.058945894749264,
+      "Longitude": -87.93588471864405,
+      "OffTime": "Sep 12, 11:45 a.m.",
+      "ETR": "Sep 12, 2:30 p.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 12, 9:20 a.m.",
+      "LastUpdated": "Sep 12, 12:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 58975,
-          "County": "racine",
-          "CountyCusts": 102584,
-          "Zip": "53406",
-          "ZipCusts": 14551,
+          "City": "milwaukee",
+          "CityCusts": 352232,
+          "County": "milwaukee",
+          "CountyCusts": 480073,
+          "Zip": "53205",
+          "ZipCusts": 4131,
           "Region": "southeast wi",
           "RegionCusts": 1074765
         }
       ]
     },
     {
-      "Latitude": 43.39856650735143,
-      "Longitude": -88.28296196279364,
-      "OffTime": "Sep 12, 6:54 a.m.",
-      "ETR": "Sep 12, 9:30 a.m.",
+      "Latitude": 42.54643342550183,
+      "Longitude": -87.82362335465444,
+      "OffTime": "Sep 12, 12:01 p.m.",
+      "ETR": "Sep 12, 3:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 12, 9:20 a.m.",
+      "LastUpdated": "Sep 12, 12:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "west bend",
-          "CityCusts": 26120,
-          "County": "washington",
-          "CountyCusts": 61685,
-          "Zip": "53095",
-          "ZipCusts": 15591,
+          "City": "kenosha",
+          "CityCusts": 54312,
+          "County": "kenosha",
+          "CountyCusts": 80168,
+          "Zip": "53143",
+          "ZipCusts": 10241,
+          "Region": "southeast wi",
+          "RegionCusts": 1074765
+        }
+      ]
+    },
+    {
+      "Latitude": 42.69912180667696,
+      "Longitude": -87.95058970209392,
+      "OffTime": "Sep 12, 9:28 a.m.",
+      "ETR": "Sep 12, 12:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Sep 12, 12:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 42,
+          "City": "sturtevant",
+          "CityCusts": 4036,
+          "County": "racine",
+          "CountyCusts": 102584,
+          "Zip": "53177",
+          "ZipCusts": 4723,
+          "Region": "southeast wi",
+          "RegionCusts": 1074765
+        },
+        {
+          "AffectedCusts": 47,
+          "City": "mount pleasant",
+          "CityCusts": 5516,
+          "County": "racine",
+          "CountyCusts": 102584,
+          "Zip": "53177",
+          "ZipCusts": 4723,
+          "Region": "southeast wi",
+          "RegionCusts": 1074765
+        }
+      ]
+    },
+    {
+      "Latitude": 43.13560265098451,
+      "Longitude": -88.42837289712583,
+      "OffTime": "Sep 12, 11:53 a.m.",
+      "ETR": "Sep 12, 2:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 12, 12:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 5,
+          "City": "oconomowoc",
+          "CityCusts": 8565,
+          "County": "waukesha",
+          "CountyCusts": 203570,
+          "Zip": "53066",
+          "ZipCusts": 8890,
           "Region": "southeast wi",
           "RegionCusts": 1074765
         }
