@@ -1,40 +1,41 @@
 {
-  "captured_at": "2026-09-13T11:49:52+00:00",
+  "captured_at": "2026-09-13T15:20:46+00:00",
   "events": [
+    {
+      "Latitude": 42.96981159411723,
+      "Longitude": -88.1195665945352,
+      "OffTime": "Sep 13, 9:29 a.m.",
+      "ETR": "Sep 13, 12:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 13, 10:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 21,
+          "City": "new berlin",
+          "CityCusts": 20465,
+          "County": "waukesha",
+          "CountyCusts": 203570,
+          "Zip": "53151",
+          "ZipCusts": 16756,
+          "Region": "southeast wi",
+          "RegionCusts": 1074765
+        }
+      ]
+    },
     {
       "Latitude": 43.17355934989164,
       "Longitude": -88.35413501168806,
       "OffTime": "Sep 13, 3:41 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Assigned",
+      "ETR": "Sep 13, 12:30 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Sep 13, 6:40 a.m.",
+      "LastUpdated": "Sep 13, 10:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 6,
-          "City": "hartland",
-          "CityCusts": 11261,
-          "County": "waukesha",
-          "CountyCusts": 203570,
-          "Zip": "53029",
-          "ZipCusts": 11370,
-          "Region": "southeast wi",
-          "RegionCusts": 1074765
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "north lake",
-          "CityCusts": 65,
-          "County": "waukesha",
-          "CountyCusts": 203570,
-          "Zip": "53054",
-          "ZipCusts": 1,
-          "Region": "southeast wi",
-          "RegionCusts": 1074765
-        },
-        {
-          "AffectedCusts": 7,
+          "AffectedCusts": 2,
           "City": "north lake",
           "CityCusts": 65,
           "County": "waukesha",
@@ -47,114 +48,46 @@
       ]
     },
     {
-      "Latitude": 44.18813628788733,
-      "Longitude": -88.9864427362311,
-      "OffTime": "Sep 13, 5:31 a.m.",
-      "ETR": "Sep 13, 8:30 a.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 45.85227606644421,
+      "Longitude": -88.06339586727464,
+      "OffTime": "Sep 13, 8:37 a.m.",
+      "ETR": "Sep 13, 11:30 a.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 13, 6:40 a.m.",
+      "LastUpdated": "Sep 13, 10:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 5,
+          "City": "iron mountain",
+          "CityCusts": 7099,
+          "County": "dickinson",
+          "CountyCusts": 14088,
+          "Zip": "49801",
+          "ZipCusts": 7100,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41416
+        }
+      ]
+    },
+    {
+      "Latitude": 42.910507196252645,
+      "Longitude": -87.88042364612019,
+      "OffTime": "Sep 13, 7:38 a.m.",
+      "ETR": "Sep 13, 10:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Sep 13, 10:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "weyauwega",
-          "CityCusts": 2741,
-          "County": "waushara",
-          "CountyCusts": 867,
-          "Zip": "54983",
-          "ZipCusts": 2741,
-          "Region": "fox valley wi",
-          "RegionCusts": 143414
-        }
-      ]
-    },
-    {
-      "Latitude": 42.97293214472689,
-      "Longitude": -88.35587036997252,
-      "OffTime": "Sep 13, 4:09 a.m.",
-      "ETR": "Sep 13, 7:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 13, 6:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 175,
-          "City": "waukesha",
-          "CityCusts": 48445,
-          "County": "waukesha",
-          "CountyCusts": 203570,
-          "Zip": "53189",
-          "ZipCusts": 12985,
-          "Region": "southeast wi",
-          "RegionCusts": 1074765
-        },
-        {
-          "AffectedCusts": 137,
-          "City": "waukesha",
-          "CityCusts": 48445,
-          "County": "waukesha",
-          "CountyCusts": 203570,
-          "Zip": "53188",
-          "ZipCusts": 17771,
-          "Region": "southeast wi",
-          "RegionCusts": 1074765
-        },
-        {
-          "AffectedCusts": 3,
-          "City": "genesee",
-          "CityCusts": 43,
-          "County": "waukesha",
-          "CountyCusts": 203570,
-          "Zip": "53189",
-          "ZipCusts": 12985,
-          "Region": "southeast wi",
-          "RegionCusts": 1074765
-        }
-      ]
-    },
-    {
-      "Latitude": 42.97043251436286,
-      "Longitude": -88.3555654167348,
-      "OffTime": "Sep 13, 6:13 a.m.",
-      "ETR": "Sep 13, 9:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 13, 6:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 10,
-          "City": "waukesha",
-          "CityCusts": 48445,
-          "County": "waukesha",
-          "CountyCusts": 203570,
-          "Zip": "53189",
-          "ZipCusts": 12985,
-          "Region": "southeast wi",
-          "RegionCusts": 1074765
-        }
-      ]
-    },
-    {
-      "Latitude": 42.99327747450175,
-      "Longitude": -88.34044691217616,
-      "OffTime": "Sep 13, 6:13 a.m.",
-      "ETR": "Sep 13, 9:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 13, 6:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 4,
-          "City": "waukesha",
-          "CityCusts": 48445,
-          "County": "waukesha",
-          "CountyCusts": 203570,
-          "Zip": "53188",
-          "ZipCusts": 17771,
+          "City": "south milwaukee",
+          "CityCusts": 10362,
+          "County": "milwaukee",
+          "CountyCusts": 480073,
+          "Zip": "53172",
+          "ZipCusts": 10363,
           "Region": "southeast wi",
           "RegionCusts": 1074765
         }
