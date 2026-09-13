@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-09-13T01:14:48+00:00",
+  "captured_at": "2026-09-13T06:12:07+00:00",
   "events": [
     {
       "Latitude": 43.0021557926985,
       "Longitude": -87.9116876140987,
       "OffTime": "Sep 12, 12:32 p.m.",
       "ETR": "Sep 13, 2:00 a.m.",
-      "CrewStatus": "Assigned",
+      "CrewStatus": "On site",
       "Cause": "Facilities patrolled - no problems found",
-      "LastUpdated": "Sep 12, 8:10 p.m.",
+      "LastUpdated": "Sep 13, 1:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,46 +25,69 @@
       ]
     },
     {
-      "Latitude": 43.02452327058021,
-      "Longitude": -87.95263415921369,
-      "OffTime": "Sep 12, 8:00 p.m.",
-      "ETR": "Sep 12, 11:00 p.m.",
-      "CrewStatus": "On the way",
+      "Latitude": 42.6739329077404,
+      "Longitude": -88.05017658120688,
+      "OffTime": "Sep 13, 12:57 a.m.",
+      "ETR": "Sep 13, 4:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 12, 8:10 p.m.",
+      "LastUpdated": "Sep 13, 1:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 4,
-          "City": "milwaukee",
-          "CityCusts": 352232,
-          "County": "milwaukee",
-          "CountyCusts": 480073,
-          "Zip": "53215",
-          "ZipCusts": 22363,
+          "AffectedCusts": 22,
+          "City": "union grove",
+          "CityCusts": 5251,
+          "County": "racine",
+          "CountyCusts": 102584,
+          "Zip": "53182",
+          "ZipCusts": 5251,
           "Region": "southeast wi",
           "RegionCusts": 1074765
         }
       ]
     },
     {
-      "Latitude": 42.95600329878444,
-      "Longitude": -88.06355702832882,
-      "OffTime": "Sep 12, 3:56 p.m.",
-      "ETR": "Sep 13, 12:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Sep 12, 8:10 p.m.",
+      "Latitude": 42.741561912179705,
+      "Longitude": -87.84621286089644,
+      "OffTime": "Sep 13, 12:13 a.m.",
+      "ETR": "Sep 13, 6:00 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Sep 13, 1:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 5,
-          "City": "greenfield",
-          "CityCusts": 12583,
-          "County": "milwaukee",
-          "CountyCusts": 480073,
-          "Zip": "53228",
-          "ZipCusts": 8265,
+          "AffectedCusts": 2,
+          "City": "racine",
+          "CityCusts": 58975,
+          "County": "racine",
+          "CountyCusts": 102584,
+          "Zip": "53406",
+          "ZipCusts": 14551,
+          "Region": "southeast wi",
+          "RegionCusts": 1074765
+        }
+      ]
+    },
+    {
+      "Latitude": 42.54643342550183,
+      "Longitude": -87.82362335465444,
+      "OffTime": "Sep 13, 12:37 a.m.",
+      "ETR": "Sep 13, 3:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 13, 1:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54312,
+          "County": "kenosha",
+          "CountyCusts": 80168,
+          "Zip": "53143",
+          "ZipCusts": 10241,
           "Region": "southeast wi",
           "RegionCusts": 1074765
         }
