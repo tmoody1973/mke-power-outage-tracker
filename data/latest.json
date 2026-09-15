@@ -1,74 +1,75 @@
 {
-  "captured_at": "2026-09-15T19:56:08+00:00",
+  "captured_at": "2026-09-15T22:37:37+00:00",
   "events": [
     {
-      "Latitude": 46.03664320234313,
-      "Longitude": -88.49232130231206,
-      "OffTime": "Sep 15, 12:38 p.m.",
-      "ETR": "Sep 15, 3:30 p.m.",
+      "Latitude": 42.96845676901042,
+      "Longitude": -88.03099351696953,
+      "OffTime": "Sep 15, 3:03 p.m.",
+      "ETR": "Sep 15, 6:30 p.m.",
       "CrewStatus": "On site",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Sep 15, 2:50 p.m.",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 15, 5:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 8,
-          "City": "gaastra",
-          "CityCusts": 8,
-          "County": "iron",
-          "CountyCusts": 4274,
-          "Zip": "49927",
-          "ZipCusts": 9,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41418
+          "AffectedCusts": 9,
+          "City": "milwaukee",
+          "CityCusts": 352241,
+          "County": "milwaukee",
+          "CountyCusts": 480072,
+          "Zip": "53228",
+          "ZipCusts": 8264,
+          "Region": "southeast wi",
+          "RegionCusts": 1074835
         },
         {
-          "AffectedCusts": 3,
-          "City": "stambaugh",
-          "CityCusts": 21,
-          "County": "iron",
-          "CountyCusts": 4274,
-          "Zip": "49964",
-          "ZipCusts": 17,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41418
-        },
-        {
-          "AffectedCusts": 45,
-          "City": "crystal falls",
-          "CityCusts": 2028,
-          "County": "iron",
-          "CountyCusts": 4274,
-          "Zip": "49920",
-          "ZipCusts": 2031,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41418
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "stambaugh",
-          "CityCusts": 21,
-          "County": "iron",
-          "CountyCusts": 4274,
-          "Zip": "49927",
-          "ZipCusts": 9,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41418
+          "AffectedCusts": 15,
+          "City": "greenfield",
+          "CityCusts": 12581,
+          "County": "milwaukee",
+          "CountyCusts": 480072,
+          "Zip": "53228",
+          "ZipCusts": 8264,
+          "Region": "southeast wi",
+          "RegionCusts": 1074835
         }
       ]
     },
     {
-      "Latitude": 45.84984410165002,
-      "Longitude": -88.66730099538037,
-      "OffTime": "Sep 15, 1:18 p.m.",
-      "ETR": "Sep 15, 6:30 p.m.",
-      "CrewStatus": "On the way",
+      "Latitude": 42.971637980414975,
+      "Longitude": -87.90897346521423,
+      "OffTime": "Sep 15, 5:27 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 15, 2:50 p.m.",
+      "LastUpdated": "Sep 15, 5:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 41,
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352241,
+          "County": "milwaukee",
+          "CountyCusts": 480072,
+          "Zip": "53207",
+          "ZipCusts": 20429,
+          "Region": "southeast wi",
+          "RegionCusts": 1074835
+        }
+      ]
+    },
+    {
+      "Latitude": 45.8846790036512,
+      "Longitude": -88.6329261781528,
+      "OffTime": "Sep 15, 4:49 p.m.",
+      "ETR": "Sep 15, 9:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 15, 5:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
           "City": "long lake",
           "CityCusts": 486,
           "County": "florence",
@@ -77,66 +78,21 @@
           "ZipCusts": 1176,
           "Region": "upper peninsula mi",
           "RegionCusts": 41418
-        },
-        {
-          "AffectedCusts": 2,
-          "City": "popple river",
-          "CityCusts": 20,
-          "County": "forest",
-          "CountyCusts": 742,
-          "Zip": "54542",
-          "ZipCusts": 1176,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41418
-        },
-        {
-          "AffectedCusts": 14,
-          "City": "long lake",
-          "CityCusts": 486,
-          "County": "forest",
-          "CountyCusts": 742,
-          "Zip": "54542",
-          "ZipCusts": 1176,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41418
         }
       ]
     },
     {
-      "Latitude": 44.29154293483738,
-      "Longitude": -88.4579802705445,
-      "OffTime": "Sep 15, 10:45 a.m.",
-      "ETR": "Sep 15, 3:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Sep 15, 2:50 p.m.",
+      "Latitude": 46.06069445986039,
+      "Longitude": -88.22024377314365,
+      "OffTime": "Sep 15, 5:15 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 15, 5:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 62973,
-          "County": "outagamie",
-          "CountyCusts": 80193,
-          "Zip": "54914",
-          "ZipCusts": 16311,
-          "Region": "fox valley wi",
-          "RegionCusts": 143436
-        }
-      ]
-    },
-    {
-      "Latitude": 46.01301051468353,
-      "Longitude": -88.43027420087053,
-      "OffTime": "Sep 15, 1:55 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 15, 2:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 16,
           "City": "crystal falls",
           "CityCusts": 2028,
           "County": "iron",
@@ -149,23 +105,23 @@
       ]
     },
     {
-      "Latitude": 43.210263947195685,
-      "Longitude": -88.00505718250439,
-      "OffTime": "Sep 15, 2:33 p.m.",
-      "ETR": "Sep 15, 5:30 p.m.",
+      "Latitude": 43.33444349169768,
+      "Longitude": -87.97011996653119,
+      "OffTime": "Sep 15, 3:58 p.m.",
+      "ETR": "Sep 15, 7:00 p.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 15, 2:50 p.m.",
+      "LastUpdated": "Sep 15, 5:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "mequon",
-          "CityCusts": 12362,
+          "AffectedCusts": 8,
+          "City": "grafton",
+          "CityCusts": 10609,
           "County": "ozaukee",
           "CountyCusts": 42767,
-          "Zip": "53097",
-          "ZipCusts": 2860,
+          "Zip": "53024",
+          "ZipCusts": 10630,
           "Region": "southeast wi",
           "RegionCusts": 1074835
         }
