@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-09-14T23:28:00+00:00",
+  "captured_at": "2026-09-15T01:43:15+00:00",
   "events": [
     {
       "Latitude": 44.57901527073161,
       "Longitude": -88.75853933332391,
       "OffTime": "Sep 14, 7:50 a.m.",
-      "ETR": "Sep 14, 8:00 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "Assigned",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Sep 14, 6:20 p.m.",
+      "LastUpdated": "Sep 14, 8:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,25 +25,59 @@
       ]
     },
     {
-      "Latitude": 44.242512253883724,
-      "Longitude": -88.86087774755634,
-      "OffTime": "Sep 14, 12:10 p.m.",
-      "ETR": "Sep 14, 7:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Damage from third-party tree trimmer",
-      "LastUpdated": "Sep 14, 6:20 p.m.",
+      "Latitude": 44.30289045163437,
+      "Longitude": -88.88324091947288,
+      "OffTime": "Sep 14, 8:35 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 14, 8:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 3,
-          "City": "fremont",
-          "CityCusts": 3191,
-          "County": "winnebago",
-          "CountyCusts": 27742,
-          "Zip": "54940",
-          "ZipCusts": 3190,
+          "AffectedCusts": 1,
+          "City": "weyauwega",
+          "CityCusts": 2741,
+          "County": "waupaca",
+          "CountyCusts": 8912,
+          "Zip": "54962",
+          "ZipCusts": 1,
           "Region": "fox valley wi",
           "RegionCusts": 143430
+        },
+        {
+          "AffectedCusts": 26,
+          "City": "weyauwega",
+          "CityCusts": 2741,
+          "County": "waupaca",
+          "CountyCusts": 8912,
+          "Zip": "54983",
+          "ZipCusts": 2741,
+          "Region": "fox valley wi",
+          "RegionCusts": 143430
+        }
+      ]
+    },
+    {
+      "Latitude": 42.9518164327728,
+      "Longitude": -88.07435700145798,
+      "OffTime": "Sep 14, 8:05 p.m.",
+      "ETR": "Sep 14, 11:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 14, 8:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 38,
+          "City": "new berlin",
+          "CityCusts": 20468,
+          "County": "waukesha",
+          "CountyCusts": 203597,
+          "Zip": "53151",
+          "ZipCusts": 16759,
+          "Region": "southeast wi",
+          "RegionCusts": 1074788
         }
       ]
     }
