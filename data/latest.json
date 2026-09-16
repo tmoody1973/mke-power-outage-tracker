@@ -1,106 +1,72 @@
 {
-  "captured_at": "2026-09-15T22:37:37+00:00",
+  "captured_at": "2026-09-16T00:47:55+00:00",
   "events": [
     {
-      "Latitude": 42.96845676901042,
-      "Longitude": -88.03099351696953,
-      "OffTime": "Sep 15, 3:03 p.m.",
-      "ETR": "Sep 15, 6:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 15, 5:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 9,
-          "City": "milwaukee",
-          "CityCusts": 352241,
-          "County": "milwaukee",
-          "CountyCusts": 480072,
-          "Zip": "53228",
-          "ZipCusts": 8264,
-          "Region": "southeast wi",
-          "RegionCusts": 1074835
-        },
-        {
-          "AffectedCusts": 15,
-          "City": "greenfield",
-          "CityCusts": 12581,
-          "County": "milwaukee",
-          "CountyCusts": 480072,
-          "Zip": "53228",
-          "ZipCusts": 8264,
-          "Region": "southeast wi",
-          "RegionCusts": 1074835
-        }
-      ]
-    },
-    {
-      "Latitude": 42.971637980414975,
-      "Longitude": -87.90897346521423,
-      "OffTime": "Sep 15, 5:27 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 15, 5:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352241,
-          "County": "milwaukee",
-          "CountyCusts": 480072,
-          "Zip": "53207",
-          "ZipCusts": 20429,
-          "Region": "southeast wi",
-          "RegionCusts": 1074835
-        }
-      ]
-    },
-    {
-      "Latitude": 45.8846790036512,
-      "Longitude": -88.6329261781528,
-      "OffTime": "Sep 15, 4:49 p.m.",
-      "ETR": "Sep 15, 9:00 p.m.",
+      "Latitude": 43.07352530584117,
+      "Longitude": -88.30057636118003,
+      "OffTime": "Sep 15, 7:19 p.m.",
+      "ETR": "Sep 15, 10:00 p.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 15, 5:30 p.m.",
+      "LastUpdated": "Sep 15, 7:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "long lake",
-          "CityCusts": 486,
-          "County": "florence",
-          "CountyCusts": 3053,
-          "Zip": "54542",
-          "ZipCusts": 1176,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41418
+          "City": "pewaukee",
+          "CityCusts": 14886,
+          "County": "waukesha",
+          "CountyCusts": 203601,
+          "Zip": "53072",
+          "ZipCusts": 14951,
+          "Region": "southeast wi",
+          "RegionCusts": 1074835
         }
       ]
     },
     {
-      "Latitude": 46.06069445986039,
-      "Longitude": -88.22024377314365,
-      "OffTime": "Sep 15, 5:15 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 42.784526492330734,
+      "Longitude": -88.28735965473125,
+      "OffTime": "Sep 15, 6:13 p.m.",
+      "ETR": "Sep 15, 9:00 p.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 15, 5:30 p.m.",
+      "LastUpdated": "Sep 15, 7:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "crystal falls",
-          "CityCusts": 2028,
-          "County": "iron",
-          "CountyCusts": 4274,
-          "Zip": "49920",
-          "ZipCusts": 2031,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41418
+          "City": "east troy",
+          "CityCusts": 6275,
+          "County": "racine",
+          "CountyCusts": 102585,
+          "Zip": "53120",
+          "ZipCusts": 6267,
+          "Region": "southeast wi",
+          "RegionCusts": 1074835
+        }
+      ]
+    },
+    {
+      "Latitude": 42.94008736279951,
+      "Longitude": -88.8282843854343,
+      "OffTime": "Sep 15, 6:31 p.m.",
+      "ETR": "Sep 15, 9:30 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Squirrel contact with equipment",
+      "LastUpdated": "Sep 15, 7:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 27,
+          "City": "fort atkinson",
+          "CityCusts": 10704,
+          "County": "jefferson",
+          "CountyCusts": 35294,
+          "Zip": "53538",
+          "ZipCusts": 10712,
+          "Region": "southeast wi",
+          "RegionCusts": 1074835
         }
       ]
     },
@@ -108,10 +74,10 @@
       "Latitude": 43.33444349169768,
       "Longitude": -87.97011996653119,
       "OffTime": "Sep 15, 3:58 p.m.",
-      "ETR": "Sep 15, 7:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 15, 5:30 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Sep 15, 7:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -124,6 +90,121 @@
           "ZipCusts": 10630,
           "Region": "southeast wi",
           "RegionCusts": 1074835
+        }
+      ]
+    },
+    {
+      "Latitude": 43.00397041556093,
+      "Longitude": -87.9361614662474,
+      "OffTime": "Sep 15, 5:56 p.m.",
+      "ETR": "Sep 15, 8:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 15, 7:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352241,
+          "County": "milwaukee",
+          "CountyCusts": 480072,
+          "Zip": "53215",
+          "ZipCusts": 22365,
+          "Region": "southeast wi",
+          "RegionCusts": 1074835
+        }
+      ]
+    },
+    {
+      "Latitude": 42.974754598809916,
+      "Longitude": -88.07892784790361,
+      "OffTime": "Sep 15, 7:19 p.m.",
+      "ETR": "Sep 15, 10:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 15, 7:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "new berlin",
+          "CityCusts": 20469,
+          "County": "waukesha",
+          "CountyCusts": 203601,
+          "Zip": "53151",
+          "ZipCusts": 16760,
+          "Region": "southeast wi",
+          "RegionCusts": 1074835
+        }
+      ]
+    },
+    {
+      "Latitude": 42.57351660793832,
+      "Longitude": -87.99356517441856,
+      "OffTime": "Sep 15, 6:18 p.m.",
+      "ETR": "Sep 15, 9:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 15, 7:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54314,
+          "County": "kenosha",
+          "CountyCusts": 80174,
+          "Zip": "53142",
+          "ZipCusts": 15168,
+          "Region": "southeast wi",
+          "RegionCusts": 1074835
+        }
+      ]
+    },
+    {
+      "Latitude": 42.87517590406301,
+      "Longitude": -88.91024249206879,
+      "OffTime": "Sep 15, 6:51 p.m.",
+      "ETR": "Sep 15, 9:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 15, 7:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "fort atkinson",
+          "CityCusts": 10704,
+          "County": "jefferson",
+          "CountyCusts": 35294,
+          "Zip": "53538",
+          "ZipCusts": 10712,
+          "Region": "southeast wi",
+          "RegionCusts": 1074835
+        }
+      ]
+    },
+    {
+      "Latitude": 44.34781450959088,
+      "Longitude": -88.40062053750592,
+      "OffTime": "Sep 15, 6:00 p.m.",
+      "ETR": "Sep 15, 9:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 15, 7:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 62973,
+          "County": "outagamie",
+          "CountyCusts": 80193,
+          "Zip": "54913",
+          "ZipCusts": 13945,
+          "Region": "fox valley wi",
+          "RegionCusts": 143436
         }
       ]
     }
