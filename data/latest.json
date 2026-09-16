@@ -1,14 +1,106 @@
 {
-  "captured_at": "2026-09-16T18:52:30+00:00",
+  "captured_at": "2026-09-16T21:48:19+00:00",
   "events": [
     {
-      "Latitude": 45.87028199341091,
-      "Longitude": -88.08431994780464,
-      "OffTime": "Sep 16, 12:53 p.m.",
-      "ETR": "Sep 16, 3:30 p.m.",
-      "CrewStatus": "On the way",
+      "Latitude": 46.05183290812004,
+      "Longitude": -88.78905680278713,
+      "OffTime": "Sep 16, 3:11 p.m.",
+      "ETR": "Sep 16, 6:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Sep 16, 4:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 4,
+          "City": "iron river",
+          "CityCusts": 1765,
+          "County": "iron",
+          "CountyCusts": 4274,
+          "Zip": "49935",
+          "ZipCusts": 1766,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41419
+        }
+      ]
+    },
+    {
+      "Latitude": 44.323969826160784,
+      "Longitude": -88.9303460029835,
+      "OffTime": "Sep 16, 3:33 p.m.",
+      "ETR": "Sep 16, 6:30 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 16, 1:50 p.m.",
+      "LastUpdated": "Sep 16, 4:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "weyauwega",
+          "CityCusts": 2741,
+          "County": "waupaca",
+          "CountyCusts": 8912,
+          "Zip": "54983",
+          "ZipCusts": 2741,
+          "Region": "fox valley wi",
+          "RegionCusts": 143444
+        }
+      ]
+    },
+    {
+      "Latitude": 43.459854400204804,
+      "Longitude": -88.47390747734926,
+      "OffTime": "Sep 16, 4:30 p.m.",
+      "ETR": "Sep 16, 7:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 16, 4:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "mayville",
+          "CityCusts": 239,
+          "County": "dodge",
+          "CountyCusts": 17213,
+          "Zip": "53050",
+          "ZipCusts": 241,
+          "Region": "southeast wi",
+          "RegionCusts": 1074872
+        }
+      ]
+    },
+    {
+      "Latitude": 43.61260277547243,
+      "Longitude": -88.48016536104662,
+      "OffTime": "Sep 16, 3:20 p.m.",
+      "ETR": "Sep 16, 6:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies overhead line problem",
+      "LastUpdated": "Sep 16, 4:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "brownsville",
+          "CityCusts": 804,
+          "County": "dodge",
+          "CountyCusts": 17213,
+          "Zip": "53006",
+          "ZipCusts": 828,
+          "Region": "southeast wi",
+          "RegionCusts": 1074872
+        }
+      ]
+    },
+    {
+      "Latitude": 45.87036452864845,
+      "Longitude": -88.08425011107049,
+      "OffTime": "Sep 16, 12:53 p.m.",
+      "ETR": "Sep 16, 6:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Sep 16, 4:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -21,75 +113,6 @@
           "ZipCusts": 1540,
           "Region": "upper peninsula mi",
           "RegionCusts": 41419
-        }
-      ]
-    },
-    {
-      "Latitude": 42.564485915773204,
-      "Longitude": -87.814056361288,
-      "OffTime": "Sep 16, 1:43 p.m.",
-      "ETR": "Sep 16, 4:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 16, 1:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54315,
-          "County": "kenosha",
-          "CountyCusts": 80178,
-          "Zip": "53143",
-          "ZipCusts": 10242,
-          "Region": "southeast wi",
-          "RegionCusts": 1074872
-        }
-      ]
-    },
-    {
-      "Latitude": 43.00193010466966,
-      "Longitude": -88.22256478394584,
-      "OffTime": "Sep 16, 1:36 p.m.",
-      "ETR": "Sep 16, 4:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 16, 1:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "waukesha",
-          "CityCusts": 48445,
-          "County": "waukesha",
-          "CountyCusts": 203611,
-          "Zip": "53186",
-          "ZipCusts": 17760,
-          "Region": "southeast wi",
-          "RegionCusts": 1074872
-        }
-      ]
-    },
-    {
-      "Latitude": 43.60840695630907,
-      "Longitude": -88.29357108927692,
-      "OffTime": "Sep 16, 10:50 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Facilities patrolled - no problems found",
-      "LastUpdated": "Sep 16, 1:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "campbellsport",
-          "CityCusts": 3464,
-          "County": "fond du lac",
-          "CountyCusts": 6949,
-          "Zip": "53010",
-          "ZipCusts": 3462,
-          "Region": "southeast wi",
-          "RegionCusts": 1074872
         }
       ]
     }
