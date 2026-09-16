@@ -1,4 +1,85 @@
 {
-  "captured_at": "2026-09-16T05:30:23+00:00",
-  "events": []
+  "captured_at": "2026-09-16T10:16:48+00:00",
+  "events": [
+    {
+      "Latitude": 43.320468179201846,
+      "Longitude": -88.33882038774902,
+      "OffTime": "Sep 16, 12:34 a.m.",
+      "ETR": "Sep 16, 7:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 16, 5:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "hartford",
+          "CityCusts": 4246,
+          "County": "washington",
+          "CountyCusts": 61689,
+          "Zip": "53027",
+          "ZipCusts": 4252,
+          "Region": "southeast wi",
+          "RegionCusts": 1074872
+        }
+      ]
+    },
+    {
+      "Latitude": 42.99318158080848,
+      "Longitude": -88.05614225015115,
+      "OffTime": "Sep 16, 3:54 a.m.",
+      "ETR": "Sep 16, 6:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 16, 5:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352258,
+          "County": "milwaukee",
+          "CountyCusts": 480087,
+          "Zip": "53227",
+          "ZipCusts": 12598,
+          "Region": "southeast wi",
+          "RegionCusts": 1074872
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "west allis",
+          "CityCusts": 15164,
+          "County": "milwaukee",
+          "CountyCusts": 480087,
+          "Zip": "53227",
+          "ZipCusts": 12598,
+          "Region": "southeast wi",
+          "RegionCusts": 1074872
+        }
+      ]
+    },
+    {
+      "Latitude": 44.383909346597996,
+      "Longitude": -88.87697498962665,
+      "OffTime": "Sep 16, 5:03 a.m.",
+      "ETR": "Sep 16, 8:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 16, 5:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "new london",
+          "CityCusts": 3688,
+          "County": "waupaca",
+          "CountyCusts": 8912,
+          "Zip": "54961",
+          "ZipCusts": 3696,
+          "Region": "fox valley wi",
+          "RegionCusts": 143444
+        }
+      ]
+    }
+  ]
 }
