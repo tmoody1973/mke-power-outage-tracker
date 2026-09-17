@@ -1,24 +1,81 @@
 {
-  "captured_at": "2026-09-17T03:55:36+00:00",
+  "captured_at": "2026-09-17T09:03:22+00:00",
   "events": [
     {
-      "Latitude": 42.953042467476116,
-      "Longitude": -88.04212215740334,
-      "OffTime": "Sep 16, 6:48 p.m.",
-      "ETR": "Sep 17, 12:30 a.m.",
+      "Latitude": 43.05866045196881,
+      "Longitude": -88.42302959468265,
+      "OffTime": "Sep 16, 11:13 p.m.",
+      "ETR": "Sep 17, 5:00 a.m.",
       "CrewStatus": "On site",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Sep 16, 10:50 p.m.",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 17, 4:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "hales corners",
-          "CityCusts": 4392,
+          "AffectedCusts": 128,
+          "City": "delafield",
+          "CityCusts": 4288,
+          "County": "waukesha",
+          "CountyCusts": 203611,
+          "Zip": "53018",
+          "ZipCusts": 4230,
+          "Region": "southeast wi",
+          "RegionCusts": 1074872
+        },
+        {
+          "AffectedCusts": 32,
+          "City": "oconomowoc",
+          "CityCusts": 8565,
+          "County": "waukesha",
+          "CountyCusts": 203611,
+          "Zip": "53066",
+          "ZipCusts": 8890,
+          "Region": "southeast wi",
+          "RegionCusts": 1074872
+        }
+      ]
+    },
+    {
+      "Latitude": 43.064107652601955,
+      "Longitude": -87.8800200913823,
+      "OffTime": "Sep 17, 2:42 a.m.",
+      "ETR": "Sep 17, 5:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 17, 4:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 69,
+          "City": "milwaukee",
+          "CityCusts": 352258,
           "County": "milwaukee",
           "CountyCusts": 480087,
-          "Zip": "53130",
-          "ZipCusts": 4395,
+          "Zip": "53211",
+          "ZipCusts": 18150,
+          "Region": "southeast wi",
+          "RegionCusts": 1074872
+        }
+      ]
+    },
+    {
+      "Latitude": 43.06212851642918,
+      "Longitude": -88.43986846578785,
+      "OffTime": "Sep 17, 3:33 a.m.",
+      "ETR": "Sep 17, 6:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 17, 4:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 119,
+          "City": "oconomowoc",
+          "CityCusts": 8565,
+          "County": "waukesha",
+          "CountyCusts": 203611,
+          "Zip": "53066",
+          "ZipCusts": 8890,
           "Region": "southeast wi",
           "RegionCusts": 1074872
         }
