@@ -1,83 +1,14 @@
 {
-  "captured_at": "2026-09-16T23:58:59+00:00",
+  "captured_at": "2026-09-17T03:55:36+00:00",
   "events": [
-    {
-      "Latitude": 43.02438653626506,
-      "Longitude": -88.32525426255569,
-      "OffTime": "Sep 16, 5:12 p.m.",
-      "ETR": "Sep 16, 8:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 16, 6:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "waukesha",
-          "CityCusts": 48445,
-          "County": "waukesha",
-          "CountyCusts": 203611,
-          "Zip": "53188",
-          "ZipCusts": 17771,
-          "Region": "southeast wi",
-          "RegionCusts": 1074872
-        }
-      ]
-    },
-    {
-      "Latitude": 46.05183290812004,
-      "Longitude": -88.78905680278713,
-      "OffTime": "Sep 16, 3:11 p.m.",
-      "ETR": "Sep 16, 11:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Sep 16, 6:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 4,
-          "City": "iron river",
-          "CityCusts": 1765,
-          "County": "iron",
-          "CountyCusts": 4274,
-          "Zip": "49935",
-          "ZipCusts": 1766,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41419
-        }
-      ]
-    },
-    {
-      "Latitude": 42.699826693272826,
-      "Longitude": -87.80845809915105,
-      "OffTime": "Sep 16, 5:15 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies equipment problem",
-      "LastUpdated": "Sep 16, 6:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 58980,
-          "County": "racine",
-          "CountyCusts": 102589,
-          "Zip": "53403",
-          "ZipCusts": 14397,
-          "Region": "southeast wi",
-          "RegionCusts": 1074872
-        }
-      ]
-    },
     {
       "Latitude": 42.953042467476116,
       "Longitude": -88.04212215740334,
       "OffTime": "Sep 16, 6:48 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 16, 6:50 p.m.",
+      "ETR": "Sep 17, 12:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Sep 16, 10:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -88,75 +19,6 @@
           "CountyCusts": 480087,
           "Zip": "53130",
           "ZipCusts": 4395,
-          "Region": "southeast wi",
-          "RegionCusts": 1074872
-        }
-      ]
-    },
-    {
-      "Latitude": 43.459854400204804,
-      "Longitude": -88.47390747734926,
-      "OffTime": "Sep 16, 4:30 p.m.",
-      "ETR": "Sep 16, 7:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Sep 16, 6:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "mayville",
-          "CityCusts": 239,
-          "County": "dodge",
-          "CountyCusts": 17213,
-          "Zip": "53050",
-          "ZipCusts": 241,
-          "Region": "southeast wi",
-          "RegionCusts": 1074872
-        }
-      ]
-    },
-    {
-      "Latitude": 44.323969826160784,
-      "Longitude": -88.9303460029835,
-      "OffTime": "Sep 16, 3:33 p.m.",
-      "ETR": "Sep 16, 9:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Meter problem",
-      "LastUpdated": "Sep 16, 6:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "weyauwega",
-          "CityCusts": 2741,
-          "County": "waupaca",
-          "CountyCusts": 8912,
-          "Zip": "54983",
-          "ZipCusts": 2741,
-          "Region": "fox valley wi",
-          "RegionCusts": 143444
-        }
-      ]
-    },
-    {
-      "Latitude": 43.13632504869572,
-      "Longitude": -88.0280791027499,
-      "OffTime": "Sep 16, 6:03 p.m.",
-      "ETR": "Sep 16, 9:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 16, 6:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352258,
-          "County": "milwaukee",
-          "CountyCusts": 480087,
-          "Zip": "53224",
-          "ZipCusts": 9526,
           "Region": "southeast wi",
           "RegionCusts": 1074872
         }
