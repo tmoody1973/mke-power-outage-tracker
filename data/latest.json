@@ -1,14 +1,71 @@
 {
-  "captured_at": "2026-09-18T15:07:40+00:00",
+  "captured_at": "2026-09-18T18:25:03+00:00",
   "events": [
+    {
+      "Latitude": 42.67718835994014,
+      "Longitude": -87.85863749470096,
+      "OffTime": "Sep 18, 12:31 p.m.",
+      "ETR": "Sep 18, 1:30 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Sep 18, 1:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "mount pleasant",
+          "CityCusts": 5560,
+          "County": "racine",
+          "CountyCusts": 102643,
+          "Zip": "53403",
+          "ZipCusts": 14398,
+          "Region": "southeast wi",
+          "RegionCusts": 1074976
+        },
+        {
+          "AffectedCusts": 3,
+          "City": "racine",
+          "CityCusts": 58984,
+          "County": "racine",
+          "CountyCusts": 102643,
+          "Zip": "53403",
+          "ZipCusts": 14398,
+          "Region": "southeast wi",
+          "RegionCusts": 1074976
+        }
+      ]
+    },
+    {
+      "Latitude": 43.14539540564136,
+      "Longitude": -87.94767603232604,
+      "OffTime": "Sep 18, 1:00 p.m.",
+      "ETR": "Sep 18, 4:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 18, 1:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "glendale",
+          "CityCusts": 3864,
+          "County": "milwaukee",
+          "CountyCusts": 480105,
+          "Zip": "53209",
+          "ZipCusts": 24010,
+          "Region": "southeast wi",
+          "RegionCusts": 1074976
+        }
+      ]
+    },
     {
       "Latitude": 46.08686013702574,
       "Longitude": -89.26457545112136,
       "OffTime": "Sep 18, 6:54 a.m.",
-      "ETR": "Sep 18, 11:30 a.m.",
-      "CrewStatus": "Assigned",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 18, 10:00 a.m.",
+      "LastUpdated": "Sep 18, 1:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,13 +82,13 @@
       ]
     },
     {
-      "Latitude": 43.090060009644446,
-      "Longitude": -87.93547003565936,
-      "OffTime": "Sep 18, 9:17 a.m.",
-      "ETR": "Sep 18, 12:00 p.m.",
-      "CrewStatus": "On the way",
+      "Latitude": 43.07389973040756,
+      "Longitude": -87.98568477327213,
+      "OffTime": "Sep 18, 11:41 a.m.",
+      "ETR": "Sep 18, 2:30 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 18, 10:00 a.m.",
+      "LastUpdated": "Sep 18, 1:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -40,21 +97,21 @@
           "CityCusts": 352277,
           "County": "milwaukee",
           "CountyCusts": 480105,
-          "Zip": "53206",
-          "ZipCusts": 10798,
+          "Zip": "53210",
+          "ZipCusts": 12251,
           "Region": "southeast wi",
           "RegionCusts": 1074976
         }
       ]
     },
     {
-      "Latitude": 42.57571211486436,
-      "Longitude": -87.87668324240322,
-      "OffTime": "Sep 18, 9:48 a.m.",
-      "ETR": "Sep 18, 12:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 42.594386306839134,
+      "Longitude": -87.82424735736139,
+      "OffTime": "Sep 18, 12:54 p.m.",
+      "ETR": "Sep 18, 3:30 p.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 18, 10:00 a.m.",
+      "LastUpdated": "Sep 18, 1:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -63,56 +120,33 @@
           "CityCusts": 54327,
           "County": "kenosha",
           "CountyCusts": 80197,
-          "Zip": "53142",
-          "ZipCusts": 15168,
+          "Zip": "53140",
+          "ZipCusts": 14892,
           "Region": "southeast wi",
           "RegionCusts": 1074976
         }
       ]
     },
     {
-      "Latitude": 43.2283164043327,
-      "Longitude": -88.1224542147117,
-      "OffTime": "Sep 18, 9:11 a.m.",
-      "ETR": "Sep 18, 12:00 p.m.",
+      "Latitude": 43.089127513552135,
+      "Longitude": -87.93529127895448,
+      "OffTime": "Sep 18, 12:27 p.m.",
+      "ETR": "Sep 18, 3:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 18, 10:00 a.m.",
+      "LastUpdated": "Sep 18, 1:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "germantown",
-          "CityCusts": 10403,
-          "County": "washington",
-          "CountyCusts": 61698,
-          "Zip": "53022",
-          "ZipCusts": 10402,
+          "AffectedCusts": 6,
+          "City": "milwaukee",
+          "CityCusts": 352277,
+          "County": "milwaukee",
+          "CountyCusts": 480105,
+          "Zip": "53206",
+          "ZipCusts": 10798,
           "Region": "southeast wi",
           "RegionCusts": 1074976
-        }
-      ]
-    },
-    {
-      "Latitude": 44.260917406067705,
-      "Longitude": -89.09924647471648,
-      "OffTime": "Sep 18, 5:10 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 18, 10:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 24,
-          "City": "waupaca",
-          "CityCusts": 945,
-          "County": "waupaca",
-          "CountyCusts": 8912,
-          "Zip": "54981",
-          "ZipCusts": 948,
-          "Region": "fox valley wi",
-          "RegionCusts": 143470
         }
       ]
     }
