@@ -1,110 +1,87 @@
 {
-  "captured_at": "2026-09-20T18:44:58+00:00",
+  "captured_at": "2026-09-20T21:04:24+00:00",
   "events": [
     {
-      "Latitude": 42.732604298523775,
-      "Longitude": -87.80302367314509,
-      "OffTime": "Sep 20, 11:06 a.m.",
-      "ETR": "Sep 20, 3:30 p.m.",
+      "Latitude": 42.7785347375136,
+      "Longitude": -87.94226784376424,
+      "OffTime": "Sep 20, 2:41 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 20, 4:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "franksville",
+          "CityCusts": 3943,
+          "County": "racine",
+          "CountyCusts": 102643,
+          "Zip": "53126",
+          "ZipCusts": 4020,
+          "Region": "southeast wi",
+          "RegionCusts": 1074977
+        }
+      ]
+    },
+    {
+      "Latitude": 43.110225008774556,
+      "Longitude": -87.95422651201528,
+      "OffTime": "Sep 20, 10:08 a.m.",
+      "ETR": "Sep 20, 8:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Equipment damaged by lightning",
+      "LastUpdated": "Sep 20, 4:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352277,
+          "County": "milwaukee",
+          "CountyCusts": 480105,
+          "Zip": "53209",
+          "ZipCusts": 24010,
+          "Region": "southeast wi",
+          "RegionCusts": 1074977
+        }
+      ]
+    },
+    {
+      "Latitude": 43.11154590954106,
+      "Longitude": -87.95805274926886,
+      "OffTime": "Sep 20, 3:56 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 20, 4:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352277,
+          "County": "milwaukee",
+          "CountyCusts": 480105,
+          "Zip": "53209",
+          "ZipCusts": 24010,
+          "Region": "southeast wi",
+          "RegionCusts": 1074977
+        }
+      ]
+    },
+    {
+      "Latitude": 43.10973028838605,
+      "Longitude": -87.95380301193991,
+      "OffTime": "Sep 20, 3:04 p.m.",
+      "ETR": "Sep 20, 6:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 20, 1:40 p.m.",
+      "LastUpdated": "Sep 20, 4:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 58984,
-          "County": "racine",
-          "CountyCusts": 102643,
-          "Zip": "53404",
-          "ZipCusts": 7244,
-          "Region": "southeast wi",
-          "RegionCusts": 1074977
-        }
-      ]
-    },
-    {
-      "Latitude": 43.03449184605226,
-      "Longitude": -88.43208794562658,
-      "OffTime": "Sep 20, 12:28 p.m.",
-      "ETR": "Sep 20, 3:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Sep 20, 1:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 16,
-          "City": "oconomowoc",
-          "CityCusts": 8564,
-          "County": "waukesha",
-          "CountyCusts": 203622,
-          "Zip": "53066",
-          "ZipCusts": 8889,
-          "Region": "southeast wi",
-          "RegionCusts": 1074977
-        }
-      ]
-    },
-    {
-      "Latitude": 43.64534997626999,
-      "Longitude": -88.02899867503677,
-      "OffTime": "Sep 20, 11:28 a.m.",
-      "ETR": "Sep 20, 2:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Sep 20, 1:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 23,
-          "City": "cascade",
-          "CityCusts": 758,
-          "County": "sheboygan",
-          "CountyCusts": 14258,
-          "Zip": "53011",
-          "ZipCusts": 757,
-          "Region": "southeast wi",
-          "RegionCusts": 1074977
-        }
-      ]
-    },
-    {
-      "Latitude": 42.7275120515733,
-      "Longitude": -87.80993589509839,
-      "OffTime": "Sep 20, 9:57 a.m.",
-      "ETR": "Sep 20, 2:30 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "",
-      "LastUpdated": "Sep 20, 1:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 34,
-          "City": "racine",
-          "CityCusts": 58984,
-          "County": "racine",
-          "CountyCusts": 102643,
-          "Zip": "53405",
-          "ZipCusts": 11770,
-          "Region": "southeast wi",
-          "RegionCusts": 1074977
-        }
-      ]
-    },
-    {
-      "Latitude": 43.109937839139874,
-      "Longitude": -87.95569122667311,
-      "OffTime": "Sep 20, 10:08 a.m.",
-      "ETR": "Sep 20, 2:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Equipment damaged by lightning",
-      "LastUpdated": "Sep 20, 1:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
+          "AffectedCusts": 31,
           "City": "milwaukee",
           "CityCusts": 352277,
           "County": "milwaukee",
@@ -123,7 +100,7 @@
       "ETR": "Sep 20, 4:30 p.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Sep 20, 1:40 p.m.",
+      "LastUpdated": "Sep 20, 4:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -140,92 +117,23 @@
       ]
     },
     {
-      "Latitude": 42.7275120515733,
-      "Longitude": -87.80993589509839,
-      "OffTime": "Sep 20, 9:59 a.m.",
-      "ETR": "Sep 20, 2:30 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact with We Energies equipment",
-      "LastUpdated": "Sep 20, 1:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 54,
-          "City": "racine",
-          "CityCusts": 58984,
-          "County": "racine",
-          "CountyCusts": 102643,
-          "Zip": "53405",
-          "ZipCusts": 11770,
-          "Region": "southeast wi",
-          "RegionCusts": 1074977
-        }
-      ]
-    },
-    {
-      "Latitude": 42.83868815871634,
-      "Longitude": -88.71741487912092,
-      "OffTime": "Sep 20, 9:56 a.m.",
-      "ETR": "Sep 20, 2:30 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Sep 20, 1:40 p.m.",
+      "Latitude": 43.230211740517944,
+      "Longitude": -87.9378219729832,
+      "OffTime": "Sep 20, 2:42 p.m.",
+      "ETR": "Sep 20, 5:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 20, 4:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "whitewater",
-          "CityCusts": 9498,
-          "County": "walworth",
-          "CountyCusts": 24244,
-          "Zip": "53190",
-          "ZipCusts": 9501,
-          "Region": "southeast wi",
-          "RegionCusts": 1074977
-        }
-      ]
-    },
-    {
-      "Latitude": 43.16412004324042,
-      "Longitude": -88.43038626893865,
-      "OffTime": "Sep 20, 12:15 p.m.",
-      "ETR": "Sep 20, 3:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Sep 20, 1:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 5,
-          "City": "oconomowoc",
-          "CityCusts": 8564,
-          "County": "waukesha",
-          "CountyCusts": 203622,
-          "Zip": "53066",
-          "ZipCusts": 8889,
-          "Region": "southeast wi",
-          "RegionCusts": 1074977
-        }
-      ]
-    },
-    {
-      "Latitude": 42.7275120515733,
-      "Longitude": -87.80993589509839,
-      "OffTime": "Sep 20, 9:57 a.m.",
-      "ETR": "Sep 20, 2:30 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "",
-      "LastUpdated": "Sep 20, 1:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 29,
-          "City": "racine",
-          "CityCusts": 58984,
-          "County": "racine",
-          "CountyCusts": 102643,
-          "Zip": "53405",
-          "ZipCusts": 11770,
+          "City": "mequon",
+          "CityCusts": 12361,
+          "County": "ozaukee",
+          "CountyCusts": 42765,
+          "Zip": "53092",
+          "ZipCusts": 11522,
           "Region": "southeast wi",
           "RegionCusts": 1074977
         }
