@@ -1,117 +1,163 @@
 {
-  "captured_at": "2026-09-21T06:16:58+00:00",
+  "captured_at": "2026-09-21T13:04:53+00:00",
   "events": [
+    {
+      "Latitude": 43.11426587037624,
+      "Longitude": -87.95939786477358,
+      "OffTime": "Sep 21, 6:39 a.m.",
+      "ETR": "Sep 21, 9:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 21, 8:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352285,
+          "County": "milwaukee",
+          "CountyCusts": 480112,
+          "Zip": "53209",
+          "ZipCusts": 24009,
+          "Region": "southeast wi",
+          "RegionCusts": 1075059
+        }
+      ]
+    },
+    {
+      "Latitude": 43.18974667412974,
+      "Longitude": -88.73190640418422,
+      "OffTime": "Sep 21, 7:49 a.m.",
+      "ETR": "Sep 21, 10:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 21, 8:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "watertown",
+          "CityCusts": 16251,
+          "County": "jefferson",
+          "CountyCusts": 35292,
+          "Zip": "53094",
+          "ZipCusts": 10266,
+          "Region": "southeast wi",
+          "RegionCusts": 1075059
+        }
+      ]
+    },
+    {
+      "Latitude": 43.21463937733616,
+      "Longitude": -88.21189028757858,
+      "OffTime": "Sep 21, 4:52 a.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Sep 21, 8:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "hubertus",
+          "CityCusts": 2739,
+          "County": "washington",
+          "CountyCusts": 61698,
+          "Zip": "53033",
+          "ZipCusts": 2746,
+          "Region": "southeast wi",
+          "RegionCusts": 1075059
+        }
+      ]
+    },
+    {
+      "Latitude": 42.813974678350924,
+      "Longitude": -87.81535367971658,
+      "OffTime": "Sep 21, 2:52 a.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Assigned",
+      "Cause": "Tree contact with We Energies equipment",
+      "LastUpdated": "Sep 21, 8:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 71,
+          "City": "racine",
+          "CityCusts": 58990,
+          "County": "racine",
+          "CountyCusts": 102651,
+          "Zip": "53402",
+          "ZipCusts": 15999,
+          "Region": "southeast wi",
+          "RegionCusts": 1075059
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "caledonia",
+          "CityCusts": 2183,
+          "County": "racine",
+          "CountyCusts": 102651,
+          "Zip": "53402",
+          "ZipCusts": 15999,
+          "Region": "southeast wi",
+          "RegionCusts": 1075059
+        }
+      ]
+    },
     {
       "Latitude": 42.813974678350924,
       "Longitude": -87.81535367971658,
       "OffTime": "Sep 20, 9:38 p.m.",
-      "ETR": "Sep 21, 2:00 a.m.",
-      "CrewStatus": "Assigned",
+      "ETR": "Sep 21, 8:30 a.m.",
+      "CrewStatus": "On the way",
       "Cause": "Tree contact with We Energies equipment",
-      "LastUpdated": "Sep 21, 1:10 a.m.",
+      "LastUpdated": "Sep 21, 8:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 113,
           "City": "racine",
-          "CityCusts": 58984,
+          "CityCusts": 58990,
           "County": "racine",
-          "CountyCusts": 102643,
+          "CountyCusts": 102651,
           "Zip": "53402",
           "ZipCusts": 15999,
           "Region": "southeast wi",
-          "RegionCusts": 1074977
+          "RegionCusts": 1075059
         }
       ]
     },
     {
-      "Latitude": 42.75662586423469,
-      "Longitude": -88.1553705776175,
-      "OffTime": "Sep 20, 6:34 p.m.",
-      "ETR": "Sep 21, 2:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Tree contact with We Energies equipment",
-      "LastUpdated": "Sep 21, 1:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "norway",
-          "CityCusts": 158,
-          "County": "racine",
-          "CountyCusts": 102643,
-          "Zip": "53185",
-          "ZipCusts": 9930,
-          "Region": "southeast wi",
-          "RegionCusts": 1074977
-        },
-        {
-          "AffectedCusts": 4,
-          "City": "wind lake",
-          "CityCusts": 2297,
-          "County": "racine",
-          "CountyCusts": 102643,
-          "Zip": "53185",
-          "ZipCusts": 9930,
-          "Region": "southeast wi",
-          "RegionCusts": 1074977
-        },
-        {
-          "AffectedCusts": 97,
-          "City": "waterford",
-          "CityCusts": 7625,
-          "County": "racine",
-          "CountyCusts": 102643,
-          "Zip": "53185",
-          "ZipCusts": 9930,
-          "Region": "southeast wi",
-          "RegionCusts": 1074977
-        }
-      ]
-    },
-    {
-      "Latitude": 43.07454068606051,
-      "Longitude": -87.9404672207089,
-      "OffTime": "Sep 21, 12:06 a.m.",
-      "ETR": "Sep 21, 3:00 a.m.",
+      "Latitude": 42.7184879515401,
+      "Longitude": -87.80146908781946,
+      "OffTime": "Sep 21, 6:12 a.m.",
+      "ETR": "Sep 21, 10:30 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 21, 1:10 a.m.",
+      "LastUpdated": "Sep 21, 8:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 16,
-          "City": "milwaukee",
-          "CityCusts": 352277,
-          "County": "milwaukee",
-          "CountyCusts": 480105,
-          "Zip": "53206",
-          "ZipCusts": 10798,
+          "AffectedCusts": 104,
+          "City": "racine",
+          "CityCusts": 58990,
+          "County": "racine",
+          "CountyCusts": 102651,
+          "Zip": "53403",
+          "ZipCusts": 14403,
           "Region": "southeast wi",
-          "RegionCusts": 1074977
-        }
-      ]
-    },
-    {
-      "Latitude": 43.524421584259166,
-      "Longitude": -88.2170768764665,
-      "OffTime": "Sep 21, 12:56 a.m.",
-      "ETR": "Sep 21, 3:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 21, 1:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
+          "RegionCusts": 1075059
+        },
         {
-          "AffectedCusts": 6,
-          "City": "kewaskum",
-          "CityCusts": 4413,
-          "County": "washington",
-          "CountyCusts": 61698,
-          "Zip": "53040",
-          "ZipCusts": 4419,
+          "AffectedCusts": 103,
+          "City": "racine",
+          "CityCusts": 58990,
+          "County": "racine",
+          "CountyCusts": 102651,
+          "Zip": "53405",
+          "ZipCusts": 11771,
           "Region": "southeast wi",
-          "RegionCusts": 1074977
+          "RegionCusts": 1075059
         }
       ]
     },
@@ -119,68 +165,45 @@
       "Latitude": 42.68941807220803,
       "Longitude": -87.8173359232004,
       "OffTime": "Sep 21, 12:45 a.m.",
-      "ETR": "Sep 21, 5:00 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 21, 1:10 a.m.",
+      "ETR": "Sep 21, 9:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Sep 21, 8:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
           "City": "racine",
-          "CityCusts": 58984,
+          "CityCusts": 58990,
           "County": "racine",
-          "CountyCusts": 102643,
+          "CountyCusts": 102651,
           "Zip": "53405",
-          "ZipCusts": 11770,
+          "ZipCusts": 11771,
           "Region": "southeast wi",
-          "RegionCusts": 1074977
+          "RegionCusts": 1075059
         }
       ]
     },
     {
-      "Latitude": 43.015338119341116,
-      "Longitude": -87.92467525903831,
-      "OffTime": "Sep 20, 6:32 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "On site",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Sep 21, 1:10 a.m.",
+      "Latitude": 42.7172585240346,
+      "Longitude": -87.80272272979366,
+      "OffTime": "Sep 21, 6:31 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 21, 8:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352277,
-          "County": "milwaukee",
-          "CountyCusts": 480105,
-          "Zip": "53204",
-          "ZipCusts": 17673,
+          "AffectedCusts": 12,
+          "City": "racine",
+          "CityCusts": 58990,
+          "County": "racine",
+          "CountyCusts": 102651,
+          "Zip": "53403",
+          "ZipCusts": 14403,
           "Region": "southeast wi",
-          "RegionCusts": 1074977
-        }
-      ]
-    },
-    {
-      "Latitude": 42.973928185093804,
-      "Longitude": -88.40952574200197,
-      "OffTime": "Sep 20, 7:06 p.m.",
-      "ETR": "Sep 21, 3:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Sep 21, 1:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 6,
-          "City": "dousman",
-          "CityCusts": 3891,
-          "County": "waukesha",
-          "CountyCusts": 203622,
-          "Zip": "53118",
-          "ZipCusts": 3887,
-          "Region": "southeast wi",
-          "RegionCusts": 1074977
+          "RegionCusts": 1075059
         }
       ]
     }
