@@ -1,164 +1,72 @@
 {
-  "captured_at": "2026-09-21T22:12:24+00:00",
+  "captured_at": "2026-09-22T00:49:35+00:00",
   "events": [
     {
-      "Latitude": 42.99357289679039,
-      "Longitude": -88.0265053743727,
-      "OffTime": "Sep 21, 5:05 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 21, 5:10 p.m.",
+      "Latitude": 43.00126684781637,
+      "Longitude": -88.22502657023037,
+      "OffTime": "Sep 21, 6:56 p.m.",
+      "ETR": "Sep 21, 9:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Sep 21, 7:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352285,
-          "County": "milwaukee",
-          "CountyCusts": 480112,
-          "Zip": "53227",
-          "ZipCusts": 12600,
-          "Region": "southeast wi",
-          "RegionCusts": 1075059
-        }
-      ]
-    },
-    {
-      "Latitude": 42.84853068717503,
-      "Longitude": -88.31727802076279,
-      "OffTime": "Sep 21, 4:48 p.m.",
-      "ETR": "Sep 21, 7:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 21, 5:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "mukwonago",
-          "CityCusts": 9904,
+          "City": "waukesha",
+          "CityCusts": 48455,
           "County": "waukesha",
           "CountyCusts": 203625,
-          "Zip": "53149",
-          "ZipCusts": 9920,
+          "Zip": "53186",
+          "ZipCusts": 17763,
           "Region": "southeast wi",
-          "RegionCusts": 1075059
+          "RegionCusts": 1075060
         }
       ]
     },
     {
-      "Latitude": 43.09419678644323,
-      "Longitude": -87.95447037086785,
-      "OffTime": "Sep 21, 9:05 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Assigned",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Sep 21, 5:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "milwaukee",
-          "CityCusts": 352285,
-          "County": "milwaukee",
-          "CountyCusts": 480112,
-          "Zip": "53216",
-          "ZipCusts": 14836,
-          "Region": "southeast wi",
-          "RegionCusts": 1075059
-        }
-      ]
-    },
-    {
-      "Latitude": 43.10410490800039,
-      "Longitude": -87.96990952557493,
-      "OffTime": "Sep 21, 9:53 a.m.",
-      "ETR": "Sep 21, 6:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Sep 21, 5:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352285,
-          "County": "milwaukee",
-          "CountyCusts": 480112,
-          "Zip": "53218",
-          "ZipCusts": 17037,
-          "Region": "southeast wi",
-          "RegionCusts": 1075059
-        }
-      ]
-    },
-    {
-      "Latitude": 42.57813947082834,
-      "Longitude": -87.87957519340958,
-      "OffTime": "Sep 21, 12:30 p.m.",
-      "ETR": "Sep 21, 6:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Sep 21, 5:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54330,
-          "County": "kenosha",
-          "CountyCusts": 80253,
-          "Zip": "53142",
-          "ZipCusts": 15170,
-          "Region": "southeast wi",
-          "RegionCusts": 1075059
-        }
-      ]
-    },
-    {
-      "Latitude": 44.451238730712085,
-      "Longitude": -88.26556654241728,
-      "OffTime": "Sep 21, 4:29 p.m.",
-      "ETR": "Sep 21, 7:30 p.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 44.297116426378764,
+      "Longitude": -88.40248657445416,
+      "OffTime": "Sep 21, 7:31 p.m.",
+      "ETR": "Sep 21, 10:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 21, 5:10 p.m.",
+      "LastUpdated": "Sep 21, 7:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "de pere",
-          "CityCusts": 707,
+          "City": "appleton",
+          "CityCusts": 63008,
           "County": "outagamie",
           "CountyCusts": 80240,
-          "Zip": "54115",
-          "ZipCusts": 706,
+          "Zip": "54911",
+          "ZipCusts": 13385,
           "Region": "fox valley wi",
           "RegionCusts": 143480
         }
       ]
     },
     {
-      "Latitude": 43.83748308612379,
-      "Longitude": -88.03815532283393,
-      "OffTime": "Sep 21, 3:41 p.m.",
-      "ETR": "Sep 21, 6:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies equipment problem",
-      "LastUpdated": "Sep 21, 5:10 p.m.",
+      "Latitude": 43.20188519607225,
+      "Longitude": -87.9694409875443,
+      "OffTime": "Sep 21, 5:23 p.m.",
+      "ETR": "Sep 21, 8:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Broken pole",
+      "LastUpdated": "Sep 21, 7:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 13,
-          "City": "elkhart lake",
-          "CityCusts": 2473,
-          "County": "sheboygan",
-          "CountyCusts": 14259,
-          "Zip": "53020",
-          "ZipCusts": 2479,
+          "AffectedCusts": 5,
+          "City": "mequon",
+          "CityCusts": 12362,
+          "County": "ozaukee",
+          "CountyCusts": 42771,
+          "Zip": "53092",
+          "ZipCusts": 11524,
           "Region": "southeast wi",
-          "RegionCusts": 1075059
+          "RegionCusts": 1075060
         }
       ]
     }
