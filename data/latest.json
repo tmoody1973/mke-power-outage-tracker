@@ -1,58 +1,196 @@
 {
-  "captured_at": "2026-09-22T10:18:59+00:00",
+  "captured_at": "2026-09-22T15:04:34+00:00",
   "events": [
     {
-      "Latitude": 44.383909346597996,
-      "Longitude": -88.87697498962665,
-      "OffTime": "Sep 22, 5:08 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 44.53861441403439,
+      "Longitude": -88.38944367261767,
+      "OffTime": "Sep 22, 9:39 a.m.",
+      "ETR": "Sep 22, 12:30 p.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 22, 5:10 a.m.",
+      "LastUpdated": "Sep 22, 10:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 2,
-          "City": "new london",
-          "CityCusts": 3688,
-          "County": "waupaca",
-          "CountyCusts": 8916,
-          "Zip": "54961",
-          "ZipCusts": 3696,
+          "AffectedCusts": 21,
+          "City": "black creek",
+          "CityCusts": 2433,
+          "County": "outagamie",
+          "CountyCusts": 80246,
+          "Zip": "54106",
+          "ZipCusts": 2435,
+          "Region": "fox valley wi",
+          "RegionCusts": 143491
+        },
+        {
+          "AffectedCusts": 21,
+          "City": "seymour",
+          "CityCusts": 3962,
+          "County": "outagamie",
+          "CountyCusts": 80246,
+          "Zip": "54165",
+          "ZipCusts": 3982,
           "Region": "fox valley wi",
           "RegionCusts": 143491
         }
       ]
     },
     {
-      "Latitude": 42.55698376617662,
-      "Longitude": -87.91362351113486,
-      "OffTime": "Sep 21, 11:46 p.m.",
-      "ETR": "Sep 22, 6:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Sep 22, 5:10 a.m.",
+      "Latitude": 42.60819519579379,
+      "Longitude": -88.05942520696723,
+      "OffTime": "Sep 22, 9:04 a.m.",
+      "ETR": "Sep 22, 12:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 22, 10:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "pleasant prairie",
-          "CityCusts": 3170,
+          "City": "bristol",
+          "CityCusts": 3604,
           "County": "kenosha",
           "CountyCusts": 80258,
-          "Zip": "53158",
-          "ZipCusts": 9584,
+          "Zip": "53104",
+          "ZipCusts": 3596,
           "Region": "southeast wi",
           "RegionCusts": 1075091
-        },
+        }
+      ]
+    },
+    {
+      "Latitude": 43.182124605767434,
+      "Longitude": -88.01418609793588,
+      "OffTime": "Sep 22, 9:53 a.m.",
+      "ETR": "Sep 22, 12:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 22, 10:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
         {
-          "AffectedCusts": 258,
-          "City": "pleasant pr",
-          "CityCusts": 6402,
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352299,
+          "County": "milwaukee",
+          "CountyCusts": 480132,
+          "Zip": "53224",
+          "ZipCusts": 9528,
+          "Region": "southeast wi",
+          "RegionCusts": 1075091
+        }
+      ]
+    },
+    {
+      "Latitude": 42.97534139374592,
+      "Longitude": -88.04646709026636,
+      "OffTime": "Sep 22, 7:52 a.m.",
+      "ETR": "Sep 22, 12:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Transformer problem",
+      "LastUpdated": "Sep 22, 10:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352299,
+          "County": "milwaukee",
+          "CountyCusts": 480132,
+          "Zip": "53228",
+          "ZipCusts": 8264,
+          "Region": "southeast wi",
+          "RegionCusts": 1075091
+        }
+      ]
+    },
+    {
+      "Latitude": 42.608248580133925,
+      "Longitude": -88.0570499771739,
+      "OffTime": "Sep 22, 9:06 a.m.",
+      "ETR": "Sep 22, 12:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 22, 10:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "bristol",
+          "CityCusts": 3604,
           "County": "kenosha",
           "CountyCusts": 80258,
-          "Zip": "53158",
-          "ZipCusts": 9584,
+          "Zip": "53104",
+          "ZipCusts": 3596,
+          "Region": "southeast wi",
+          "RegionCusts": 1075091
+        }
+      ]
+    },
+    {
+      "Latitude": 42.72950134467139,
+      "Longitude": -87.84223436581945,
+      "OffTime": "Sep 22, 9:55 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 22, 10:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 58987,
+          "County": "racine",
+          "CountyCusts": 102648,
+          "Zip": "53406",
+          "ZipCusts": 14556,
+          "Region": "southeast wi",
+          "RegionCusts": 1075091
+        }
+      ]
+    },
+    {
+      "Latitude": 43.135942255873545,
+      "Longitude": -88.20549161179095,
+      "OffTime": "Sep 22, 6:55 a.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 22, 10:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "sussex",
+          "CityCusts": 9901,
+          "County": "waukesha",
+          "CountyCusts": 203628,
+          "Zip": "53089",
+          "ZipCusts": 10051,
+          "Region": "southeast wi",
+          "RegionCusts": 1075091
+        }
+      ]
+    },
+    {
+      "Latitude": 43.101473075994285,
+      "Longitude": -88.20345509765549,
+      "OffTime": "Sep 22, 9:34 a.m.",
+      "ETR": "Sep 22, 12:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 22, 10:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "pewaukee",
+          "CityCusts": 14889,
+          "County": "waukesha",
+          "CountyCusts": 203628,
+          "Zip": "53072",
+          "ZipCusts": 14954,
           "Region": "southeast wi",
           "RegionCusts": 1075091
         }
