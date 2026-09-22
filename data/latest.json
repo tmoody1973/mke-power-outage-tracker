@@ -1,141 +1,16 @@
 {
-  "captured_at": "2026-09-22T18:51:32+00:00",
+  "captured_at": "2026-09-22T21:43:43+00:00",
   "events": [
-    {
-      "Latitude": 42.9906358910471,
-      "Longitude": -87.94078698073189,
-      "OffTime": "Sep 22, 1:13 p.m.",
-      "ETR": "Sep 22, 4:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 22, 1:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352299,
-          "County": "milwaukee",
-          "CountyCusts": 480132,
-          "Zip": "53215",
-          "ZipCusts": 22359,
-          "Region": "southeast wi",
-          "RegionCusts": 1075091
-        }
-      ]
-    },
-    {
-      "Latitude": 43.091006757078674,
-      "Longitude": -87.97289791223393,
-      "OffTime": "Sep 22, 1:40 p.m.",
-      "ETR": "Sep 22, 4:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 22, 1:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352299,
-          "County": "milwaukee",
-          "CountyCusts": 480132,
-          "Zip": "53216",
-          "ZipCusts": 14834,
-          "Region": "southeast wi",
-          "RegionCusts": 1075091
-        }
-      ]
-    },
-    {
-      "Latitude": 42.933735364724946,
-      "Longitude": -87.85945164570738,
-      "OffTime": "Sep 22, 1:29 p.m.",
-      "ETR": "Sep 22, 4:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 22, 1:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "cudahy",
-          "CityCusts": 9867,
-          "County": "milwaukee",
-          "CountyCusts": 480132,
-          "Zip": "53110",
-          "ZipCusts": 9866,
-          "Region": "southeast wi",
-          "RegionCusts": 1075091
-        }
-      ]
-    },
-    {
-      "Latitude": 43.018430159723074,
-      "Longitude": -87.95834673111291,
-      "OffTime": "Sep 22, 12:57 p.m.",
-      "ETR": "Sep 22, 3:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 22, 1:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "milwaukee",
-          "CityCusts": 352299,
-          "County": "milwaukee",
-          "CountyCusts": 480132,
-          "Zip": "53233",
-          "ZipCusts": 6714,
-          "Region": "southeast wi",
-          "RegionCusts": 1075091
-        },
-        {
-          "AffectedCusts": 753,
-          "City": "milwaukee",
-          "CityCusts": 352299,
-          "County": "milwaukee",
-          "CountyCusts": 480132,
-          "Zip": "53204",
-          "ZipCusts": 17674,
-          "Region": "southeast wi",
-          "RegionCusts": 1075091
-        },
-        {
-          "AffectedCusts": 839,
-          "City": "milwaukee",
-          "CityCusts": 352299,
-          "County": "milwaukee",
-          "CountyCusts": 480132,
-          "Zip": "53215",
-          "ZipCusts": 22359,
-          "Region": "southeast wi",
-          "RegionCusts": 1075091
-        }
-      ]
-    },
     {
       "Latitude": 43.111246276956535,
       "Longitude": -88.01531001160264,
       "OffTime": "Sep 22, 11:35 a.m.",
-      "ETR": "Sep 22, 2:30 p.m.",
+      "ETR": "Sep 22, 6:30 p.m.",
       "CrewStatus": "On site",
       "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Sep 22, 1:50 p.m.",
+      "LastUpdated": "Sep 22, 4:40 p.m.",
       "IsGlobal": false,
       "Slices": [
-        {
-          "AffectedCusts": 22,
-          "City": "milwaukee",
-          "CityCusts": 352299,
-          "County": "milwaukee",
-          "CountyCusts": 480132,
-          "Zip": "53225",
-          "ZipCusts": 12044,
-          "Region": "southeast wi",
-          "RegionCusts": 1075091
-        },
         {
           "AffectedCusts": 14,
           "City": "milwaukee",
@@ -146,142 +21,95 @@
           "ZipCusts": 17037,
           "Region": "southeast wi",
           "RegionCusts": 1075091
+        },
+        {
+          "AffectedCusts": 22,
+          "City": "milwaukee",
+          "CityCusts": 352299,
+          "County": "milwaukee",
+          "CountyCusts": 480132,
+          "Zip": "53225",
+          "ZipCusts": 12044,
+          "Region": "southeast wi",
+          "RegionCusts": 1075091
         }
       ]
     },
     {
-      "Latitude": 42.72950134467139,
-      "Longitude": -87.84223436581945,
-      "OffTime": "Sep 22, 9:55 a.m.",
-      "ETR": "Sep 22, 4:00 p.m.",
+      "Latitude": 43.018430159723074,
+      "Longitude": -87.95834673111291,
+      "OffTime": "Sep 22, 12:57 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "Specialized crew needed",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Sep 22, 1:50 p.m.",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Sep 22, 4:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 58987,
-          "County": "racine",
-          "CountyCusts": 102648,
-          "Zip": "53406",
-          "ZipCusts": 14556,
+          "AffectedCusts": 475,
+          "City": "milwaukee",
+          "CityCusts": 352299,
+          "County": "milwaukee",
+          "CountyCusts": 480132,
+          "Zip": "53204",
+          "ZipCusts": 17674,
+          "Region": "southeast wi",
+          "RegionCusts": 1075091
+        },
+        {
+          "AffectedCusts": 303,
+          "City": "milwaukee",
+          "CityCusts": 352299,
+          "County": "milwaukee",
+          "CountyCusts": 480132,
+          "Zip": "53215",
+          "ZipCusts": 22359,
           "Region": "southeast wi",
           "RegionCusts": 1075091
         }
       ]
     },
     {
-      "Latitude": 42.97839633654704,
-      "Longitude": -88.08948157166937,
-      "OffTime": "Sep 22, 12:56 p.m.",
-      "ETR": "Sep 22, 3:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 22, 1:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "new berlin",
-          "CityCusts": 20468,
-          "County": "waukesha",
-          "CountyCusts": 203628,
-          "Zip": "53151",
-          "ZipCusts": 16759,
-          "Region": "southeast wi",
-          "RegionCusts": 1075091
-        }
-      ]
-    },
-    {
-      "Latitude": 42.60819519579379,
-      "Longitude": -88.05942520696723,
-      "OffTime": "Sep 22, 9:04 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "Latitude": 42.9906358910471,
+      "Longitude": -87.94078698073189,
+      "OffTime": "Sep 22, 1:13 p.m.",
+      "ETR": "Sep 22, 7:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 22, 1:50 p.m.",
+      "LastUpdated": "Sep 22, 4:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "bristol",
-          "CityCusts": 3604,
+          "City": "milwaukee",
+          "CityCusts": 352299,
+          "County": "milwaukee",
+          "CountyCusts": 480132,
+          "Zip": "53215",
+          "ZipCusts": 22359,
+          "Region": "southeast wi",
+          "RegionCusts": 1075091
+        }
+      ]
+    },
+    {
+      "Latitude": 42.61858121554189,
+      "Longitude": -87.86548581553375,
+      "OffTime": "Sep 22, 4:27 p.m.",
+      "ETR": "Sep 22, 7:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 22, 4:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54332,
           "County": "kenosha",
           "CountyCusts": 80258,
-          "Zip": "53104",
-          "ZipCusts": 3596,
-          "Region": "southeast wi",
-          "RegionCusts": 1075091
-        }
-      ]
-    },
-    {
-      "Latitude": 42.99088344936356,
-      "Longitude": -88.11818444200232,
-      "OffTime": "Sep 22, 12:09 p.m.",
-      "ETR": "Sep 22, 3:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Sep 22, 1:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "new berlin",
-          "CityCusts": 20468,
-          "County": "waukesha",
-          "CountyCusts": 203628,
-          "Zip": "53151",
-          "ZipCusts": 16759,
-          "Region": "southeast wi",
-          "RegionCusts": 1075091
-        }
-      ]
-    },
-    {
-      "Latitude": 43.06627686218733,
-      "Longitude": -88.22557089821579,
-      "OffTime": "Sep 22, 1:39 p.m.",
-      "ETR": "Sep 22, 4:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 22, 1:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "pewaukee",
-          "CityCusts": 14889,
-          "County": "waukesha",
-          "CountyCusts": 203628,
-          "Zip": "53072",
-          "ZipCusts": 14954,
-          "Region": "southeast wi",
-          "RegionCusts": 1075091
-        }
-      ]
-    },
-    {
-      "Latitude": 42.608248580133925,
-      "Longitude": -88.0570499771739,
-      "OffTime": "Sep 22, 9:06 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 22, 1:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "bristol",
-          "CityCusts": 3604,
-          "County": "kenosha",
-          "CountyCusts": 80258,
-          "Zip": "53104",
-          "ZipCusts": 3596,
+          "Zip": "53144",
+          "ZipCusts": 14050,
           "Region": "southeast wi",
           "RegionCusts": 1075091
         }
