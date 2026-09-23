@@ -1,26 +1,141 @@
 {
-  "captured_at": "2026-09-23T07:57:31+00:00",
+  "captured_at": "2026-09-23T13:20:47+00:00",
   "events": [
     {
-      "Latitude": 43.06748968510954,
-      "Longitude": -87.9582758968915,
-      "OffTime": "Sep 22, 9:36 p.m.",
-      "ETR": "Sep 23, 4:00 a.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Sep 23, 2:50 a.m.",
+      "Latitude": 42.58511979780408,
+      "Longitude": -87.85512561394368,
+      "OffTime": "Sep 23, 7:52 a.m.",
+      "ETR": "Sep 23, 10:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 23, 8:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 18,
+          "City": "kenosha",
+          "CityCusts": 54332,
+          "County": "kenosha",
+          "CountyCusts": 80256,
+          "Zip": "53144",
+          "ZipCusts": 14049,
+          "Region": "southeast wi",
+          "RegionCusts": 1075114
+        }
+      ]
+    },
+    {
+      "Latitude": 42.584651286922416,
+      "Longitude": -87.85400714838549,
+      "OffTime": "Sep 23, 8:02 a.m.",
+      "ETR": "Sep 23, 11:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 23, 8:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54332,
+          "County": "kenosha",
+          "CountyCusts": 80256,
+          "Zip": "53144",
+          "ZipCusts": 14049,
+          "Region": "southeast wi",
+          "RegionCusts": 1075114
+        }
+      ]
+    },
+    {
+      "Latitude": 43.01330114635806,
+      "Longitude": -87.8984267991426,
+      "OffTime": "Sep 23, 6:36 a.m.",
+      "ETR": "Sep 23, 9:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 23, 8:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
           "City": "milwaukee",
-          "CityCusts": 352299,
+          "CityCusts": 352313,
           "County": "milwaukee",
-          "CountyCusts": 480132,
-          "Zip": "53210",
-          "ZipCusts": 12254,
+          "CountyCusts": 480147,
+          "Zip": "53207",
+          "ZipCusts": 20428,
           "Region": "southeast wi",
-          "RegionCusts": 1075091
+          "RegionCusts": 1075114
+        }
+      ]
+    },
+    {
+      "Latitude": 43.117676577249135,
+      "Longitude": -88.06498176193148,
+      "OffTime": "Sep 23, 6:47 a.m.",
+      "ETR": "Sep 23, 9:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 23, 8:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "milwaukee",
+          "CityCusts": 352313,
+          "County": "milwaukee",
+          "CountyCusts": 480147,
+          "Zip": "53225",
+          "ZipCusts": 12045,
+          "Region": "southeast wi",
+          "RegionCusts": 1075114
+        }
+      ]
+    },
+    {
+      "Latitude": 43.14645841222055,
+      "Longitude": -87.90405848030883,
+      "OffTime": "Sep 23, 7:17 a.m.",
+      "ETR": "Sep 23, 10:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 23, 8:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 8,
+          "City": "milwaukee",
+          "CityCusts": 352313,
+          "County": "milwaukee",
+          "CountyCusts": 480147,
+          "Zip": "53217",
+          "ZipCusts": 15175,
+          "Region": "southeast wi",
+          "RegionCusts": 1075114
+        }
+      ]
+    },
+    {
+      "Latitude": 42.685869542071586,
+      "Longitude": -88.0432253117558,
+      "OffTime": "Sep 23, 6:32 a.m.",
+      "ETR": "Sep 23, 9:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Sep 23, 8:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "union grove",
+          "CityCusts": 5253,
+          "County": "racine",
+          "CountyCusts": 102645,
+          "Zip": "53182",
+          "ZipCusts": 5253,
+          "Region": "southeast wi",
+          "RegionCusts": 1075114
         }
       ]
     },
@@ -28,45 +143,45 @@
       "Latitude": 42.98870880315233,
       "Longitude": -87.94048213574608,
       "OffTime": "Sep 22, 1:13 p.m.",
-      "ETR": "Sep 23, 8:00 a.m.",
-      "CrewStatus": "Specialized crew needed",
+      "ETR": "Sep 23, 1:00 p.m.",
+      "CrewStatus": "On the way",
       "Cause": "Tree contact with We Energies equipment",
-      "LastUpdated": "Sep 23, 2:50 a.m.",
+      "LastUpdated": "Sep 23, 8:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
           "City": "milwaukee",
-          "CityCusts": 352299,
+          "CityCusts": 352313,
           "County": "milwaukee",
-          "CountyCusts": 480132,
+          "CountyCusts": 480147,
           "Zip": "53215",
-          "ZipCusts": 22359,
+          "ZipCusts": 22358,
           "Region": "southeast wi",
-          "RegionCusts": 1075091
+          "RegionCusts": 1075114
         }
       ]
     },
     {
-      "Latitude": 43.00489355655477,
-      "Longitude": -88.24144511225883,
-      "OffTime": "Sep 23, 2:45 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 43.02293915168376,
+      "Longitude": -87.95206950481843,
+      "OffTime": "Sep 23, 6:23 a.m.",
+      "ETR": "Sep 23, 9:00 a.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 23, 2:50 a.m.",
+      "LastUpdated": "Sep 23, 8:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 10,
-          "City": "waukesha",
-          "CityCusts": 48455,
-          "County": "waukesha",
-          "CountyCusts": 203628,
-          "Zip": "53186",
-          "ZipCusts": 17763,
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352313,
+          "County": "milwaukee",
+          "CountyCusts": 480147,
+          "Zip": "53215",
+          "ZipCusts": 22358,
           "Region": "southeast wi",
-          "RegionCusts": 1075091
+          "RegionCusts": 1075114
         }
       ]
     }
