@@ -1,70 +1,310 @@
 {
-  "captured_at": "2026-09-24T01:32:30+00:00",
+  "captured_at": "2026-09-24T06:43:54+00:00",
   "events": [
     {
-      "Latitude": 42.97828690758386,
-      "Longitude": -88.07607196810103,
-      "OffTime": "Sep 23, 6:10 p.m.",
-      "ETR": "Sep 23, 9:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Sep 23, 8:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 9,
-          "City": "new berlin",
-          "CityCusts": 20468,
-          "County": "waukesha",
-          "CountyCusts": 203634,
-          "Zip": "53151",
-          "ZipCusts": 16759,
-          "Region": "southeast wi",
-          "RegionCusts": 1075114
-        }
-      ]
-    },
-    {
-      "Latitude": 42.903884123626604,
-      "Longitude": -87.90270617827046,
-      "OffTime": "Sep 23, 8:01 p.m.",
-      "ETR": "Sep 23, 11:00 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 42.58258472393889,
+      "Longitude": -88.10871872709872,
+      "OffTime": "Sep 23, 11:37 p.m.",
+      "ETR": "Sep 24, 2:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 23, 8:30 p.m.",
+      "LastUpdated": "Sep 24, 1:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "oak creek",
-          "CityCusts": 19960,
-          "County": "milwaukee",
-          "CountyCusts": 480147,
-          "Zip": "53154",
-          "ZipCusts": 19952,
+          "AffectedCusts": 228,
+          "City": "salem",
+          "CityCusts": 4977,
+          "County": "kenosha",
+          "CountyCusts": 80256,
+          "Zip": "53168",
+          "ZipCusts": 4988,
+          "Region": "southeast wi",
+          "RegionCusts": 1075114
+        },
+        {
+          "AffectedCusts": 3,
+          "City": "paddock lake",
+          "CityCusts": 19,
+          "County": "kenosha",
+          "CountyCusts": 80256,
+          "Zip": "53168",
+          "ZipCusts": 4988,
           "Region": "southeast wi",
           "RegionCusts": 1075114
         }
       ]
     },
     {
-      "Latitude": 43.08480355403709,
-      "Longitude": -88.02202171876225,
-      "OffTime": "Sep 23, 4:31 p.m.",
-      "ETR": "Sep 23, 9:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Sep 23, 8:30 p.m.",
+      "Latitude": 42.569212798233224,
+      "Longitude": -88.10327855271142,
+      "OffTime": "Sep 23, 11:35 p.m.",
+      "ETR": "Sep 24, 2:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 24, 1:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 7,
+          "City": "salem",
+          "CityCusts": 4977,
+          "County": "kenosha",
+          "CountyCusts": 80256,
+          "Zip": "53168",
+          "ZipCusts": 4988,
+          "Region": "southeast wi",
+          "RegionCusts": 1075114
+        }
+      ]
+    },
+    {
+      "Latitude": 42.93017331127585,
+      "Longitude": -87.87036976828588,
+      "OffTime": "Sep 23, 8:55 p.m.",
+      "ETR": "Sep 24, 3:00 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Sep 24, 1:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352313,
+          "City": "south milwaukee",
+          "CityCusts": 10362,
           "County": "milwaukee",
           "CountyCusts": 480147,
-          "Zip": "53222",
-          "ZipCusts": 13591,
+          "Zip": "53172",
+          "ZipCusts": 10363,
+          "Region": "southeast wi",
+          "RegionCusts": 1075114
+        },
+        {
+          "AffectedCusts": 4,
+          "City": "cudahy",
+          "CityCusts": 9867,
+          "County": "milwaukee",
+          "CountyCusts": 480147,
+          "Zip": "53110",
+          "ZipCusts": 9866,
+          "Region": "southeast wi",
+          "RegionCusts": 1075114
+        }
+      ]
+    },
+    {
+      "Latitude": 42.58135755778697,
+      "Longitude": -88.1100438591363,
+      "OffTime": "Sep 23, 11:37 p.m.",
+      "ETR": "Sep 24, 2:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 24, 1:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 5,
+          "City": "salem",
+          "CityCusts": 4977,
+          "County": "kenosha",
+          "CountyCusts": 80256,
+          "Zip": "53168",
+          "ZipCusts": 4988,
+          "Region": "southeast wi",
+          "RegionCusts": 1075114
+        }
+      ]
+    },
+    {
+      "Latitude": 42.568384603021485,
+      "Longitude": -88.10983383492632,
+      "OffTime": "Sep 23, 11:35 p.m.",
+      "ETR": "Sep 24, 2:30 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 24, 1:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 229,
+          "City": "salem",
+          "CityCusts": 4977,
+          "County": "kenosha",
+          "CountyCusts": 80256,
+          "Zip": "53168",
+          "ZipCusts": 4988,
+          "Region": "southeast wi",
+          "RegionCusts": 1075114
+        },
+        {
+          "AffectedCusts": 3,
+          "City": "paddock lake",
+          "CityCusts": 19,
+          "County": "kenosha",
+          "CountyCusts": 80256,
+          "Zip": "53168",
+          "ZipCusts": 4988,
+          "Region": "southeast wi",
+          "RegionCusts": 1075114
+        }
+      ]
+    },
+    {
+      "Latitude": 42.9527367231714,
+      "Longitude": -88.65199188532276,
+      "OffTime": "Sep 23, 9:35 p.m.",
+      "ETR": "Sep 24, 3:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Sep 24, 1:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 316,
+          "City": "jefferson",
+          "CityCusts": 1580,
+          "County": "jefferson",
+          "CountyCusts": 35293,
+          "Zip": "53549",
+          "ZipCusts": 1584,
+          "Region": "southeast wi",
+          "RegionCusts": 1075114
+        }
+      ]
+    },
+    {
+      "Latitude": 42.58258472393889,
+      "Longitude": -88.10871872709872,
+      "OffTime": "Sep 23, 11:37 p.m.",
+      "ETR": "Sep 24, 2:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 24, 1:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 140,
+          "City": "salem",
+          "CityCusts": 4977,
+          "County": "kenosha",
+          "CountyCusts": 80256,
+          "Zip": "53168",
+          "ZipCusts": 4988,
+          "Region": "southeast wi",
+          "RegionCusts": 1075114
+        }
+      ]
+    },
+    {
+      "Latitude": 42.56838030135757,
+      "Longitude": -88.10118878546643,
+      "OffTime": "Sep 23, 11:37 p.m.",
+      "ETR": "Sep 24, 2:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 24, 1:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 16,
+          "City": "salem",
+          "CityCusts": 4977,
+          "County": "kenosha",
+          "CountyCusts": 80256,
+          "Zip": "53168",
+          "ZipCusts": 4988,
+          "Region": "southeast wi",
+          "RegionCusts": 1075114
+        }
+      ]
+    },
+    {
+      "Latitude": 42.56918418427974,
+      "Longitude": -88.10840982004223,
+      "OffTime": "Sep 23, 11:36 p.m.",
+      "ETR": "Sep 24, 2:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 24, 1:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 7,
+          "City": "salem",
+          "CityCusts": 4977,
+          "County": "kenosha",
+          "CountyCusts": 80256,
+          "Zip": "53168",
+          "ZipCusts": 4988,
+          "Region": "southeast wi",
+          "RegionCusts": 1075114
+        }
+      ]
+    },
+    {
+      "Latitude": 42.56658746274015,
+      "Longitude": -88.10049028123987,
+      "OffTime": "Sep 23, 11:36 p.m.",
+      "ETR": "Sep 24, 3:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 24, 1:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 14,
+          "City": "salem",
+          "CityCusts": 4977,
+          "County": "kenosha",
+          "CountyCusts": 80256,
+          "Zip": "53168",
+          "ZipCusts": 4988,
+          "Region": "southeast wi",
+          "RegionCusts": 1075114
+        }
+      ]
+    },
+    {
+      "Latitude": 42.56838030135757,
+      "Longitude": -88.10118878546643,
+      "OffTime": "Sep 23, 11:37 p.m.",
+      "ETR": "Sep 24, 2:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 24, 1:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 33,
+          "City": "salem",
+          "CityCusts": 4977,
+          "County": "kenosha",
+          "CountyCusts": 80256,
+          "Zip": "53168",
+          "ZipCusts": 4988,
+          "Region": "southeast wi",
+          "RegionCusts": 1075114
+        }
+      ]
+    },
+    {
+      "Latitude": 42.56606234421726,
+      "Longitude": -88.12304547795388,
+      "OffTime": "Sep 23, 11:36 p.m.",
+      "ETR": "Sep 24, 2:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 24, 1:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 6,
+          "City": "salem",
+          "CityCusts": 4977,
+          "County": "kenosha",
+          "CountyCusts": 80256,
+          "Zip": "53168",
+          "ZipCusts": 4988,
           "Region": "southeast wi",
           "RegionCusts": 1075114
         }
