@@ -1,72 +1,49 @@
 {
-  "captured_at": "2026-09-24T12:13:45+00:00",
+  "captured_at": "2026-09-24T17:11:50+00:00",
   "events": [
     {
-      "Latitude": 42.96815574024562,
-      "Longitude": -88.10184960697664,
-      "OffTime": "Sep 24, 7:04 a.m.",
-      "ETR": "Sep 24, 10:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 43.507784901299644,
+      "Longitude": -88.19357007585141,
+      "OffTime": "Sep 24, 9:42 a.m.",
+      "ETR": "Sep 24, 12:30 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 24, 7:10 a.m.",
+      "LastUpdated": "Sep 24, 12:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "new berlin",
-          "CityCusts": 20467,
-          "County": "waukesha",
-          "CountyCusts": 203631,
-          "Zip": "53151",
-          "ZipCusts": 16758,
+          "AffectedCusts": 6,
+          "City": "kewaskum",
+          "CityCusts": 4413,
+          "County": "washington",
+          "CountyCusts": 61701,
+          "Zip": "53040",
+          "ZipCusts": 4419,
           "Region": "southeast wi",
-          "RegionCusts": 1075172
+          "RegionCusts": 1075173
         }
       ]
     },
     {
-      "Latitude": 44.29395755907643,
-      "Longitude": -88.52379744214937,
-      "OffTime": "Sep 24, 2:41 a.m.",
-      "ETR": "Sep 24, 8:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Sep 24, 7:10 a.m.",
+      "Latitude": 44.22615137182333,
+      "Longitude": -88.44496608257661,
+      "OffTime": "Sep 24, 11:32 a.m.",
+      "ETR": "Sep 24, 2:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 24, 12:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 3,
-          "City": "greenville",
-          "CityCusts": 4899,
-          "County": "outagamie",
-          "CountyCusts": 80250,
-          "Zip": "54942",
-          "ZipCusts": 4884,
+          "AffectedCusts": 1,
+          "City": "menasha",
+          "CityCusts": 4807,
+          "County": "winnebago",
+          "CountyCusts": 27745,
+          "Zip": "54952",
+          "ZipCusts": 4820,
           "Region": "fox valley wi",
           "RegionCusts": 143501
-        }
-      ]
-    },
-    {
-      "Latitude": 42.69489692702953,
-      "Longitude": -87.85032948055773,
-      "OffTime": "Sep 24, 5:22 a.m.",
-      "ETR": "Sep 24, 8:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 24, 7:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 58988,
-          "County": "racine",
-          "CountyCusts": 102653,
-          "Zip": "53406",
-          "ZipCusts": 14559,
-          "Region": "southeast wi",
-          "RegionCusts": 1075172
         }
       ]
     },
@@ -74,10 +51,10 @@
       "Latitude": 44.241449579943875,
       "Longitude": -88.38542404204037,
       "OffTime": "Sep 24, 5:12 a.m.",
-      "ETR": "Sep 24, 8:00 a.m.",
+      "ETR": "Sep 24, 1:30 p.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Tree contact with service wire",
-      "LastUpdated": "Sep 24, 7:10 a.m.",
+      "LastUpdated": "Sep 24, 12:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -94,25 +71,71 @@
       ]
     },
     {
-      "Latitude": 43.919251407419246,
-      "Longitude": -87.7817305508676,
-      "OffTime": "Sep 24, 6:46 a.m.",
-      "ETR": "Sep 24, 9:30 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 24, 7:10 a.m.",
+      "Latitude": 42.83175000996182,
+      "Longitude": -88.73737437010958,
+      "OffTime": "Sep 24, 11:39 a.m.",
+      "ETR": "Sep 24, 2:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Sep 24, 12:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 4,
-          "City": "cleveland",
-          "CityCusts": 1055,
-          "County": "manitowic",
-          "CountyCusts": 1418,
-          "Zip": "53015",
-          "ZipCusts": 1055,
+          "AffectedCusts": 1,
+          "City": "whitewater",
+          "CityCusts": 9505,
+          "County": "walworth",
+          "CountyCusts": 24251,
+          "Zip": "53190",
+          "ZipCusts": 9508,
           "Region": "southeast wi",
-          "RegionCusts": 1075172
+          "RegionCusts": 1075173
+        }
+      ]
+    },
+    {
+      "Latitude": 42.96815574024562,
+      "Longitude": -88.10184960697664,
+      "OffTime": "Sep 24, 7:04 a.m.",
+      "ETR": "Sep 24, 1:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Sep 24, 12:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "new berlin",
+          "CityCusts": 20467,
+          "County": "waukesha",
+          "CountyCusts": 203631,
+          "Zip": "53151",
+          "ZipCusts": 16758,
+          "Region": "southeast wi",
+          "RegionCusts": 1075173
+        }
+      ]
+    },
+    {
+      "Latitude": 42.55894097542245,
+      "Longitude": -87.8453996579071,
+      "OffTime": "Sep 24, 9:18 a.m.",
+      "ETR": "Sep 24, 2:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Sep 24, 12:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54332,
+          "County": "kenosha",
+          "CountyCusts": 80257,
+          "Zip": "53142",
+          "ZipCusts": 15171,
+          "Region": "southeast wi",
+          "RegionCusts": 1075173
         }
       ]
     }
