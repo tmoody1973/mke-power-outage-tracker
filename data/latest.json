@@ -1,108 +1,27 @@
 {
-  "captured_at": "2026-09-24T23:18:35+00:00",
+  "captured_at": "2026-09-25T01:40:12+00:00",
   "events": [
-    {
-      "Latitude": 43.096111448232186,
-      "Longitude": -87.95993222364419,
-      "OffTime": "Sep 24, 6:04 p.m.",
-      "ETR": "Sep 24, 9:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 24, 6:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352357,
-          "County": "milwaukee",
-          "CountyCusts": 480191,
-          "Zip": "53216",
-          "ZipCusts": 14832,
-          "Region": "southeast wi",
-          "RegionCusts": 1075173
-        }
-      ]
-    },
-    {
-      "Latitude": 42.782897161101296,
-      "Longitude": -87.8287089107309,
-      "OffTime": "Sep 24, 3:19 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "On the way",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Sep 24, 6:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 12,
-          "City": "racine",
-          "CityCusts": 58989,
-          "County": "racine",
-          "CountyCusts": 102653,
-          "Zip": "53405",
-          "ZipCusts": 11769,
-          "Region": "southeast wi",
-          "RegionCusts": 1075173
-        }
-      ]
-    },
-    {
-      "Latitude": 43.112271895772736,
-      "Longitude": -87.90626574931059,
-      "OffTime": "Sep 24, 5:15 p.m.",
-      "ETR": "Sep 24, 8:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 24, 6:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352357,
-          "County": "milwaukee",
-          "CountyCusts": 480191,
-          "Zip": "53217",
-          "ZipCusts": 15174,
-          "Region": "southeast wi",
-          "RegionCusts": 1075173
-        }
-      ]
-    },
-    {
-      "Latitude": 42.56658400439319,
-      "Longitude": -87.92476131571918,
-      "OffTime": "Sep 24, 4:57 p.m.",
-      "ETR": "Sep 24, 7:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 24, 6:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 81,
-          "City": "kenosha",
-          "CityCusts": 54332,
-          "County": "kenosha",
-          "CountyCusts": 80257,
-          "Zip": "53142",
-          "ZipCusts": 15171,
-          "Region": "southeast wi",
-          "RegionCusts": 1075173
-        }
-      ]
-    },
     {
       "Latitude": 42.551585581918104,
       "Longitude": -87.91825266712047,
       "OffTime": "Sep 24, 5:47 p.m.",
-      "ETR": "Sep 24, 8:30 p.m.",
-      "CrewStatus": "Specialized crew needed",
+      "ETR": "Sep 24, 10:00 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 24, 6:10 p.m.",
+      "LastUpdated": "Sep 24, 8:30 p.m.",
       "IsGlobal": false,
       "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54332,
+          "County": "kenosha",
+          "CountyCusts": 80257,
+          "Zip": "53158",
+          "ZipCusts": 9584,
+          "Region": "southeast wi",
+          "RegionCusts": 1075173
+        },
         {
           "AffectedCusts": 18,
           "City": "pleasant prairie",
@@ -113,15 +32,73 @@
           "ZipCusts": 9584,
           "Region": "southeast wi",
           "RegionCusts": 1075173
-        },
+        }
+      ]
+    },
+    {
+      "Latitude": 43.33184950195466,
+      "Longitude": -88.1784631651472,
+      "OffTime": "Sep 24, 8:12 p.m.",
+      "ETR": "Sep 24, 11:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 24, 8:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
         {
           "AffectedCusts": 1,
+          "City": "jackson",
+          "CityCusts": 5885,
+          "County": "washington",
+          "CountyCusts": 61701,
+          "Zip": "53037",
+          "ZipCusts": 5878,
+          "Region": "southeast wi",
+          "RegionCusts": 1075173
+        }
+      ]
+    },
+    {
+      "Latitude": 43.07178118755642,
+      "Longitude": -87.93155663296933,
+      "OffTime": "Sep 24, 7:15 p.m.",
+      "ETR": "Sep 24, 10:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Facilities patrolled - no problems found",
+      "LastUpdated": "Sep 24, 8:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 23,
+          "City": "milwaukee",
+          "CityCusts": 352357,
+          "County": "milwaukee",
+          "CountyCusts": 480191,
+          "Zip": "53206",
+          "ZipCusts": 10799,
+          "Region": "southeast wi",
+          "RegionCusts": 1075173
+        }
+      ]
+    },
+    {
+      "Latitude": 42.56658400439319,
+      "Longitude": -87.92476131571918,
+      "OffTime": "Sep 24, 4:57 p.m.",
+      "ETR": "Sep 24, 10:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 24, 8:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 81,
           "City": "kenosha",
           "CityCusts": 54332,
           "County": "kenosha",
           "CountyCusts": 80257,
-          "Zip": "53158",
-          "ZipCusts": 9584,
+          "Zip": "53142",
+          "ZipCusts": 15171,
           "Region": "southeast wi",
           "RegionCusts": 1075173
         }
