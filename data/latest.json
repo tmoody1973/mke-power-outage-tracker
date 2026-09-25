@@ -1,49 +1,72 @@
 {
-  "captured_at": "2026-09-25T06:35:41+00:00",
+  "captured_at": "2026-09-25T12:12:41+00:00",
   "events": [
     {
-      "Latitude": 43.238974095713715,
-      "Longitude": -88.94998649776518,
-      "OffTime": "Sep 24, 8:48 p.m.",
-      "ETR": "Sep 25, 3:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Sep 25, 1:30 a.m.",
+      "Latitude": 44.41612696437097,
+      "Longitude": -88.54798241044271,
+      "OffTime": "Sep 25, 5:40 a.m.",
+      "ETR": "Sep 25, 8:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 25, 7:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "waterloo",
-          "CityCusts": 867,
-          "County": "dodge",
-          "CountyCusts": 17210,
-          "Zip": "53594",
-          "ZipCusts": 866,
-          "Region": "southeast wi",
-          "RegionCusts": 1075173
+          "AffectedCusts": 18,
+          "City": "shiocton",
+          "CityCusts": 2129,
+          "County": "outagamie",
+          "CountyCusts": 80246,
+          "Zip": "54170",
+          "ZipCusts": 2130,
+          "Region": "fox valley wi",
+          "RegionCusts": 143500
         }
       ]
     },
     {
-      "Latitude": 42.992142524320705,
-      "Longitude": -88.23050627463796,
-      "OffTime": "Sep 25, 12:39 a.m.",
-      "ETR": "Sep 25, 3:30 a.m.",
-      "CrewStatus": "On the way",
+      "Latitude": 43.12835411347079,
+      "Longitude": -88.00749603696264,
+      "OffTime": "Sep 25, 5:56 a.m.",
+      "ETR": "Sep 25, 8:30 a.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 25, 1:30 a.m.",
+      "LastUpdated": "Sep 25, 7:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 8,
-          "City": "waukesha",
-          "CityCusts": 48454,
-          "County": "waukesha",
-          "CountyCusts": 203631,
-          "Zip": "53186",
-          "ZipCusts": 17763,
+          "AffectedCusts": 2,
+          "City": "milwaukee",
+          "CityCusts": 352357,
+          "County": "milwaukee",
+          "CountyCusts": 480194,
+          "Zip": "53218",
+          "ZipCusts": 17036,
           "Region": "southeast wi",
-          "RegionCusts": 1075173
+          "RegionCusts": 1075211
+        }
+      ]
+    },
+    {
+      "Latitude": 43.034848825866504,
+      "Longitude": -88.28968083613572,
+      "OffTime": "Sep 25, 7:08 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 25, 7:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "waukesha",
+          "CityCusts": 48458,
+          "County": "waukesha",
+          "CountyCusts": 203653,
+          "Zip": "53188",
+          "ZipCusts": 17777,
+          "Region": "southeast wi",
+          "RegionCusts": 1075211
         }
       ]
     }
