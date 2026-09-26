@@ -1,37 +1,14 @@
 {
-  "captured_at": "2026-09-26T01:45:26+00:00",
+  "captured_at": "2026-09-26T06:53:36+00:00",
   "events": [
-    {
-      "Latitude": 43.20388684185324,
-      "Longitude": -88.25625128964977,
-      "OffTime": "Sep 25, 3:42 p.m.",
-      "ETR": "Sep 25, 9:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Sep 25, 8:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "colgate",
-          "CityCusts": 2590,
-          "County": "washington",
-          "CountyCusts": 61699,
-          "Zip": "53017",
-          "ZipCusts": 2601,
-          "Region": "southeast wi",
-          "RegionCusts": 1075211
-        }
-      ]
-    },
     {
       "Latitude": 43.31755693148196,
       "Longitude": -87.9463207197045,
       "OffTime": "Sep 25, 7:48 p.m.",
-      "ETR": "Sep 25, 10:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 25, 8:40 p.m.",
+      "ETR": "Sep 26, 2:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Transformer problem",
+      "LastUpdated": "Sep 26, 1:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,25 +25,48 @@
       ]
     },
     {
-      "Latitude": 44.255948743496596,
-      "Longitude": -88.36352518414645,
-      "OffTime": "Sep 25, 7:22 p.m.",
-      "ETR": "Sep 25, 10:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 25, 8:40 p.m.",
+      "Latitude": 43.050056470280786,
+      "Longitude": -88.08984264387792,
+      "OffTime": "Sep 25, 9:00 p.m.",
+      "ETR": "Sep 26, 5:00 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Sep 26, 1:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 63019,
-          "County": "outagamie",
-          "CountyCusts": 80246,
-          "Zip": "54915",
-          "ZipCusts": 20164,
-          "Region": "fox valley wi",
-          "RegionCusts": 143500
+          "City": "elm grove",
+          "CityCusts": 3381,
+          "County": "waukesha",
+          "CountyCusts": 203653,
+          "Zip": "53122",
+          "ZipCusts": 3380,
+          "Region": "southeast wi",
+          "RegionCusts": 1075211
+        }
+      ]
+    },
+    {
+      "Latitude": 43.28539099708415,
+      "Longitude": -87.97017105426632,
+      "OffTime": "Sep 26, 1:21 a.m.",
+      "ETR": "Sep 26, 4:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 26, 1:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "cedarburg",
+          "CityCusts": 2884,
+          "County": "ozaukee",
+          "CountyCusts": 42775,
+          "Zip": "53012",
+          "ZipCusts": 2878,
+          "Region": "southeast wi",
+          "RegionCusts": 1075211
         }
       ]
     }
