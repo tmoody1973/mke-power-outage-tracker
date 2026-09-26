@@ -1,26 +1,92 @@
 {
-  "captured_at": "2026-09-26T06:53:36+00:00",
+  "captured_at": "2026-09-26T11:58:16+00:00",
   "events": [
     {
-      "Latitude": 43.31755693148196,
-      "Longitude": -87.9463207197045,
-      "OffTime": "Sep 25, 7:48 p.m.",
-      "ETR": "Sep 26, 2:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Sep 26, 1:50 a.m.",
+      "Latitude": 46.27458991282102,
+      "Longitude": -89.25603415578229,
+      "OffTime": "Sep 26, 6:32 a.m.",
+      "ETR": "Sep 26, 9:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 26, 6:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 13,
-          "City": "grafton",
-          "CityCusts": 10611,
-          "County": "ozaukee",
-          "CountyCusts": 42775,
-          "Zip": "53024",
-          "ZipCusts": 10632,
-          "Region": "southeast wi",
-          "RegionCusts": 1075211
+          "AffectedCusts": 3,
+          "City": "bruce crossing",
+          "CityCusts": 710,
+          "County": "ontonagon",
+          "CountyCusts": 1707,
+          "Zip": "49912",
+          "ZipCusts": 788,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41425
+        },
+        {
+          "AffectedCusts": 97,
+          "City": "watersmeet",
+          "CityCusts": 2016,
+          "County": "gogebic",
+          "CountyCusts": 2021,
+          "Zip": "49969",
+          "ZipCusts": 2012,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41425
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "watersmeet",
+          "CityCusts": 2016,
+          "County": "gogebic",
+          "CountyCusts": 2021,
+          "Zip": "49979",
+          "ZipCusts": 1,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41425
+        },
+        {
+          "AffectedCusts": 39,
+          "City": "paulding",
+          "CityCusts": 73,
+          "County": "ontonagon",
+          "CountyCusts": 1707,
+          "Zip": "49912",
+          "ZipCusts": 788,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41425
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "watersmeet",
+          "CityCusts": 2016,
+          "County": "ontonagon",
+          "CountyCusts": 1707,
+          "Zip": "49969",
+          "ZipCusts": 2012,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41425
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "watersmeet",
+          "CityCusts": 2016,
+          "County": "ontonagon",
+          "CountyCusts": 1707,
+          "Zip": "49912",
+          "ZipCusts": 788,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41425
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "haight",
+          "CityCusts": 1,
+          "County": "ontonagon",
+          "CountyCusts": 1707,
+          "Zip": "49912",
+          "ZipCusts": 788,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41425
         }
       ]
     },
@@ -28,10 +94,10 @@
       "Latitude": 43.050056470280786,
       "Longitude": -88.08984264387792,
       "OffTime": "Sep 25, 9:00 p.m.",
-      "ETR": "Sep 26, 5:00 a.m.",
-      "CrewStatus": "Specialized crew needed",
+      "ETR": "Sep 26, 7:30 a.m.",
+      "CrewStatus": "On site",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Sep 26, 1:50 a.m.",
+      "LastUpdated": "Sep 26, 6:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,25 +114,229 @@
       ]
     },
     {
-      "Latitude": 43.28539099708415,
-      "Longitude": -87.97017105426632,
-      "OffTime": "Sep 26, 1:21 a.m.",
-      "ETR": "Sep 26, 4:00 a.m.",
+      "Latitude": 46.16370875445644,
+      "Longitude": -89.2042010109546,
+      "OffTime": "Sep 26, 6:30 a.m.",
+      "ETR": "Sep 26, 9:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 26, 6:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 574,
+          "City": "watersmeet",
+          "CityCusts": 2016,
+          "County": "gogebic",
+          "CountyCusts": 2021,
+          "Zip": "49969",
+          "ZipCusts": 2012,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41425
+        },
+        {
+          "AffectedCusts": 11,
+          "City": "marenisco",
+          "CityCusts": 11,
+          "County": "gogebic",
+          "CountyCusts": 2021,
+          "Zip": "49947",
+          "ZipCusts": 11,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41425
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6271,
+          "Zip": "54521",
+          "ZipCusts": 507,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41425
+        },
+        {
+          "AffectedCusts": 503,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6271,
+          "Zip": "54540",
+          "ZipCusts": 1705,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41425
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "watersmeet",
+          "CityCusts": 2016,
+          "County": "gogebic",
+          "CountyCusts": 2021,
+          "Zip": "49912",
+          "ZipCusts": 788,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41425
+        }
+      ]
+    },
+    {
+      "Latitude": 46.175296351436714,
+      "Longitude": -89.30081291394275,
+      "OffTime": "Sep 26, 6:34 a.m.",
+      "ETR": "Sep 26, 9:30 a.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 26, 1:50 a.m.",
+      "LastUpdated": "Sep 26, 6:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6271,
+          "Zip": "54540",
+          "ZipCusts": 1705,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41425
+        }
+      ]
+    },
+    {
+      "Latitude": 42.5045055693774,
+      "Longitude": -87.85931110134577,
+      "OffTime": "Sep 26, 5:08 a.m.",
+      "ETR": "Sep 26, 8:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 26, 6:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 4,
+          "City": "pleasant pr",
+          "CityCusts": 6401,
+          "County": "kenosha",
+          "CountyCusts": 80260,
+          "Zip": "53158",
+          "ZipCusts": 9585,
+          "Region": "southeast wi",
+          "RegionCusts": 1075211
+        },
+        {
+          "AffectedCusts": 2,
+          "City": "pleasant prairie",
+          "CityCusts": 3172,
+          "County": "kenosha",
+          "CountyCusts": 80260,
+          "Zip": "53158",
+          "ZipCusts": 9585,
+          "Region": "southeast wi",
+          "RegionCusts": 1075211
+        }
+      ]
+    },
+    {
+      "Latitude": 43.061739390304,
+      "Longitude": -87.98366137337791,
+      "OffTime": "Sep 26, 6:29 a.m.",
+      "ETR": "Sep 26, 9:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 26, 6:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "cedarburg",
-          "CityCusts": 2884,
-          "County": "ozaukee",
-          "CountyCusts": 42775,
-          "Zip": "53012",
-          "ZipCusts": 2878,
+          "City": "milwaukee",
+          "CityCusts": 352357,
+          "County": "milwaukee",
+          "CountyCusts": 480194,
+          "Zip": "53210",
+          "ZipCusts": 12254,
           "Region": "southeast wi",
           "RegionCusts": 1075211
+        }
+      ]
+    },
+    {
+      "Latitude": 42.56197703671075,
+      "Longitude": -87.86929687817963,
+      "OffTime": "Sep 26, 4:54 a.m.",
+      "ETR": "Sep 26, 7:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 26, 6:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 34,
+          "City": "kenosha",
+          "CityCusts": 54334,
+          "County": "kenosha",
+          "CountyCusts": 80260,
+          "Zip": "53142",
+          "ZipCusts": 15171,
+          "Region": "southeast wi",
+          "RegionCusts": 1075211
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "pleasant prairie",
+          "CityCusts": 3172,
+          "County": "kenosha",
+          "CountyCusts": 80260,
+          "Zip": "53142",
+          "ZipCusts": 15171,
+          "Region": "southeast wi",
+          "RegionCusts": 1075211
+        }
+      ]
+    },
+    {
+      "Latitude": 44.19669601073537,
+      "Longitude": -88.30372836409278,
+      "OffTime": "Sep 26, 6:42 a.m.",
+      "ETR": "Sep 26, 9:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 26, 6:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "menasha",
+          "CityCusts": 4807,
+          "County": "calumet",
+          "CountyCusts": 14471,
+          "Zip": "54952",
+          "ZipCusts": 4820,
+          "Region": "fox valley wi",
+          "RegionCusts": 143500
+        }
+      ]
+    },
+    {
+      "Latitude": 46.19026221294373,
+      "Longitude": -89.4033234510349,
+      "OffTime": "Sep 26, 6:31 a.m.",
+      "ETR": "Sep 26, 9:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 26, 6:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6271,
+          "Zip": "54540",
+          "ZipCusts": 1705,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41425
         }
       ]
     }
