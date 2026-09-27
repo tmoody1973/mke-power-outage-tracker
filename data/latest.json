@@ -1,37 +1,14 @@
 {
-  "captured_at": "2026-09-27T14:17:15+00:00",
+  "captured_at": "2026-09-27T18:33:23+00:00",
   "events": [
-    {
-      "Latitude": 43.068938667438374,
-      "Longitude": -88.02063457515489,
-      "OffTime": "Sep 27, 8:45 a.m.",
-      "ETR": "Sep 27, 11:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 27, 9:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352357,
-          "County": "milwaukee",
-          "CountyCusts": 480194,
-          "Zip": "53222",
-          "ZipCusts": 13590,
-          "Region": "southeast wi",
-          "RegionCusts": 1075211
-        }
-      ]
-    },
     {
       "Latitude": 43.06879366455222,
       "Longitude": -87.8692151133095,
       "OffTime": "Sep 27, 8:40 a.m.",
-      "ETR": "Sep 27, 11:30 a.m.",
+      "ETR": "Sep 27, 3:00 p.m.",
       "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 27, 9:10 a.m.",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Sep 27, 1:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,23 +25,23 @@
       ]
     },
     {
-      "Latitude": 43.42819863022047,
-      "Longitude": -88.22594843409433,
-      "OffTime": "Sep 27, 7:39 a.m.",
-      "ETR": "Sep 27, 10:30 a.m.",
-      "CrewStatus": "On site",
+      "Latitude": 43.048617644343025,
+      "Longitude": -88.08947231540228,
+      "OffTime": "Sep 27, 1:28 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 27, 9:10 a.m.",
+      "LastUpdated": "Sep 27, 1:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 47,
-          "City": "west bend",
-          "CityCusts": 26121,
-          "County": "washington",
-          "CountyCusts": 61699,
-          "Zip": "53090",
-          "ZipCusts": 10560,
+          "AffectedCusts": 1,
+          "City": "elm grove",
+          "CityCusts": 3381,
+          "County": "waukesha",
+          "CountyCusts": 203653,
+          "Zip": "53122",
+          "ZipCusts": 3380,
           "Region": "southeast wi",
           "RegionCusts": 1075211
         }
