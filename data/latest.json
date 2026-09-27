@@ -1,24 +1,116 @@
 {
-  "captured_at": "2026-09-27T21:36:20+00:00",
+  "captured_at": "2026-09-27T23:57:31+00:00",
   "events": [
     {
-      "Latitude": 42.49843360957143,
-      "Longitude": -87.82258543046147,
-      "OffTime": "Sep 27, 3:56 p.m.",
-      "ETR": "Sep 27, 6:30 p.m.",
+      "Latitude": 46.117315301000176,
+      "Longitude": -89.2975255928721,
+      "OffTime": "Sep 27, 5:34 p.m.",
+      "ETR": "Sep 27, 8:30 p.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 27, 4:30 p.m.",
+      "LastUpdated": "Sep 27, 6:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 4,
+          "City": "land o lakes",
+          "CityCusts": 1707,
+          "County": "vilas",
+          "CountyCusts": 6271,
+          "Zip": "54540",
+          "ZipCusts": 1705,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41425
+        }
+      ]
+    },
+    {
+      "Latitude": 42.79009295603283,
+      "Longitude": -87.79816138948381,
+      "OffTime": "Sep 27, 4:42 p.m.",
+      "ETR": "Sep 27, 7:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 27, 6:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "pleasant prairie",
-          "CityCusts": 3172,
-          "County": "kenosha",
-          "CountyCusts": 80260,
-          "Zip": "53158",
-          "ZipCusts": 9585,
+          "City": "racine",
+          "CityCusts": 58991,
+          "County": "racine",
+          "CountyCusts": 102657,
+          "Zip": "53402",
+          "ZipCusts": 16000,
+          "Region": "southeast wi",
+          "RegionCusts": 1075211
+        }
+      ]
+    },
+    {
+      "Latitude": 43.0758017737939,
+      "Longitude": -88.0207268350181,
+      "OffTime": "Sep 27, 6:16 p.m.",
+      "ETR": "Sep 27, 9:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 27, 6:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352357,
+          "County": "milwaukee",
+          "CountyCusts": 480194,
+          "Zip": "53222",
+          "ZipCusts": 13590,
+          "Region": "southeast wi",
+          "RegionCusts": 1075211
+        }
+      ]
+    },
+    {
+      "Latitude": 43.083100776409474,
+      "Longitude": -87.90926593548168,
+      "OffTime": "Sep 27, 6:42 p.m.",
+      "ETR": "Sep 27, 9:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 27, 6:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 15,
+          "City": "milwaukee",
+          "CityCusts": 352357,
+          "County": "milwaukee",
+          "CountyCusts": 480194,
+          "Zip": "53212",
+          "ZipCusts": 17019,
+          "Region": "southeast wi",
+          "RegionCusts": 1075211
+        }
+      ]
+    },
+    {
+      "Latitude": 43.59311072606505,
+      "Longitude": -88.1247298950216,
+      "OffTime": "Sep 27, 4:52 p.m.",
+      "ETR": "Sep 27, 7:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 27, 6:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kewaskum",
+          "CityCusts": 4412,
+          "County": "sheboygan",
+          "CountyCusts": 14263,
+          "Zip": "53040",
+          "ZipCusts": 4418,
           "Region": "southeast wi",
           "RegionCusts": 1075211
         }
