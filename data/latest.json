@@ -1,26 +1,72 @@
 {
-  "captured_at": "2026-09-27T08:33:20+00:00",
+  "captured_at": "2026-09-27T14:17:15+00:00",
   "events": [
     {
-      "Latitude": 46.047414607795496,
-      "Longitude": -88.51332202129608,
-      "OffTime": "Sep 27, 2:28 a.m.",
-      "ETR": "Sep 27, 5:30 a.m.",
+      "Latitude": 43.068938667438374,
+      "Longitude": -88.02063457515489,
+      "OffTime": "Sep 27, 8:45 a.m.",
+      "ETR": "Sep 27, 11:30 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 27, 3:30 a.m.",
+      "LastUpdated": "Sep 27, 9:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "crystal falls",
-          "CityCusts": 2028,
-          "County": "iron",
-          "CountyCusts": 4275,
-          "Zip": "49920",
-          "ZipCusts": 2031,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41425
+          "City": "milwaukee",
+          "CityCusts": 352357,
+          "County": "milwaukee",
+          "CountyCusts": 480194,
+          "Zip": "53222",
+          "ZipCusts": 13590,
+          "Region": "southeast wi",
+          "RegionCusts": 1075211
+        }
+      ]
+    },
+    {
+      "Latitude": 43.06879366455222,
+      "Longitude": -87.8692151133095,
+      "OffTime": "Sep 27, 8:40 a.m.",
+      "ETR": "Sep 27, 11:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 27, 9:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352357,
+          "County": "milwaukee",
+          "CountyCusts": 480194,
+          "Zip": "53211",
+          "ZipCusts": 18152,
+          "Region": "southeast wi",
+          "RegionCusts": 1075211
+        }
+      ]
+    },
+    {
+      "Latitude": 43.42819863022047,
+      "Longitude": -88.22594843409433,
+      "OffTime": "Sep 27, 7:39 a.m.",
+      "ETR": "Sep 27, 10:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 27, 9:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 47,
+          "City": "west bend",
+          "CityCusts": 26121,
+          "County": "washington",
+          "CountyCusts": 61699,
+          "Zip": "53090",
+          "ZipCusts": 10560,
+          "Region": "southeast wi",
+          "RegionCusts": 1075211
         }
       ]
     }
