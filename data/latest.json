@@ -1,64 +1,64 @@
 {
-  "captured_at": "2026-09-28T18:08:59+00:00",
+  "captured_at": "2026-09-28T23:13:23+00:00",
   "events": [
     {
-      "Latitude": 43.005639287963234,
-      "Longitude": -87.94583508254051,
-      "OffTime": "Sep 28, 9:28 a.m.",
-      "ETR": "Sep 28, 2:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Sep 28, 1:00 p.m.",
+      "Latitude": 42.67536134439856,
+      "Longitude": -88.25984108189795,
+      "OffTime": "Sep 28, 2:50 p.m.",
+      "ETR": "Sep 28, 8:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Sep 28, 6:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 32,
-          "City": "milwaukee",
-          "CityCusts": 352376,
-          "County": "milwaukee",
-          "CountyCusts": 480218,
-          "Zip": "53215",
-          "ZipCusts": 22366,
+          "AffectedCusts": 34,
+          "City": "burlington",
+          "CityCusts": 15570,
+          "County": "racine",
+          "CountyCusts": 102666,
+          "Zip": "53105",
+          "ZipCusts": 15612,
           "Region": "southeast wi",
           "RegionCusts": 1075252
         }
       ]
     },
     {
-      "Latitude": 43.05580092588122,
-      "Longitude": -87.8886857286196,
-      "OffTime": "Sep 28, 7:45 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "Latitude": 43.03517178097529,
+      "Longitude": -88.11623838040859,
+      "OffTime": "Sep 28, 5:07 p.m.",
+      "ETR": "Sep 28, 8:00 p.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 28, 1:00 p.m.",
+      "LastUpdated": "Sep 28, 6:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352376,
-          "County": "milwaukee",
-          "CountyCusts": 480218,
-          "Zip": "53202",
-          "ZipCusts": 22396,
+          "City": "brookfield",
+          "CityCusts": 23386,
+          "County": "waukesha",
+          "CountyCusts": 203656,
+          "Zip": "53005",
+          "ZipCusts": 11572,
           "Region": "southeast wi",
           "RegionCusts": 1075252
         }
       ]
     },
     {
-      "Latitude": 43.1385276244586,
-      "Longitude": -88.05999229937741,
-      "OffTime": "Sep 28, 9:29 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Assigned",
+      "Latitude": 43.182124605767434,
+      "Longitude": -88.01418609793588,
+      "OffTime": "Sep 28, 6:02 p.m.",
+      "ETR": "Sep 28, 9:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 28, 1:00 p.m.",
+      "LastUpdated": "Sep 28, 6:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 4,
+          "AffectedCusts": 1,
           "City": "milwaukee",
           "CityCusts": 352376,
           "County": "milwaukee",
@@ -71,117 +71,59 @@
       ]
     },
     {
-      "Latitude": 42.91958534330393,
-      "Longitude": -87.87646491546653,
-      "OffTime": "Sep 28, 11:00 a.m.",
-      "ETR": "Sep 28, 2:30 p.m.",
+      "Latitude": 44.531920741696645,
+      "Longitude": -88.83879688843506,
+      "OffTime": "Sep 28, 4:14 p.m.",
+      "ETR": "Sep 28, 7:00 p.m.",
       "CrewStatus": "On site",
-      "Cause": "We Energies fuse problem",
-      "LastUpdated": "Sep 28, 1:00 p.m.",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Sep 28, 6:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 476,
-          "City": "south milwaukee",
-          "CityCusts": 10363,
-          "County": "milwaukee",
-          "CountyCusts": 480218,
-          "Zip": "53172",
-          "ZipCusts": 10364,
-          "Region": "southeast wi",
-          "RegionCusts": 1075252
-        }
-      ]
-    },
-    {
-      "Latitude": 43.17115330230607,
-      "Longitude": -88.6619002194768,
-      "OffTime": "Sep 28, 12:44 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 28, 1:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
+          "AffectedCusts": 8,
+          "City": "clintonville",
+          "CityCusts": 497,
+          "County": "waupaca",
+          "CountyCusts": 8916,
+          "Zip": "54929",
+          "ZipCusts": 499,
+          "Region": "fox valley wi",
+          "RegionCusts": 143503
+        },
         {
           "AffectedCusts": 2,
-          "City": "watertown",
-          "CityCusts": 16253,
-          "County": "jefferson",
-          "CountyCusts": 35294,
-          "Zip": "53094",
-          "ZipCusts": 10265,
-          "Region": "southeast wi",
-          "RegionCusts": 1075252
+          "City": "bear creek",
+          "CityCusts": 708,
+          "County": "waupaca",
+          "CountyCusts": 8916,
+          "Zip": "54922",
+          "ZipCusts": 706,
+          "Region": "fox valley wi",
+          "RegionCusts": 143503
         }
       ]
     },
     {
-      "Latitude": 42.50236811243904,
-      "Longitude": -87.9904292802362,
-      "OffTime": "Sep 28, 12:15 p.m.",
-      "ETR": "Sep 28, 3:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 28, 1:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54332,
-          "County": "kenosha",
-          "CountyCusts": 80257,
-          "Zip": "53142",
-          "ZipCusts": 15171,
-          "Region": "southeast wi",
-          "RegionCusts": 1075252
-        }
-      ]
-    },
-    {
-      "Latitude": 43.17087742714406,
-      "Longitude": -88.66117915896282,
-      "OffTime": "Sep 28, 12:50 p.m.",
-      "ETR": "Not yet determined",
+      "Latitude": 44.18537560447306,
+      "Longitude": -88.30494645590292,
+      "OffTime": "Sep 28, 5:49 p.m.",
+      "ETR": "Sep 28, 8:30 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 28, 1:00 p.m.",
+      "LastUpdated": "Sep 28, 6:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 2,
-          "City": "watertown",
-          "CityCusts": 16253,
-          "County": "jefferson",
-          "CountyCusts": 35294,
-          "Zip": "53094",
-          "ZipCusts": 10265,
-          "Region": "southeast wi",
-          "RegionCusts": 1075252
-        }
-      ]
-    },
-    {
-      "Latitude": 42.987117986585375,
-      "Longitude": -87.88073833869096,
-      "OffTime": "Sep 28, 9:00 a.m.",
-      "ETR": "Sep 28, 2:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 28, 1:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352376,
-          "County": "milwaukee",
-          "CountyCusts": 480218,
-          "Zip": "53207",
-          "ZipCusts": 20429,
-          "Region": "southeast wi",
-          "RegionCusts": 1075252
+          "City": "menasha",
+          "CityCusts": 4807,
+          "County": "calumet",
+          "CountyCusts": 14471,
+          "Zip": "54952",
+          "ZipCusts": 4820,
+          "Region": "fox valley wi",
+          "RegionCusts": 143503
         }
       ]
     }
