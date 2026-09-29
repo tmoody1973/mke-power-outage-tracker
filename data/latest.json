@@ -1,18 +1,75 @@
 {
-  "captured_at": "2026-09-28T23:13:23+00:00",
+  "captured_at": "2026-09-29T02:34:35+00:00",
   "events": [
+    {
+      "Latitude": 42.910167317260345,
+      "Longitude": -88.19193622769849,
+      "OffTime": "Sep 28, 8:42 p.m.",
+      "ETR": "Sep 28, 11:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 28, 9:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "big bend",
+          "CityCusts": 2121,
+          "County": "waukesha",
+          "CountyCusts": 203656,
+          "Zip": "53103",
+          "ZipCusts": 2124,
+          "Region": "southeast wi",
+          "RegionCusts": 1075252
+        },
+        {
+          "AffectedCusts": 5,
+          "City": "muskego",
+          "CityCusts": 12262,
+          "County": "waukesha",
+          "CountyCusts": 203656,
+          "Zip": "53150",
+          "ZipCusts": 12262,
+          "Region": "southeast wi",
+          "RegionCusts": 1075252
+        }
+      ]
+    },
+    {
+      "Latitude": 44.18537560447306,
+      "Longitude": -88.30494645590292,
+      "OffTime": "Sep 28, 5:49 p.m.",
+      "ETR": "Sep 28, 11:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Sep 28, 9:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "menasha",
+          "CityCusts": 4807,
+          "County": "calumet",
+          "CountyCusts": 14471,
+          "Zip": "54952",
+          "ZipCusts": 4820,
+          "Region": "fox valley wi",
+          "RegionCusts": 143503
+        }
+      ]
+    },
     {
       "Latitude": 42.67536134439856,
       "Longitude": -88.25984108189795,
       "OffTime": "Sep 28, 2:50 p.m.",
-      "ETR": "Sep 28, 8:30 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "Assigned",
       "Cause": "Third-party damage",
-      "LastUpdated": "Sep 28, 6:10 p.m.",
+      "LastUpdated": "Sep 28, 9:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 34,
+          "AffectedCusts": 35,
           "City": "burlington",
           "CityCusts": 15570,
           "County": "racine",
@@ -25,72 +82,15 @@
       ]
     },
     {
-      "Latitude": 43.03517178097529,
-      "Longitude": -88.11623838040859,
-      "OffTime": "Sep 28, 5:07 p.m.",
-      "ETR": "Sep 28, 8:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 28, 6:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "brookfield",
-          "CityCusts": 23386,
-          "County": "waukesha",
-          "CountyCusts": 203656,
-          "Zip": "53005",
-          "ZipCusts": 11572,
-          "Region": "southeast wi",
-          "RegionCusts": 1075252
-        }
-      ]
-    },
-    {
-      "Latitude": 43.182124605767434,
-      "Longitude": -88.01418609793588,
-      "OffTime": "Sep 28, 6:02 p.m.",
-      "ETR": "Sep 28, 9:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 28, 6:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352376,
-          "County": "milwaukee",
-          "CountyCusts": 480218,
-          "Zip": "53224",
-          "ZipCusts": 9526,
-          "Region": "southeast wi",
-          "RegionCusts": 1075252
-        }
-      ]
-    },
-    {
       "Latitude": 44.531920741696645,
       "Longitude": -88.83879688843506,
       "OffTime": "Sep 28, 4:14 p.m.",
-      "ETR": "Sep 28, 7:00 p.m.",
+      "ETR": "Sep 29, 12:00 a.m.",
       "CrewStatus": "On site",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Sep 28, 6:10 p.m.",
+      "LastUpdated": "Sep 28, 9:30 p.m.",
       "IsGlobal": false,
       "Slices": [
-        {
-          "AffectedCusts": 8,
-          "City": "clintonville",
-          "CityCusts": 497,
-          "County": "waupaca",
-          "CountyCusts": 8916,
-          "Zip": "54929",
-          "ZipCusts": 499,
-          "Region": "fox valley wi",
-          "RegionCusts": 143503
-        },
         {
           "AffectedCusts": 2,
           "City": "bear creek",
@@ -101,27 +101,15 @@
           "ZipCusts": 706,
           "Region": "fox valley wi",
           "RegionCusts": 143503
-        }
-      ]
-    },
-    {
-      "Latitude": 44.18537560447306,
-      "Longitude": -88.30494645590292,
-      "OffTime": "Sep 28, 5:49 p.m.",
-      "ETR": "Sep 28, 8:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 28, 6:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
+        },
         {
-          "AffectedCusts": 2,
-          "City": "menasha",
-          "CityCusts": 4807,
-          "County": "calumet",
-          "CountyCusts": 14471,
-          "Zip": "54952",
-          "ZipCusts": 4820,
+          "AffectedCusts": 8,
+          "City": "clintonville",
+          "CityCusts": 497,
+          "County": "waupaca",
+          "CountyCusts": 8916,
+          "Zip": "54929",
+          "ZipCusts": 499,
           "Region": "fox valley wi",
           "RegionCusts": 143503
         }
