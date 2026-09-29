@@ -1,117 +1,37 @@
 {
-  "captured_at": "2026-09-29T02:34:35+00:00",
+  "captured_at": "2026-09-29T09:01:58+00:00",
   "events": [
     {
-      "Latitude": 42.910167317260345,
-      "Longitude": -88.19193622769849,
-      "OffTime": "Sep 28, 8:42 p.m.",
-      "ETR": "Sep 28, 11:30 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 42.56137364328677,
+      "Longitude": -87.93443092075346,
+      "OffTime": "Sep 29, 2:51 a.m.",
+      "ETR": "Sep 29, 5:30 a.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 28, 9:30 p.m.",
+      "LastUpdated": "Sep 29, 4:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 2,
-          "City": "big bend",
-          "CityCusts": 2121,
-          "County": "waukesha",
-          "CountyCusts": 203656,
-          "Zip": "53103",
-          "ZipCusts": 2124,
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54332,
+          "County": "kenosha",
+          "CountyCusts": 80257,
+          "Zip": "53142",
+          "ZipCusts": 15171,
           "Region": "southeast wi",
           "RegionCusts": 1075252
         },
         {
-          "AffectedCusts": 5,
-          "City": "muskego",
-          "CityCusts": 12262,
-          "County": "waukesha",
-          "CountyCusts": 203656,
-          "Zip": "53150",
-          "ZipCusts": 12262,
+          "AffectedCusts": 17,
+          "City": "pleasant pr",
+          "CityCusts": 6401,
+          "County": "kenosha",
+          "CountyCusts": 80257,
+          "Zip": "53158",
+          "ZipCusts": 9584,
           "Region": "southeast wi",
           "RegionCusts": 1075252
-        }
-      ]
-    },
-    {
-      "Latitude": 44.18537560447306,
-      "Longitude": -88.30494645590292,
-      "OffTime": "Sep 28, 5:49 p.m.",
-      "ETR": "Sep 28, 11:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Sep 28, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "menasha",
-          "CityCusts": 4807,
-          "County": "calumet",
-          "CountyCusts": 14471,
-          "Zip": "54952",
-          "ZipCusts": 4820,
-          "Region": "fox valley wi",
-          "RegionCusts": 143503
-        }
-      ]
-    },
-    {
-      "Latitude": 42.67536134439856,
-      "Longitude": -88.25984108189795,
-      "OffTime": "Sep 28, 2:50 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Assigned",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Sep 28, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 35,
-          "City": "burlington",
-          "CityCusts": 15570,
-          "County": "racine",
-          "CountyCusts": 102666,
-          "Zip": "53105",
-          "ZipCusts": 15612,
-          "Region": "southeast wi",
-          "RegionCusts": 1075252
-        }
-      ]
-    },
-    {
-      "Latitude": 44.531920741696645,
-      "Longitude": -88.83879688843506,
-      "OffTime": "Sep 28, 4:14 p.m.",
-      "ETR": "Sep 29, 12:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Sep 28, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "bear creek",
-          "CityCusts": 708,
-          "County": "waupaca",
-          "CountyCusts": 8916,
-          "Zip": "54922",
-          "ZipCusts": 706,
-          "Region": "fox valley wi",
-          "RegionCusts": 143503
-        },
-        {
-          "AffectedCusts": 8,
-          "City": "clintonville",
-          "CityCusts": 497,
-          "County": "waupaca",
-          "CountyCusts": 8916,
-          "Zip": "54929",
-          "ZipCusts": 499,
-          "Region": "fox valley wi",
-          "RegionCusts": 143503
         }
       ]
     }
