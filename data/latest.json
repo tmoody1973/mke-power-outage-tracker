@@ -1,4 +1,51 @@
 {
-  "captured_at": "2026-09-30T03:08:43+00:00",
-  "events": []
+  "captured_at": "2026-09-30T09:37:23+00:00",
+  "events": [
+    {
+      "Latitude": 45.792363180721075,
+      "Longitude": -88.07884125794853,
+      "OffTime": "Sep 30, 1:42 a.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 30, 4:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kingsford",
+          "CityCusts": 3510,
+          "County": "dickinson",
+          "CountyCusts": 14091,
+          "Zip": "49802",
+          "ZipCusts": 3487,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41426
+        }
+      ]
+    },
+    {
+      "Latitude": 42.82440716207606,
+      "Longitude": -88.01001881628342,
+      "OffTime": "Sep 30, 4:16 a.m.",
+      "ETR": "Sep 30, 7:00 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 30, 4:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "caledonia",
+          "CityCusts": 2188,
+          "County": "racine",
+          "CountyCusts": 102682,
+          "Zip": "53108",
+          "ZipCusts": 1992,
+          "Region": "southeast wi",
+          "RegionCusts": 1075304
+        }
+      ]
+    }
+  ]
 }
