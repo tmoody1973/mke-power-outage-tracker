@@ -1,196 +1,37 @@
 {
-  "captured_at": "2026-10-01T13:19:41+00:00",
+  "captured_at": "2026-10-01T18:57:11+00:00",
   "events": [
     {
-      "Latitude": 43.80425804638796,
-      "Longitude": -88.11931631759433,
-      "OffTime": "Oct 1, 6:41 a.m.",
-      "ETR": "Oct 1, 9:30 a.m.",
+      "Latitude": 42.95959619843207,
+      "Longitude": -88.42196407584046,
+      "OffTime": "Oct 1, 1:09 p.m.",
+      "ETR": "Oct 1, 4:00 p.m.",
       "CrewStatus": "On site",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Oct 1, 8:10 a.m.",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 1, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "glenbeulah",
-          "CityCusts": 689,
-          "County": "fond du lac",
-          "CountyCusts": 6953,
-          "Zip": "53023",
-          "ZipCusts": 691,
-          "Region": "southeast wi",
-          "RegionCusts": 1075292
-        },
         {
           "AffectedCusts": 1,
-          "City": "fond du lac",
-          "CityCusts": 562,
-          "County": "fond du lac",
-          "CountyCusts": 6953,
-          "Zip": "54935",
-          "ZipCusts": 264,
-          "Region": "southeast wi",
-          "RegionCusts": 1075292
-        },
-        {
-          "AffectedCusts": 7,
-          "City": "mount calvary",
-          "CityCusts": 502,
-          "County": "fond du lac",
-          "CountyCusts": 6953,
-          "Zip": "53057",
-          "ZipCusts": 504,
-          "Region": "southeast wi",
-          "RegionCusts": 1075292
-        },
-        {
-          "AffectedCusts": 59,
-          "City": "glenbeulah",
-          "CityCusts": 689,
-          "County": "sheboygan",
-          "CountyCusts": 14266,
-          "Zip": "53023",
-          "ZipCusts": 691,
-          "Region": "southeast wi",
-          "RegionCusts": 1075292
-        },
-        {
-          "AffectedCusts": 335,
-          "City": "saint cloud",
-          "CityCusts": 668,
-          "County": "fond du lac",
-          "CountyCusts": 6953,
-          "Zip": "53079",
-          "ZipCusts": 667,
-          "Region": "southeast wi",
-          "RegionCusts": 1075292
-        }
-      ]
-    },
-    {
-      "Latitude": 43.178492843376866,
-      "Longitude": -88.11489437915084,
-      "OffTime": "Oct 1, 7:53 a.m.",
-      "ETR": "Oct 1, 10:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 1, 8:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 9,
-          "City": "menomonee fls",
-          "CityCusts": 15578,
+          "City": "dousman",
+          "CityCusts": 3898,
           "County": "waukesha",
           "CountyCusts": 203678,
-          "Zip": "53051",
-          "ZipCusts": 21594,
+          "Zip": "53118",
+          "ZipCusts": 3889,
           "Region": "southeast wi",
           "RegionCusts": 1075292
         }
       ]
     },
     {
-      "Latitude": 43.70327986071877,
-      "Longitude": -88.41791739059293,
-      "OffTime": "Oct 1, 8:07 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 1, 8:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "fond du lac",
-          "CityCusts": 562,
-          "County": "fond du lac",
-          "CountyCusts": 6953,
-          "Zip": "54937",
-          "ZipCusts": 301,
-          "Region": "southeast wi",
-          "RegionCusts": 1075292
-        }
-      ]
-    },
-    {
-      "Latitude": 43.167165145935925,
-      "Longitude": -89.06308410912372,
-      "OffTime": "Oct 1, 5:57 a.m.",
-      "ETR": "Oct 1, 9:00 a.m.",
+      "Latitude": 43.21134316653236,
+      "Longitude": -88.20932137768072,
+      "OffTime": "Oct 1, 12:06 p.m.",
+      "ETR": "Oct 1, 3:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 1, 8:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 30,
-          "City": "marshall",
-          "CityCusts": 2698,
-          "County": "dane",
-          "CountyCusts": 3393,
-          "Zip": "53559",
-          "ZipCusts": 2700,
-          "Region": "southeast wi",
-          "RegionCusts": 1075292
-        }
-      ]
-    },
-    {
-      "Latitude": 42.59528680731809,
-      "Longitude": -87.85951318821806,
-      "OffTime": "Oct 1, 6:12 a.m.",
-      "ETR": "Oct 1, 1:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Oct 1, 8:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 9,
-          "City": "kenosha",
-          "CityCusts": 54339,
-          "County": "kenosha",
-          "CountyCusts": 80271,
-          "Zip": "53144",
-          "ZipCusts": 14056,
-          "Region": "southeast wi",
-          "RegionCusts": 1075292
-        }
-      ]
-    },
-    {
-      "Latitude": 43.05688582979433,
-      "Longitude": -88.10986115486124,
-      "OffTime": "Oct 1, 12:22 a.m.",
-      "ETR": "Oct 1, 11:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 1, 8:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 5,
-          "City": "brookfield",
-          "CityCusts": 23385,
-          "County": "waukesha",
-          "CountyCusts": 203678,
-          "Zip": "53005",
-          "ZipCusts": 11571,
-          "Region": "southeast wi",
-          "RegionCusts": 1075292
-        }
-      ]
-    },
-    {
-      "Latitude": 43.193035552662515,
-      "Longitude": -88.18211472730789,
-      "OffTime": "Oct 1, 6:12 a.m.",
-      "ETR": "Oct 1, 10:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Oct 1, 8:10 a.m.",
+      "LastUpdated": "Oct 1, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -207,40 +48,17 @@
       ]
     },
     {
-      "Latitude": 43.181594407394996,
-      "Longitude": -89.10389409188652,
-      "OffTime": "Oct 1, 5:58 a.m.",
-      "ETR": "Oct 1, 9:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Oct 1, 8:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 11,
-          "City": "marshall",
-          "CityCusts": 2698,
-          "County": "dane",
-          "CountyCusts": 3393,
-          "Zip": "53559",
-          "ZipCusts": 2700,
-          "Region": "southeast wi",
-          "RegionCusts": 1075292
-        }
-      ]
-    },
-    {
       "Latitude": 43.1925337093181,
       "Longitude": -88.24194185929674,
       "OffTime": "Oct 1, 4:43 a.m.",
-      "ETR": "Oct 1, 10:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 1, 8:10 a.m.",
+      "ETR": "Oct 1, 3:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Oct 1, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 26,
+          "AffectedCusts": 6,
           "City": "colgate",
           "CityCusts": 2593,
           "County": "waukesha",
@@ -253,13 +71,13 @@
       ]
     },
     {
-      "Latitude": 43.07790997871614,
-      "Longitude": -87.93207022927692,
-      "OffTime": "Oct 1, 7:38 a.m.",
-      "ETR": "Oct 1, 10:30 a.m.",
-      "CrewStatus": "On site",
+      "Latitude": 43.01589271851299,
+      "Longitude": -88.01785096158456,
+      "OffTime": "Oct 1, 12:58 p.m.",
+      "ETR": "Oct 1, 3:30 p.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 1, 8:10 a.m.",
+      "LastUpdated": "Oct 1, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -268,101 +86,21 @@
           "CityCusts": 352357,
           "County": "milwaukee",
           "CountyCusts": 480196,
-          "Zip": "53206",
-          "ZipCusts": 10798,
+          "Zip": "53214",
+          "ZipCusts": 19805,
           "Region": "southeast wi",
           "RegionCusts": 1075292
         }
       ]
     },
     {
-      "Latitude": 43.18119215807376,
-      "Longitude": -89.1038126112285,
-      "OffTime": "Oct 1, 5:57 a.m.",
-      "ETR": "Oct 1, 9:00 a.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "",
-      "LastUpdated": "Oct 1, 8:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 15,
-          "City": "marshall",
-          "CityCusts": 2698,
-          "County": "dane",
-          "CountyCusts": 3393,
-          "Zip": "53559",
-          "ZipCusts": 2700,
-          "Region": "southeast wi",
-          "RegionCusts": 1075292
-        }
-      ]
-    },
-    {
-      "Latitude": 43.091943465918696,
-      "Longitude": -87.87822679407721,
-      "OffTime": "Oct 1, 3:12 a.m.",
-      "ETR": "Oct 1, 10:30 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Oct 1, 8:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 71,
-          "City": "milwaukee",
-          "CityCusts": 352357,
-          "County": "milwaukee",
-          "CountyCusts": 480196,
-          "Zip": "53211",
-          "ZipCusts": 18150,
-          "Region": "southeast wi",
-          "RegionCusts": 1075292
-        },
-        {
-          "AffectedCusts": 27,
-          "City": "shorewood",
-          "CityCusts": 2465,
-          "County": "milwaukee",
-          "CountyCusts": 480196,
-          "Zip": "53211",
-          "ZipCusts": 18150,
-          "Region": "southeast wi",
-          "RegionCusts": 1075292
-        }
-      ]
-    },
-    {
-      "Latitude": 43.006778099566674,
-      "Longitude": -88.07897768674766,
-      "OffTime": "Oct 1, 7:18 a.m.",
-      "ETR": "Oct 1, 10:00 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 1, 8:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "new berlin",
-          "CityCusts": 20463,
-          "County": "waukesha",
-          "CountyCusts": 203678,
-          "Zip": "53151",
-          "ZipCusts": 16755,
-          "Region": "southeast wi",
-          "RegionCusts": 1075292
-        }
-      ]
-    },
-    {
-      "Latitude": 43.09181411394184,
-      "Longitude": -87.9852118061596,
-      "OffTime": "Oct 1, 4:55 a.m.",
+      "Latitude": 43.09193607817731,
+      "Longitude": -87.9857459552017,
+      "OffTime": "Oct 1, 6:52 a.m.",
       "ETR": "Oct 1, 2:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 1, 8:10 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "We Energies breaker or fuse problem",
+      "LastUpdated": "Oct 1, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -379,69 +117,171 @@
       ]
     },
     {
-      "Latitude": 43.766567096325225,
-      "Longitude": -88.13420289110304,
-      "OffTime": "Oct 1, 7:22 a.m.",
-      "ETR": "Oct 1, 10:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 1, 8:10 a.m.",
+      "Latitude": 43.17350801403108,
+      "Longitude": -87.90933634687742,
+      "OffTime": "Oct 1, 11:33 a.m.",
+      "ETR": "Oct 1, 3:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Oct 1, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "glenbeulah",
-          "CityCusts": 689,
-          "County": "sheboygan",
-          "CountyCusts": 14266,
-          "Zip": "53023",
-          "ZipCusts": 691,
-          "Region": "southeast wi",
-          "RegionCusts": 1075292
-        }
-      ]
-    },
-    {
-      "Latitude": 43.073678039032195,
-      "Longitude": -87.88724154874669,
-      "OffTime": "Oct 1, 2:43 a.m.",
-      "ETR": "Oct 1, 9:30 a.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Oct 1, 8:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 65,
           "City": "milwaukee",
           "CityCusts": 352357,
           "County": "milwaukee",
           "CountyCusts": 480196,
-          "Zip": "53211",
-          "ZipCusts": 18150,
+          "Zip": "53217",
+          "ZipCusts": 15173,
           "Region": "southeast wi",
           "RegionCusts": 1075292
         }
       ]
     },
     {
-      "Latitude": 44.80062897452363,
-      "Longitude": -88.45149431857502,
-      "OffTime": "Oct 1, 7:23 a.m.",
-      "ETR": "Oct 1, 10:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 1, 8:10 a.m.",
+      "Latitude": 42.79095892994383,
+      "Longitude": -87.95281615543219,
+      "OffTime": "Oct 1, 8:35 a.m.",
+      "ETR": "Oct 1, 2:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Oct 1, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "cecil",
-          "CityCusts": 1377,
-          "County": "shawano",
-          "CountyCusts": 8371,
-          "Zip": "54111",
-          "ZipCusts": 1379,
+          "City": "franksville",
+          "CityCusts": 3943,
+          "County": "racine",
+          "CountyCusts": 102678,
+          "Zip": "53126",
+          "ZipCusts": 4020,
+          "Region": "southeast wi",
+          "RegionCusts": 1075292
+        }
+      ]
+    },
+    {
+      "Latitude": 42.69536563613144,
+      "Longitude": -87.88706992072055,
+      "OffTime": "Oct 1, 1:01 p.m.",
+      "ETR": "Oct 1, 4:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 1, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "sturtevant",
+          "CityCusts": 4050,
+          "County": "racine",
+          "CountyCusts": 102678,
+          "Zip": "53177",
+          "ZipCusts": 4779,
+          "Region": "southeast wi",
+          "RegionCusts": 1075292
+        }
+      ]
+    },
+    {
+      "Latitude": 42.519695063576165,
+      "Longitude": -87.85109998605785,
+      "OffTime": "Oct 1, 11:38 a.m.",
+      "ETR": "Oct 1, 4:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies fuse problem",
+      "LastUpdated": "Oct 1, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 6,
+          "City": "pleasant pr",
+          "CityCusts": 6400,
+          "County": "kenosha",
+          "CountyCusts": 80271,
+          "Zip": "53158",
+          "ZipCusts": 9584,
+          "Region": "southeast wi",
+          "RegionCusts": 1075292
+        }
+      ]
+    },
+    {
+      "Latitude": 43.14449887773069,
+      "Longitude": -87.92325097513456,
+      "OffTime": "Oct 1, 8:21 a.m.",
+      "ETR": "Oct 1, 2:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Oct 1, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 15,
+          "City": "milwaukee",
+          "CityCusts": 352357,
+          "County": "milwaukee",
+          "CountyCusts": 480196,
+          "Zip": "53217",
+          "ZipCusts": 15173,
+          "Region": "southeast wi",
+          "RegionCusts": 1075292
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "river hills",
+          "CityCusts": 473,
+          "County": "ozaukee",
+          "CountyCusts": 42780,
+          "Zip": "53217",
+          "ZipCusts": 15173,
+          "Region": "southeast wi",
+          "RegionCusts": 1075292
+        },
+        {
+          "AffectedCusts": 5,
+          "City": "river hills",
+          "CityCusts": 473,
+          "County": "milwaukee",
+          "CountyCusts": 480196,
+          "Zip": "53217",
+          "ZipCusts": 15173,
+          "Region": "southeast wi",
+          "RegionCusts": 1075292
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352357,
+          "County": "milwaukee",
+          "CountyCusts": 480196,
+          "Zip": "53223",
+          "ZipCusts": 14129,
+          "Region": "southeast wi",
+          "RegionCusts": 1075292
+        }
+      ]
+    },
+    {
+      "Latitude": 44.48145035281569,
+      "Longitude": -88.74956464867017,
+      "OffTime": "Oct 1, 1:02 p.m.",
+      "ETR": "Oct 1, 3:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Oct 1, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 5,
+          "City": "new london",
+          "CityCusts": 3688,
+          "County": "waupaca",
+          "CountyCusts": 8918,
+          "Zip": "54961",
+          "ZipCusts": 3696,
           "Region": "fox valley wi",
           "RegionCusts": 143513
         }
