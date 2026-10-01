@@ -1,60 +1,14 @@
 {
-  "captured_at": "2026-10-01T00:16:58+00:00",
+  "captured_at": "2026-10-01T06:14:53+00:00",
   "events": [
-    {
-      "Latitude": 44.45855527776108,
-      "Longitude": -88.26373339972315,
-      "OffTime": "Sep 30, 5:15 p.m.",
-      "ETR": "Sep 30, 8:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 30, 7:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "de pere",
-          "CityCusts": 706,
-          "County": "outagamie",
-          "CountyCusts": 80249,
-          "Zip": "54115",
-          "ZipCusts": 705,
-          "Region": "fox valley wi",
-          "RegionCusts": 143506
-        }
-      ]
-    },
-    {
-      "Latitude": 44.33587872309519,
-      "Longitude": -88.64296384428492,
-      "OffTime": "Sep 30, 6:44 p.m.",
-      "ETR": "Sep 30, 9:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 30, 7:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "hortonville",
-          "CityCusts": 4671,
-          "County": "outagamie",
-          "CountyCusts": 80249,
-          "Zip": "54944",
-          "ZipCusts": 4677,
-          "Region": "fox valley wi",
-          "RegionCusts": 143506
-        }
-      ]
-    },
     {
       "Latitude": 42.79231292303843,
       "Longitude": -87.80469128300899,
       "OffTime": "Sep 30, 2:26 p.m.",
-      "ETR": "Sep 30, 9:30 p.m.",
-      "CrewStatus": "On site",
+      "ETR": "Oct 1, 3:30 a.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Third-party damage",
-      "LastUpdated": "Sep 30, 7:10 p.m.",
+      "LastUpdated": "Oct 1, 1:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -71,46 +25,103 @@
       ]
     },
     {
-      "Latitude": 43.196518991771335,
-      "Longitude": -88.7147149537856,
-      "OffTime": "Sep 30, 6:09 p.m.",
-      "ETR": "Sep 30, 9:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 30, 7:10 p.m.",
+      "Latitude": 43.07600497076678,
+      "Longitude": -87.95563470461332,
+      "OffTime": "Sep 30, 9:58 p.m.",
+      "ETR": "Oct 1, 3:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Transformer problem",
+      "LastUpdated": "Oct 1, 1:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "watertown",
-          "CityCusts": 16252,
-          "County": "jefferson",
-          "CountyCusts": 35296,
-          "Zip": "53094",
-          "ZipCusts": 10264,
+          "AffectedCusts": 5,
+          "City": "milwaukee",
+          "CityCusts": 352363,
+          "County": "milwaukee",
+          "CountyCusts": 480206,
+          "Zip": "53210",
+          "ZipCusts": 12256,
+          "Region": "southeast wi",
+          "RegionCusts": 1075287
+        },
+        {
+          "AffectedCusts": 22,
+          "City": "milwaukee",
+          "CityCusts": 352363,
+          "County": "milwaukee",
+          "CountyCusts": 480206,
+          "Zip": "53216",
+          "ZipCusts": 14830,
           "Region": "southeast wi",
           "RegionCusts": 1075287
         }
       ]
     },
     {
-      "Latitude": 43.01537741406782,
-      "Longitude": -87.95209020436572,
-      "OffTime": "Sep 30, 7:05 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 42.7174506596344,
+      "Longitude": -88.30813767452923,
+      "OffTime": "Sep 30, 11:17 p.m.",
+      "ETR": "Oct 1, 2:00 a.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 30, 7:10 p.m.",
+      "LastUpdated": "Oct 1, 1:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "burlington",
+          "CityCusts": 15569,
+          "County": "walworth",
+          "CountyCusts": 24254,
+          "Zip": "53105",
+          "ZipCusts": 15611,
+          "Region": "southeast wi",
+          "RegionCusts": 1075287
+        }
+      ]
+    },
+    {
+      "Latitude": 43.44082411586421,
+      "Longitude": -88.1593061575812,
+      "OffTime": "Oct 1, 12:29 a.m.",
+      "ETR": "Oct 1, 3:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 1, 1:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352363,
-          "County": "milwaukee",
-          "CountyCusts": 480206,
-          "Zip": "53215",
-          "ZipCusts": 22366,
+          "City": "west bend",
+          "CityCusts": 26124,
+          "County": "washington",
+          "CountyCusts": 61706,
+          "Zip": "53090",
+          "ZipCusts": 10560,
+          "Region": "southeast wi",
+          "RegionCusts": 1075287
+        }
+      ]
+    },
+    {
+      "Latitude": 43.05684539870175,
+      "Longitude": -88.10877688543913,
+      "OffTime": "Oct 1, 12:22 a.m.",
+      "ETR": "Oct 1, 3:00 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 1, 1:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "brookfield",
+          "CityCusts": 23385,
+          "County": "waukesha",
+          "CountyCusts": 203674,
+          "Zip": "53005",
+          "ZipCusts": 11571,
           "Region": "southeast wi",
           "RegionCusts": 1075287
         }
