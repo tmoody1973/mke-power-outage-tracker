@@ -1,18 +1,41 @@
 {
-  "captured_at": "2026-09-30T20:47:25+00:00",
+  "captured_at": "2026-10-01T00:16:58+00:00",
   "events": [
     {
-      "Latitude": 44.33421630036022,
-      "Longitude": -88.62045544265202,
-      "OffTime": "Sep 30, 3:01 p.m.",
-      "ETR": "Sep 30, 6:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 44.45855527776108,
+      "Longitude": -88.26373339972315,
+      "OffTime": "Sep 30, 5:15 p.m.",
+      "ETR": "Sep 30, 8:00 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 30, 3:40 p.m.",
+      "LastUpdated": "Sep 30, 7:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 3,
+          "City": "de pere",
+          "CityCusts": 706,
+          "County": "outagamie",
+          "CountyCusts": 80249,
+          "Zip": "54115",
+          "ZipCusts": 705,
+          "Region": "fox valley wi",
+          "RegionCusts": 143506
+        }
+      ]
+    },
+    {
+      "Latitude": 44.33587872309519,
+      "Longitude": -88.64296384428492,
+      "OffTime": "Sep 30, 6:44 p.m.",
+      "ETR": "Sep 30, 9:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Sep 30, 7:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
           "City": "hortonville",
           "CityCusts": 4671,
           "County": "outagamie",
@@ -25,105 +48,13 @@
       ]
     },
     {
-      "Latitude": 42.59360077089407,
-      "Longitude": -87.83240037554008,
-      "OffTime": "Sep 30, 3:31 p.m.",
-      "ETR": "Sep 30, 6:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 30, 3:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54338,
-          "County": "kenosha",
-          "CountyCusts": 80270,
-          "Zip": "53140",
-          "ZipCusts": 14893,
-          "Region": "southeast wi",
-          "RegionCusts": 1075287
-        }
-      ]
-    },
-    {
-      "Latitude": 42.570172758990026,
-      "Longitude": -87.82963755809732,
-      "OffTime": "Sep 30, 11:23 a.m.",
-      "ETR": "Sep 30, 5:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Sep 30, 3:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54338,
-          "County": "kenosha",
-          "CountyCusts": 80270,
-          "Zip": "53143",
-          "ZipCusts": 10242,
-          "Region": "southeast wi",
-          "RegionCusts": 1075287
-        }
-      ]
-    },
-    {
-      "Latitude": 42.61859160181651,
-      "Longitude": -87.92986974108864,
-      "OffTime": "Sep 30, 2:45 p.m.",
-      "ETR": "Sep 30, 5:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 30, 3:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "kenosha",
-          "CityCusts": 54338,
-          "County": "kenosha",
-          "CountyCusts": 80270,
-          "Zip": "53144",
-          "ZipCusts": 14055,
-          "Region": "southeast wi",
-          "RegionCusts": 1075287
-        }
-      ]
-    },
-    {
-      "Latitude": 43.499858623929825,
-      "Longitude": -87.95399543068486,
-      "OffTime": "Sep 30, 12:01 p.m.",
-      "ETR": "Sep 30, 6:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Pole equipment problem",
-      "LastUpdated": "Sep 30, 3:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "belgium",
-          "CityCusts": 1928,
-          "County": "ozaukee",
-          "CountyCusts": 42777,
-          "Zip": "53004",
-          "ZipCusts": 1923,
-          "Region": "southeast wi",
-          "RegionCusts": 1075287
-        }
-      ]
-    },
-    {
       "Latitude": 42.79231292303843,
       "Longitude": -87.80469128300899,
       "OffTime": "Sep 30, 2:26 p.m.",
-      "ETR": "Sep 30, 5:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Sep 30, 3:40 p.m.",
+      "ETR": "Sep 30, 9:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Sep 30, 7:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -140,69 +71,46 @@
       ]
     },
     {
-      "Latitude": 45.69483667201438,
-      "Longitude": -87.34626193058305,
-      "OffTime": "Sep 30, 3:33 p.m.",
-      "ETR": "Sep 30, 6:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 43.196518991771335,
+      "Longitude": -88.7147149537856,
+      "OffTime": "Sep 30, 6:09 p.m.",
+      "ETR": "Sep 30, 9:00 p.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 30, 3:40 p.m.",
+      "LastUpdated": "Sep 30, 7:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "wilson",
-          "CityCusts": 402,
-          "County": "menominee",
-          "CountyCusts": 3008,
-          "Zip": "49896",
-          "ZipCusts": 402,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41432
-        }
-      ]
-    },
-    {
-      "Latitude": 43.02368614918877,
-      "Longitude": -88.18980397789433,
-      "OffTime": "Sep 30, 2:01 p.m.",
-      "ETR": "Sep 30, 5:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Sep 30, 3:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "waukesha",
-          "CityCusts": 48460,
-          "County": "waukesha",
-          "CountyCusts": 203674,
-          "Zip": "53186",
-          "ZipCusts": 17765,
+          "City": "watertown",
+          "CityCusts": 16252,
+          "County": "jefferson",
+          "CountyCusts": 35296,
+          "Zip": "53094",
+          "ZipCusts": 10264,
           "Region": "southeast wi",
           "RegionCusts": 1075287
         }
       ]
     },
     {
-      "Latitude": 43.02821148809163,
-      "Longitude": -88.26237408462367,
-      "OffTime": "Sep 30, 3:11 p.m.",
-      "ETR": "Sep 30, 6:00 p.m.",
+      "Latitude": 43.01537741406782,
+      "Longitude": -87.95209020436572,
+      "OffTime": "Sep 30, 7:05 p.m.",
+      "ETR": "Not yet determined",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Sep 30, 3:40 p.m.",
+      "LastUpdated": "Sep 30, 7:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "waukesha",
-          "CityCusts": 48460,
-          "County": "waukesha",
-          "CountyCusts": 203674,
-          "Zip": "53188",
-          "ZipCusts": 17778,
+          "City": "milwaukee",
+          "CityCusts": 352363,
+          "County": "milwaukee",
+          "CountyCusts": 480206,
+          "Zip": "53215",
+          "ZipCusts": 22366,
           "Region": "southeast wi",
           "RegionCusts": 1075287
         }
