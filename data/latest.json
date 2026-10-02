@@ -1,26 +1,71 @@
 {
-  "captured_at": "2026-10-02T08:27:16+00:00",
+  "captured_at": "2026-10-02T14:52:36+00:00",
   "events": [
     {
-      "Latitude": 45.85735922168878,
-      "Longitude": -88.07006981518406,
-      "OffTime": "Oct 1, 9:46 p.m.",
-      "ETR": "Oct 2, 5:00 a.m.",
+      "Latitude": 43.09892279175022,
+      "Longitude": -87.87909653283268,
+      "OffTime": "Oct 2, 7:47 a.m.",
+      "ETR": "Oct 2, 1:00 p.m.",
       "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 2, 3:20 a.m.",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 2, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "shorewood",
+          "CityCusts": 2465,
+          "County": "milwaukee",
+          "CountyCusts": 480200,
+          "Zip": "53211",
+          "ZipCusts": 18150,
+          "Region": "southeast wi",
+          "RegionCusts": 1075316
+        },
+        {
+          "AffectedCusts": 7,
+          "City": "milwaukee",
+          "CityCusts": 352361,
+          "County": "milwaukee",
+          "CountyCusts": 480200,
+          "Zip": "53211",
+          "ZipCusts": 18150,
+          "Region": "southeast wi",
+          "RegionCusts": 1075316
+        },
+        {
+          "AffectedCusts": 2,
+          "City": "whitefish bay",
+          "CityCusts": 1793,
+          "County": "milwaukee",
+          "CountyCusts": 480200,
+          "Zip": "53211",
+          "ZipCusts": 18150,
+          "Region": "southeast wi",
+          "RegionCusts": 1075316
+        }
+      ]
+    },
+    {
+      "Latitude": 43.094855073819815,
+      "Longitude": -87.98874905261758,
+      "OffTime": "Oct 2, 9:40 a.m.",
+      "ETR": "Oct 2, 12:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 2, 9:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "iron mountain",
-          "CityCusts": 7101,
-          "County": "dickinson",
-          "CountyCusts": 14095,
-          "Zip": "49801",
-          "ZipCusts": 7104,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41433
+          "City": "milwaukee",
+          "CityCusts": 352361,
+          "County": "milwaukee",
+          "CountyCusts": 480200,
+          "Zip": "53216",
+          "ZipCusts": 14830,
+          "Region": "southeast wi",
+          "RegionCusts": 1075316
         }
       ]
     },
@@ -28,160 +73,102 @@
       "Latitude": 42.90681700964451,
       "Longitude": -88.15383342505976,
       "OffTime": "Oct 2, 12:55 a.m.",
-      "ETR": "Oct 2, 3:30 a.m.",
-      "CrewStatus": "Specialized crew needed",
+      "ETR": "Oct 2, 12:00 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Tree contact with service wire",
-      "LastUpdated": "Oct 2, 3:20 a.m.",
+      "LastUpdated": "Oct 2, 9:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 6,
+          "AffectedCusts": 8,
           "City": "muskego",
-          "CityCusts": 12262,
+          "CityCusts": 12263,
           "County": "waukesha",
-          "CountyCusts": 203678,
+          "CountyCusts": 203681,
           "Zip": "53150",
-          "ZipCusts": 12262,
+          "ZipCusts": 12263,
           "Region": "southeast wi",
-          "RegionCusts": 1075292
+          "RegionCusts": 1075316
         }
       ]
     },
     {
-      "Latitude": 46.15763553120799,
-      "Longitude": -89.39723161981975,
-      "OffTime": "Oct 2, 2:38 a.m.",
-      "ETR": "Oct 2, 5:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 44.28695733767367,
+      "Longitude": -88.55851211294254,
+      "OffTime": "Oct 2, 9:03 a.m.",
+      "ETR": "Oct 2, 12:00 p.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 2, 3:20 a.m.",
+      "LastUpdated": "Oct 2, 9:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "land o lakes",
-          "CityCusts": 1708,
-          "County": "vilas",
-          "CountyCusts": 6272,
-          "Zip": "54540",
-          "ZipCusts": 1706,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41433
-        }
-      ]
-    },
-    {
-      "Latitude": 43.24084343267882,
-      "Longitude": -88.63062117396711,
-      "OffTime": "Oct 2, 2:29 a.m.",
-      "ETR": "Oct 2, 5:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 2, 3:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
+          "City": "hortonville",
+          "CityCusts": 4673,
+          "County": "outagamie",
+          "CountyCusts": 80251,
+          "Zip": "54944",
+          "ZipCusts": 4679,
+          "Region": "fox valley wi",
+          "RegionCusts": 143514
+        },
         {
-          "AffectedCusts": 13,
-          "City": "watertown",
-          "CityCusts": 16254,
-          "County": "dodge",
-          "CountyCusts": 17210,
-          "Zip": "53098",
-          "ZipCusts": 6056,
-          "Region": "southeast wi",
-          "RegionCusts": 1075292
+          "AffectedCusts": 124,
+          "City": "greenville",
+          "CityCusts": 4896,
+          "County": "outagamie",
+          "CountyCusts": 80251,
+          "Zip": "54942",
+          "ZipCusts": 4881,
+          "Region": "fox valley wi",
+          "RegionCusts": 143514
         }
       ]
     },
     {
-      "Latitude": 43.074370821544775,
-      "Longitude": -87.90901749823855,
-      "OffTime": "Oct 1, 11:46 p.m.",
-      "ETR": "Oct 2, 5:00 a.m.",
+      "Latitude": 43.05477464545747,
+      "Longitude": -87.98587764387302,
+      "OffTime": "Oct 2, 7:05 a.m.",
+      "ETR": "Oct 2, 10:00 a.m.",
       "CrewStatus": "On site",
-      "Cause": "Vehicle accident",
-      "LastUpdated": "Oct 2, 3:20 a.m.",
+      "Cause": "We Energies overhead line problem",
+      "LastUpdated": "Oct 2, 9:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
           "City": "milwaukee",
-          "CityCusts": 352357,
+          "CityCusts": 352361,
           "County": "milwaukee",
-          "CountyCusts": 480196,
-          "Zip": "53212",
-          "ZipCusts": 17020,
+          "CountyCusts": 480200,
+          "Zip": "53208",
+          "ZipCusts": 15450,
           "Region": "southeast wi",
-          "RegionCusts": 1075292
+          "RegionCusts": 1075316
         }
       ]
     },
     {
-      "Latitude": 42.94324668896703,
-      "Longitude": -88.18516453001479,
-      "OffTime": "Oct 1, 9:16 p.m.",
-      "ETR": "Oct 2, 4:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Oct 2, 3:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "new berlin",
-          "CityCusts": 20463,
-          "County": "waukesha",
-          "CountyCusts": 203678,
-          "Zip": "53146",
-          "ZipCusts": 3697,
-          "Region": "southeast wi",
-          "RegionCusts": 1075292
-        }
-      ]
-    },
-    {
-      "Latitude": 42.97918590050647,
-      "Longitude": -88.3058572325419,
-      "OffTime": "Oct 2, 12:43 a.m.",
-      "ETR": "Oct 2, 7:00 a.m.",
-      "CrewStatus": "On site",
+      "Latitude": 46.19510617218363,
+      "Longitude": -86.9838030545594,
+      "OffTime": "Oct 2, 9:40 a.m.",
+      "ETR": "Oct 2, 12:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 2, 3:20 a.m.",
+      "LastUpdated": "Oct 2, 9:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 29,
-          "City": "waukesha",
-          "CityCusts": 48460,
-          "County": "waukesha",
-          "CountyCusts": 203678,
-          "Zip": "53189",
-          "ZipCusts": 12987,
-          "Region": "southeast wi",
-          "RegionCusts": 1075292
-        }
-      ]
-    },
-    {
-      "Latitude": 42.906600490791845,
-      "Longitude": -88.15425515231246,
-      "OffTime": "Oct 2, 2:34 a.m.",
-      "ETR": "Oct 2, 5:30 a.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Oct 2, 3:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 4,
-          "City": "muskego",
-          "CityCusts": 12262,
-          "County": "waukesha",
-          "CountyCusts": 203678,
-          "Zip": "53150",
-          "ZipCusts": 12262,
-          "Region": "southeast wi",
-          "RegionCusts": 1075292
+          "AffectedCusts": 2,
+          "City": "trenary",
+          "CityCusts": 214,
+          "County": "alger",
+          "CountyCusts": 332,
+          "Zip": "49891",
+          "ZipCusts": 259,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41434
         }
       ]
     }
