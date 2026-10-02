@@ -1,26 +1,49 @@
 {
-  "captured_at": "2026-10-01T22:58:46+00:00",
+  "captured_at": "2026-10-02T02:02:18+00:00",
   "events": [
     {
-      "Latitude": 42.595823100344575,
-      "Longitude": -87.86127432765257,
-      "OffTime": "Oct 1, 5:18 p.m.",
-      "ETR": "Oct 1, 8:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 1, 5:50 p.m.",
+      "Latitude": 45.80803568775704,
+      "Longitude": -88.04727984999184,
+      "OffTime": "Oct 1, 5:54 p.m.",
+      "ETR": "Oct 1, 11:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Vehicle accident",
+      "LastUpdated": "Oct 1, 9:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 73,
-          "City": "kenosha",
-          "CityCusts": 54339,
-          "County": "kenosha",
-          "CountyCusts": 80271,
-          "Zip": "53144",
-          "ZipCusts": 14056,
-          "Region": "southeast wi",
-          "RegionCusts": 1075292
+          "AffectedCusts": 8,
+          "City": "iron mountain",
+          "CityCusts": 7101,
+          "County": "dickinson",
+          "CountyCusts": 14095,
+          "Zip": "49801",
+          "ZipCusts": 7104,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41433
+        }
+      ]
+    },
+    {
+      "Latitude": 46.26743555316066,
+      "Longitude": -89.41942832886357,
+      "OffTime": "Oct 1, 6:36 p.m.",
+      "ETR": "Oct 1, 9:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 1, 9:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 32,
+          "City": "watersmeet",
+          "CityCusts": 2016,
+          "County": "gogebic",
+          "CountyCusts": 2021,
+          "Zip": "49969",
+          "ZipCusts": 2012,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41433
         }
       ]
     },
@@ -28,10 +51,10 @@
       "Latitude": 44.287107785306446,
       "Longitude": -88.55012738446416,
       "OffTime": "Oct 1, 2:02 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "On the way",
+      "ETR": "Oct 1, 10:00 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 1, 5:50 p.m.",
+      "LastUpdated": "Oct 1, 9:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,13 +71,36 @@
       ]
     },
     {
+      "Latitude": 43.06748884866291,
+      "Longitude": -87.9755561340483,
+      "OffTime": "Oct 1, 7:22 p.m.",
+      "ETR": "Oct 1, 10:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 1, 9:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 118,
+          "City": "milwaukee",
+          "CityCusts": 352357,
+          "County": "milwaukee",
+          "CountyCusts": 480196,
+          "Zip": "53210",
+          "ZipCusts": 12256,
+          "Region": "southeast wi",
+          "RegionCusts": 1075292
+        }
+      ]
+    },
+    {
       "Latitude": 42.9764337390106,
       "Longitude": -88.0258004288899,
       "OffTime": "Oct 1, 5:22 p.m.",
-      "ETR": "Oct 1, 8:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 1, 5:50 p.m.",
+      "ETR": "Oct 1, 11:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies fuse problem",
+      "LastUpdated": "Oct 1, 9:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -71,117 +117,71 @@
       ]
     },
     {
-      "Latitude": 43.068593988278316,
-      "Longitude": -87.94186389074743,
-      "OffTime": "Oct 1, 5:48 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 1, 5:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352357,
-          "County": "milwaukee",
-          "CountyCusts": 480196,
-          "Zip": "53206",
-          "ZipCusts": 10798,
-          "Region": "southeast wi",
-          "RegionCusts": 1075292
-        }
-      ]
-    },
-    {
-      "Latitude": 43.10603398417365,
-      "Longitude": -88.43592706949707,
-      "OffTime": "Oct 1, 4:40 p.m.",
-      "ETR": "Oct 1, 7:30 p.m.",
+      "Latitude": 43.200526368389276,
+      "Longitude": -88.24982602433401,
+      "OffTime": "Oct 1, 7:45 p.m.",
+      "ETR": "Oct 1, 10:30 p.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 1, 5:50 p.m.",
+      "LastUpdated": "Oct 1, 9:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 2,
-          "City": "oconomowoc",
-          "CityCusts": 8561,
-          "County": "waukesha",
-          "CountyCusts": 203678,
-          "Zip": "53066",
-          "ZipCusts": 8891,
+          "AffectedCusts": 4,
+          "City": "colgate",
+          "CityCusts": 2593,
+          "County": "washington",
+          "CountyCusts": 61706,
+          "Zip": "53017",
+          "ZipCusts": 2604,
           "Region": "southeast wi",
           "RegionCusts": 1075292
         }
       ]
     },
     {
-      "Latitude": 42.95846641189483,
-      "Longitude": -88.3016506471976,
-      "OffTime": "Oct 1, 2:13 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Assigned",
+      "Latitude": 42.93297577426571,
+      "Longitude": -87.85653927807965,
+      "OffTime": "Oct 1, 7:23 p.m.",
+      "ETR": "Oct 1, 10:00 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 1, 5:50 p.m.",
+      "LastUpdated": "Oct 1, 9:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 36,
-          "City": "waukesha",
-          "CityCusts": 48460,
-          "County": "waukesha",
-          "CountyCusts": 203678,
-          "Zip": "53189",
-          "ZipCusts": 12987,
+          "City": "cudahy",
+          "CityCusts": 9864,
+          "County": "milwaukee",
+          "CountyCusts": 480196,
+          "Zip": "53110",
+          "ZipCusts": 9863,
           "Region": "southeast wi",
           "RegionCusts": 1075292
         }
       ]
     },
     {
-      "Latitude": 46.50665317638821,
-      "Longitude": -88.70664672086876,
-      "OffTime": "Oct 1, 3:18 p.m.",
-      "ETR": "Oct 1, 7:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 1, 5:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "sidnaw",
-          "CityCusts": 156,
-          "County": "houghton",
-          "CountyCusts": 313,
-          "Zip": "49961",
-          "ZipCusts": 155,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41433
-        }
-      ]
-    },
-    {
-      "Latitude": 45.80684168293261,
-      "Longitude": -88.0508865750733,
-      "OffTime": "Oct 1, 5:45 p.m.",
-      "ETR": "Not yet determined",
+      "Latitude": 42.595823100344575,
+      "Longitude": -87.86127432765257,
+      "OffTime": "Oct 1, 5:18 p.m.",
+      "ETR": "Oct 1, 11:15 p.m.",
       "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 1, 5:50 p.m.",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Oct 1, 9:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "iron mountain",
-          "CityCusts": 7101,
-          "County": "dickinson",
-          "CountyCusts": 14095,
-          "Zip": "49801",
-          "ZipCusts": 7104,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41433
+          "AffectedCusts": 75,
+          "City": "kenosha",
+          "CityCusts": 54339,
+          "County": "kenosha",
+          "CountyCusts": 80271,
+          "Zip": "53144",
+          "ZipCusts": 14056,
+          "Region": "southeast wi",
+          "RegionCusts": 1075292
         }
       ]
     }
