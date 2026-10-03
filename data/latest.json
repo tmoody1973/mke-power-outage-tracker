@@ -1,14 +1,83 @@
 {
-  "captured_at": "2026-10-03T20:04:17+00:00",
+  "captured_at": "2026-10-03T22:59:36+00:00",
   "events": [
+    {
+      "Latitude": 43.17125839696777,
+      "Longitude": -88.10621367661955,
+      "OffTime": "Oct 3, 4:50 p.m.",
+      "ETR": "Oct 3, 7:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 3, 5:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 39,
+          "City": "menomonee fls",
+          "CityCusts": 15580,
+          "County": "waukesha",
+          "CountyCusts": 203681,
+          "Zip": "53051",
+          "ZipCusts": 21596,
+          "Region": "southeast wi",
+          "RegionCusts": 1075317
+        }
+      ]
+    },
+    {
+      "Latitude": 42.56064188312502,
+      "Longitude": -87.96828571833632,
+      "OffTime": "Oct 3, 5:19 p.m.",
+      "ETR": "Oct 3, 8:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 3, 5:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "bristol",
+          "CityCusts": 3614,
+          "County": "kenosha",
+          "CountyCusts": 80274,
+          "Zip": "53104",
+          "ZipCusts": 3606,
+          "Region": "southeast wi",
+          "RegionCusts": 1075317
+        }
+      ]
+    },
+    {
+      "Latitude": 43.17309858331738,
+      "Longitude": -88.10858783741705,
+      "OffTime": "Oct 3, 1:00 p.m.",
+      "ETR": "Oct 3, 7:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Oct 3, 5:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "menomonee fls",
+          "CityCusts": 15580,
+          "County": "waukesha",
+          "CountyCusts": 203681,
+          "Zip": "53051",
+          "ZipCusts": 21596,
+          "Region": "southeast wi",
+          "RegionCusts": 1075317
+        }
+      ]
+    },
     {
       "Latitude": 42.551717561344525,
       "Longitude": -87.85979260441785,
       "OffTime": "Oct 3, 1:16 p.m.",
-      "ETR": "Oct 3, 4:00 p.m.",
+      "ETR": "Oct 3, 7:00 p.m.",
       "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 3, 3:00 p.m.",
+      "Cause": "Tree contact outside trimming zone",
+      "LastUpdated": "Oct 3, 5:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -36,105 +105,25 @@
       ]
     },
     {
-      "Latitude": 43.13568622662556,
-      "Longitude": -88.14213498658209,
-      "OffTime": "Oct 3, 2:58 p.m.",
-      "ETR": "Not yet determined",
+      "Latitude": 43.125992574572955,
+      "Longitude": -87.99288956370447,
+      "OffTime": "Oct 3, 5:44 p.m.",
+      "ETR": "Oct 3, 8:30 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 3, 3:00 p.m.",
+      "LastUpdated": "Oct 3, 5:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "menomonee fls",
-          "CityCusts": 15580,
-          "County": "waukesha",
-          "CountyCusts": 203681,
-          "Zip": "53051",
-          "ZipCusts": 21596,
+          "City": "milwaukee",
+          "CityCusts": 352361,
+          "County": "milwaukee",
+          "CountyCusts": 480200,
+          "Zip": "53218",
+          "ZipCusts": 17033,
           "Region": "southeast wi",
           "RegionCusts": 1075317
-        }
-      ]
-    },
-    {
-      "Latitude": 43.17309858331738,
-      "Longitude": -88.10858783741705,
-      "OffTime": "Oct 3, 1:00 p.m.",
-      "ETR": "Oct 3, 4:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 3, 3:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 72,
-          "City": "menomonee fls",
-          "CityCusts": 15580,
-          "County": "waukesha",
-          "CountyCusts": 203681,
-          "Zip": "53051",
-          "ZipCusts": 21596,
-          "Region": "southeast wi",
-          "RegionCusts": 1075317
-        },
-        {
-          "AffectedCusts": 2,
-          "City": "menomonee falls",
-          "CityCusts": 6032,
-          "County": "waukesha",
-          "CountyCusts": 203681,
-          "Zip": "53051",
-          "ZipCusts": 21596,
-          "Region": "southeast wi",
-          "RegionCusts": 1075317
-        }
-      ]
-    },
-    {
-      "Latitude": 45.68816875755979,
-      "Longitude": -87.29039503849098,
-      "OffTime": "Oct 3, 1:42 p.m.",
-      "ETR": "Oct 3, 4:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 3, 3:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "bark river",
-          "CityCusts": 778,
-          "County": "delta",
-          "CountyCusts": 1712,
-          "Zip": "49807",
-          "ZipCusts": 943,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41434
-        }
-      ]
-    },
-    {
-      "Latitude": 44.57418252198203,
-      "Longitude": -88.58057425725892,
-      "OffTime": "Oct 3, 2:17 p.m.",
-      "ETR": "Oct 3, 5:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 3, 3:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "clintonville",
-          "CityCusts": 497,
-          "County": "outagamie",
-          "CountyCusts": 80251,
-          "Zip": "54929",
-          "ZipCusts": 499,
-          "Region": "fox valley wi",
-          "RegionCusts": 143514
         }
       ]
     }
