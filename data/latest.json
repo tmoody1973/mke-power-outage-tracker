@@ -1,18 +1,109 @@
 {
-  "captured_at": "2026-10-03T13:20:33+00:00",
+  "captured_at": "2026-10-03T17:28:04+00:00",
   "events": [
     {
-      "Latitude": 43.23448234553579,
-      "Longitude": -87.9950282273625,
-      "OffTime": "Oct 3, 7:58 a.m.",
-      "ETR": "Oct 3, 11:00 a.m.",
+      "Latitude": 43.25069894271916,
+      "Longitude": -88.25121795965393,
+      "OffTime": "Oct 3, 11:18 a.m.",
+      "ETR": "Oct 3, 2:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 3, 8:20 a.m.",
+      "LastUpdated": "Oct 3, 12:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "hubertus",
+          "CityCusts": 2738,
+          "County": "washington",
+          "CountyCusts": 61708,
+          "Zip": "53033",
+          "ZipCusts": 2745,
+          "Region": "southeast wi",
+          "RegionCusts": 1075317
+        }
+      ]
+    },
+    {
+      "Latitude": 45.48845219868806,
+      "Longitude": -87.77182364831074,
+      "OffTime": "Oct 3, 11:01 a.m.",
+      "ETR": "Oct 3, 2:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 3, 12:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
+          "City": "daggett",
+          "CityCusts": 1,
+          "County": "menominee",
+          "CountyCusts": 3008,
+          "Zip": "49821",
+          "ZipCusts": 1,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41434
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "iron mountain",
+          "CityCusts": 7101,
+          "County": "menominee",
+          "CountyCusts": 3008,
+          "Zip": "49802",
+          "ZipCusts": 3487,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41434
+        },
+        {
+          "AffectedCusts": 6,
+          "City": "stephenson",
+          "CityCusts": 7,
+          "County": "menominee",
+          "CountyCusts": 3008,
+          "Zip": "49887",
+          "ZipCusts": 7,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41434
+        }
+      ]
+    },
+    {
+      "Latitude": 44.67309128365446,
+      "Longitude": -88.24336676075075,
+      "OffTime": "Oct 3, 11:13 a.m.",
+      "ETR": "Oct 3, 2:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Oct 3, 12:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "pulaski",
+          "CityCusts": 2759,
+          "County": "brown",
+          "CountyCusts": 1899,
+          "Zip": "54162",
+          "ZipCusts": 2760,
+          "Region": "fox valley wi",
+          "RegionCusts": 143514
+        }
+      ]
+    },
+    {
+      "Latitude": 43.19663946740275,
+      "Longitude": -87.93226791106636,
+      "OffTime": "Oct 3, 10:47 a.m.",
+      "ETR": "Oct 3, 1:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 3, 12:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 7,
           "City": "mequon",
           "CityCusts": 12365,
           "County": "ozaukee",
