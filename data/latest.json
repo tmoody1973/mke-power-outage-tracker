@@ -1,18 +1,41 @@
 {
-  "captured_at": "2026-10-03T22:59:36+00:00",
+  "captured_at": "2026-10-04T02:27:43+00:00",
   "events": [
     {
-      "Latitude": 43.17125839696777,
-      "Longitude": -88.10621367661955,
-      "OffTime": "Oct 3, 4:50 p.m.",
-      "ETR": "Oct 3, 7:30 p.m.",
+      "Latitude": 45.86869715965075,
+      "Longitude": -88.62704221878406,
+      "OffTime": "Oct 3, 9:07 p.m.",
+      "ETR": "Oct 4, 12:00 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 3, 5:50 p.m.",
+      "LastUpdated": "Oct 3, 9:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 39,
+          "AffectedCusts": 4,
+          "City": "long lake",
+          "CityCusts": 487,
+          "County": "florence",
+          "CountyCusts": 3055,
+          "Zip": "54542",
+          "ZipCusts": 1177,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41434
+        }
+      ]
+    },
+    {
+      "Latitude": 43.17345851822008,
+      "Longitude": -88.10791975026655,
+      "OffTime": "Oct 3, 7:59 p.m.",
+      "ETR": "Oct 3, 11:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 3, 9:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
           "City": "menomonee fls",
           "CityCusts": 15580,
           "County": "waukesha",
@@ -25,103 +48,23 @@
       ]
     },
     {
-      "Latitude": 42.56064188312502,
-      "Longitude": -87.96828571833632,
-      "OffTime": "Oct 3, 5:19 p.m.",
-      "ETR": "Oct 3, 8:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 3, 5:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "bristol",
-          "CityCusts": 3614,
-          "County": "kenosha",
-          "CountyCusts": 80274,
-          "Zip": "53104",
-          "ZipCusts": 3606,
-          "Region": "southeast wi",
-          "RegionCusts": 1075317
-        }
-      ]
-    },
-    {
-      "Latitude": 43.17309858331738,
-      "Longitude": -88.10858783741705,
-      "OffTime": "Oct 3, 1:00 p.m.",
-      "ETR": "Oct 3, 7:00 p.m.",
+      "Latitude": 42.929994015158606,
+      "Longitude": -88.83361532738911,
+      "OffTime": "Oct 3, 7:42 p.m.",
+      "ETR": "Oct 3, 10:30 p.m.",
       "CrewStatus": "Assigned",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 3, 5:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "menomonee fls",
-          "CityCusts": 15580,
-          "County": "waukesha",
-          "CountyCusts": 203681,
-          "Zip": "53051",
-          "ZipCusts": 21596,
-          "Region": "southeast wi",
-          "RegionCusts": 1075317
-        }
-      ]
-    },
-    {
-      "Latitude": 42.551717561344525,
-      "Longitude": -87.85979260441785,
-      "OffTime": "Oct 3, 1:16 p.m.",
-      "ETR": "Oct 3, 7:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Oct 3, 5:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 35,
-          "City": "kenosha",
-          "CityCusts": 54337,
-          "County": "kenosha",
-          "CountyCusts": 80274,
-          "Zip": "53142",
-          "ZipCusts": 15170,
-          "Region": "southeast wi",
-          "RegionCusts": 1075317
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "pleasant prairie",
-          "CityCusts": 3173,
-          "County": "kenosha",
-          "CountyCusts": 80274,
-          "Zip": "53158",
-          "ZipCusts": 9585,
-          "Region": "southeast wi",
-          "RegionCusts": 1075317
-        }
-      ]
-    },
-    {
-      "Latitude": 43.125992574572955,
-      "Longitude": -87.99288956370447,
-      "OffTime": "Oct 3, 5:44 p.m.",
-      "ETR": "Oct 3, 8:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 3, 5:50 p.m.",
+      "LastUpdated": "Oct 3, 9:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352361,
-          "County": "milwaukee",
-          "CountyCusts": 480200,
-          "Zip": "53218",
-          "ZipCusts": 17033,
+          "City": "fort atkinson",
+          "CityCusts": 10706,
+          "County": "jefferson",
+          "CountyCusts": 35298,
+          "Zip": "53538",
+          "ZipCusts": 10714,
           "Region": "southeast wi",
           "RegionCusts": 1075317
         }
