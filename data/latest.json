@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-10-04T14:21:34+00:00",
+  "captured_at": "2026-10-04T18:14:38+00:00",
   "events": [
     {
       "Latitude": 45.86869715965075,
       "Longitude": -88.62704221878406,
       "OffTime": "Oct 3, 9:07 p.m.",
-      "ETR": "Oct 4, 10:00 a.m.",
-      "CrewStatus": "On the way",
+      "ETR": "Oct 4, 5:00 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 4, 9:20 a.m.",
+      "LastUpdated": "Oct 4, 1:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,69 +25,92 @@
       ]
     },
     {
-      "Latitude": 43.28656268875571,
-      "Longitude": -88.30194899387443,
-      "OffTime": "Oct 4, 7:47 a.m.",
-      "ETR": "Oct 4, 10:30 a.m.",
+      "Latitude": 43.18006199630527,
+      "Longitude": -88.2425570049418,
+      "OffTime": "Oct 4, 11:58 a.m.",
+      "ETR": "Oct 4, 3:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 4, 1:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "sussex",
+          "CityCusts": 9905,
+          "County": "waukesha",
+          "CountyCusts": 203681,
+          "Zip": "53089",
+          "ZipCusts": 10055,
+          "Region": "southeast wi",
+          "RegionCusts": 1075317
+        }
+      ]
+    },
+    {
+      "Latitude": 43.570700842410396,
+      "Longitude": -87.78701411269267,
+      "OffTime": "Oct 4, 12:16 p.m.",
+      "ETR": "Oct 4, 3:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 4, 1:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "cedar grove",
+          "CityCusts": 1796,
+          "County": "sheboygan",
+          "CountyCusts": 14267,
+          "Zip": "53013",
+          "ZipCusts": 1802,
+          "Region": "southeast wi",
+          "RegionCusts": 1075317
+        }
+      ]
+    },
+    {
+      "Latitude": 46.16573883433047,
+      "Longitude": -88.89120044615574,
+      "OffTime": "Oct 4, 11:20 a.m.",
+      "ETR": "Oct 4, 1:30 p.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 4, 9:20 a.m.",
+      "LastUpdated": "Oct 4, 1:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "slinger",
-          "CityCusts": 1793,
-          "County": "washington",
-          "CountyCusts": 61708,
-          "Zip": "53086",
-          "ZipCusts": 1803,
-          "Region": "southeast wi",
-          "RegionCusts": 1075317
+          "City": "iron river",
+          "CityCusts": 1765,
+          "County": "iron",
+          "CountyCusts": 4274,
+          "Zip": "49935",
+          "ZipCusts": 1766,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41434
         }
       ]
     },
     {
-      "Latitude": 43.17125839696777,
-      "Longitude": -88.10621367661955,
-      "OffTime": "Oct 4, 9:16 a.m.",
-      "ETR": "Oct 4, 12:00 p.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 42.915552926300414,
+      "Longitude": -87.97003811623783,
+      "OffTime": "Oct 4, 11:29 a.m.",
+      "ETR": "Oct 4, 2:30 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 4, 9:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 29,
-          "City": "menomonee fls",
-          "CityCusts": 15580,
-          "County": "waukesha",
-          "CountyCusts": 203681,
-          "Zip": "53051",
-          "ZipCusts": 21596,
-          "Region": "southeast wi",
-          "RegionCusts": 1075317
-        }
-      ]
-    },
-    {
-      "Latitude": 43.13568622662556,
-      "Longitude": -88.14213498658209,
-      "OffTime": "Oct 4, 7:40 a.m.",
-      "ETR": "Oct 4, 10:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Oct 4, 9:20 a.m.",
+      "LastUpdated": "Oct 4, 1:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "menomonee fls",
-          "CityCusts": 15580,
-          "County": "waukesha",
-          "CountyCusts": 203681,
-          "Zip": "53051",
-          "ZipCusts": 21596,
+          "City": "franklin",
+          "CityCusts": 17463,
+          "County": "milwaukee",
+          "CountyCusts": 480200,
+          "Zip": "53132",
+          "ZipCusts": 17464,
           "Region": "southeast wi",
           "RegionCusts": 1075317
         }
