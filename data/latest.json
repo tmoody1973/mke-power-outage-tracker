@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-10-04T02:27:43+00:00",
+  "captured_at": "2026-10-04T08:38:47+00:00",
   "events": [
     {
       "Latitude": 45.86869715965075,
       "Longitude": -88.62704221878406,
       "OffTime": "Oct 3, 9:07 p.m.",
-      "ETR": "Oct 4, 12:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 3, 9:20 p.m.",
+      "ETR": "Oct 4, 10:00 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Oct 4, 3:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -21,52 +21,6 @@
           "ZipCusts": 1177,
           "Region": "upper peninsula mi",
           "RegionCusts": 41434
-        }
-      ]
-    },
-    {
-      "Latitude": 43.17345851822008,
-      "Longitude": -88.10791975026655,
-      "OffTime": "Oct 3, 7:59 p.m.",
-      "ETR": "Oct 3, 11:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 3, 9:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "menomonee fls",
-          "CityCusts": 15580,
-          "County": "waukesha",
-          "CountyCusts": 203681,
-          "Zip": "53051",
-          "ZipCusts": 21596,
-          "Region": "southeast wi",
-          "RegionCusts": 1075317
-        }
-      ]
-    },
-    {
-      "Latitude": 42.929994015158606,
-      "Longitude": -88.83361532738911,
-      "OffTime": "Oct 3, 7:42 p.m.",
-      "ETR": "Oct 3, 10:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 3, 9:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "fort atkinson",
-          "CityCusts": 10706,
-          "County": "jefferson",
-          "CountyCusts": 35298,
-          "Zip": "53538",
-          "ZipCusts": 10714,
-          "Region": "southeast wi",
-          "RegionCusts": 1075317
         }
       ]
     }
