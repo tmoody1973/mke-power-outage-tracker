@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-10-04T08:38:47+00:00",
+  "captured_at": "2026-10-04T14:21:34+00:00",
   "events": [
     {
       "Latitude": 45.86869715965075,
       "Longitude": -88.62704221878406,
       "OffTime": "Oct 3, 9:07 p.m.",
       "ETR": "Oct 4, 10:00 a.m.",
-      "CrewStatus": "Specialized crew needed",
+      "CrewStatus": "On the way",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 4, 3:30 a.m.",
+      "LastUpdated": "Oct 4, 9:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -21,6 +21,75 @@
           "ZipCusts": 1177,
           "Region": "upper peninsula mi",
           "RegionCusts": 41434
+        }
+      ]
+    },
+    {
+      "Latitude": 43.28656268875571,
+      "Longitude": -88.30194899387443,
+      "OffTime": "Oct 4, 7:47 a.m.",
+      "ETR": "Oct 4, 10:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 4, 9:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "slinger",
+          "CityCusts": 1793,
+          "County": "washington",
+          "CountyCusts": 61708,
+          "Zip": "53086",
+          "ZipCusts": 1803,
+          "Region": "southeast wi",
+          "RegionCusts": 1075317
+        }
+      ]
+    },
+    {
+      "Latitude": 43.17125839696777,
+      "Longitude": -88.10621367661955,
+      "OffTime": "Oct 4, 9:16 a.m.",
+      "ETR": "Oct 4, 12:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 4, 9:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 29,
+          "City": "menomonee fls",
+          "CityCusts": 15580,
+          "County": "waukesha",
+          "CountyCusts": 203681,
+          "Zip": "53051",
+          "ZipCusts": 21596,
+          "Region": "southeast wi",
+          "RegionCusts": 1075317
+        }
+      ]
+    },
+    {
+      "Latitude": 43.13568622662556,
+      "Longitude": -88.14213498658209,
+      "OffTime": "Oct 4, 7:40 a.m.",
+      "ETR": "Oct 4, 10:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "We Energies overhead line problem",
+      "LastUpdated": "Oct 4, 9:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "menomonee fls",
+          "CityCusts": 15580,
+          "County": "waukesha",
+          "CountyCusts": 203681,
+          "Zip": "53051",
+          "ZipCusts": 21596,
+          "Region": "southeast wi",
+          "RegionCusts": 1075317
         }
       ]
     }
