@@ -1,4 +1,97 @@
 {
-  "captured_at": "2026-10-05T05:32:35+00:00",
-  "events": []
+  "captured_at": "2026-10-05T12:37:38+00:00",
+  "events": [
+    {
+      "Latitude": 43.12010049512021,
+      "Longitude": -88.02149801385617,
+      "OffTime": "Oct 5, 7:26 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 5, 7:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352326,
+          "County": "milwaukee",
+          "CountyCusts": 480149,
+          "Zip": "53225",
+          "ZipCusts": 12043,
+          "Region": "southeast wi",
+          "RegionCusts": 1075258
+        }
+      ]
+    },
+    {
+      "Latitude": 44.29351423149459,
+      "Longitude": -88.35310610465972,
+      "OffTime": "Oct 5, 6:58 a.m.",
+      "ETR": "Oct 5, 10:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 5, 7:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 63011,
+          "County": "outagamie",
+          "CountyCusts": 80242,
+          "Zip": "54911",
+          "ZipCusts": 13384,
+          "Region": "fox valley wi",
+          "RegionCusts": 143510
+        }
+      ]
+    },
+    {
+      "Latitude": 43.136167142091004,
+      "Longitude": -88.19517528723935,
+      "OffTime": "Oct 5, 6:48 a.m.",
+      "ETR": "Oct 5, 9:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 5, 7:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "sussex",
+          "CityCusts": 9904,
+          "County": "waukesha",
+          "CountyCusts": 203672,
+          "Zip": "53089",
+          "ZipCusts": 10054,
+          "Region": "southeast wi",
+          "RegionCusts": 1075258
+        }
+      ]
+    },
+    {
+      "Latitude": 43.135040194078755,
+      "Longitude": -88.02886794861776,
+      "OffTime": "Oct 5, 2:04 a.m.",
+      "ETR": "Oct 5, 9:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Transformer problem",
+      "LastUpdated": "Oct 5, 7:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 13,
+          "City": "milwaukee",
+          "CityCusts": 352326,
+          "County": "milwaukee",
+          "CountyCusts": 480149,
+          "Zip": "53224",
+          "ZipCusts": 9526,
+          "Region": "southeast wi",
+          "RegionCusts": 1075258
+        }
+      ]
+    }
+  ]
 }
