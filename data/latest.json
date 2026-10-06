@@ -1,37 +1,294 @@
 {
-  "captured_at": "2026-10-06T14:47:23+00:00",
+  "captured_at": "2026-10-06T19:54:45+00:00",
   "events": [
     {
-      "Latitude": 43.12036485288884,
-      "Longitude": -88.0655386698438,
-      "OffTime": "Oct 6, 8:37 a.m.",
-      "ETR": "Oct 6, 11:30 a.m.",
-      "CrewStatus": "On site",
+      "Latitude": 45.71517358056049,
+      "Longitude": -87.60489429489404,
+      "OffTime": "Oct 6, 2:48 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 6, 9:40 a.m.",
+      "LastUpdated": "Oct 6, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 23,
-          "City": "milwaukee",
-          "CityCusts": 352348,
-          "County": "milwaukee",
-          "CountyCusts": 480180,
-          "Zip": "53225",
-          "ZipCusts": 12044,
+          "AffectedCusts": 1,
+          "City": "hermansville",
+          "CityCusts": 634,
+          "County": "menominee",
+          "CountyCusts": 3008,
+          "Zip": "49847",
+          "ZipCusts": 639,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41433
+        }
+      ]
+    },
+    {
+      "Latitude": 43.32246023624764,
+      "Longitude": -88.28372369358009,
+      "OffTime": "Oct 6, 2:12 p.m.",
+      "ETR": "Oct 6, 5:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 6, 2:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 12,
+          "City": "slinger",
+          "CityCusts": 1792,
+          "County": "washington",
+          "CountyCusts": 61713,
+          "Zip": "53086",
+          "ZipCusts": 1802,
           "Region": "southeast wi",
           "RegionCusts": 1075323
         }
       ]
     },
     {
-      "Latitude": 42.57049308821456,
-      "Longitude": -87.82426087613636,
-      "OffTime": "Oct 6, 9:06 a.m.",
-      "ETR": "Oct 6, 12:00 p.m.",
-      "CrewStatus": "On the way",
+      "Latitude": 45.705513219606,
+      "Longitude": -87.45904239846308,
+      "OffTime": "Oct 6, 2:02 p.m.",
+      "ETR": "Oct 6, 5:00 p.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 6, 9:40 a.m.",
+      "LastUpdated": "Oct 6, 2:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "harris",
+          "CityCusts": 78,
+          "County": "menominee",
+          "CountyCusts": 3008,
+          "Zip": "49874",
+          "ZipCusts": 645,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41433
+        },
+        {
+          "AffectedCusts": 26,
+          "City": "spalding",
+          "CityCusts": 325,
+          "County": "menominee",
+          "CountyCusts": 3008,
+          "Zip": "49886",
+          "ZipCusts": 324,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41433
+        },
+        {
+          "AffectedCusts": 68,
+          "City": "powers",
+          "CityCusts": 638,
+          "County": "menominee",
+          "CountyCusts": 3008,
+          "Zip": "49874",
+          "ZipCusts": 645,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41433
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "wilson",
+          "CityCusts": 402,
+          "County": "menominee",
+          "CountyCusts": 3008,
+          "Zip": "49886",
+          "ZipCusts": 324,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41433
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "bark river",
+          "CityCusts": 779,
+          "County": "delta",
+          "CountyCusts": 1713,
+          "Zip": "49807",
+          "ZipCusts": 944,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41433
+        },
+        {
+          "AffectedCusts": 2,
+          "City": "spalding",
+          "CityCusts": 325,
+          "County": "menominee",
+          "CountyCusts": 3008,
+          "Zip": "49874",
+          "ZipCusts": 645,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41433
+        },
+        {
+          "AffectedCusts": 11,
+          "City": "bark river",
+          "CityCusts": 779,
+          "County": "menominee",
+          "CountyCusts": 3008,
+          "Zip": "49807",
+          "ZipCusts": 944,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41433
+        },
+        {
+          "AffectedCusts": 5,
+          "City": "harris",
+          "CityCusts": 78,
+          "County": "menominee",
+          "CountyCusts": 3008,
+          "Zip": "49845",
+          "ZipCusts": 71,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41433
+        },
+        {
+          "AffectedCusts": 2,
+          "City": "wilson",
+          "CityCusts": 402,
+          "County": "menominee",
+          "CountyCusts": 3008,
+          "Zip": "49896",
+          "ZipCusts": 402,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41433
+        }
+      ]
+    },
+    {
+      "Latitude": 44.20249455844236,
+      "Longitude": -88.50226949823781,
+      "OffTime": "Oct 6, 2:25 p.m.",
+      "ETR": "Oct 6, 5:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 6, 2:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 6,
+          "City": "neenah",
+          "CityCusts": 21392,
+          "County": "winnebago",
+          "CountyCusts": 27751,
+          "Zip": "54956",
+          "ZipCusts": 21386,
+          "Region": "fox valley wi",
+          "RegionCusts": 143570
+        }
+      ]
+    },
+    {
+      "Latitude": 45.69686607508355,
+      "Longitude": -87.50331741072303,
+      "OffTime": "Oct 6, 2:30 p.m.",
+      "ETR": "Oct 6, 5:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 6, 2:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 502,
+          "City": "hermansville",
+          "CityCusts": 634,
+          "County": "menominee",
+          "CountyCusts": 3008,
+          "Zip": "49847",
+          "ZipCusts": 639,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41433
+        },
+        {
+          "AffectedCusts": 80,
+          "City": "powers",
+          "CityCusts": 638,
+          "County": "menominee",
+          "CountyCusts": 3008,
+          "Zip": "49874",
+          "ZipCusts": 645,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41433
+        },
+        {
+          "AffectedCusts": 87,
+          "City": "spalding",
+          "CityCusts": 325,
+          "County": "menominee",
+          "CountyCusts": 3008,
+          "Zip": "49886",
+          "ZipCusts": 324,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41433
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "hermansville",
+          "CityCusts": 634,
+          "County": "menominee",
+          "CountyCusts": 3008,
+          "Zip": "49874",
+          "ZipCusts": 645,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41433
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "hermansville",
+          "CityCusts": 634,
+          "County": "marquette",
+          "CountyCusts": 1441,
+          "Zip": "49847",
+          "ZipCusts": 639,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41433
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "meyer",
+          "CityCusts": 2,
+          "County": "menominee",
+          "CountyCusts": 3008,
+          "Zip": "49847",
+          "ZipCusts": 639,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41433
+        },
+        {
+          "AffectedCusts": 2,
+          "City": "hermansville",
+          "CityCusts": 634,
+          "County": "dickinson",
+          "CountyCusts": 14095,
+          "Zip": "49847",
+          "ZipCusts": 639,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41433
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "spalding",
+          "CityCusts": 325,
+          "County": "menominee",
+          "CountyCusts": 3008,
+          "Zip": "49874",
+          "ZipCusts": 645,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41433
+        }
+      ]
+    },
+    {
+      "Latitude": 42.58871716439087,
+      "Longitude": -87.83339472904834,
+      "OffTime": "Oct 6, 12:49 p.m.",
+      "ETR": "Oct 6, 3:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 6, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -40,159 +297,102 @@
           "CityCusts": 54335,
           "County": "kenosha",
           "CountyCusts": 80277,
-          "Zip": "53143",
-          "ZipCusts": 10241,
+          "Zip": "53140",
+          "ZipCusts": 14890,
           "Region": "southeast wi",
           "RegionCusts": 1075323
         }
       ]
     },
     {
-      "Latitude": 42.981429758173995,
-      "Longitude": -87.8703619092154,
-      "OffTime": "Oct 6, 8:37 a.m.",
-      "ETR": "Oct 6, 11:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 6, 9:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "saint francis",
-          "CityCusts": 4861,
-          "County": "milwaukee",
-          "CountyCusts": 480180,
-          "Zip": "53235",
-          "ZipCusts": 5787,
-          "Region": "southeast wi",
-          "RegionCusts": 1075323
-        }
-      ]
-    },
-    {
-      "Latitude": 46.00040392940594,
-      "Longitude": -88.34260116967802,
-      "OffTime": "Oct 6, 5:58 a.m.",
-      "ETR": "Oct 6, 11:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Oct 6, 9:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 9,
-          "City": "crystal falls",
-          "CityCusts": 2028,
-          "County": "iron",
-          "CountyCusts": 4275,
-          "Zip": "49920",
-          "ZipCusts": 2031,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41433
-        }
-      ]
-    },
-    {
-      "Latitude": 43.38756692699656,
-      "Longitude": -87.89996480649648,
-      "OffTime": "Oct 6, 5:20 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Assigned",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Oct 6, 9:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "port washington",
-          "CityCusts": 3228,
-          "County": "ozaukee",
-          "CountyCusts": 42782,
-          "Zip": "53074",
-          "ZipCusts": 7476,
-          "Region": "southeast wi",
-          "RegionCusts": 1075323
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "prt washingtn",
-          "CityCusts": 4256,
-          "County": "ozaukee",
-          "CountyCusts": 42782,
-          "Zip": "53074",
-          "ZipCusts": 7476,
-          "Region": "southeast wi",
-          "RegionCusts": 1075323
-        }
-      ]
-    },
-    {
-      "Latitude": 45.797989195028215,
-      "Longitude": -88.19919340609016,
-      "OffTime": "Oct 6, 9:09 a.m.",
-      "ETR": "Oct 6, 12:00 p.m.",
+      "Latitude": 42.992553933079485,
+      "Longitude": -88.08046237239988,
+      "OffTime": "Oct 6, 12:50 p.m.",
+      "ETR": "Oct 6, 3:30 p.m.",
       "CrewStatus": "Specialized crew needed",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 6, 9:40 a.m.",
+      "Cause": "",
+      "LastUpdated": "Oct 6, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 9,
-          "City": "florence",
-          "CityCusts": 1535,
-          "County": "florence",
-          "CountyCusts": 3055,
-          "Zip": "54121",
-          "ZipCusts": 1542,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41433
-        }
-      ]
-    },
-    {
-      "Latitude": 43.108499110130495,
-      "Longitude": -88.089677423926,
-      "OffTime": "Oct 6, 8:19 a.m.",
-      "ETR": "Oct 6, 11:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 6, 9:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 7,
-          "City": "menomonee fls",
-          "CityCusts": 15580,
+          "AffectedCusts": 4,
+          "City": "new berlin",
+          "CityCusts": 20464,
           "County": "waukesha",
           "CountyCusts": 203680,
-          "Zip": "53051",
-          "ZipCusts": 21599,
+          "Zip": "53151",
+          "ZipCusts": 16754,
           "Region": "southeast wi",
           "RegionCusts": 1075323
         }
       ]
     },
     {
-      "Latitude": 43.082767549518344,
-      "Longitude": -87.96812560905533,
-      "OffTime": "Oct 6, 8:19 a.m.",
-      "ETR": "Oct 6, 11:00 a.m.",
-      "CrewStatus": "On site",
+      "Latitude": 45.704207958338095,
+      "Longitude": -87.60787050991571,
+      "OffTime": "Oct 6, 2:35 p.m.",
+      "ETR": "Oct 6, 5:30 p.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 6, 9:40 a.m.",
+      "LastUpdated": "Oct 6, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352348,
-          "County": "milwaukee",
-          "CountyCusts": 480180,
-          "Zip": "53216",
-          "ZipCusts": 14832,
+          "AffectedCusts": 10,
+          "City": "hermansville",
+          "CityCusts": 634,
+          "County": "menominee",
+          "CountyCusts": 3008,
+          "Zip": "49847",
+          "ZipCusts": 639,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41433
+        }
+      ]
+    },
+    {
+      "Latitude": 42.665282470190874,
+      "Longitude": -87.86547189850972,
+      "OffTime": "Oct 6, 2:22 p.m.",
+      "ETR": "Oct 6, 5:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 6, 2:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "kenosha",
+          "CityCusts": 54335,
+          "County": "kenosha",
+          "CountyCusts": 80277,
+          "Zip": "53144",
+          "ZipCusts": 14053,
           "Region": "southeast wi",
           "RegionCusts": 1075323
+        }
+      ]
+    },
+    {
+      "Latitude": 44.48403749970907,
+      "Longitude": -88.25100067097,
+      "OffTime": "Oct 6, 2:20 p.m.",
+      "ETR": "Oct 6, 5:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 6, 2:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 9,
+          "City": "seymour",
+          "CityCusts": 3966,
+          "County": "outagamie",
+          "CountyCusts": 80298,
+          "Zip": "54165",
+          "ZipCusts": 3986,
+          "Region": "fox valley wi",
+          "RegionCusts": 143570
         }
       ]
     }
