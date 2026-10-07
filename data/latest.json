@@ -1,83 +1,282 @@
 {
-  "captured_at": "2026-10-07T16:30:27+00:00",
+  "captured_at": "2026-10-07T21:33:33+00:00",
   "events": [
     {
-      "Latitude": 42.780723763786895,
-      "Longitude": -88.57646929449308,
-      "OffTime": "Oct 7, 8:11 a.m.",
-      "ETR": "Oct 7, 2:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Vehicle accident",
-      "LastUpdated": "Oct 7, 11:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 22,
-          "City": "elkhorn",
-          "CityCusts": 5978,
-          "County": "walworth",
-          "CountyCusts": 24259,
-          "Zip": "53121",
-          "ZipCusts": 5981,
-          "Region": "southeast wi",
-          "RegionCusts": 1075371
-        }
-      ]
-    },
-    {
-      "Latitude": 42.87389647804063,
-      "Longitude": -87.96962680907565,
-      "OffTime": "Oct 7, 7:38 a.m.",
-      "ETR": "Oct 7, 12:30 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 7, 11:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "franklin",
-          "CityCusts": 17465,
-          "County": "milwaukee",
-          "CountyCusts": 480202,
-          "Zip": "53132",
-          "ZipCusts": 17466,
-          "Region": "southeast wi",
-          "RegionCusts": 1075371
-        }
-      ]
-    },
-    {
-      "Latitude": 42.58723125576104,
-      "Longitude": -87.89696813353086,
-      "OffTime": "Oct 7, 10:31 a.m.",
-      "ETR": "Oct 7, 1:30 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 45.962842443765744,
+      "Longitude": -87.74440326831257,
+      "OffTime": "Oct 7, 4:03 p.m.",
+      "ETR": "Oct 7, 7:00 p.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 7, 11:30 a.m.",
+      "LastUpdated": "Oct 7, 4:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
+          "AffectedCusts": 2,
+          "City": "loretto",
+          "CityCusts": 87,
+          "County": "dickinson",
+          "CountyCusts": 14096,
+          "Zip": "49852",
+          "ZipCusts": 95,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41435
+        },
+        {
+          "AffectedCusts": 36,
+          "City": "foster city",
+          "CityCusts": 240,
+          "County": "dickinson",
+          "CountyCusts": 14096,
+          "Zip": "49834",
+          "ZipCusts": 267,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41435
+        },
+        {
+          "AffectedCusts": 54,
+          "City": "vulcan",
+          "CityCusts": 1027,
+          "County": "dickinson",
+          "CountyCusts": 14096,
+          "Zip": "49892",
+          "ZipCusts": 1070,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41435
+        },
+        {
+          "AffectedCusts": 6,
+          "City": "waucedah",
+          "CityCusts": 31,
+          "County": "dickinson",
+          "CountyCusts": 14096,
+          "Zip": "49852",
+          "ZipCusts": 95,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41435
+        },
+        {
+          "AffectedCusts": 5,
+          "City": "waucedah",
+          "CityCusts": 31,
+          "County": "dickinson",
+          "CountyCusts": 14096,
+          "Zip": "49892",
+          "ZipCusts": 1070,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41435
+        },
+        {
           "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54342,
-          "County": "kenosha",
-          "CountyCusts": 80284,
-          "Zip": "53144",
-          "ZipCusts": 14058,
-          "Region": "southeast wi",
-          "RegionCusts": 1075371
+          "City": "foster city",
+          "CityCusts": 240,
+          "County": "dickinson",
+          "CountyCusts": 14096,
+          "Zip": "49831",
+          "ZipCusts": 484,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41435
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "norway",
+          "CityCusts": 158,
+          "County": "dickinson",
+          "CountyCusts": 14096,
+          "Zip": "49870",
+          "ZipCusts": 142,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41435
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "waucedah",
+          "CityCusts": 31,
+          "County": "menominee",
+          "CountyCusts": 3008,
+          "Zip": "49892",
+          "ZipCusts": 1070,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41435
         }
       ]
     },
     {
-      "Latitude": 42.61330577883904,
-      "Longitude": -87.95030893135883,
-      "OffTime": "Oct 7, 10:48 a.m.",
-      "ETR": "Oct 7, 1:30 p.m.",
+      "Latitude": 45.95773333729177,
+      "Longitude": -88.19294136215555,
+      "OffTime": "Oct 7, 4:19 p.m.",
+      "ETR": "Oct 7, 7:00 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 7, 11:30 a.m.",
+      "LastUpdated": "Oct 7, 4:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "alpha",
+          "CityCusts": 147,
+          "County": "iron",
+          "CountyCusts": 4275,
+          "Zip": "49902",
+          "ZipCusts": 147,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41435
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "sagola",
+          "CityCusts": 411,
+          "County": "iron",
+          "CountyCusts": 4275,
+          "Zip": "49801",
+          "ZipCusts": 7105,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41435
+        },
+        {
+          "AffectedCusts": 3,
+          "City": "sagola",
+          "CityCusts": 411,
+          "County": "dickinson",
+          "CountyCusts": 14096,
+          "Zip": "49881",
+          "ZipCusts": 404,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41435
+        },
+        {
+          "AffectedCusts": 2,
+          "City": "iron mountain",
+          "CityCusts": 7102,
+          "County": "dickinson",
+          "CountyCusts": 14096,
+          "Zip": "49801",
+          "ZipCusts": 7105,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41435
+        },
+        {
+          "AffectedCusts": 131,
+          "City": "crystal falls",
+          "CityCusts": 2028,
+          "County": "iron",
+          "CountyCusts": 4275,
+          "Zip": "49920",
+          "ZipCusts": 2031,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41435
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "crystal falls",
+          "CityCusts": 2028,
+          "County": "iron",
+          "CountyCusts": 4275,
+          "Zip": "49801",
+          "ZipCusts": 7105,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41435
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "channing",
+          "CityCusts": 438,
+          "County": "iron",
+          "CountyCusts": 4275,
+          "Zip": "49815",
+          "ZipCusts": 439,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41435
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "crystal falls",
+          "CityCusts": 2028,
+          "County": "dickinson",
+          "CountyCusts": 14096,
+          "Zip": "49920",
+          "ZipCusts": 2031,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41435
+        }
+      ]
+    },
+    {
+      "Latitude": 46.188493426498745,
+      "Longitude": -88.87906717170752,
+      "OffTime": "Oct 7, 3:17 p.m.",
+      "ETR": "Oct 7, 6:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 7, 4:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 71,
+          "City": "iron river",
+          "CityCusts": 1765,
+          "County": "iron",
+          "CountyCusts": 4275,
+          "Zip": "49935",
+          "ZipCusts": 1766,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41435
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "iron river",
+          "CityCusts": 1765,
+          "County": "iron",
+          "CountyCusts": 4275,
+          "Zip": "49964",
+          "ZipCusts": 17,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41435
+        },
+        {
+          "AffectedCusts": 5,
+          "City": "stambaugh",
+          "CityCusts": 21,
+          "County": "iron",
+          "CountyCusts": 4275,
+          "Zip": "49964",
+          "ZipCusts": 17,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41435
+        }
+      ]
+    },
+    {
+      "Latitude": 46.151430171977665,
+      "Longitude": -88.37666232008257,
+      "OffTime": "Oct 7, 3:56 p.m.",
+      "ETR": "Oct 7, 6:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 7, 4:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "crystal falls",
+          "CityCusts": 2028,
+          "County": "iron",
+          "CountyCusts": 4275,
+          "Zip": "49920",
+          "ZipCusts": 2031,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41435
+        }
+      ]
+    },
+    {
+      "Latitude": 42.56073684175329,
+      "Longitude": -87.87816461720996,
+      "OffTime": "Oct 7, 12:48 p.m.",
+      "ETR": "Oct 7, 5:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 7, 4:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -86,67 +285,44 @@
           "CityCusts": 54342,
           "County": "kenosha",
           "CountyCusts": 80284,
-          "Zip": "53144",
-          "ZipCusts": 14058,
+          "Zip": "53142",
+          "ZipCusts": 15172,
           "Region": "southeast wi",
           "RegionCusts": 1075371
         }
       ]
     },
     {
-      "Latitude": 42.65490858409184,
-      "Longitude": -88.01859610134306,
-      "OffTime": "Oct 7, 10:36 a.m.",
-      "ETR": "Oct 7, 1:30 p.m.",
+      "Latitude": 42.54763506040352,
+      "Longitude": -88.17360059052099,
+      "OffTime": "Oct 7, 2:48 p.m.",
+      "ETR": "Oct 7, 5:30 p.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 7, 11:30 a.m.",
+      "LastUpdated": "Oct 7, 4:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "union grove",
-          "CityCusts": 5255,
+          "AffectedCusts": 7,
+          "City": "silver lake",
+          "CityCusts": 1177,
           "County": "kenosha",
           "CountyCusts": 80284,
-          "Zip": "53182",
-          "ZipCusts": 5255,
+          "Zip": "53170",
+          "ZipCusts": 1180,
           "Region": "southeast wi",
           "RegionCusts": 1075371
         }
       ]
     },
     {
-      "Latitude": 42.925361208554584,
-      "Longitude": -88.05624887108333,
-      "OffTime": "Oct 7, 9:18 a.m.",
-      "ETR": "Oct 7, 12:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 7, 11:30 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "franklin",
-          "CityCusts": 17465,
-          "County": "milwaukee",
-          "CountyCusts": 480202,
-          "Zip": "53132",
-          "ZipCusts": 17466,
-          "Region": "southeast wi",
-          "RegionCusts": 1075371
-        }
-      ]
-    },
-    {
-      "Latitude": 43.05652985758463,
-      "Longitude": -87.89124920026461,
-      "OffTime": "Oct 7, 10:40 a.m.",
-      "ETR": "Oct 7, 1:30 p.m.",
+      "Latitude": 43.12405769252515,
+      "Longitude": -87.98782669097366,
+      "OffTime": "Oct 7, 3:45 p.m.",
+      "ETR": "Oct 7, 6:30 p.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 7, 11:30 a.m.",
+      "LastUpdated": "Oct 7, 4:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -155,56 +331,204 @@
           "CityCusts": 352343,
           "County": "milwaukee",
           "CountyCusts": 480202,
-          "Zip": "53202",
-          "ZipCusts": 22396,
+          "Zip": "53218",
+          "ZipCusts": 17031,
           "Region": "southeast wi",
           "RegionCusts": 1075371
         }
       ]
     },
     {
-      "Latitude": 42.51891974226939,
-      "Longitude": -88.11387141447265,
-      "OffTime": "Oct 7, 11:19 a.m.",
-      "ETR": "Oct 7, 2:00 p.m.",
+      "Latitude": 45.58452809950924,
+      "Longitude": -87.55712544031597,
+      "OffTime": "Oct 7, 3:00 p.m.",
+      "ETR": "Oct 7, 6:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 7, 4:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 11,
+          "City": "carney",
+          "CityCusts": 310,
+          "County": "menominee",
+          "CountyCusts": 3008,
+          "Zip": "49812",
+          "ZipCusts": 314,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41435
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "carney",
+          "CityCusts": 310,
+          "County": "menominee",
+          "CountyCusts": 3008,
+          "Zip": "49863",
+          "ZipCusts": 76,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41435
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "nadeau",
+          "CityCusts": 78,
+          "County": "menominee",
+          "CountyCusts": 3008,
+          "Zip": "49863",
+          "ZipCusts": 76,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41435
+        }
+      ]
+    },
+    {
+      "Latitude": 42.993279644478235,
+      "Longitude": -88.04646185120328,
+      "OffTime": "Oct 7, 4:05 p.m.",
+      "ETR": "Oct 7, 7:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 7, 4:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 17,
+          "City": "milwaukee",
+          "CityCusts": 352343,
+          "County": "milwaukee",
+          "CountyCusts": 480202,
+          "Zip": "53227",
+          "ZipCusts": 12606,
+          "Region": "southeast wi",
+          "RegionCusts": 1075371
+        },
+        {
+          "AffectedCusts": 11,
+          "City": "west allis",
+          "CityCusts": 15163,
+          "County": "milwaukee",
+          "CountyCusts": 480202,
+          "Zip": "53227",
+          "ZipCusts": 12606,
+          "Region": "southeast wi",
+          "RegionCusts": 1075371
+        }
+      ]
+    },
+    {
+      "Latitude": 44.22016410367357,
+      "Longitude": -88.26144860241814,
+      "OffTime": "Oct 7, 4:28 p.m.",
+      "ETR": "Not yet determined",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 7, 11:30 a.m.",
+      "LastUpdated": "Oct 7, 4:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 12,
+          "City": "menasha",
+          "CityCusts": 4811,
+          "County": "calumet",
+          "CountyCusts": 14480,
+          "Zip": "54952",
+          "ZipCusts": 4824,
+          "Region": "fox valley wi",
+          "RegionCusts": 143603
+        }
+      ]
+    },
+    {
+      "Latitude": 44.3787033022571,
+      "Longitude": -88.36489530278837,
+      "OffTime": "Oct 7, 4:20 p.m.",
+      "ETR": "Oct 7, 7:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 7, 4:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "trevor",
-          "CityCusts": 2964,
-          "County": "kenosha",
-          "CountyCusts": 80284,
-          "Zip": "53179",
-          "ZipCusts": 2969,
+          "City": "freedom",
+          "CityCusts": 1099,
+          "County": "outagamie",
+          "CountyCusts": 80328,
+          "Zip": "54913",
+          "ZipCusts": 14030,
+          "Region": "fox valley wi",
+          "RegionCusts": 143603
+        }
+      ]
+    },
+    {
+      "Latitude": 42.73450312254568,
+      "Longitude": -87.9548922895023,
+      "OffTime": "Oct 7, 4:00 p.m.",
+      "ETR": "Oct 7, 7:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 7, 4:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "sturtevant",
+          "CityCusts": 4054,
+          "County": "racine",
+          "CountyCusts": 102702,
+          "Zip": "53177",
+          "ZipCusts": 4784,
           "Region": "southeast wi",
           "RegionCusts": 1075371
         }
       ]
     },
     {
-      "Latitude": 43.090353909908885,
-      "Longitude": -88.06796057703146,
-      "OffTime": "Oct 7, 10:31 a.m.",
-      "ETR": "Oct 7, 1:30 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 44.65521348332059,
+      "Longitude": -88.424115342756,
+      "OffTime": "Oct 7, 12:13 p.m.",
+      "ETR": "Oct 7, 6:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Transformer problem",
+      "LastUpdated": "Oct 7, 4:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "bonduel",
+          "CityCusts": 2056,
+          "County": "shawano",
+          "CountyCusts": 8371,
+          "Zip": "54107",
+          "ZipCusts": 2060,
+          "Region": "fox valley wi",
+          "RegionCusts": 143603
+        }
+      ]
+    },
+    {
+      "Latitude": 44.38839093809295,
+      "Longitude": -88.37382706073055,
+      "OffTime": "Oct 7, 4:27 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 7, 11:30 a.m.",
+      "LastUpdated": "Oct 7, 4:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "brookfield",
-          "CityCusts": 23385,
-          "County": "waukesha",
-          "CountyCusts": 203691,
-          "Zip": "53005",
-          "ZipCusts": 11572,
-          "Region": "southeast wi",
-          "RegionCusts": 1075371
+          "City": "freedom",
+          "CityCusts": 1099,
+          "County": "outagamie",
+          "CountyCusts": 80328,
+          "Zip": "54913",
+          "ZipCusts": 14030,
+          "Region": "fox valley wi",
+          "RegionCusts": 143603
         }
       ]
     }
