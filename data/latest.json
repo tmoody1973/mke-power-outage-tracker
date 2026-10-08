@@ -1,238 +1,37 @@
 {
-  "captured_at": "2026-10-08T01:18:14+00:00",
+  "captured_at": "2026-10-08T07:41:19+00:00",
   "events": [
     {
-      "Latitude": 45.962842443765744,
-      "Longitude": -87.74440326831257,
-      "OffTime": "Oct 7, 4:03 p.m.",
+      "Latitude": 42.920310552637545,
+      "Longitude": -88.05864497860543,
+      "OffTime": "Oct 7, 11:31 p.m.",
       "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact with We Energies equipment",
-      "LastUpdated": "Oct 7, 8:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "loretto",
-          "CityCusts": 87,
-          "County": "dickinson",
-          "CountyCusts": 14096,
-          "Zip": "49852",
-          "ZipCusts": 95,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41435
-        },
-        {
-          "AffectedCusts": 5,
-          "City": "waucedah",
-          "CityCusts": 31,
-          "County": "dickinson",
-          "CountyCusts": 14096,
-          "Zip": "49892",
-          "ZipCusts": 1070,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41435
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "foster city",
-          "CityCusts": 240,
-          "County": "dickinson",
-          "CountyCusts": 14096,
-          "Zip": "49831",
-          "ZipCusts": 484,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41435
-        },
-        {
-          "AffectedCusts": 6,
-          "City": "waucedah",
-          "CityCusts": 31,
-          "County": "dickinson",
-          "CountyCusts": 14096,
-          "Zip": "49852",
-          "ZipCusts": 95,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41435
-        },
-        {
-          "AffectedCusts": 36,
-          "City": "foster city",
-          "CityCusts": 240,
-          "County": "dickinson",
-          "CountyCusts": 14096,
-          "Zip": "49834",
-          "ZipCusts": 267,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41435
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "waucedah",
-          "CityCusts": 31,
-          "County": "menominee",
-          "CountyCusts": 3008,
-          "Zip": "49892",
-          "ZipCusts": 1070,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41435
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "norway",
-          "CityCusts": 158,
-          "County": "dickinson",
-          "CountyCusts": 14096,
-          "Zip": "49870",
-          "ZipCusts": 142,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41435
-        },
-        {
-          "AffectedCusts": 54,
-          "City": "vulcan",
-          "CityCusts": 1027,
-          "County": "dickinson",
-          "CountyCusts": 14096,
-          "Zip": "49892",
-          "ZipCusts": 1070,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41435
-        }
-      ]
-    },
-    {
-      "Latitude": 44.387977498082854,
-      "Longitude": -88.37482406580456,
-      "OffTime": "Oct 7, 4:27 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Oct 7, 8:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 27,
-          "City": "appleton",
-          "CityCusts": 63100,
-          "County": "outagamie",
-          "CountyCusts": 80328,
-          "Zip": "54913",
-          "ZipCusts": 14030,
-          "Region": "fox valley wi",
-          "RegionCusts": 143603
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "freedom",
-          "CityCusts": 1099,
-          "County": "outagamie",
-          "CountyCusts": 80328,
-          "Zip": "54913",
-          "ZipCusts": 14030,
-          "Region": "fox valley wi",
-          "RegionCusts": 143603
-        }
-      ]
-    },
-    {
-      "Latitude": 46.188493426498745,
-      "Longitude": -88.87906717170752,
-      "OffTime": "Oct 7, 3:17 p.m.",
-      "ETR": "Oct 7, 8:30 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact with We Energies equipment",
-      "LastUpdated": "Oct 7, 8:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 66,
-          "City": "iron river",
-          "CityCusts": 1765,
-          "County": "iron",
-          "CountyCusts": 4275,
-          "Zip": "49935",
-          "ZipCusts": 1766,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41435
-        },
-        {
-          "AffectedCusts": 5,
-          "City": "stambaugh",
-          "CityCusts": 21,
-          "County": "iron",
-          "CountyCusts": 4275,
-          "Zip": "49964",
-          "ZipCusts": 17,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41435
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "iron river",
-          "CityCusts": 1765,
-          "County": "iron",
-          "CountyCusts": 4275,
-          "Zip": "49964",
-          "ZipCusts": 17,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41435
-        }
-      ]
-    },
-    {
-      "Latitude": 45.58452809950924,
-      "Longitude": -87.55712544031597,
-      "OffTime": "Oct 7, 3:00 p.m.",
-      "ETR": "Oct 7, 9:00 p.m.",
       "CrewStatus": "Assigned",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Oct 7, 8:10 p.m.",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Oct 8, 2:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "nadeau",
-          "CityCusts": 78,
-          "County": "menominee",
-          "CountyCusts": 3008,
-          "Zip": "49863",
-          "ZipCusts": 76,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41435
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "carney",
-          "CityCusts": 310,
-          "County": "menominee",
-          "CountyCusts": 3008,
-          "Zip": "49863",
-          "ZipCusts": 76,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41435
-        },
-        {
-          "AffectedCusts": 11,
-          "City": "carney",
-          "CityCusts": 310,
-          "County": "menominee",
-          "CountyCusts": 3008,
-          "Zip": "49812",
-          "ZipCusts": 314,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41435
+          "City": "franklin",
+          "CityCusts": 17465,
+          "County": "milwaukee",
+          "CountyCusts": 480202,
+          "Zip": "53132",
+          "ZipCusts": 17466,
+          "Region": "southeast wi",
+          "RegionCusts": 1075371
         }
       ]
     },
     {
-      "Latitude": 43.07319654273659,
-      "Longitude": -87.88481875261638,
-      "OffTime": "Oct 7, 7:35 p.m.",
-      "ETR": "Oct 7, 10:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 7, 8:10 p.m.",
+      "Latitude": 43.13731169484622,
+      "Longitude": -88.04069219745469,
+      "OffTime": "Oct 8, 1:37 a.m.",
+      "ETR": "Oct 8, 4:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Oct 8, 2:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -241,102 +40,10 @@
           "CityCusts": 352343,
           "County": "milwaukee",
           "CountyCusts": 480202,
-          "Zip": "53211",
-          "ZipCusts": 18153,
+          "Zip": "53224",
+          "ZipCusts": 9526,
           "Region": "southeast wi",
           "RegionCusts": 1075371
-        }
-      ]
-    },
-    {
-      "Latitude": 44.24041180821589,
-      "Longitude": -88.43524796879846,
-      "OffTime": "Oct 7, 4:30 p.m.",
-      "ETR": "Oct 7, 10:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 7, 8:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 63100,
-          "County": "winnebago",
-          "CountyCusts": 27752,
-          "Zip": "54915",
-          "ZipCusts": 20164,
-          "Region": "fox valley wi",
-          "RegionCusts": 143603
-        }
-      ]
-    },
-    {
-      "Latitude": 44.65521348332059,
-      "Longitude": -88.424115342756,
-      "OffTime": "Oct 7, 12:13 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Oct 7, 8:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "bonduel",
-          "CityCusts": 2056,
-          "County": "shawano",
-          "CountyCusts": 8371,
-          "Zip": "54107",
-          "ZipCusts": 2060,
-          "Region": "fox valley wi",
-          "RegionCusts": 143603
-        }
-      ]
-    },
-    {
-      "Latitude": 43.14464953501875,
-      "Longitude": -88.03455517701478,
-      "OffTime": "Oct 7, 8:06 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 7, 8:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352343,
-          "County": "milwaukee",
-          "CountyCusts": 480202,
-          "Zip": "53225",
-          "ZipCusts": 12044,
-          "Region": "southeast wi",
-          "RegionCusts": 1075371
-        }
-      ]
-    },
-    {
-      "Latitude": 46.15546643747509,
-      "Longitude": -88.37252490538614,
-      "OffTime": "Oct 7, 3:56 p.m.",
-      "ETR": "Oct 7, 9:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Tree contact outside trimming zone",
-      "LastUpdated": "Oct 7, 8:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 4,
-          "City": "crystal falls",
-          "CityCusts": 2028,
-          "County": "iron",
-          "CountyCusts": 4275,
-          "Zip": "49920",
-          "ZipCusts": 2031,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41435
         }
       ]
     }
