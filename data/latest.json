@@ -1,196 +1,58 @@
 {
-  "captured_at": "2026-10-08T20:27:00+00:00",
+  "captured_at": "2026-10-09T00:31:56+00:00",
   "events": [
     {
-      "Latitude": 43.095113283843865,
-      "Longitude": -87.88918920092055,
-      "OffTime": "Oct 8, 2:21 p.m.",
-      "ETR": "Oct 8, 5:00 p.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 42.945009554289086,
+      "Longitude": -87.87361623861034,
+      "OffTime": "Oct 8, 6:22 p.m.",
+      "ETR": "Oct 8, 9:00 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 8, 3:20 p.m.",
+      "LastUpdated": "Oct 8, 7:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 21,
-          "City": "milwaukee",
-          "CityCusts": 352327,
+          "AffectedCusts": 1,
+          "City": "cudahy",
+          "CityCusts": 9861,
           "County": "milwaukee",
           "CountyCusts": 480189,
-          "Zip": "53211",
-          "ZipCusts": 18154,
+          "Zip": "53110",
+          "ZipCusts": 9860,
+          "Region": "southeast wi",
+          "RegionCusts": 1075435
+        }
+      ]
+    },
+    {
+      "Latitude": 43.13398904610549,
+      "Longitude": -88.09484944210912,
+      "OffTime": "Oct 8, 6:28 p.m.",
+      "ETR": "Oct 8, 9:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 8, 7:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 32,
+          "City": "menomonee fls",
+          "CityCusts": 15581,
+          "County": "waukesha",
+          "CountyCusts": 203690,
+          "Zip": "53051",
+          "ZipCusts": 21601,
           "Region": "southeast wi",
           "RegionCusts": 1075435
         },
         {
           "AffectedCusts": 2,
-          "City": "shorewood",
-          "CityCusts": 2467,
-          "County": "milwaukee",
-          "CountyCusts": 480189,
-          "Zip": "53211",
-          "ZipCusts": 18154,
-          "Region": "southeast wi",
-          "RegionCusts": 1075435
-        }
-      ]
-    },
-    {
-      "Latitude": 43.09532939992539,
-      "Longitude": -88.02188804282957,
-      "OffTime": "Oct 8, 2:36 p.m.",
-      "ETR": "Oct 8, 5:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies equipment problem",
-      "LastUpdated": "Oct 8, 3:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 18,
-          "City": "milwaukee",
-          "CityCusts": 352327,
-          "County": "milwaukee",
-          "CountyCusts": 480189,
-          "Zip": "53222",
-          "ZipCusts": 13593,
-          "Region": "southeast wi",
-          "RegionCusts": 1075435
-        }
-      ]
-    },
-    {
-      "Latitude": 43.05972297741804,
-      "Longitude": -88.67247066757027,
-      "OffTime": "Oct 8, 2:47 p.m.",
-      "ETR": "Oct 8, 5:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 8, 3:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "helenville",
-          "CityCusts": 973,
-          "County": "jefferson",
-          "CountyCusts": 35302,
-          "Zip": "53137",
-          "ZipCusts": 976,
-          "Region": "southeast wi",
-          "RegionCusts": 1075435
-        }
-      ]
-    },
-    {
-      "Latitude": 43.007123497936256,
-      "Longitude": -88.01237494109199,
-      "OffTime": "Oct 8, 2:11 p.m.",
-      "ETR": "Oct 8, 5:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 8, 3:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "west allis",
-          "CityCusts": 15162,
-          "County": "milwaukee",
-          "CountyCusts": 480189,
-          "Zip": "53219",
-          "ZipCusts": 17487,
-          "Region": "southeast wi",
-          "RegionCusts": 1075435
-        }
-      ]
-    },
-    {
-      "Latitude": 42.70384970448322,
-      "Longitude": -87.80040601814883,
-      "OffTime": "Oct 8, 11:55 a.m.",
-      "ETR": "Oct 8, 5:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 8, 3:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 58997,
-          "County": "racine",
-          "CountyCusts": 102709,
-          "Zip": "53403",
-          "ZipCusts": 14410,
-          "Region": "southeast wi",
-          "RegionCusts": 1075435
-        }
-      ]
-    },
-    {
-      "Latitude": 43.06640663160934,
-      "Longitude": -87.96283263271516,
-      "OffTime": "Oct 8, 3:13 p.m.",
-      "ETR": "Oct 8, 6:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 8, 3:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352327,
-          "County": "milwaukee",
-          "CountyCusts": 480189,
-          "Zip": "53210",
-          "ZipCusts": 12256,
-          "Region": "southeast wi",
-          "RegionCusts": 1075435
-        }
-      ]
-    },
-    {
-      "Latitude": 42.54734576042,
-      "Longitude": -88.16721499124873,
-      "OffTime": "Oct 8, 1:59 p.m.",
-      "ETR": "Oct 8, 5:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 8, 3:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 102,
-          "City": "silver lake",
-          "CityCusts": 1177,
-          "County": "kenosha",
-          "CountyCusts": 80352,
-          "Zip": "53170",
-          "ZipCusts": 1180,
-          "Region": "southeast wi",
-          "RegionCusts": 1075435
-        }
-      ]
-    },
-    {
-      "Latitude": 42.82440716207606,
-      "Longitude": -88.01001881628342,
-      "OffTime": "Oct 8, 1:00 p.m.",
-      "ETR": "Oct 8, 4:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Oct 8, 3:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "caledonia",
-          "CityCusts": 2195,
-          "County": "racine",
-          "CountyCusts": 102709,
-          "Zip": "53108",
-          "ZipCusts": 1998,
+          "City": "menomonee falls",
+          "CityCusts": 6036,
+          "County": "waukesha",
+          "CountyCusts": 203690,
+          "Zip": "53051",
+          "ZipCusts": 21601,
           "Region": "southeast wi",
           "RegionCusts": 1075435
         }
