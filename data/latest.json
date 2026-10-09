@@ -1,58 +1,24 @@
 {
-  "captured_at": "2026-10-09T00:31:56+00:00",
+  "captured_at": "2026-10-09T06:41:18+00:00",
   "events": [
     {
-      "Latitude": 42.945009554289086,
-      "Longitude": -87.87361623861034,
-      "OffTime": "Oct 8, 6:22 p.m.",
-      "ETR": "Oct 8, 9:00 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 43.17868069966826,
+      "Longitude": -88.01929191164002,
+      "OffTime": "Oct 9, 12:47 a.m.",
+      "ETR": "Oct 9, 3:30 a.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 8, 7:30 p.m.",
+      "LastUpdated": "Oct 9, 1:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "cudahy",
-          "CityCusts": 9861,
+          "AffectedCusts": 7,
+          "City": "milwaukee",
+          "CityCusts": 352327,
           "County": "milwaukee",
           "CountyCusts": 480189,
-          "Zip": "53110",
-          "ZipCusts": 9860,
-          "Region": "southeast wi",
-          "RegionCusts": 1075435
-        }
-      ]
-    },
-    {
-      "Latitude": 43.13398904610549,
-      "Longitude": -88.09484944210912,
-      "OffTime": "Oct 8, 6:28 p.m.",
-      "ETR": "Oct 8, 9:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 8, 7:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 32,
-          "City": "menomonee fls",
-          "CityCusts": 15581,
-          "County": "waukesha",
-          "CountyCusts": 203690,
-          "Zip": "53051",
-          "ZipCusts": 21601,
-          "Region": "southeast wi",
-          "RegionCusts": 1075435
-        },
-        {
-          "AffectedCusts": 2,
-          "City": "menomonee falls",
-          "CityCusts": 6036,
-          "County": "waukesha",
-          "CountyCusts": 203690,
-          "Zip": "53051",
-          "ZipCusts": 21601,
+          "Zip": "53224",
+          "ZipCusts": 9528,
           "Region": "southeast wi",
           "RegionCusts": 1075435
         }
