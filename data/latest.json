@@ -1,70 +1,70 @@
 {
-  "captured_at": "2026-10-10T19:03:58+00:00",
+  "captured_at": "2026-10-10T22:28:18+00:00",
   "events": [
     {
-      "Latitude": 42.93863783999166,
-      "Longitude": -87.87919754557265,
-      "OffTime": "Oct 10, 10:18 a.m.",
-      "ETR": "Oct 10, 3:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Oct 10, 2:00 p.m.",
+      "Latitude": 43.20753462911317,
+      "Longitude": -88.23005299167863,
+      "OffTime": "Oct 10, 3:32 p.m.",
+      "ETR": "Oct 10, 6:30 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 10, 5:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 19,
-          "City": "cudahy",
-          "CityCusts": 9863,
+          "AffectedCusts": 1,
+          "City": "colgate",
+          "CityCusts": 2593,
+          "County": "washington",
+          "CountyCusts": 61715,
+          "Zip": "53017",
+          "ZipCusts": 2604,
+          "Region": "southeast wi",
+          "RegionCusts": 1075484
+        }
+      ]
+    },
+    {
+      "Latitude": 43.13334269893372,
+      "Longitude": -88.0235373586944,
+      "OffTime": "Oct 10, 4:39 p.m.",
+      "ETR": "Oct 10, 7:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 10, 5:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352330,
           "County": "milwaukee",
           "CountyCusts": 480193,
-          "Zip": "53110",
-          "ZipCusts": 9862,
+          "Zip": "53225",
+          "ZipCusts": 12041,
           "Region": "southeast wi",
           "RegionCusts": 1075484
         }
       ]
     },
     {
-      "Latitude": 42.73096757272212,
-      "Longitude": -87.82099447684465,
-      "OffTime": "Oct 10, 9:33 a.m.",
-      "ETR": "Oct 10, 4:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 10, 2:00 p.m.",
+      "Latitude": 42.938984016048614,
+      "Longitude": -87.97923115998657,
+      "OffTime": "Oct 10, 2:54 p.m.",
+      "ETR": "Oct 10, 7:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "",
+      "LastUpdated": "Oct 10, 5:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 59000,
-          "County": "racine",
-          "CountyCusts": 102736,
-          "Zip": "53405",
-          "ZipCusts": 11773,
-          "Region": "southeast wi",
-          "RegionCusts": 1075484
-        }
-      ]
-    },
-    {
-      "Latitude": 42.82564759207362,
-      "Longitude": -88.35216570101585,
-      "OffTime": "Oct 10, 1:19 p.m.",
-      "ETR": "Oct 10, 4:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 10, 2:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "east troy",
-          "CityCusts": 6276,
-          "County": "walworth",
-          "CountyCusts": 24258,
-          "Zip": "53120",
-          "ZipCusts": 6268,
+          "AffectedCusts": 119,
+          "City": "greendale",
+          "CityCusts": 7126,
+          "County": "milwaukee",
+          "CountyCusts": 480193,
+          "Zip": "53129",
+          "ZipCusts": 7125,
           "Region": "southeast wi",
           "RegionCusts": 1075484
         }
