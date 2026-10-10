@@ -1,26 +1,152 @@
 {
-  "captured_at": "2026-10-10T08:43:39+00:00",
+  "captured_at": "2026-10-10T14:45:32+00:00",
   "events": [
     {
-      "Latitude": 43.05856580175749,
-      "Longitude": -87.9192288806944,
-      "OffTime": "Oct 10, 2:52 a.m.",
-      "ETR": "Oct 10, 5:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 10, 3:40 a.m.",
+      "Latitude": 42.9947846400491,
+      "Longitude": -88.01037089885311,
+      "OffTime": "Oct 10, 8:07 a.m.",
+      "ETR": "Oct 10, 11:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Transformer problem",
+      "LastUpdated": "Oct 10, 9:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
+          "AffectedCusts": 10,
+          "City": "west allis",
+          "CityCusts": 15163,
+          "County": "milwaukee",
+          "CountyCusts": 480193,
+          "Zip": "53219",
+          "ZipCusts": 17489,
+          "Region": "southeast wi",
+          "RegionCusts": 1075484
+        },
+        {
+          "AffectedCusts": 5,
           "City": "milwaukee",
           "CityCusts": 352330,
           "County": "milwaukee",
           "CountyCusts": 480193,
-          "Zip": "53205",
-          "ZipCusts": 4134,
+          "Zip": "53219",
+          "ZipCusts": 17489,
           "Region": "southeast wi",
           "RegionCusts": 1075484
+        }
+      ]
+    },
+    {
+      "Latitude": 42.73096757272212,
+      "Longitude": -87.82099447684465,
+      "OffTime": "Oct 10, 9:33 a.m.",
+      "ETR": "Oct 10, 12:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 10, 9:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 59000,
+          "County": "racine",
+          "CountyCusts": 102736,
+          "Zip": "53405",
+          "ZipCusts": 11773,
+          "Region": "southeast wi",
+          "RegionCusts": 1075484
+        }
+      ]
+    },
+    {
+      "Latitude": 42.93557648402565,
+      "Longitude": -88.54652804410453,
+      "OffTime": "Oct 10, 9:22 a.m.",
+      "ETR": "Oct 10, 12:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 10, 9:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "dousman",
+          "CityCusts": 3901,
+          "County": "jefferson",
+          "CountyCusts": 35302,
+          "Zip": "53118",
+          "ZipCusts": 3890,
+          "Region": "southeast wi",
+          "RegionCusts": 1075484
+        }
+      ]
+    },
+    {
+      "Latitude": 42.913469360742546,
+      "Longitude": -88.19045162724993,
+      "OffTime": "Oct 10, 4:52 a.m.",
+      "ETR": "Oct 10, 12:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Oct 10, 9:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "muskego",
+          "CityCusts": 12264,
+          "County": "waukesha",
+          "CountyCusts": 203698,
+          "Zip": "53150",
+          "ZipCusts": 12264,
+          "Region": "southeast wi",
+          "RegionCusts": 1075484
+        }
+      ]
+    },
+    {
+      "Latitude": 42.961565647971696,
+      "Longitude": -88.09624323112283,
+      "OffTime": "Oct 10, 9:35 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 10, 9:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "new berlin",
+          "CityCusts": 20465,
+          "County": "waukesha",
+          "CountyCusts": 203698,
+          "Zip": "53151",
+          "ZipCusts": 16755,
+          "Region": "southeast wi",
+          "RegionCusts": 1075484
+        }
+      ]
+    },
+    {
+      "Latitude": 44.25727975084849,
+      "Longitude": -88.43892322502154,
+      "OffTime": "Oct 10, 9:23 a.m.",
+      "ETR": "Oct 10, 12:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 10, 9:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 63105,
+          "County": "outagamie",
+          "CountyCusts": 80334,
+          "Zip": "54914",
+          "ZipCusts": 16349,
+          "Region": "fox valley wi",
+          "RegionCusts": 143612
         }
       ]
     }
