@@ -1,70 +1,253 @@
 {
-  "captured_at": "2026-10-13T11:17:46+00:00",
+  "captured_at": "2026-10-13T18:24:13+00:00",
   "events": [
     {
-      "Latitude": 43.21468663304768,
-      "Longitude": -87.96548282604316,
-      "OffTime": "Oct 13, 5:52 a.m.",
-      "ETR": "Oct 13, 8:30 a.m.",
-      "CrewStatus": "On the way",
+      "Latitude": 42.7941211856571,
+      "Longitude": -87.8086427623053,
+      "OffTime": "Oct 13, 10:41 a.m.",
+      "ETR": "Oct 13, 1:30 p.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 13, 6:10 a.m.",
+      "LastUpdated": "Oct 13, 1:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "mequon",
-          "CityCusts": 12368,
-          "County": "ozaukee",
-          "CountyCusts": 42788,
-          "Zip": "53092",
-          "ZipCusts": 11527,
+          "City": "racine",
+          "CityCusts": 59003,
+          "County": "racine",
+          "CountyCusts": 102743,
+          "Zip": "53402",
+          "ZipCusts": 15997,
           "Region": "southeast wi",
           "RegionCusts": 1075550
         }
       ]
     },
     {
-      "Latitude": 46.02064156264374,
-      "Longitude": -88.47086436058976,
-      "OffTime": "Oct 12, 10:44 p.m.",
-      "ETR": "Oct 13, 7:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 13, 6:10 a.m.",
+      "Latitude": 42.55521290445801,
+      "Longitude": -88.10549935635734,
+      "OffTime": "Oct 13, 11:59 a.m.",
+      "ETR": "Oct 13, 3:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 13, 1:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "crystal falls",
-          "CityCusts": 2032,
-          "County": "iron",
-          "CountyCusts": 4280,
-          "Zip": "49920",
-          "ZipCusts": 2035,
+          "City": "salem",
+          "CityCusts": 4977,
+          "County": "kenosha",
+          "CountyCusts": 80362,
+          "Zip": "53168",
+          "ZipCusts": 4988,
+          "Region": "southeast wi",
+          "RegionCusts": 1075550
+        }
+      ]
+    },
+    {
+      "Latitude": 42.792044583772,
+      "Longitude": -87.80962695823068,
+      "OffTime": "Oct 13, 9:55 a.m.",
+      "ETR": "Oct 13, 2:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Oct 13, 1:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 26,
+          "City": "racine",
+          "CityCusts": 59003,
+          "County": "racine",
+          "CountyCusts": 102743,
+          "Zip": "53402",
+          "ZipCusts": 15997,
+          "Region": "southeast wi",
+          "RegionCusts": 1075550
+        }
+      ]
+    },
+    {
+      "Latitude": 44.32251272138038,
+      "Longitude": -88.53642867630147,
+      "OffTime": "Oct 13, 12:37 p.m.",
+      "ETR": "Oct 13, 3:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Oct 13, 1:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 61,
+          "City": "greenville",
+          "CityCusts": 4894,
+          "County": "outagamie",
+          "CountyCusts": 80345,
+          "Zip": "54942",
+          "ZipCusts": 4879,
+          "Region": "fox valley wi",
+          "RegionCusts": 143642
+        },
+        {
+          "AffectedCusts": 2,
+          "City": "greenville",
+          "CityCusts": 4894,
+          "County": "outagamie",
+          "CountyCusts": 80345,
+          "Zip": "54952",
+          "ZipCusts": 4825,
+          "Region": "fox valley wi",
+          "RegionCusts": 143642
+        }
+      ]
+    },
+    {
+      "Latitude": 43.1446536016003,
+      "Longitude": -88.09088192518342,
+      "OffTime": "Oct 13, 11:17 a.m.",
+      "ETR": "Oct 13, 3:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Oct 13, 1:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "menomonee fls",
+          "CityCusts": 15579,
+          "County": "waukesha",
+          "CountyCusts": 203706,
+          "Zip": "53051",
+          "ZipCusts": 21599,
+          "Region": "southeast wi",
+          "RegionCusts": 1075550
+        }
+      ]
+    },
+    {
+      "Latitude": 43.07479183213252,
+      "Longitude": -88.71732854033668,
+      "OffTime": "Oct 13, 12:57 p.m.",
+      "ETR": "Oct 13, 3:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 13, 1:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 38,
+          "City": "helenville",
+          "CityCusts": 973,
+          "County": "jefferson",
+          "CountyCusts": 35308,
+          "Zip": "53137",
+          "ZipCusts": 976,
+          "Region": "southeast wi",
+          "RegionCusts": 1075550
+        },
+        {
+          "AffectedCusts": 21,
+          "City": "johnson creek",
+          "CityCusts": 2584,
+          "County": "jefferson",
+          "CountyCusts": 35308,
+          "Zip": "53038",
+          "ZipCusts": 2521,
+          "Region": "southeast wi",
+          "RegionCusts": 1075550
+        }
+      ]
+    },
+    {
+      "Latitude": 46.162082514983986,
+      "Longitude": -89.34050979686988,
+      "OffTime": "Oct 13, 1:09 p.m.",
+      "ETR": "Oct 13, 4:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 13, 1:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "land o lakes",
+          "CityCusts": 1709,
+          "County": "vilas",
+          "CountyCusts": 6274,
+          "Zip": "54540",
+          "ZipCusts": 1707,
           "Region": "upper peninsula mi",
           "RegionCusts": 41454
         }
       ]
     },
     {
-      "Latitude": 43.06690760489044,
-      "Longitude": -88.02816465522972,
-      "OffTime": "Oct 13, 6:01 a.m.",
-      "ETR": "Oct 13, 9:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 42.698526760393335,
+      "Longitude": -87.90315481372161,
+      "OffTime": "Oct 13, 9:44 a.m.",
+      "ETR": "Oct 13, 2:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Transformer problem",
+      "LastUpdated": "Oct 13, 1:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "sturtevant",
+          "CityCusts": 4054,
+          "County": "racine",
+          "CountyCusts": 102743,
+          "Zip": "53177",
+          "ZipCusts": 4804,
+          "Region": "southeast wi",
+          "RegionCusts": 1075550
+        }
+      ]
+    },
+    {
+      "Latitude": 44.74610492281402,
+      "Longitude": -88.33308431336026,
+      "OffTime": "Oct 13, 12:35 p.m.",
+      "ETR": "Oct 13, 3:30 p.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 13, 6:10 a.m.",
+      "LastUpdated": "Oct 13, 1:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "wauwatosa",
-          "CityCusts": 10632,
+          "City": "pulaski",
+          "CityCusts": 2762,
+          "County": "shawano",
+          "CountyCusts": 8372,
+          "Zip": "54162",
+          "ZipCusts": 2763,
+          "Region": "fox valley wi",
+          "RegionCusts": 143642
+        }
+      ]
+    },
+    {
+      "Latitude": 42.87331233575734,
+      "Longitude": -87.95633663236524,
+      "OffTime": "Oct 13, 12:56 p.m.",
+      "ETR": "Oct 13, 3:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 13, 1:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "franklin",
+          "CityCusts": 17466,
           "County": "milwaukee",
           "CountyCusts": 480225,
-          "Zip": "53226",
-          "ZipCusts": 11014,
+          "Zip": "53132",
+          "ZipCusts": 17467,
           "Region": "southeast wi",
           "RegionCusts": 1075550
         }
