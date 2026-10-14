@@ -1,162 +1,24 @@
 {
-  "captured_at": "2026-10-14T01:36:24+00:00",
+  "captured_at": "2026-10-14T06:41:44+00:00",
   "events": [
     {
-      "Latitude": 42.70688435244346,
-      "Longitude": -87.78578228759541,
-      "OffTime": "Oct 13, 5:16 p.m.",
-      "ETR": "Oct 13, 10:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 13, 8:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 171,
-          "City": "racine",
-          "CityCusts": 59003,
-          "County": "racine",
-          "CountyCusts": 102743,
-          "Zip": "53403",
-          "ZipCusts": 14408,
-          "Region": "southeast wi",
-          "RegionCusts": 1075550
-        }
-      ]
-    },
-    {
-      "Latitude": 43.1462292431268,
-      "Longitude": -88.18382253084938,
-      "OffTime": "Oct 13, 2:14 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "Latitude": 42.590702857856584,
+      "Longitude": -87.8824580710103,
+      "OffTime": "Oct 13, 9:32 p.m.",
+      "ETR": "Oct 14, 2:00 a.m.",
       "CrewStatus": "On the way",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Oct 13, 8:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "lannon",
-          "CityCusts": 1337,
-          "County": "waukesha",
-          "CountyCusts": 203706,
-          "Zip": "53046",
-          "ZipCusts": 1347,
-          "Region": "southeast wi",
-          "RegionCusts": 1075550
-        }
-      ]
-    },
-    {
-      "Latitude": 43.08958772114747,
-      "Longitude": -87.89561908896542,
-      "OffTime": "Oct 13, 6:10 p.m.",
-      "ETR": "Oct 13, 9:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Pole equipment problem",
-      "LastUpdated": "Oct 13, 8:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "milwaukee",
-          "CityCusts": 352364,
-          "County": "milwaukee",
-          "CountyCusts": 480225,
-          "Zip": "53211",
-          "ZipCusts": 18158,
-          "Region": "southeast wi",
-          "RegionCusts": 1075550
-        }
-      ]
-    },
-    {
-      "Latitude": 43.073678039032195,
-      "Longitude": -87.88724154874669,
-      "OffTime": "Oct 13, 6:37 p.m.",
-      "ETR": "Oct 13, 9:30 p.m.",
-      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 13, 8:30 p.m.",
+      "LastUpdated": "Oct 14, 1:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352364,
-          "County": "milwaukee",
-          "CountyCusts": 480225,
-          "Zip": "53211",
-          "ZipCusts": 18158,
-          "Region": "southeast wi",
-          "RegionCusts": 1075550
-        }
-      ]
-    },
-    {
-      "Latitude": 42.707681042513805,
-      "Longitude": -87.79542811130739,
-      "OffTime": "Oct 13, 5:41 p.m.",
-      "ETR": "Oct 13, 10:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 13, 8:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 59003,
-          "County": "racine",
-          "CountyCusts": 102743,
-          "Zip": "53403",
-          "ZipCusts": 14408,
-          "Region": "southeast wi",
-          "RegionCusts": 1075550
-        }
-      ]
-    },
-    {
-      "Latitude": 43.045637704328115,
-      "Longitude": -88.08208181812849,
-      "OffTime": "Oct 13, 6:28 p.m.",
-      "ETR": "Oct 13, 9:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 13, 8:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "elm grove",
-          "CityCusts": 3383,
-          "County": "waukesha",
-          "CountyCusts": 203706,
-          "Zip": "53122",
-          "ZipCusts": 3382,
-          "Region": "southeast wi",
-          "RegionCusts": 1075550
-        }
-      ]
-    },
-    {
-      "Latitude": 42.71174415497567,
-      "Longitude": -87.84844375692361,
-      "OffTime": "Oct 13, 7:07 p.m.",
-      "ETR": "Oct 13, 10:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 13, 8:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 59003,
-          "County": "racine",
-          "CountyCusts": 102743,
-          "Zip": "53406",
-          "ZipCusts": 14565,
+          "AffectedCusts": 6,
+          "City": "kenosha",
+          "CityCusts": 54343,
+          "County": "kenosha",
+          "CountyCusts": 80362,
+          "Zip": "53144",
+          "ZipCusts": 14060,
           "Region": "southeast wi",
           "RegionCusts": 1075550
         }
@@ -165,11 +27,11 @@
     {
       "Latitude": 42.71281600885776,
       "Longitude": -87.7884409732642,
-      "OffTime": "Oct 13, 6:42 p.m.",
-      "ETR": "Oct 13, 9:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "OffTime": "Oct 14, 1:36 a.m.",
+      "ETR": "Oct 14, 4:30 a.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 13, 8:30 p.m.",
+      "LastUpdated": "Oct 14, 1:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
