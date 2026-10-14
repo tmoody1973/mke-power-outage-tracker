@@ -1,47 +1,35 @@
 {
-  "captured_at": "2026-10-14T06:41:44+00:00",
+  "captured_at": "2026-10-14T12:22:51+00:00",
   "events": [
     {
-      "Latitude": 42.590702857856584,
-      "Longitude": -87.8824580710103,
-      "OffTime": "Oct 13, 9:32 p.m.",
-      "ETR": "Oct 14, 2:00 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 14, 1:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 6,
-          "City": "kenosha",
-          "CityCusts": 54343,
-          "County": "kenosha",
-          "CountyCusts": 80362,
-          "Zip": "53144",
-          "ZipCusts": 14060,
-          "Region": "southeast wi",
-          "RegionCusts": 1075550
-        }
-      ]
-    },
-    {
-      "Latitude": 42.71281600885776,
-      "Longitude": -87.7884409732642,
-      "OffTime": "Oct 14, 1:36 a.m.",
-      "ETR": "Oct 14, 4:30 a.m.",
+      "Latitude": 43.12632538467753,
+      "Longitude": -87.90386608010361,
+      "OffTime": "Oct 14, 7:07 a.m.",
+      "ETR": "Oct 14, 10:00 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 14, 1:40 a.m.",
+      "LastUpdated": "Oct 14, 7:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 59003,
-          "County": "racine",
-          "CountyCusts": 102743,
-          "Zip": "53403",
-          "ZipCusts": 14408,
+          "AffectedCusts": 5,
+          "City": "whitefish bay",
+          "CityCusts": 1811,
+          "County": "milwaukee",
+          "CountyCusts": 480224,
+          "Zip": "53217",
+          "ZipCusts": 15177,
+          "Region": "southeast wi",
+          "RegionCusts": 1075550
+        },
+        {
+          "AffectedCusts": 12,
+          "City": "milwaukee",
+          "CityCusts": 352356,
+          "County": "milwaukee",
+          "CountyCusts": 480224,
+          "Zip": "53217",
+          "ZipCusts": 15177,
           "Region": "southeast wi",
           "RegionCusts": 1075550
         }
