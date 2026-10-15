@@ -1,14 +1,60 @@
 {
-  "captured_at": "2026-10-15T12:19:15+00:00",
+  "captured_at": "2026-10-15T17:13:04+00:00",
   "events": [
+    {
+      "Latitude": 43.01090629257331,
+      "Longitude": -87.99277132572847,
+      "OffTime": "Oct 15, 12:03 p.m.",
+      "ETR": "Oct 15, 3:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 15, 12:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "west allis",
+          "CityCusts": 15160,
+          "County": "milwaukee",
+          "CountyCusts": 480250,
+          "Zip": "53214",
+          "ZipCusts": 19811,
+          "Region": "southeast wi",
+          "RegionCusts": 1075597
+        }
+      ]
+    },
+    {
+      "Latitude": 43.0329281099894,
+      "Longitude": -88.02677868565769,
+      "OffTime": "Oct 15, 12:07 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 15, 12:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352381,
+          "County": "milwaukee",
+          "CountyCusts": 480250,
+          "Zip": "53226",
+          "ZipCusts": 11015,
+          "Region": "southeast wi",
+          "RegionCusts": 1075597
+        }
+      ]
+    },
     {
       "Latitude": 46.05419239599383,
       "Longitude": -88.34080881755946,
       "OffTime": "Oct 15, 2:53 a.m.",
-      "ETR": "Oct 15, 8:30 a.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "Assigned",
-      "Cause": "Tree contact with utility equipment",
-      "LastUpdated": "Oct 15, 7:10 a.m.",
+      "Cause": "Wildlife contact with equipment",
+      "LastUpdated": "Oct 15, 12:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -25,69 +71,23 @@
       ]
     },
     {
-      "Latitude": 43.427612450137175,
-      "Longitude": -87.96451118112337,
-      "OffTime": "Oct 15, 7:04 a.m.",
-      "ETR": "Oct 15, 10:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 15, 7:10 a.m.",
+      "Latitude": 43.02913279557959,
+      "Longitude": -88.16541859406651,
+      "OffTime": "Oct 15, 7:15 a.m.",
+      "ETR": "Oct 15, 1:30 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Oct 15, 12:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "saukville",
-          "CityCusts": 3419,
-          "County": "ozaukee",
-          "CountyCusts": 42788,
-          "Zip": "53080",
-          "ZipCusts": 3415,
-          "Region": "southeast wi",
-          "RegionCusts": 1075597
-        }
-      ]
-    },
-    {
-      "Latitude": 44.292340247212465,
-      "Longitude": -88.45682127519656,
-      "OffTime": "Oct 15, 7:06 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 15, 7:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 63111,
-          "County": "outagamie",
-          "CountyCusts": 80355,
-          "Zip": "54914",
-          "ZipCusts": 16351,
-          "Region": "fox valley wi",
-          "RegionCusts": 143665
-        }
-      ]
-    },
-    {
-      "Latitude": 43.16661994613889,
-      "Longitude": -87.98658833793787,
-      "OffTime": "Oct 15, 7:08 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 15, 7:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352381,
-          "County": "milwaukee",
-          "CountyCusts": 480250,
-          "Zip": "53223",
-          "ZipCusts": 14130,
+          "AffectedCusts": 13,
+          "City": "brookfield",
+          "CityCusts": 23385,
+          "County": "waukesha",
+          "CountyCusts": 203717,
+          "Zip": "53045",
+          "ZipCusts": 11759,
           "Region": "southeast wi",
           "RegionCusts": 1075597
         }
