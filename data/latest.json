@@ -1,26 +1,95 @@
 {
-  "captured_at": "2026-10-15T06:45:23+00:00",
+  "captured_at": "2026-10-15T12:19:15+00:00",
   "events": [
     {
-      "Latitude": 43.00835195800725,
-      "Longitude": -88.2411304754839,
-      "OffTime": "Oct 15, 12:32 a.m.",
-      "ETR": "Oct 15, 3:30 a.m.",
+      "Latitude": 46.05419239599383,
+      "Longitude": -88.34080881755946,
+      "OffTime": "Oct 15, 2:53 a.m.",
+      "ETR": "Oct 15, 8:30 a.m.",
       "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 15, 1:40 a.m.",
+      "Cause": "Tree contact with utility equipment",
+      "LastUpdated": "Oct 15, 7:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 9,
-          "City": "waukesha",
-          "CityCusts": 48456,
-          "County": "waukesha",
-          "CountyCusts": 203704,
-          "Zip": "53188",
-          "ZipCusts": 17776,
+          "AffectedCusts": 2,
+          "City": "crystal falls",
+          "CityCusts": 2032,
+          "County": "iron",
+          "CountyCusts": 4281,
+          "Zip": "49920",
+          "ZipCusts": 2035,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41457
+        }
+      ]
+    },
+    {
+      "Latitude": 43.427612450137175,
+      "Longitude": -87.96451118112337,
+      "OffTime": "Oct 15, 7:04 a.m.",
+      "ETR": "Oct 15, 10:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 15, 7:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "saukville",
+          "CityCusts": 3419,
+          "County": "ozaukee",
+          "CountyCusts": 42788,
+          "Zip": "53080",
+          "ZipCusts": 3415,
           "Region": "southeast wi",
-          "RegionCusts": 1075550
+          "RegionCusts": 1075597
+        }
+      ]
+    },
+    {
+      "Latitude": 44.292340247212465,
+      "Longitude": -88.45682127519656,
+      "OffTime": "Oct 15, 7:06 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 15, 7:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 63111,
+          "County": "outagamie",
+          "CountyCusts": 80355,
+          "Zip": "54914",
+          "ZipCusts": 16351,
+          "Region": "fox valley wi",
+          "RegionCusts": 143665
+        }
+      ]
+    },
+    {
+      "Latitude": 43.16661994613889,
+      "Longitude": -87.98658833793787,
+      "OffTime": "Oct 15, 7:08 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 15, 7:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352381,
+          "County": "milwaukee",
+          "CountyCusts": 480250,
+          "Zip": "53223",
+          "ZipCusts": 14130,
+          "Region": "southeast wi",
+          "RegionCusts": 1075597
         }
       ]
     }
