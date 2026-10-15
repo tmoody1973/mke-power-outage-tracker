@@ -1,4 +1,74 @@
 {
-  "captured_at": "2026-10-14T23:33:27+00:00",
-  "events": []
+  "captured_at": "2026-10-15T01:49:59+00:00",
+  "events": [
+    {
+      "Latitude": 43.34248525105185,
+      "Longitude": -88.02617765617228,
+      "OffTime": "Oct 14, 7:33 p.m.",
+      "ETR": "Oct 14, 10:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 14, 8:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "cedarburg",
+          "CityCusts": 2883,
+          "County": "ozaukee",
+          "CountyCusts": 42788,
+          "Zip": "53012",
+          "ZipCusts": 2877,
+          "Region": "southeast wi",
+          "RegionCusts": 1075550
+        }
+      ]
+    },
+    {
+      "Latitude": 43.101024731924525,
+      "Longitude": -87.9441628909649,
+      "OffTime": "Oct 14, 8:35 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 14, 8:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352356,
+          "County": "milwaukee",
+          "CountyCusts": 480224,
+          "Zip": "53209",
+          "ZipCusts": 23996,
+          "Region": "southeast wi",
+          "RegionCusts": 1075550
+        }
+      ]
+    },
+    {
+      "Latitude": 43.020620032280604,
+      "Longitude": -87.98930696639226,
+      "OffTime": "Oct 14, 8:36 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 14, 8:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352356,
+          "County": "milwaukee",
+          "CountyCusts": 480224,
+          "Zip": "53214",
+          "ZipCusts": 19810,
+          "Region": "southeast wi",
+          "RegionCusts": 1075550
+        }
+      ]
+    }
+  ]
 }
