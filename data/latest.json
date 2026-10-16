@@ -1,51 +1,18 @@
 {
-  "captured_at": "2026-10-16T15:25:08+00:00",
+  "captured_at": "2026-10-16T18:52:11+00:00",
   "events": [
     {
-      "Latitude": 46.1161590217053,
-      "Longitude": -89.12653696747006,
-      "OffTime": "Oct 16, 7:27 a.m.",
-      "ETR": "Oct 16, 10:30 a.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact with utility equipment",
-      "LastUpdated": "Oct 16, 10:20 a.m.",
+      "Latitude": 46.12163324675727,
+      "Longitude": -89.07676374812847,
+      "OffTime": "Oct 16, 1:40 p.m.",
+      "ETR": "Oct 16, 4:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 2,
-          "City": "phelps",
-          "CityCusts": 2054,
-          "County": "vilas",
-          "CountyCusts": 6275,
-          "Zip": "54540",
-          "ZipCusts": 1707,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41458
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "watesmeet",
-          "CityCusts": 1,
-          "County": "gogebic",
-          "CountyCusts": 2023,
-          "Zip": "49969",
-          "ZipCusts": 2014,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41458
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "phelps",
-          "CityCusts": 2054,
-          "County": "vilas",
-          "CountyCusts": 6275,
-          "Zip": "54544",
-          "ZipCusts": 1,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41458
-        },
-        {
-          "AffectedCusts": 188,
+          "AffectedCusts": 26,
           "City": "phelps",
           "CityCusts": 2054,
           "County": "vilas",
@@ -54,9 +21,90 @@
           "ZipCusts": 2049,
           "Region": "upper peninsula mi",
           "RegionCusts": 41458
-        },
+        }
+      ]
+    },
+    {
+      "Latitude": 43.070761854529685,
+      "Longitude": -88.01303702084589,
+      "OffTime": "Oct 16, 10:45 a.m.",
+      "ETR": "Oct 16, 3:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
         {
-          "AffectedCusts": 6,
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352388,
+          "County": "milwaukee",
+          "CountyCusts": 480263,
+          "Zip": "53222",
+          "ZipCusts": 13592,
+          "Region": "southeast wi",
+          "RegionCusts": 1075613
+        }
+      ]
+    },
+    {
+      "Latitude": 43.07870070482753,
+      "Longitude": -87.8956884544275,
+      "OffTime": "Oct 16, 12:54 p.m.",
+      "ETR": "Oct 16, 3:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 8,
+          "City": "milwaukee",
+          "CityCusts": 352388,
+          "County": "milwaukee",
+          "CountyCusts": 480263,
+          "Zip": "53212",
+          "ZipCusts": 17028,
+          "Region": "southeast wi",
+          "RegionCusts": 1075613
+        }
+      ]
+    },
+    {
+      "Latitude": 45.86389537575508,
+      "Longitude": -88.14780599730084,
+      "OffTime": "Oct 16, 1:13 p.m.",
+      "ETR": "Oct 16, 4:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 91,
+          "City": "florence",
+          "CityCusts": 1535,
+          "County": "florence",
+          "CountyCusts": 3057,
+          "Zip": "54121",
+          "ZipCusts": 1542,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
+        }
+      ]
+    },
+    {
+      "Latitude": 46.12251862385533,
+      "Longitude": -89.08771828991571,
+      "OffTime": "Oct 16, 1:39 p.m.",
+      "ETR": "Oct 16, 4:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
           "City": "land o lakes",
           "CityCusts": 1709,
           "County": "vilas",
@@ -67,30 +115,30 @@
           "RegionCusts": 41458
         },
         {
-          "AffectedCusts": 15,
-          "City": "watersmeet",
-          "CityCusts": 2018,
-          "County": "gogebic",
-          "CountyCusts": 2023,
-          "Zip": "49969",
-          "ZipCusts": 2014,
+          "AffectedCusts": 14,
+          "City": "phelps",
+          "CityCusts": 2054,
+          "County": "vilas",
+          "CountyCusts": 6275,
+          "Zip": "54554",
+          "ZipCusts": 2049,
           "Region": "upper peninsula mi",
           "RegionCusts": 41458
         }
       ]
     },
     {
-      "Latitude": 42.55701954571409,
-      "Longitude": -87.9343285356464,
-      "OffTime": "Oct 16, 9:30 a.m.",
-      "ETR": "Oct 16, 12:30 p.m.",
+      "Latitude": 42.52455867045187,
+      "Longitude": -87.84629719093462,
+      "OffTime": "Oct 16, 1:17 p.m.",
+      "ETR": "Oct 16, 4:00 p.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 16, 10:20 a.m.",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
+          "AffectedCusts": 10,
           "City": "pleasant pr",
           "CityCusts": 6400,
           "County": "kenosha",
@@ -103,228 +151,172 @@
       ]
     },
     {
-      "Latitude": 43.01844304558648,
-      "Longitude": -88.47395138445998,
-      "OffTime": "Oct 16, 5:24 a.m.",
-      "ETR": "Oct 16, 1:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 16, 10:20 a.m.",
+      "Latitude": 46.12459822518496,
+      "Longitude": -89.09287695280452,
+      "OffTime": "Oct 16, 1:45 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "dousman",
-          "CityCusts": 3901,
+          "City": "phelps",
+          "CityCusts": 2054,
+          "County": "vilas",
+          "CountyCusts": 6275,
+          "Zip": "54554",
+          "ZipCusts": 2049,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
+        }
+      ]
+    },
+    {
+      "Latitude": 43.0268060350975,
+      "Longitude": -88.16345786026324,
+      "OffTime": "Oct 16, 12:48 p.m.",
+      "ETR": "Oct 16, 3:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "brookfield",
+          "CityCusts": 23385,
           "County": "waukesha",
           "CountyCusts": 203711,
-          "Zip": "53118",
-          "ZipCusts": 3890,
+          "Zip": "53045",
+          "ZipCusts": 11759,
           "Region": "southeast wi",
           "RegionCusts": 1075613
         }
       ]
     },
     {
-      "Latitude": 43.009762646858235,
-      "Longitude": -88.10834648043368,
-      "OffTime": "Oct 16, 6:41 a.m.",
-      "ETR": "Oct 16, 10:30 a.m.",
+      "Latitude": 42.901616921430545,
+      "Longitude": -87.90158760294827,
+      "OffTime": "Oct 16, 11:26 a.m.",
+      "ETR": "Oct 16, 6:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "oak creek",
+          "CityCusts": 19965,
+          "County": "milwaukee",
+          "CountyCusts": 480263,
+          "Zip": "53154",
+          "ZipCusts": 19957,
+          "Region": "southeast wi",
+          "RegionCusts": 1075613
+        }
+      ]
+    },
+    {
+      "Latitude": 46.121873398166414,
+      "Longitude": -89.10952756015841,
+      "OffTime": "Oct 16, 1:43 p.m.",
+      "ETR": "Oct 16, 4:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 12,
+          "City": "phelps",
+          "CityCusts": 2054,
+          "County": "vilas",
+          "CountyCusts": 6275,
+          "Zip": "54554",
+          "ZipCusts": 2049,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
+        },
+        {
+          "AffectedCusts": 2,
+          "City": "phelps",
+          "CityCusts": 2054,
+          "County": "vilas",
+          "CountyCusts": 6275,
+          "Zip": "54540",
+          "ZipCusts": 1707,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
+        }
+      ]
+    },
+    {
+      "Latitude": 45.79461912501925,
+      "Longitude": -88.055987525956,
+      "OffTime": "Oct 16, 12:15 p.m.",
+      "ETR": "Oct 16, 3:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 16, 10:20 a.m.",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "new berlin",
-          "CityCusts": 20464,
-          "County": "waukesha",
-          "CountyCusts": 203711,
-          "Zip": "53151",
-          "ZipCusts": 16754,
-          "Region": "southeast wi",
-          "RegionCusts": 1075613
+          "City": "kingsford",
+          "CityCusts": 3510,
+          "County": "dickinson",
+          "CountyCusts": 14098,
+          "Zip": "49802",
+          "ZipCusts": 3487,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
         }
       ]
     },
     {
-      "Latitude": 42.98534002475303,
-      "Longitude": -88.2869405742694,
-      "OffTime": "Oct 16, 7:16 a.m.",
-      "ETR": "Oct 16, 1:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Tree contact with utility equipment",
-      "LastUpdated": "Oct 16, 10:20 a.m.",
+      "Latitude": 46.195942171333456,
+      "Longitude": -88.40844130783218,
+      "OffTime": "Oct 16, 11:22 a.m.",
+      "ETR": "Oct 16, 4:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 8,
-          "City": "waukesha",
-          "CityCusts": 48458,
-          "County": "waukesha",
-          "CountyCusts": 203711,
-          "Zip": "53189",
-          "ZipCusts": 12985,
-          "Region": "southeast wi",
-          "RegionCusts": 1075613
+          "AffectedCusts": 88,
+          "City": "crystal falls",
+          "CityCusts": 2032,
+          "County": "iron",
+          "CountyCusts": 4281,
+          "Zip": "49920",
+          "ZipCusts": 2035,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
         }
       ]
     },
     {
-      "Latitude": 42.72174132207824,
-      "Longitude": -87.90440760116952,
-      "OffTime": "Oct 16, 9:48 a.m.",
-      "ETR": "Oct 16, 12:30 p.m.",
+      "Latitude": 43.13978462799793,
+      "Longitude": -88.41092062793122,
+      "OffTime": "Oct 16, 12:43 p.m.",
+      "ETR": "Oct 16, 3:30 p.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 16, 10:20 a.m.",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "mount pleasant",
-          "CityCusts": 5592,
-          "County": "racine",
-          "CountyCusts": 102751,
-          "Zip": "53406",
-          "ZipCusts": 14568,
-          "Region": "southeast wi",
-          "RegionCusts": 1075613
-        }
-      ]
-    },
-    {
-      "Latitude": 46.266629727614806,
-      "Longitude": -89.17538969149635,
-      "OffTime": "Oct 16, 7:51 a.m.",
-      "ETR": "Oct 16, 10:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 16, 10:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "iron river",
-          "CityCusts": 1767,
-          "County": "iron",
-          "CountyCusts": 4281,
-          "Zip": "49969",
-          "ZipCusts": 2014,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41458
-        },
-        {
-          "AffectedCusts": 6,
-          "City": "watersmeet",
-          "CityCusts": 2018,
-          "County": "iron",
-          "CountyCusts": 4281,
-          "Zip": "49969",
-          "ZipCusts": 2014,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41458
-        },
-        {
-          "AffectedCusts": 41,
-          "City": "iron river",
-          "CityCusts": 1767,
-          "County": "iron",
-          "CountyCusts": 4281,
-          "Zip": "49935",
-          "ZipCusts": 1768,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41458
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "stambaugh",
-          "CityCusts": 21,
-          "County": "iron",
-          "CountyCusts": 4281,
-          "Zip": "49935",
-          "ZipCusts": 1768,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41458
-        },
-        {
-          "AffectedCusts": 159,
-          "City": "watersmeet",
-          "CityCusts": 2018,
-          "County": "gogebic",
-          "CountyCusts": 2023,
-          "Zip": "49969",
-          "ZipCusts": 2014,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41458
-        }
-      ]
-    },
-    {
-      "Latitude": 46.268105502450226,
-      "Longitude": -89.17199733322464,
-      "OffTime": "Oct 16, 7:51 a.m.",
-      "ETR": "Oct 16, 10:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 16, 10:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 16,
-          "City": "watersmeet",
-          "CityCusts": 2018,
-          "County": "gogebic",
-          "CountyCusts": 2023,
-          "Zip": "49969",
-          "ZipCusts": 2014,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41458
-        }
-      ]
-    },
-    {
-      "Latitude": 43.10029685972422,
-      "Longitude": -87.97386930218806,
-      "OffTime": "Oct 16, 9:56 a.m.",
-      "ETR": "Oct 16, 12:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 16, 10:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352388,
-          "County": "milwaukee",
-          "CountyCusts": 480263,
-          "Zip": "53218",
-          "ZipCusts": 17028,
-          "Region": "southeast wi",
-          "RegionCusts": 1075613
-        }
-      ]
-    },
-    {
-      "Latitude": 42.9785939786057,
-      "Longitude": -87.9128129450052,
-      "OffTime": "Oct 16, 10:05 a.m.",
-      "ETR": "Oct 16, 1:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 16, 10:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 16,
-          "City": "milwaukee",
-          "CityCusts": 352388,
-          "County": "milwaukee",
-          "CountyCusts": 480263,
-          "Zip": "53207",
-          "ZipCusts": 20430,
+          "AffectedCusts": 97,
+          "City": "oconomowoc",
+          "CityCusts": 8568,
+          "County": "waukesha",
+          "CountyCusts": 203711,
+          "Zip": "53066",
+          "ZipCusts": 8900,
           "Region": "southeast wi",
           "RegionCusts": 1075613
         }
@@ -334,10 +326,10 @@
       "Latitude": 46.03659607769096,
       "Longitude": -88.65634212307121,
       "OffTime": "Oct 16, 7:37 a.m.",
-      "ETR": "Oct 16, 10:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 16, 10:20 a.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "We Energies fuse problem",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -348,6 +340,511 @@
           "CountyCusts": 4281,
           "Zip": "49935",
           "ZipCusts": 1768,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
+        }
+      ]
+    },
+    {
+      "Latitude": 43.087238627965455,
+      "Longitude": -87.96151311875263,
+      "OffTime": "Oct 16, 12:47 p.m.",
+      "ETR": "Oct 16, 3:30 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 23,
+          "City": "milwaukee",
+          "CityCusts": 352388,
+          "County": "milwaukee",
+          "CountyCusts": 480263,
+          "Zip": "53216",
+          "ZipCusts": 14830,
+          "Region": "southeast wi",
+          "RegionCusts": 1075613
+        }
+      ]
+    },
+    {
+      "Latitude": 43.18146029761403,
+      "Longitude": -87.8982603952326,
+      "OffTime": "Oct 16, 1:25 p.m.",
+      "ETR": "Oct 16, 4:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "bayside",
+          "CityCusts": 939,
+          "County": "milwaukee",
+          "CountyCusts": 480263,
+          "Zip": "53217",
+          "ZipCusts": 15177,
+          "Region": "southeast wi",
+          "RegionCusts": 1075613
+        },
+        {
+          "AffectedCusts": 8,
+          "City": "milwaukee",
+          "CityCusts": 352388,
+          "County": "milwaukee",
+          "CountyCusts": 480263,
+          "Zip": "53217",
+          "ZipCusts": 15177,
+          "Region": "southeast wi",
+          "RegionCusts": 1075613
+        }
+      ]
+    },
+    {
+      "Latitude": 45.70403248429285,
+      "Longitude": -87.85483244061733,
+      "OffTime": "Oct 16, 11:44 a.m.",
+      "ETR": "Oct 16, 2:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Tree contact with We Energies equipment",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 19,
+          "City": "niagara",
+          "CityCusts": 2255,
+          "County": "marinette",
+          "CountyCusts": 1615,
+          "Zip": "54151",
+          "ZipCusts": 2265,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
+        }
+      ]
+    },
+    {
+      "Latitude": 44.26483658571646,
+      "Longitude": -88.42082861683575,
+      "OffTime": "Oct 16, 1:37 p.m.",
+      "ETR": "Oct 16, 4:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 63110,
+          "County": "outagamie",
+          "CountyCusts": 80357,
+          "Zip": "54914",
+          "ZipCusts": 16351,
+          "Region": "fox valley wi",
+          "RegionCusts": 143667
+        }
+      ]
+    },
+    {
+      "Latitude": 46.12552898743684,
+      "Longitude": -89.0952795887445,
+      "OffTime": "Oct 16, 1:43 p.m.",
+      "ETR": "Oct 16, 4:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "phelps",
+          "CityCusts": 2054,
+          "County": "vilas",
+          "CountyCusts": 6275,
+          "Zip": "54554",
+          "ZipCusts": 2049,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
+        }
+      ]
+    },
+    {
+      "Latitude": 46.12211962691141,
+      "Longitude": -89.08768216393804,
+      "OffTime": "Oct 16, 1:46 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "phelps",
+          "CityCusts": 2054,
+          "County": "vilas",
+          "CountyCusts": 6275,
+          "Zip": "54554",
+          "ZipCusts": 2049,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
+        }
+      ]
+    },
+    {
+      "Latitude": 46.123216324005895,
+      "Longitude": -89.10343809159386,
+      "OffTime": "Oct 16, 1:44 p.m.",
+      "ETR": "Oct 16, 4:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "phelps",
+          "CityCusts": 2054,
+          "County": "vilas",
+          "CountyCusts": 6275,
+          "Zip": "54554",
+          "ZipCusts": 2049,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
+        }
+      ]
+    },
+    {
+      "Latitude": 46.121393313713256,
+      "Longitude": -89.11725314458337,
+      "OffTime": "Oct 16, 1:41 p.m.",
+      "ETR": "Oct 16, 4:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 4,
+          "City": "phelps",
+          "CityCusts": 2054,
+          "County": "vilas",
+          "CountyCusts": 6275,
+          "Zip": "54554",
+          "ZipCusts": 2049,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
+        }
+      ]
+    },
+    {
+      "Latitude": 46.12104470018013,
+      "Longitude": -89.12529102305902,
+      "OffTime": "Oct 16, 1:48 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "phelps",
+          "CityCusts": 2054,
+          "County": "vilas",
+          "CountyCusts": 6275,
+          "Zip": "54554",
+          "ZipCusts": 2049,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
+        }
+      ]
+    },
+    {
+      "Latitude": 42.66395550607665,
+      "Longitude": -88.01263855061285,
+      "OffTime": "Oct 16, 10:53 a.m.",
+      "ETR": "Oct 16, 3:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies overhead line problem",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 12,
+          "City": "kansasville",
+          "CityCusts": 1749,
+          "County": "kenosha",
+          "CountyCusts": 80362,
+          "Zip": "53139",
+          "ZipCusts": 1756,
+          "Region": "southeast wi",
+          "RegionCusts": 1075613
+        },
+        {
+          "AffectedCusts": 24,
+          "City": "union grove",
+          "CityCusts": 5255,
+          "County": "kenosha",
+          "CountyCusts": 80362,
+          "Zip": "53182",
+          "ZipCusts": 5255,
+          "Region": "southeast wi",
+          "RegionCusts": 1075613
+        }
+      ]
+    },
+    {
+      "Latitude": 43.06721526866238,
+      "Longitude": -87.92993063543994,
+      "OffTime": "Oct 16, 1:08 p.m.",
+      "ETR": "Oct 16, 4:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352388,
+          "County": "milwaukee",
+          "CountyCusts": 480263,
+          "Zip": "53206",
+          "ZipCusts": 10797,
+          "Region": "southeast wi",
+          "RegionCusts": 1075613
+        }
+      ]
+    },
+    {
+      "Latitude": 46.1210107376092,
+      "Longitude": -89.11445196012413,
+      "OffTime": "Oct 16, 1:44 p.m.",
+      "ETR": "Oct 16, 4:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "phelps",
+          "CityCusts": 2054,
+          "County": "vilas",
+          "CountyCusts": 6275,
+          "Zip": "54554",
+          "ZipCusts": 2049,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
+        }
+      ]
+    },
+    {
+      "Latitude": 46.12355843114867,
+      "Longitude": -89.08437725828249,
+      "OffTime": "Oct 16, 1:46 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "phelps",
+          "CityCusts": 2054,
+          "County": "vilas",
+          "CountyCusts": 6275,
+          "Zip": "54554",
+          "ZipCusts": 2049,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
+        }
+      ]
+    },
+    {
+      "Latitude": 43.280478237241326,
+      "Longitude": -88.04257409599153,
+      "OffTime": "Oct 16, 1:41 p.m.",
+      "ETR": "Oct 16, 4:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "cedarburg",
+          "CityCusts": 2883,
+          "County": "ozaukee",
+          "CountyCusts": 42789,
+          "Zip": "53012",
+          "ZipCusts": 2877,
+          "Region": "southeast wi",
+          "RegionCusts": 1075613
+        }
+      ]
+    },
+    {
+      "Latitude": 46.138847163252265,
+      "Longitude": -89.0764501695651,
+      "OffTime": "Oct 16, 1:43 p.m.",
+      "ETR": "Oct 16, 4:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 4,
+          "City": "watersmeet",
+          "CityCusts": 2018,
+          "County": "gogebic",
+          "CountyCusts": 2023,
+          "Zip": "49969",
+          "ZipCusts": 2014,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
+        }
+      ]
+    },
+    {
+      "Latitude": 46.12098382683864,
+      "Longitude": -89.12886937616189,
+      "OffTime": "Oct 16, 1:42 p.m.",
+      "ETR": "Oct 16, 4:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "phelps",
+          "CityCusts": 2054,
+          "County": "vilas",
+          "CountyCusts": 6275,
+          "Zip": "54554",
+          "ZipCusts": 2049,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
+        }
+      ]
+    },
+    {
+      "Latitude": 46.12175187376962,
+      "Longitude": -89.10883189144091,
+      "OffTime": "Oct 16, 1:44 p.m.",
+      "ETR": "Oct 16, 4:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "phelps",
+          "CityCusts": 2054,
+          "County": "vilas",
+          "CountyCusts": 6275,
+          "Zip": "54554",
+          "ZipCusts": 2049,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
+        }
+      ]
+    },
+    {
+      "Latitude": 46.12336358423081,
+      "Longitude": -89.08589615420927,
+      "OffTime": "Oct 16, 1:41 p.m.",
+      "ETR": "Oct 16, 4:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 6,
+          "City": "phelps",
+          "CityCusts": 2054,
+          "County": "vilas",
+          "CountyCusts": 6275,
+          "Zip": "54554",
+          "ZipCusts": 2049,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
+        }
+      ]
+    },
+    {
+      "Latitude": 46.14095551123543,
+      "Longitude": -89.07997288419169,
+      "OffTime": "Oct 16, 1:43 p.m.",
+      "ETR": "Oct 16, 4:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "watersmeet",
+          "CityCusts": 2018,
+          "County": "gogebic",
+          "CountyCusts": 2023,
+          "Zip": "49969",
+          "ZipCusts": 2014,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
+        }
+      ]
+    },
+    {
+      "Latitude": 46.12914296657791,
+      "Longitude": -89.08033140340179,
+      "OffTime": "Oct 16, 1:40 p.m.",
+      "ETR": "Oct 16, 4:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "phelps",
+          "CityCusts": 2054,
+          "County": "vilas",
+          "CountyCusts": 6275,
+          "Zip": "54554",
+          "ZipCusts": 2049,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
+        }
+      ]
+    },
+    {
+      "Latitude": 46.12090681877361,
+      "Longitude": -89.11092024535593,
+      "OffTime": "Oct 16, 1:44 p.m.",
+      "ETR": "Oct 16, 4:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "phelps",
+          "CityCusts": 2054,
+          "County": "vilas",
+          "CountyCusts": 6275,
+          "Zip": "54554",
+          "ZipCusts": 2049,
           "Region": "upper peninsula mi",
           "RegionCusts": 41458
         }
