@@ -1,83 +1,231 @@
 {
-  "captured_at": "2026-10-16T06:01:14+00:00",
+  "captured_at": "2026-10-16T11:16:54+00:00",
   "events": [
     {
-      "Latitude": 43.04457413575416,
-      "Longitude": -88.31554996325686,
-      "OffTime": "Oct 15, 11:56 p.m.",
-      "ETR": "Oct 16, 2:30 a.m.",
+      "Latitude": 46.109187908093794,
+      "Longitude": -88.22130741644838,
+      "OffTime": "Oct 16, 4:35 a.m.",
+      "ETR": "Oct 16, 7:30 a.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 16, 1:00 a.m.",
+      "LastUpdated": "Oct 16, 6:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 23,
-          "City": "waukesha",
-          "CityCusts": 48459,
-          "County": "waukesha",
-          "CountyCusts": 203717,
-          "Zip": "53188",
-          "ZipCusts": 17779,
-          "Region": "southeast wi",
-          "RegionCusts": 1075597
-        }
-      ]
-    },
-    {
-      "Latitude": 43.09748119334999,
-      "Longitude": -87.98877120130625,
-      "OffTime": "Oct 15, 11:10 p.m.",
-      "ETR": "Oct 16, 2:00 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Oct 16, 1:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 18,
-          "City": "milwaukee",
-          "CityCusts": 352381,
-          "County": "milwaukee",
-          "CountyCusts": 480250,
-          "Zip": "53218",
-          "ZipCusts": 17026,
-          "Region": "southeast wi",
-          "RegionCusts": 1075597
+          "AffectedCusts": 138,
+          "City": "crystal falls",
+          "CityCusts": 2032,
+          "County": "iron",
+          "CountyCusts": 4281,
+          "Zip": "49920",
+          "ZipCusts": 2035,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
         },
         {
-          "AffectedCusts": 10,
-          "City": "milwaukee",
-          "CityCusts": 352381,
-          "County": "milwaukee",
-          "CountyCusts": 480250,
-          "Zip": "53216",
-          "ZipCusts": 14829,
-          "Region": "southeast wi",
-          "RegionCusts": 1075597
+          "AffectedCusts": 2,
+          "City": "sagola",
+          "CityCusts": 411,
+          "County": "iron",
+          "CountyCusts": 4281,
+          "Zip": "49881",
+          "ZipCusts": 404,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "crystal falls",
+          "CityCusts": 2032,
+          "County": "dickinson",
+          "CountyCusts": 14098,
+          "Zip": "49920",
+          "ZipCusts": 2035,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "crystal",
+          "CityCusts": 1,
+          "County": "iron",
+          "CountyCusts": 4281,
+          "Zip": "49920",
+          "ZipCusts": 2035,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
         }
       ]
     },
     {
-      "Latitude": 42.69228222005085,
-      "Longitude": -87.81944387075937,
-      "OffTime": "Oct 16, 12:14 a.m.",
-      "ETR": "Oct 16, 3:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 16, 1:00 a.m.",
+      "Latitude": 43.80268532650064,
+      "Longitude": -88.01305215176968,
+      "OffTime": "Oct 16, 1:17 a.m.",
+      "ETR": "Oct 16, 7:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Tree contact with utility equipment",
+      "LastUpdated": "Oct 16, 6:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 59003,
-          "County": "racine",
-          "CountyCusts": 102748,
-          "Zip": "53405",
-          "ZipCusts": 11775,
+          "City": "elkhart lake",
+          "CityCusts": 2475,
+          "County": "sheboygan",
+          "CountyCusts": 14276,
+          "Zip": "53020",
+          "ZipCusts": 2481,
           "Region": "southeast wi",
-          "RegionCusts": 1075597
+          "RegionCusts": 1075613
+        },
+        {
+          "AffectedCusts": 122,
+          "City": "plymouth",
+          "CityCusts": 1493,
+          "County": "sheboygan",
+          "CountyCusts": 14276,
+          "Zip": "53073",
+          "ZipCusts": 1489,
+          "Region": "southeast wi",
+          "RegionCusts": 1075613
+        }
+      ]
+    },
+    {
+      "Latitude": 43.009739756160144,
+      "Longitude": -88.10734348536025,
+      "OffTime": "Oct 15, 9:16 p.m.",
+      "ETR": "Oct 16, 9:00 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Tree contact with utility equipment",
+      "LastUpdated": "Oct 16, 6:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 21,
+          "City": "new berlin",
+          "CityCusts": 20464,
+          "County": "waukesha",
+          "CountyCusts": 203711,
+          "Zip": "53151",
+          "ZipCusts": 16754,
+          "Region": "southeast wi",
+          "RegionCusts": 1075613
+        }
+      ]
+    },
+    {
+      "Latitude": 46.168969955657424,
+      "Longitude": -88.2120992114396,
+      "OffTime": "Oct 16, 4:37 a.m.",
+      "ETR": "Oct 16, 7:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 6:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 4,
+          "City": "crystal falls",
+          "CityCusts": 2032,
+          "County": "iron",
+          "CountyCusts": 4281,
+          "Zip": "49920",
+          "ZipCusts": 2035,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
+        }
+      ]
+    },
+    {
+      "Latitude": 43.01844304558648,
+      "Longitude": -88.47395138445998,
+      "OffTime": "Oct 16, 5:24 a.m.",
+      "ETR": "Oct 16, 8:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 6:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "dousman",
+          "CityCusts": 3901,
+          "County": "waukesha",
+          "CountyCusts": 203711,
+          "Zip": "53118",
+          "ZipCusts": 3890,
+          "Region": "southeast wi",
+          "RegionCusts": 1075613
+        }
+      ]
+    },
+    {
+      "Latitude": 42.98367830077667,
+      "Longitude": -87.98107516908306,
+      "OffTime": "Oct 16, 5:38 a.m.",
+      "ETR": "Oct 16, 8:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 6:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352388,
+          "County": "milwaukee",
+          "CountyCusts": 480263,
+          "Zip": "53219",
+          "ZipCusts": 17489,
+          "Region": "southeast wi",
+          "RegionCusts": 1075613
+        }
+      ]
+    },
+    {
+      "Latitude": 46.16804158743997,
+      "Longitude": -88.20862264544117,
+      "OffTime": "Oct 16, 4:36 a.m.",
+      "ETR": "Oct 16, 7:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 6:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "crystal falls",
+          "CityCusts": 2032,
+          "County": "iron",
+          "CountyCusts": 4281,
+          "Zip": "49920",
+          "ZipCusts": 2035,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
+        }
+      ]
+    },
+    {
+      "Latitude": 46.15384489875696,
+      "Longitude": -88.179710008001,
+      "OffTime": "Oct 16, 4:55 a.m.",
+      "ETR": "Oct 16, 7:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 16, 6:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "crystal falls",
+          "CityCusts": 2032,
+          "County": "dickinson",
+          "CountyCusts": 14098,
+          "Zip": "49920",
+          "ZipCusts": 2035,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
         }
       ]
     },
@@ -85,10 +233,10 @@
       "Latitude": 43.5708793744652,
       "Longitude": -87.82974916232425,
       "OffTime": "Oct 15, 11:59 p.m.",
-      "ETR": "Oct 16, 3:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 16, 1:00 a.m.",
+      "ETR": "Oct 16, 7:00 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "We Energies fuse problem",
+      "LastUpdated": "Oct 16, 6:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -96,34 +244,11 @@
           "City": "cedar grove",
           "CityCusts": 1796,
           "County": "sheboygan",
-          "CountyCusts": 14275,
+          "CountyCusts": 14276,
           "Zip": "53013",
           "ZipCusts": 1802,
           "Region": "southeast wi",
-          "RegionCusts": 1075597
-        }
-      ]
-    },
-    {
-      "Latitude": 43.009730120365155,
-      "Longitude": -88.10594498517867,
-      "OffTime": "Oct 15, 9:16 p.m.",
-      "ETR": "Oct 16, 8:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Tree contact with utility equipment",
-      "LastUpdated": "Oct 16, 1:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "new berlin",
-          "CityCusts": 20465,
-          "County": "waukesha",
-          "CountyCusts": 203717,
-          "Zip": "53151",
-          "ZipCusts": 16755,
-          "Region": "southeast wi",
-          "RegionCusts": 1075597
+          "RegionCusts": 1075613
         }
       ]
     }
