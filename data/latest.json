@@ -1,29 +1,6 @@
 {
-  "captured_at": "2026-10-17T04:19:41+00:00",
+  "captured_at": "2026-10-17T08:41:43+00:00",
   "events": [
-    {
-      "Latitude": 42.77293166294642,
-      "Longitude": -88.67834232245632,
-      "OffTime": "Oct 16, 8:01 p.m.",
-      "ETR": "Oct 17, 12:30 a.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 16, 11:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "whitewater",
-          "CityCusts": 9516,
-          "County": "walworth",
-          "CountyCusts": 24255,
-          "Zip": "53190",
-          "ZipCusts": 9519,
-          "Region": "southeast wi",
-          "RegionCusts": 1075614
-        }
-      ]
-    },
     {
       "Latitude": 43.061869450018875,
       "Longitude": -87.97598426422726,
@@ -31,7 +8,7 @@
       "ETR": "Not yet determined",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 16, 11:10 p.m.",
+      "LastUpdated": "Oct 17, 3:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,161 +25,23 @@
       ]
     },
     {
-      "Latitude": 46.018463259234174,
-      "Longitude": -88.34675758882094,
-      "OffTime": "Oct 16, 10:25 p.m.",
-      "ETR": "Oct 17, 3:00 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 16, 11:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 76,
-          "City": "crystal falls",
-          "CityCusts": 2032,
-          "County": "iron",
-          "CountyCusts": 4281,
-          "Zip": "49920",
-          "ZipCusts": 2035,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41458
-        }
-      ]
-    },
-    {
-      "Latitude": 42.992142524320705,
-      "Longitude": -88.23050627463796,
-      "OffTime": "Oct 16, 10:24 p.m.",
-      "ETR": "Oct 17, 3:00 a.m.",
+      "Latitude": 42.5549497812203,
+      "Longitude": -88.11088747062945,
+      "OffTime": "Oct 16, 11:30 p.m.",
+      "ETR": "Oct 17, 6:00 a.m.",
       "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 16, 11:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 8,
-          "City": "waukesha",
-          "CityCusts": 48458,
-          "County": "waukesha",
-          "CountyCusts": 203711,
-          "Zip": "53186",
-          "ZipCusts": 17765,
-          "Region": "southeast wi",
-          "RegionCusts": 1075614
-        }
-      ]
-    },
-    {
-      "Latitude": 42.78471705052476,
-      "Longitude": -88.3221828645337,
-      "OffTime": "Oct 16, 4:33 p.m.",
-      "ETR": "Oct 16, 11:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Oct 16, 11:10 p.m.",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Oct 17, 3:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "east troy",
-          "CityCusts": 6275,
-          "County": "walworth",
-          "CountyCusts": 24255,
-          "Zip": "53120",
-          "ZipCusts": 6267,
-          "Region": "southeast wi",
-          "RegionCusts": 1075614
-        }
-      ]
-    },
-    {
-      "Latitude": 43.03410383288182,
-      "Longitude": -87.94954635103663,
-      "OffTime": "Oct 16, 8:15 p.m.",
-      "ETR": "Oct 17, 2:00 a.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 16, 11:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352389,
-          "County": "milwaukee",
-          "CountyCusts": 480263,
-          "Zip": "53210",
-          "ZipCusts": 12261,
-          "Region": "southeast wi",
-          "RegionCusts": 1075614
-        }
-      ]
-    },
-    {
-      "Latitude": 43.405893593041874,
-      "Longitude": -87.86823225429495,
-      "OffTime": "Oct 16, 10:09 p.m.",
-      "ETR": "Oct 17, 2:30 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 16, 11:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "prt washingtn",
-          "CityCusts": 4255,
-          "County": "ozaukee",
-          "CountyCusts": 42789,
-          "Zip": "53074",
-          "ZipCusts": 7478,
-          "Region": "southeast wi",
-          "RegionCusts": 1075614
-        }
-      ]
-    },
-    {
-      "Latitude": 42.7639612491646,
-      "Longitude": -87.93807453110173,
-      "OffTime": "Oct 16, 7:05 p.m.",
-      "ETR": "Oct 16, 11:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 16, 11:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "franksville",
-          "CityCusts": 3945,
-          "County": "racine",
-          "CountyCusts": 102751,
-          "Zip": "53126",
-          "ZipCusts": 4022,
-          "Region": "southeast wi",
-          "RegionCusts": 1075614
-        }
-      ]
-    },
-    {
-      "Latitude": 42.69736175619348,
-      "Longitude": -88.11094068872849,
-      "OffTime": "Oct 16, 5:05 p.m.",
-      "ETR": "Oct 16, 11:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 16, 11:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "kansasville",
-          "CityCusts": 1749,
-          "County": "racine",
-          "CountyCusts": 102751,
-          "Zip": "53139",
-          "ZipCusts": 1756,
+          "City": "salem",
+          "CityCusts": 4977,
+          "County": "kenosha",
+          "CountyCusts": 80362,
+          "Zip": "53168",
+          "ZipCusts": 4988,
           "Region": "southeast wi",
           "RegionCusts": 1075614
         }
