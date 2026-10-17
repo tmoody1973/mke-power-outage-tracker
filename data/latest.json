@@ -1,43 +1,20 @@
 {
-  "captured_at": "2026-10-17T18:03:29+00:00",
+  "captured_at": "2026-10-17T20:32:13+00:00",
   "events": [
     {
-      "Latitude": 43.412851595741564,
-      "Longitude": -88.16590340545048,
-      "OffTime": "Oct 17, 12:01 p.m.",
-      "ETR": "Oct 17, 3:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 17, 1:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 166,
-          "City": "west bend",
-          "CityCusts": 26130,
-          "County": "washington",
-          "CountyCusts": 61725,
-          "Zip": "53095",
-          "ZipCusts": 15598,
-          "Region": "southeast wi",
-          "RegionCusts": 1075615
-        }
-      ]
-    },
-    {
-      "Latitude": 42.935990813458844,
-      "Longitude": -87.95007053712489,
-      "OffTime": "Oct 17, 12:57 p.m.",
-      "ETR": "Not yet determined",
+      "Latitude": 42.93646917690055,
+      "Longitude": -87.95733319662962,
+      "OffTime": "Oct 17, 3:08 p.m.",
+      "ETR": "Oct 17, 6:00 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 17, 1:00 p.m.",
+      "LastUpdated": "Oct 17, 3:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "greenfield",
-          "CityCusts": 12588,
+          "City": "milwaukee",
+          "CityCusts": 352390,
           "County": "milwaukee",
           "CountyCusts": 480263,
           "Zip": "53221",
@@ -48,59 +25,48 @@
       ]
     },
     {
-      "Latitude": 45.88383570309321,
-      "Longitude": -88.05098756352604,
-      "OffTime": "Oct 17, 12:21 p.m.",
-      "ETR": "Oct 17, 3:00 p.m.",
+      "Latitude": 43.083011334258984,
+      "Longitude": -87.9838370613405,
+      "OffTime": "Oct 17, 1:59 p.m.",
+      "ETR": "Oct 17, 5:00 p.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 17, 1:00 p.m.",
+      "LastUpdated": "Oct 17, 3:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 145,
-          "City": "iron mountain",
-          "CityCusts": 7103,
-          "County": "dickinson",
-          "CountyCusts": 14098,
-          "Zip": "49801",
-          "ZipCusts": 7106,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41458
-        },
-        {
           "AffectedCusts": 1,
-          "City": "iron mountain",
-          "CityCusts": 7103,
-          "County": "menominee",
-          "CountyCusts": 3008,
-          "Zip": "49801",
-          "ZipCusts": 7106,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41458
+          "City": "milwaukee",
+          "CityCusts": 352390,
+          "County": "milwaukee",
+          "CountyCusts": 480263,
+          "Zip": "53216",
+          "ZipCusts": 14830,
+          "Region": "southeast wi",
+          "RegionCusts": 1075615
         }
       ]
     },
     {
-      "Latitude": 43.41708767964391,
-      "Longitude": -88.1615634113047,
-      "OffTime": "Oct 17, 12:49 p.m.",
-      "ETR": "Oct 17, 3:30 p.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 45.87740179093161,
+      "Longitude": -88.56129510870824,
+      "OffTime": "Oct 17, 1:19 p.m.",
+      "ETR": "Oct 17, 5:00 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 17, 1:00 p.m.",
+      "LastUpdated": "Oct 17, 3:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "west bend",
-          "CityCusts": 26130,
-          "County": "washington",
-          "CountyCusts": 61725,
-          "Zip": "53095",
-          "ZipCusts": 15598,
-          "Region": "southeast wi",
-          "RegionCusts": 1075615
+          "City": "long lake",
+          "CityCusts": 489,
+          "County": "florence",
+          "CountyCusts": 3057,
+          "Zip": "54542",
+          "ZipCusts": 1179,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
         }
       ]
     },
@@ -108,10 +74,10 @@
       "Latitude": 43.09280204388377,
       "Longitude": -88.75836105339434,
       "OffTime": "Oct 17, 7:58 a.m.",
-      "ETR": "Oct 17, 3:00 p.m.",
-      "CrewStatus": "Assigned",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "On site",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 17, 1:00 p.m.",
+      "LastUpdated": "Oct 17, 3:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -128,25 +94,48 @@
       ]
     },
     {
-      "Latitude": 42.5549497812203,
-      "Longitude": -88.11088747062945,
-      "OffTime": "Oct 17, 11:40 a.m.",
-      "ETR": "Oct 17, 2:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 17, 1:00 p.m.",
+      "Latitude": 43.087238627965455,
+      "Longitude": -87.96151311875263,
+      "OffTime": "Oct 17, 2:18 p.m.",
+      "ETR": "Oct 17, 5:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Oct 17, 3:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "salem",
-          "CityCusts": 4977,
-          "County": "kenosha",
-          "CountyCusts": 80362,
-          "Zip": "53168",
-          "ZipCusts": 4988,
+          "City": "milwaukee",
+          "CityCusts": 352390,
+          "County": "milwaukee",
+          "CountyCusts": 480263,
+          "Zip": "53216",
+          "ZipCusts": 14830,
           "Region": "southeast wi",
           "RegionCusts": 1075615
+        }
+      ]
+    },
+    {
+      "Latitude": 44.22712272793157,
+      "Longitude": -88.39133489264137,
+      "OffTime": "Oct 17, 2:07 p.m.",
+      "ETR": "Oct 17, 7:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Power supply emergency",
+      "LastUpdated": "Oct 17, 3:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 4,
+          "City": "appleton",
+          "CityCusts": 63110,
+          "County": "calumet",
+          "CountyCusts": 14481,
+          "Zip": "54915",
+          "ZipCusts": 20166,
+          "Region": "fox valley wi",
+          "RegionCusts": 143667
         }
       ]
     },
@@ -154,10 +143,10 @@
       "Latitude": 43.06446914906966,
       "Longitude": -88.10863825739325,
       "OffTime": "Oct 17, 10:20 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies equipment problem",
-      "LastUpdated": "Oct 17, 1:00 p.m.",
+      "ETR": "Oct 17, 8:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Oct 17, 3:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -174,23 +163,23 @@
       ]
     },
     {
-      "Latitude": 42.65824268411516,
-      "Longitude": -88.05390634095589,
-      "OffTime": "Oct 17, 10:39 a.m.",
-      "ETR": "Oct 17, 1:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Oct 17, 1:00 p.m.",
+      "Latitude": 43.013758903834656,
+      "Longitude": -87.94053209097608,
+      "OffTime": "Oct 17, 2:26 p.m.",
+      "ETR": "Oct 17, 5:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 17, 3:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "union grove",
-          "CityCusts": 5255,
-          "County": "kenosha",
-          "CountyCusts": 80362,
-          "Zip": "53182",
-          "ZipCusts": 5255,
+          "AffectedCusts": 62,
+          "City": "milwaukee",
+          "CityCusts": 352390,
+          "County": "milwaukee",
+          "CountyCusts": 480263,
+          "Zip": "53204",
+          "ZipCusts": 17669,
           "Region": "southeast wi",
           "RegionCusts": 1075615
         }
