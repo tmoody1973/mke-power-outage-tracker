@@ -1,14 +1,60 @@
 {
-  "captured_at": "2026-10-17T20:32:13+00:00",
+  "captured_at": "2026-10-17T22:39:06+00:00",
   "events": [
     {
-      "Latitude": 42.93646917690055,
-      "Longitude": -87.95733319662962,
-      "OffTime": "Oct 17, 3:08 p.m.",
-      "ETR": "Oct 17, 6:00 p.m.",
+      "Latitude": 43.01198954460598,
+      "Longitude": -88.08179328019831,
+      "OffTime": "Oct 17, 4:25 p.m.",
+      "ETR": "Oct 17, 7:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 17, 5:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "new berlin",
+          "CityCusts": 20464,
+          "County": "waukesha",
+          "CountyCusts": 203711,
+          "Zip": "53151",
+          "ZipCusts": 16754,
+          "Region": "southeast wi",
+          "RegionCusts": 1075615
+        }
+      ]
+    },
+    {
+      "Latitude": 42.93050100865825,
+      "Longitude": -87.8743852213956,
+      "OffTime": "Oct 17, 5:10 p.m.",
+      "ETR": "Oct 17, 8:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 17, 5:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "cudahy",
+          "CityCusts": 9866,
+          "County": "milwaukee",
+          "CountyCusts": 480263,
+          "Zip": "53110",
+          "ZipCusts": 9865,
+          "Region": "southeast wi",
+          "RegionCusts": 1075615
+        }
+      ]
+    },
+    {
+      "Latitude": 43.06468293518654,
+      "Longitude": -87.94069299960506,
+      "OffTime": "Oct 17, 5:27 p.m.",
+      "ETR": "Not yet determined",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 17, 3:30 p.m.",
+      "LastUpdated": "Oct 17, 5:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -17,77 +63,8 @@
           "CityCusts": 352390,
           "County": "milwaukee",
           "CountyCusts": 480263,
-          "Zip": "53221",
-          "ZipCusts": 18464,
-          "Region": "southeast wi",
-          "RegionCusts": 1075615
-        }
-      ]
-    },
-    {
-      "Latitude": 43.083011334258984,
-      "Longitude": -87.9838370613405,
-      "OffTime": "Oct 17, 1:59 p.m.",
-      "ETR": "Oct 17, 5:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 17, 3:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352390,
-          "County": "milwaukee",
-          "CountyCusts": 480263,
-          "Zip": "53216",
-          "ZipCusts": 14830,
-          "Region": "southeast wi",
-          "RegionCusts": 1075615
-        }
-      ]
-    },
-    {
-      "Latitude": 45.87740179093161,
-      "Longitude": -88.56129510870824,
-      "OffTime": "Oct 17, 1:19 p.m.",
-      "ETR": "Oct 17, 5:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 17, 3:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "long lake",
-          "CityCusts": 489,
-          "County": "florence",
-          "CountyCusts": 3057,
-          "Zip": "54542",
-          "ZipCusts": 1179,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41458
-        }
-      ]
-    },
-    {
-      "Latitude": 43.09280204388377,
-      "Longitude": -88.75836105339434,
-      "OffTime": "Oct 17, 7:58 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 17, 3:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "johnson creek",
-          "CityCusts": 2584,
-          "County": "jefferson",
-          "CountyCusts": 35314,
-          "Zip": "53094",
-          "ZipCusts": 10274,
+          "Zip": "53206",
+          "ZipCusts": 10797,
           "Region": "southeast wi",
           "RegionCusts": 1075615
         }
@@ -97,10 +74,10 @@
       "Latitude": 43.087238627965455,
       "Longitude": -87.96151311875263,
       "OffTime": "Oct 17, 2:18 p.m.",
-      "ETR": "Oct 17, 5:00 p.m.",
-      "CrewStatus": "Assigned",
+      "ETR": "Oct 17, 7:00 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Tree contact with service wire",
-      "LastUpdated": "Oct 17, 3:30 p.m.",
+      "LastUpdated": "Oct 17, 5:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -113,29 +90,6 @@
           "ZipCusts": 14830,
           "Region": "southeast wi",
           "RegionCusts": 1075615
-        }
-      ]
-    },
-    {
-      "Latitude": 44.22712272793157,
-      "Longitude": -88.39133489264137,
-      "OffTime": "Oct 17, 2:07 p.m.",
-      "ETR": "Oct 17, 7:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Power supply emergency",
-      "LastUpdated": "Oct 17, 3:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 4,
-          "City": "appleton",
-          "CityCusts": 63110,
-          "County": "calumet",
-          "CountyCusts": 14481,
-          "Zip": "54915",
-          "ZipCusts": 20166,
-          "Region": "fox valley wi",
-          "RegionCusts": 143667
         }
       ]
     },
@@ -146,7 +100,7 @@
       "ETR": "Oct 17, 8:00 p.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 17, 3:30 p.m.",
+      "LastUpdated": "Oct 17, 5:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -163,25 +117,71 @@
       ]
     },
     {
-      "Latitude": 43.013758903834656,
-      "Longitude": -87.94053209097608,
-      "OffTime": "Oct 17, 2:26 p.m.",
-      "ETR": "Oct 17, 5:00 p.m.",
+      "Latitude": 42.97795729864179,
+      "Longitude": -87.95766820984917,
+      "OffTime": "Oct 17, 3:42 p.m.",
+      "ETR": "Oct 17, 6:30 p.m.",
       "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 17, 3:30 p.m.",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Oct 17, 5:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 62,
-          "City": "milwaukee",
-          "CityCusts": 352390,
+          "AffectedCusts": 1,
+          "City": "greenfield",
+          "CityCusts": 12588,
           "County": "milwaukee",
           "CountyCusts": 480263,
-          "Zip": "53204",
-          "ZipCusts": 17669,
+          "Zip": "53221",
+          "ZipCusts": 18464,
           "Region": "southeast wi",
           "RegionCusts": 1075615
+        }
+      ]
+    },
+    {
+      "Latitude": 43.09462610410051,
+      "Longitude": -88.11898721772795,
+      "OffTime": "Oct 17, 3:57 p.m.",
+      "ETR": "Oct 17, 6:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Oct 17, 5:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "brookfield",
+          "CityCusts": 23385,
+          "County": "waukesha",
+          "CountyCusts": 203711,
+          "Zip": "53005",
+          "ZipCusts": 11572,
+          "Region": "southeast wi",
+          "RegionCusts": 1075615
+        }
+      ]
+    },
+    {
+      "Latitude": 44.22712272793157,
+      "Longitude": -88.39133489264137,
+      "OffTime": "Oct 17, 2:07 p.m.",
+      "ETR": "Oct 17, 7:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Oct 17, 5:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 4,
+          "City": "appleton",
+          "CityCusts": 63110,
+          "County": "calumet",
+          "CountyCusts": 14481,
+          "Zip": "54915",
+          "ZipCusts": 20166,
+          "Region": "fox valley wi",
+          "RegionCusts": 143667
         }
       ]
     }
