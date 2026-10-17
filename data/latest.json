@@ -1,14 +1,94 @@
 {
-  "captured_at": "2026-10-17T08:41:43+00:00",
+  "captured_at": "2026-10-17T12:24:41+00:00",
   "events": [
+    {
+      "Latitude": 42.99442806969374,
+      "Longitude": -88.46325753865025,
+      "OffTime": "Oct 17, 5:28 a.m.",
+      "ETR": "Oct 17, 10:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 17, 7:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 16,
+          "City": "dousman",
+          "CityCusts": 3901,
+          "County": "waukesha",
+          "CountyCusts": 203711,
+          "Zip": "53118",
+          "ZipCusts": 3890,
+          "Region": "southeast wi",
+          "RegionCusts": 1075614
+        },
+        {
+          "AffectedCusts": 6,
+          "City": "oconomowoc",
+          "CityCusts": 8568,
+          "County": "waukesha",
+          "CountyCusts": 203711,
+          "Zip": "53066",
+          "ZipCusts": 8900,
+          "Region": "southeast wi",
+          "RegionCusts": 1075614
+        }
+      ]
+    },
+    {
+      "Latitude": 44.34137686518335,
+      "Longitude": -88.46459767735134,
+      "OffTime": "Oct 17, 7:15 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 17, 7:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 63110,
+          "County": "outagamie",
+          "CountyCusts": 80357,
+          "Zip": "54913",
+          "ZipCusts": 14035,
+          "Region": "fox valley wi",
+          "RegionCusts": 143667
+        }
+      ]
+    },
+    {
+      "Latitude": 43.610120675431006,
+      "Longitude": -88.34458522222192,
+      "OffTime": "Oct 17, 6:54 a.m.",
+      "ETR": "Oct 17, 9:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 17, 7:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "campbellsport",
+          "CityCusts": 3466,
+          "County": "fond du lac",
+          "CountyCusts": 6957,
+          "Zip": "53010",
+          "ZipCusts": 3464,
+          "Region": "southeast wi",
+          "RegionCusts": 1075614
+        }
+      ]
+    },
     {
       "Latitude": 43.061869450018875,
       "Longitude": -87.97598426422726,
       "OffTime": "Oct 16, 9:37 p.m.",
-      "ETR": "Not yet determined",
+      "ETR": "Oct 17, 8:30 a.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 17, 3:40 a.m.",
+      "LastUpdated": "Oct 17, 7:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -19,29 +99,6 @@
           "CountyCusts": 480263,
           "Zip": "53210",
           "ZipCusts": 12261,
-          "Region": "southeast wi",
-          "RegionCusts": 1075614
-        }
-      ]
-    },
-    {
-      "Latitude": 42.5549497812203,
-      "Longitude": -88.11088747062945,
-      "OffTime": "Oct 16, 11:30 p.m.",
-      "ETR": "Oct 17, 6:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Oct 17, 3:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "salem",
-          "CityCusts": 4977,
-          "County": "kenosha",
-          "CountyCusts": 80362,
-          "Zip": "53168",
-          "ZipCusts": 4988,
           "Region": "southeast wi",
           "RegionCusts": 1075614
         }
