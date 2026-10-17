@@ -1,104 +1,139 @@
 {
-  "captured_at": "2026-10-17T12:24:41+00:00",
+  "captured_at": "2026-10-17T15:46:27+00:00",
   "events": [
     {
-      "Latitude": 42.99442806969374,
-      "Longitude": -88.46325753865025,
-      "OffTime": "Oct 17, 5:28 a.m.",
-      "ETR": "Oct 17, 10:00 a.m.",
+      "Latitude": 43.132642860412695,
+      "Longitude": -88.19159053276009,
+      "OffTime": "Oct 17, 8:48 a.m.",
+      "ETR": "Oct 17, 11:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Oct 17, 10:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "lisbon",
+          "CityCusts": 174,
+          "County": "waukesha",
+          "CountyCusts": 203711,
+          "Zip": "53089",
+          "ZipCusts": 10063,
+          "Region": "southeast wi",
+          "RegionCusts": 1075614
+        }
+      ]
+    },
+    {
+      "Latitude": 43.20742009813883,
+      "Longitude": -88.31633946613549,
+      "OffTime": "Oct 17, 7:55 a.m.",
+      "ETR": "Oct 17, 12:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Tree contact with utility equipment",
+      "LastUpdated": "Oct 17, 10:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "colgate",
+          "CityCusts": 2592,
+          "County": "washington",
+          "CountyCusts": 61725,
+          "Zip": "53017",
+          "ZipCusts": 2603,
+          "Region": "southeast wi",
+          "RegionCusts": 1075614
+        }
+      ]
+    },
+    {
+      "Latitude": 43.06446914906966,
+      "Longitude": -88.10863825739325,
+      "OffTime": "Oct 17, 10:20 a.m.",
+      "ETR": "Oct 17, 1:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 17, 10:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "brookfield",
+          "CityCusts": 23385,
+          "County": "waukesha",
+          "CountyCusts": 203711,
+          "Zip": "53005",
+          "ZipCusts": 11572,
+          "Region": "southeast wi",
+          "RegionCusts": 1075614
+        }
+      ]
+    },
+    {
+      "Latitude": 43.65277708365099,
+      "Longitude": -88.39851289912701,
+      "OffTime": "Oct 17, 8:22 a.m.",
+      "ETR": "Oct 17, 11:00 a.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 17, 7:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 16,
-          "City": "dousman",
-          "CityCusts": 3901,
-          "County": "waukesha",
-          "CountyCusts": 203711,
-          "Zip": "53118",
-          "ZipCusts": 3890,
-          "Region": "southeast wi",
-          "RegionCusts": 1075614
-        },
-        {
-          "AffectedCusts": 6,
-          "City": "oconomowoc",
-          "CityCusts": 8568,
-          "County": "waukesha",
-          "CountyCusts": 203711,
-          "Zip": "53066",
-          "ZipCusts": 8900,
-          "Region": "southeast wi",
-          "RegionCusts": 1075614
-        }
-      ]
-    },
-    {
-      "Latitude": 44.34137686518335,
-      "Longitude": -88.46459767735134,
-      "OffTime": "Oct 17, 7:15 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 17, 7:20 a.m.",
+      "LastUpdated": "Oct 17, 10:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 63110,
-          "County": "outagamie",
-          "CountyCusts": 80357,
-          "Zip": "54913",
-          "ZipCusts": 14035,
-          "Region": "fox valley wi",
-          "RegionCusts": 143667
-        }
-      ]
-    },
-    {
-      "Latitude": 43.610120675431006,
-      "Longitude": -88.34458522222192,
-      "OffTime": "Oct 17, 6:54 a.m.",
-      "ETR": "Oct 17, 9:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 17, 7:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "campbellsport",
-          "CityCusts": 3466,
+          "City": "fond du lac",
+          "CityCusts": 561,
           "County": "fond du lac",
           "CountyCusts": 6957,
-          "Zip": "53010",
-          "ZipCusts": 3464,
+          "Zip": "54935",
+          "ZipCusts": 264,
           "Region": "southeast wi",
           "RegionCusts": 1075614
         }
       ]
     },
     {
-      "Latitude": 43.061869450018875,
-      "Longitude": -87.97598426422726,
-      "OffTime": "Oct 16, 9:37 p.m.",
-      "ETR": "Oct 17, 8:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 17, 7:20 a.m.",
+      "Latitude": 42.992142524320705,
+      "Longitude": -88.23050627463796,
+      "OffTime": "Oct 17, 7:41 a.m.",
+      "ETR": "Oct 17, 1:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "We Energies overhead line problem",
+      "LastUpdated": "Oct 17, 10:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 8,
+          "City": "waukesha",
+          "CityCusts": 48458,
+          "County": "waukesha",
+          "CountyCusts": 203711,
+          "Zip": "53186",
+          "ZipCusts": 17765,
+          "Region": "southeast wi",
+          "RegionCusts": 1075614
+        }
+      ]
+    },
+    {
+      "Latitude": 43.09280204388377,
+      "Longitude": -88.75836105339434,
+      "OffTime": "Oct 17, 7:58 a.m.",
+      "ETR": "Oct 17, 3:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Oct 17, 10:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352389,
-          "County": "milwaukee",
-          "CountyCusts": 480263,
-          "Zip": "53210",
-          "ZipCusts": 12261,
+          "City": "johnson creek",
+          "CityCusts": 2584,
+          "County": "jefferson",
+          "CountyCusts": 35314,
+          "Zip": "53094",
+          "ZipCusts": 10274,
           "Region": "southeast wi",
           "RegionCusts": 1075614
         }
