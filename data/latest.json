@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-10-18T09:14:45+00:00",
+  "captured_at": "2026-10-18T13:19:20+00:00",
   "events": [
     {
-      "Latitude": 42.744319347873315,
-      "Longitude": -87.8502908482758,
-      "OffTime": "Oct 18, 3:21 a.m.",
-      "ETR": "Oct 18, 6:00 a.m.",
+      "Latitude": 42.73475787521846,
+      "Longitude": -87.78953007331701,
+      "OffTime": "Oct 18, 8:03 a.m.",
+      "ETR": "Oct 18, 11:00 a.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 18, 4:10 a.m.",
+      "LastUpdated": "Oct 18, 8:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -17,54 +17,123 @@
           "CityCusts": 59005,
           "County": "racine",
           "CountyCusts": 102751,
-          "Zip": "53406",
-          "ZipCusts": 14568,
+          "Zip": "53402",
+          "ZipCusts": 15999,
           "Region": "southeast wi",
           "RegionCusts": 1075615
         }
       ]
     },
     {
-      "Latitude": 44.32303634626071,
-      "Longitude": -88.34592316542987,
-      "OffTime": "Oct 18, 1:53 a.m.",
-      "ETR": "Oct 18, 4:30 a.m.",
-      "CrewStatus": "On site",
+      "Latitude": 42.951757813297256,
+      "Longitude": -87.84943691076936,
+      "OffTime": "Oct 18, 8:01 a.m.",
+      "ETR": "Oct 18, 11:00 a.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 18, 4:10 a.m.",
+      "LastUpdated": "Oct 18, 8:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 4,
-          "City": "appleton",
-          "CityCusts": 63110,
-          "County": "outagamie",
-          "CountyCusts": 80357,
-          "Zip": "54913",
-          "ZipCusts": 14035,
+          "AffectedCusts": 1,
+          "City": "cudahy",
+          "CityCusts": 9866,
+          "County": "milwaukee",
+          "CountyCusts": 480263,
+          "Zip": "53110",
+          "ZipCusts": 9865,
+          "Region": "southeast wi",
+          "RegionCusts": 1075615
+        }
+      ]
+    },
+    {
+      "Latitude": 43.08521660759148,
+      "Longitude": -87.96264777225005,
+      "OffTime": "Oct 18, 7:07 a.m.",
+      "ETR": "Oct 18, 10:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 18, 8:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352390,
+          "County": "milwaukee",
+          "CountyCusts": 480263,
+          "Zip": "53216",
+          "ZipCusts": 14830,
+          "Region": "southeast wi",
+          "RegionCusts": 1075615
+        }
+      ]
+    },
+    {
+      "Latitude": 44.20249455844236,
+      "Longitude": -88.50226949823781,
+      "OffTime": "Oct 18, 7:45 a.m.",
+      "ETR": "Oct 18, 10:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 18, 8:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 6,
+          "City": "neenah",
+          "CityCusts": 21419,
+          "County": "winnebago",
+          "CountyCusts": 27782,
+          "Zip": "54956",
+          "ZipCusts": 21413,
           "Region": "fox valley wi",
           "RegionCusts": 143667
         }
       ]
     },
     {
-      "Latitude": 42.976765023970934,
-      "Longitude": -88.27891911459325,
-      "OffTime": "Oct 18, 1:51 a.m.",
-      "ETR": "Oct 18, 4:30 a.m.",
-      "CrewStatus": "On site",
+      "Latitude": 42.74786461222697,
+      "Longitude": -88.32041847198256,
+      "OffTime": "Oct 18, 7:51 a.m.",
+      "ETR": "Oct 18, 10:30 a.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 18, 4:10 a.m.",
+      "LastUpdated": "Oct 18, 8:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 18,
-          "City": "waukesha",
-          "CityCusts": 48458,
-          "County": "waukesha",
-          "CountyCusts": 203711,
-          "Zip": "53189",
-          "ZipCusts": 12985,
+          "AffectedCusts": 3,
+          "City": "burlington",
+          "CityCusts": 15575,
+          "County": "walworth",
+          "CountyCusts": 24255,
+          "Zip": "53105",
+          "ZipCusts": 15617,
+          "Region": "southeast wi",
+          "RegionCusts": 1075615
+        }
+      ]
+    },
+    {
+      "Latitude": 43.623206488010695,
+      "Longitude": -87.87219235478082,
+      "OffTime": "Oct 18, 8:00 a.m.",
+      "ETR": "Oct 18, 11:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 18, 8:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "oostburg",
+          "CityCusts": 2572,
+          "County": "sheboygan",
+          "CountyCusts": 14276,
+          "Zip": "53070",
+          "ZipCusts": 2570,
           "Region": "southeast wi",
           "RegionCusts": 1075615
         }
