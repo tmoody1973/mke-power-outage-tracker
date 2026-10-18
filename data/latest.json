@@ -1,26 +1,49 @@
 {
-  "captured_at": "2026-10-17T22:39:06+00:00",
+  "captured_at": "2026-10-18T00:17:53+00:00",
   "events": [
     {
-      "Latitude": 43.01198954460598,
-      "Longitude": -88.08179328019831,
-      "OffTime": "Oct 17, 4:25 p.m.",
-      "ETR": "Oct 17, 7:00 p.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 43.185801214086325,
+      "Longitude": -87.97801346988456,
+      "OffTime": "Oct 17, 7:08 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 17, 5:30 p.m.",
+      "LastUpdated": "Oct 17, 7:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "new berlin",
-          "CityCusts": 20464,
-          "County": "waukesha",
-          "CountyCusts": 203711,
-          "Zip": "53151",
-          "ZipCusts": 16754,
+          "City": "milwaukee",
+          "CityCusts": 352390,
+          "County": "milwaukee",
+          "CountyCusts": 480263,
+          "Zip": "53223",
+          "ZipCusts": 14131,
           "Region": "southeast wi",
           "RegionCusts": 1075615
+        }
+      ]
+    },
+    {
+      "Latitude": 44.889406979964505,
+      "Longitude": -88.31455721359707,
+      "OffTime": "Oct 17, 6:15 p.m.",
+      "ETR": "Oct 17, 9:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 17, 7:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "gillett",
+          "CityCusts": 1131,
+          "County": "oconto",
+          "CountyCusts": 1187,
+          "Zip": "54124",
+          "ZipCusts": 1135,
+          "Region": "fox valley wi",
+          "RegionCusts": 143667
         }
       ]
     },
@@ -31,7 +54,7 @@
       "ETR": "Oct 17, 8:00 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 17, 5:30 p.m.",
+      "LastUpdated": "Oct 17, 7:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,13 +71,13 @@
       ]
     },
     {
-      "Latitude": 43.06468293518654,
-      "Longitude": -87.94069299960506,
-      "OffTime": "Oct 17, 5:27 p.m.",
-      "ETR": "Not yet determined",
+      "Latitude": 43.05749303982268,
+      "Longitude": -87.88835258697073,
+      "OffTime": "Oct 17, 6:45 p.m.",
+      "ETR": "Oct 17, 9:30 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 17, 5:30 p.m.",
+      "LastUpdated": "Oct 17, 7:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -63,54 +86,8 @@
           "CityCusts": 352390,
           "County": "milwaukee",
           "CountyCusts": 480263,
-          "Zip": "53206",
-          "ZipCusts": 10797,
-          "Region": "southeast wi",
-          "RegionCusts": 1075615
-        }
-      ]
-    },
-    {
-      "Latitude": 43.087238627965455,
-      "Longitude": -87.96151311875263,
-      "OffTime": "Oct 17, 2:18 p.m.",
-      "ETR": "Oct 17, 7:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Oct 17, 5:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352390,
-          "County": "milwaukee",
-          "CountyCusts": 480263,
-          "Zip": "53216",
-          "ZipCusts": 14830,
-          "Region": "southeast wi",
-          "RegionCusts": 1075615
-        }
-      ]
-    },
-    {
-      "Latitude": 43.06446914906966,
-      "Longitude": -88.10863825739325,
-      "OffTime": "Oct 17, 10:20 a.m.",
-      "ETR": "Oct 17, 8:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 17, 5:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "brookfield",
-          "CityCusts": 23385,
-          "County": "waukesha",
-          "CountyCusts": 203711,
-          "Zip": "53005",
-          "ZipCusts": 11572,
+          "Zip": "53202",
+          "ZipCusts": 22390,
           "Region": "southeast wi",
           "RegionCusts": 1075615
         }
@@ -120,10 +97,10 @@
       "Latitude": 42.97795729864179,
       "Longitude": -87.95766820984917,
       "OffTime": "Oct 17, 3:42 p.m.",
-      "ETR": "Oct 17, 6:30 p.m.",
-      "CrewStatus": "On site",
+      "ETR": "Oct 17, 8:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 17, 5:30 p.m.",
+      "LastUpdated": "Oct 17, 7:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -140,36 +117,13 @@
       ]
     },
     {
-      "Latitude": 43.09462610410051,
-      "Longitude": -88.11898721772795,
-      "OffTime": "Oct 17, 3:57 p.m.",
-      "ETR": "Oct 17, 6:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Oct 17, 5:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "brookfield",
-          "CityCusts": 23385,
-          "County": "waukesha",
-          "CountyCusts": 203711,
-          "Zip": "53005",
-          "ZipCusts": 11572,
-          "Region": "southeast wi",
-          "RegionCusts": 1075615
-        }
-      ]
-    },
-    {
       "Latitude": 44.22712272793157,
       "Longitude": -88.39133489264137,
       "OffTime": "Oct 17, 2:07 p.m.",
-      "ETR": "Oct 17, 7:00 p.m.",
-      "CrewStatus": "On the way",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "On site",
       "Cause": "Third-party damage",
-      "LastUpdated": "Oct 17, 5:30 p.m.",
+      "LastUpdated": "Oct 17, 7:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
