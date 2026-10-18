@@ -1,47 +1,70 @@
 {
-  "captured_at": "2026-10-18T04:51:07+00:00",
+  "captured_at": "2026-10-18T09:14:45+00:00",
   "events": [
     {
-      "Latitude": 44.253536418604426,
-      "Longitude": -88.38831251784516,
-      "OffTime": "Oct 17, 11:44 p.m.",
-      "ETR": "Oct 18, 2:30 a.m.",
+      "Latitude": 42.744319347873315,
+      "Longitude": -87.8502908482758,
+      "OffTime": "Oct 18, 3:21 a.m.",
+      "ETR": "Oct 18, 6:00 a.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 17, 11:50 p.m.",
+      "LastUpdated": "Oct 18, 4:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 59005,
+          "County": "racine",
+          "CountyCusts": 102751,
+          "Zip": "53406",
+          "ZipCusts": 14568,
+          "Region": "southeast wi",
+          "RegionCusts": 1075615
+        }
+      ]
+    },
+    {
+      "Latitude": 44.32303634626071,
+      "Longitude": -88.34592316542987,
+      "OffTime": "Oct 18, 1:53 a.m.",
+      "ETR": "Oct 18, 4:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 18, 4:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 4,
           "City": "appleton",
           "CityCusts": 63110,
           "County": "outagamie",
           "CountyCusts": 80357,
-          "Zip": "54915",
-          "ZipCusts": 20166,
+          "Zip": "54913",
+          "ZipCusts": 14035,
           "Region": "fox valley wi",
           "RegionCusts": 143667
         }
       ]
     },
     {
-      "Latitude": 42.93050100865825,
-      "Longitude": -87.8743852213956,
-      "OffTime": "Oct 17, 5:10 p.m.",
-      "ETR": "Oct 18, 2:00 a.m.",
+      "Latitude": 42.976765023970934,
+      "Longitude": -88.27891911459325,
+      "OffTime": "Oct 18, 1:51 a.m.",
+      "ETR": "Oct 18, 4:30 a.m.",
       "CrewStatus": "On site",
-      "Cause": "We Energies equipment problem",
-      "LastUpdated": "Oct 17, 11:50 p.m.",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 18, 4:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "cudahy",
-          "CityCusts": 9866,
-          "County": "milwaukee",
-          "CountyCusts": 480263,
-          "Zip": "53110",
-          "ZipCusts": 9865,
+          "AffectedCusts": 18,
+          "City": "waukesha",
+          "CityCusts": 48458,
+          "County": "waukesha",
+          "CountyCusts": 203711,
+          "Zip": "53189",
+          "ZipCusts": 12985,
           "Region": "southeast wi",
           "RegionCusts": 1075615
         }
