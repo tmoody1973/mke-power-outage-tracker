@@ -1,47 +1,24 @@
 {
-  "captured_at": "2026-10-18T00:17:53+00:00",
+  "captured_at": "2026-10-18T04:51:07+00:00",
   "events": [
     {
-      "Latitude": 43.185801214086325,
-      "Longitude": -87.97801346988456,
-      "OffTime": "Oct 17, 7:08 p.m.",
-      "ETR": "Not yet determined",
+      "Latitude": 44.253536418604426,
+      "Longitude": -88.38831251784516,
+      "OffTime": "Oct 17, 11:44 p.m.",
+      "ETR": "Oct 18, 2:30 a.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 17, 7:10 p.m.",
+      "LastUpdated": "Oct 17, 11:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352390,
-          "County": "milwaukee",
-          "CountyCusts": 480263,
-          "Zip": "53223",
-          "ZipCusts": 14131,
-          "Region": "southeast wi",
-          "RegionCusts": 1075615
-        }
-      ]
-    },
-    {
-      "Latitude": 44.889406979964505,
-      "Longitude": -88.31455721359707,
-      "OffTime": "Oct 17, 6:15 p.m.",
-      "ETR": "Oct 17, 9:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 17, 7:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "gillett",
-          "CityCusts": 1131,
-          "County": "oconto",
-          "CountyCusts": 1187,
-          "Zip": "54124",
-          "ZipCusts": 1135,
+          "City": "appleton",
+          "CityCusts": 63110,
+          "County": "outagamie",
+          "CountyCusts": 80357,
+          "Zip": "54915",
+          "ZipCusts": 20166,
           "Region": "fox valley wi",
           "RegionCusts": 143667
         }
@@ -51,10 +28,10 @@
       "Latitude": 42.93050100865825,
       "Longitude": -87.8743852213956,
       "OffTime": "Oct 17, 5:10 p.m.",
-      "ETR": "Oct 17, 8:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 17, 7:10 p.m.",
+      "ETR": "Oct 18, 2:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Oct 17, 11:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -67,75 +44,6 @@
           "ZipCusts": 9865,
           "Region": "southeast wi",
           "RegionCusts": 1075615
-        }
-      ]
-    },
-    {
-      "Latitude": 43.05749303982268,
-      "Longitude": -87.88835258697073,
-      "OffTime": "Oct 17, 6:45 p.m.",
-      "ETR": "Oct 17, 9:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 17, 7:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352390,
-          "County": "milwaukee",
-          "CountyCusts": 480263,
-          "Zip": "53202",
-          "ZipCusts": 22390,
-          "Region": "southeast wi",
-          "RegionCusts": 1075615
-        }
-      ]
-    },
-    {
-      "Latitude": 42.97795729864179,
-      "Longitude": -87.95766820984917,
-      "OffTime": "Oct 17, 3:42 p.m.",
-      "ETR": "Oct 17, 8:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 17, 7:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "greenfield",
-          "CityCusts": 12588,
-          "County": "milwaukee",
-          "CountyCusts": 480263,
-          "Zip": "53221",
-          "ZipCusts": 18464,
-          "Region": "southeast wi",
-          "RegionCusts": 1075615
-        }
-      ]
-    },
-    {
-      "Latitude": 44.22712272793157,
-      "Longitude": -88.39133489264137,
-      "OffTime": "Oct 17, 2:07 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Oct 17, 7:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 4,
-          "City": "appleton",
-          "CityCusts": 63110,
-          "County": "calumet",
-          "CountyCusts": 14481,
-          "Zip": "54915",
-          "ZipCusts": 20166,
-          "Region": "fox valley wi",
-          "RegionCusts": 143667
         }
       ]
     }
