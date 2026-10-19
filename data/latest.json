@@ -1,72 +1,26 @@
 {
-  "captured_at": "2026-10-19T01:12:09+00:00",
+  "captured_at": "2026-10-19T06:11:35+00:00",
   "events": [
     {
-      "Latitude": 43.07030175479985,
-      "Longitude": -87.9767703425424,
-      "OffTime": "Oct 18, 5:27 p.m.",
-      "ETR": "Oct 18, 8:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Damage from third-party tree trimmer",
-      "LastUpdated": "Oct 18, 8:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 27,
-          "City": "milwaukee",
-          "CityCusts": 352390,
-          "County": "milwaukee",
-          "CountyCusts": 480263,
-          "Zip": "53210",
-          "ZipCusts": 12261,
-          "Region": "southeast wi",
-          "RegionCusts": 1075615
-        }
-      ]
-    },
-    {
-      "Latitude": 43.02524364866579,
-      "Longitude": -87.93116165441813,
-      "OffTime": "Oct 18, 6:38 p.m.",
-      "ETR": "Oct 18, 9:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 18, 8:10 p.m.",
+      "Latitude": 43.48720081699484,
+      "Longitude": -88.06282334060235,
+      "OffTime": "Oct 18, 9:24 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Tree contact with We Energies equipment",
+      "LastUpdated": "Oct 19, 1:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352390,
-          "County": "milwaukee",
-          "CountyCusts": 480263,
-          "Zip": "53204",
-          "ZipCusts": 17669,
+          "City": "fredonia",
+          "CityCusts": 2472,
+          "County": "washington",
+          "CountyCusts": 61725,
+          "Zip": "53021",
+          "ZipCusts": 2532,
           "Region": "southeast wi",
           "RegionCusts": 1075615
-        }
-      ]
-    },
-    {
-      "Latitude": 44.67161790371864,
-      "Longitude": -88.39729075354288,
-      "OffTime": "Oct 18, 3:20 p.m.",
-      "ETR": "Oct 18, 10:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 18, 8:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "bonduel",
-          "CityCusts": 2056,
-          "County": "shawano",
-          "CountyCusts": 8372,
-          "Zip": "54107",
-          "ZipCusts": 2060,
-          "Region": "fox valley wi",
-          "RegionCusts": 143667
         }
       ]
     }
