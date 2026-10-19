@@ -1,26 +1,60 @@
 {
-  "captured_at": "2026-10-19T06:11:35+00:00",
+  "captured_at": "2026-10-19T13:09:20+00:00",
   "events": [
     {
-      "Latitude": 43.48720081699484,
-      "Longitude": -88.06282334060235,
-      "OffTime": "Oct 18, 9:24 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "Latitude": 44.23706324330789,
+      "Longitude": -88.46019553373627,
+      "OffTime": "Oct 19, 6:35 a.m.",
+      "ETR": "Oct 19, 9:30 a.m.",
       "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact with We Energies equipment",
-      "LastUpdated": "Oct 19, 1:10 a.m.",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 19, 8:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "fredonia",
-          "CityCusts": 2472,
-          "County": "washington",
-          "CountyCusts": 61725,
-          "Zip": "53021",
-          "ZipCusts": 2532,
-          "Region": "southeast wi",
-          "RegionCusts": 1075615
+          "City": "neenah",
+          "CityCusts": 21422,
+          "County": "winnebago",
+          "CountyCusts": 27782,
+          "Zip": "54956",
+          "ZipCusts": 21416,
+          "Region": "fox valley wi",
+          "RegionCusts": 143665
+        },
+        {
+          "AffectedCusts": 152,
+          "City": "appleton",
+          "CityCusts": 63108,
+          "County": "winnebago",
+          "CountyCusts": 27782,
+          "Zip": "54914",
+          "ZipCusts": 16350,
+          "Region": "fox valley wi",
+          "RegionCusts": 143665
+        }
+      ]
+    },
+    {
+      "Latitude": 45.809286642641204,
+      "Longitude": -88.05095957318208,
+      "OffTime": "Oct 19, 7:50 a.m.",
+      "ETR": "Oct 19, 10:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 19, 8:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "iron mountain",
+          "CityCusts": 7103,
+          "County": "dickinson",
+          "CountyCusts": 14098,
+          "Zip": "49801",
+          "ZipCusts": 7106,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41457
         }
       ]
     }
