@@ -1,60 +1,210 @@
 {
-  "captured_at": "2026-10-19T13:09:20+00:00",
+  "captured_at": "2026-10-19T19:18:06+00:00",
   "events": [
     {
-      "Latitude": 44.23706324330789,
-      "Longitude": -88.46019553373627,
-      "OffTime": "Oct 19, 6:35 a.m.",
-      "ETR": "Oct 19, 9:30 a.m.",
-      "CrewStatus": "Specialized crew needed",
+      "Latitude": 46.068871037476136,
+      "Longitude": -88.07766710990212,
+      "OffTime": "Oct 19, 12:32 p.m.",
+      "ETR": "Oct 19, 3:30 p.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 19, 8:00 a.m.",
+      "LastUpdated": "Oct 19, 2:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "neenah",
-          "CityCusts": 21422,
-          "County": "winnebago",
-          "CountyCusts": 27782,
-          "Zip": "54956",
-          "ZipCusts": 21416,
-          "Region": "fox valley wi",
-          "RegionCusts": 143665
-        },
-        {
-          "AffectedCusts": 152,
-          "City": "appleton",
-          "CityCusts": 63108,
-          "County": "winnebago",
-          "CountyCusts": 27782,
-          "Zip": "54914",
-          "ZipCusts": 16350,
-          "Region": "fox valley wi",
-          "RegionCusts": 143665
+          "AffectedCusts": 47,
+          "City": "sagola",
+          "CityCusts": 411,
+          "County": "dickinson",
+          "CountyCusts": 14098,
+          "Zip": "49881",
+          "ZipCusts": 404,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41457
         }
       ]
     },
     {
-      "Latitude": 45.809286642641204,
-      "Longitude": -88.05095957318208,
-      "OffTime": "Oct 19, 7:50 a.m.",
-      "ETR": "Oct 19, 10:30 a.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 43.04746448938197,
+      "Longitude": -88.01284652592773,
+      "OffTime": "Oct 19, 1:48 p.m.",
+      "ETR": "Oct 19, 4:30 p.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 19, 8:00 a.m.",
+      "LastUpdated": "Oct 19, 2:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "iron mountain",
-          "CityCusts": 7103,
-          "County": "dickinson",
-          "CountyCusts": 14098,
-          "Zip": "49801",
-          "ZipCusts": 7106,
+          "City": "wauwatosa",
+          "CityCusts": 10635,
+          "County": "milwaukee",
+          "CountyCusts": 480266,
+          "Zip": "53213",
+          "ZipCusts": 13857,
+          "Region": "southeast wi",
+          "RegionCusts": 1075641
+        }
+      ]
+    },
+    {
+      "Latitude": 43.016244498225916,
+      "Longitude": -87.96126244635226,
+      "OffTime": "Oct 19, 10:40 a.m.",
+      "ETR": "Oct 19, 3:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Oct 19, 2:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352390,
+          "County": "milwaukee",
+          "CountyCusts": 480266,
+          "Zip": "53215",
+          "ZipCusts": 22372,
+          "Region": "southeast wi",
+          "RegionCusts": 1075641
+        }
+      ]
+    },
+    {
+      "Latitude": 42.74928206509416,
+      "Longitude": -87.79757033666344,
+      "OffTime": "Oct 19, 10:14 a.m.",
+      "ETR": "Oct 19, 4:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Oct 19, 2:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 59012,
+          "County": "racine",
+          "CountyCusts": 102758,
+          "Zip": "53402",
+          "ZipCusts": 16001,
+          "Region": "southeast wi",
+          "RegionCusts": 1075641
+        }
+      ]
+    },
+    {
+      "Latitude": 43.915982449087345,
+      "Longitude": -87.72787742825959,
+      "OffTime": "Oct 19, 1:40 p.m.",
+      "ETR": "Oct 19, 4:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 19, 2:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "cleveland",
+          "CityCusts": 1054,
+          "County": "manitowic",
+          "CountyCusts": 1417,
+          "Zip": "53015",
+          "ZipCusts": 1054,
+          "Region": "southeast wi",
+          "RegionCusts": 1075641
+        }
+      ]
+    },
+    {
+      "Latitude": 46.089539557441135,
+      "Longitude": -88.95020208060554,
+      "OffTime": "Oct 19, 1:15 p.m.",
+      "ETR": "Oct 19, 3:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Tree contact with utility equipment",
+      "LastUpdated": "Oct 19, 2:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "phelps",
+          "CityCusts": 2054,
+          "County": "vilas",
+          "CountyCusts": 6275,
+          "Zip": "54554",
+          "ZipCusts": 2049,
           "Region": "upper peninsula mi",
           "RegionCusts": 41457
+        }
+      ]
+    },
+    {
+      "Latitude": 42.659356944995594,
+      "Longitude": -87.89567522943688,
+      "OffTime": "Oct 19, 1:12 p.m.",
+      "ETR": "Oct 19, 4:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 19, 2:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54342,
+          "County": "kenosha",
+          "CountyCusts": 80362,
+          "Zip": "53144",
+          "ZipCusts": 14062,
+          "Region": "southeast wi",
+          "RegionCusts": 1075641
+        }
+      ]
+    },
+    {
+      "Latitude": 42.5803314696452,
+      "Longitude": -87.85732476882501,
+      "OffTime": "Oct 19, 1:29 p.m.",
+      "ETR": "Oct 19, 4:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 19, 2:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 18,
+          "City": "kenosha",
+          "CityCusts": 54342,
+          "County": "kenosha",
+          "CountyCusts": 80362,
+          "Zip": "53142",
+          "ZipCusts": 15171,
+          "Region": "southeast wi",
+          "RegionCusts": 1075641
+        }
+      ]
+    },
+    {
+      "Latitude": 42.69187592948378,
+      "Longitude": -87.7973253516135,
+      "OffTime": "Oct 19, 1:30 p.m.",
+      "ETR": "Oct 19, 4:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 19, 2:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 59012,
+          "County": "racine",
+          "CountyCusts": 102758,
+          "Zip": "53403",
+          "ZipCusts": 14410,
+          "Region": "southeast wi",
+          "RegionCusts": 1075641
         }
       ]
     }
