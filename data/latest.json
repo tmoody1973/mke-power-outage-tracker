@@ -1,49 +1,95 @@
 {
-  "captured_at": "2026-10-20T12:10:30+00:00",
+  "captured_at": "2026-10-20T16:58:43+00:00",
   "events": [
     {
-      "Latitude": 43.37959144317471,
-      "Longitude": -87.88265675970638,
-      "OffTime": "Oct 20, 6:29 a.m.",
-      "ETR": "Oct 20, 9:30 a.m.",
-      "CrewStatus": "On site",
+      "Latitude": 43.0286935688817,
+      "Longitude": -87.9249603792804,
+      "OffTime": "Oct 20, 11:47 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 20, 7:10 a.m.",
+      "LastUpdated": "Oct 20, 11:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "port washington",
-          "CityCusts": 3231,
-          "County": "ozaukee",
-          "CountyCusts": 42791,
-          "Zip": "53074",
-          "ZipCusts": 7478,
+          "City": "milwaukee",
+          "CityCusts": 352399,
+          "County": "milwaukee",
+          "CountyCusts": 480278,
+          "Zip": "53233",
+          "ZipCusts": 6765,
           "Region": "southeast wi",
-          "RegionCusts": 1075732
+          "RegionCusts": 1075733
         }
       ]
     },
     {
-      "Latitude": 43.037498696085265,
-      "Longitude": -88.1665184014219,
-      "OffTime": "Oct 20, 6:30 a.m.",
-      "ETR": "Oct 20, 9:30 a.m.",
+      "Latitude": 46.21615818599261,
+      "Longitude": -88.46087226087349,
+      "OffTime": "Oct 20, 11:20 a.m.",
+      "ETR": "Oct 20, 2:00 p.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 20, 7:10 a.m.",
+      "LastUpdated": "Oct 20, 11:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "brookfield",
-          "CityCusts": 23440,
-          "County": "waukesha",
-          "CountyCusts": 203788,
-          "Zip": "53045",
-          "ZipCusts": 11814,
+          "City": "crystal falls",
+          "CityCusts": 2032,
+          "County": "iron",
+          "CountyCusts": 4280,
+          "Zip": "49920",
+          "ZipCusts": 2035,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41458
+        }
+      ]
+    },
+    {
+      "Latitude": 42.695267690066125,
+      "Longitude": -87.80062849156276,
+      "OffTime": "Oct 20, 11:00 a.m.",
+      "ETR": "Oct 20, 2:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 20, 11:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 59014,
+          "County": "racine",
+          "CountyCusts": 102762,
+          "Zip": "53403",
+          "ZipCusts": 14410,
           "Region": "southeast wi",
-          "RegionCusts": 1075732
+          "RegionCusts": 1075733
+        }
+      ]
+    },
+    {
+      "Latitude": 43.06946202403811,
+      "Longitude": -87.9908424431953,
+      "OffTime": "Oct 20, 11:05 a.m.",
+      "ETR": "Oct 20, 2:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 20, 11:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352399,
+          "County": "milwaukee",
+          "CountyCusts": 480278,
+          "Zip": "53210",
+          "ZipCusts": 12262,
+          "Region": "southeast wi",
+          "RegionCusts": 1075733
         }
       ]
     }
