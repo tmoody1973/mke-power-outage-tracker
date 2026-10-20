@@ -1,4 +1,51 @@
 {
-  "captured_at": "2026-10-20T06:35:50+00:00",
-  "events": []
+  "captured_at": "2026-10-20T12:10:30+00:00",
+  "events": [
+    {
+      "Latitude": 43.37959144317471,
+      "Longitude": -87.88265675970638,
+      "OffTime": "Oct 20, 6:29 a.m.",
+      "ETR": "Oct 20, 9:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 20, 7:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "port washington",
+          "CityCusts": 3231,
+          "County": "ozaukee",
+          "CountyCusts": 42791,
+          "Zip": "53074",
+          "ZipCusts": 7478,
+          "Region": "southeast wi",
+          "RegionCusts": 1075732
+        }
+      ]
+    },
+    {
+      "Latitude": 43.037498696085265,
+      "Longitude": -88.1665184014219,
+      "OffTime": "Oct 20, 6:30 a.m.",
+      "ETR": "Oct 20, 9:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 20, 7:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "brookfield",
+          "CityCusts": 23440,
+          "County": "waukesha",
+          "CountyCusts": 203788,
+          "Zip": "53045",
+          "ZipCusts": 11814,
+          "Region": "southeast wi",
+          "RegionCusts": 1075732
+        }
+      ]
+    }
+  ]
 }
