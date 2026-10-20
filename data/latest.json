@@ -1,93 +1,104 @@
 {
-  "captured_at": "2026-10-20T16:58:43+00:00",
+  "captured_at": "2026-10-20T20:18:28+00:00",
   "events": [
     {
-      "Latitude": 43.0286935688817,
-      "Longitude": -87.9249603792804,
-      "OffTime": "Oct 20, 11:47 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 20, 11:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352399,
-          "County": "milwaukee",
-          "CountyCusts": 480278,
-          "Zip": "53233",
-          "ZipCusts": 6765,
-          "Region": "southeast wi",
-          "RegionCusts": 1075733
-        }
-      ]
-    },
-    {
-      "Latitude": 46.21615818599261,
-      "Longitude": -88.46087226087349,
-      "OffTime": "Oct 20, 11:20 a.m.",
-      "ETR": "Oct 20, 2:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 20, 11:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "crystal falls",
-          "CityCusts": 2032,
-          "County": "iron",
-          "CountyCusts": 4280,
-          "Zip": "49920",
-          "ZipCusts": 2035,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41458
-        }
-      ]
-    },
-    {
-      "Latitude": 42.695267690066125,
-      "Longitude": -87.80062849156276,
-      "OffTime": "Oct 20, 11:00 a.m.",
-      "ETR": "Oct 20, 2:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 20, 11:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 59014,
-          "County": "racine",
-          "CountyCusts": 102762,
-          "Zip": "53403",
-          "ZipCusts": 14410,
-          "Region": "southeast wi",
-          "RegionCusts": 1075733
-        }
-      ]
-    },
-    {
-      "Latitude": 43.06946202403811,
-      "Longitude": -87.9908424431953,
-      "OffTime": "Oct 20, 11:05 a.m.",
-      "ETR": "Oct 20, 2:00 p.m.",
+      "Latitude": 43.06658737873211,
+      "Longitude": -87.97305829507712,
+      "OffTime": "Oct 20, 2:22 p.m.",
+      "ETR": "Oct 20, 5:00 p.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 20, 11:50 a.m.",
+      "LastUpdated": "Oct 20, 3:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
+          "AffectedCusts": 33,
           "City": "milwaukee",
           "CityCusts": 352399,
           "County": "milwaukee",
           "CountyCusts": 480278,
           "Zip": "53210",
           "ZipCusts": 12262,
+          "Region": "southeast wi",
+          "RegionCusts": 1075733
+        }
+      ]
+    },
+    {
+      "Latitude": 42.82516147160434,
+      "Longitude": -88.74430314730346,
+      "OffTime": "Oct 20, 2:34 p.m.",
+      "ETR": "Oct 20, 5:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 20, 3:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 10,
+          "City": "whitewater",
+          "CityCusts": 9516,
+          "County": "walworth",
+          "CountyCusts": 24260,
+          "Zip": "53190",
+          "ZipCusts": 9519,
+          "Region": "southeast wi",
+          "RegionCusts": 1075733
+        }
+      ]
+    },
+    {
+      "Latitude": 43.07231640021204,
+      "Longitude": -87.94050857088007,
+      "OffTime": "Oct 20, 3:01 p.m.",
+      "ETR": "Oct 20, 6:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 20, 3:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352399,
+          "County": "milwaukee",
+          "CountyCusts": 480278,
+          "Zip": "53206",
+          "ZipCusts": 10798,
+          "Region": "southeast wi",
+          "RegionCusts": 1075733
+        }
+      ]
+    },
+    {
+      "Latitude": 43.19501925799512,
+      "Longitude": -88.74656373697115,
+      "OffTime": "Oct 20, 1:43 p.m.",
+      "ETR": "Oct 20, 4:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Oct 20, 3:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 75,
+          "City": "watertown",
+          "CityCusts": 16263,
+          "County": "jefferson",
+          "CountyCusts": 35312,
+          "Zip": "53094",
+          "ZipCusts": 10273,
+          "Region": "southeast wi",
+          "RegionCusts": 1075733
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "watertown",
+          "CityCusts": 16263,
+          "County": "dodge",
+          "CountyCusts": 17212,
+          "Zip": "53094",
+          "ZipCusts": 10273,
           "Region": "southeast wi",
           "RegionCusts": 1075733
         }
