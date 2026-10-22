@@ -1,4 +1,120 @@
 {
-  "captured_at": "2026-10-22T07:57:01+00:00",
-  "events": []
+  "captured_at": "2026-10-22T13:23:52+00:00",
+  "events": [
+    {
+      "Latitude": 43.020182563378576,
+      "Longitude": -88.33447094604963,
+      "OffTime": "Oct 22, 7:56 a.m.",
+      "ETR": "Oct 22, 10:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 22, 8:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "waukesha",
+          "CityCusts": 48469,
+          "County": "waukesha",
+          "CountyCusts": 203839,
+          "Zip": "53188",
+          "ZipCusts": 17785,
+          "Region": "southeast wi",
+          "RegionCusts": 1075823
+        }
+      ]
+    },
+    {
+      "Latitude": 44.211606333193345,
+      "Longitude": -88.51355196041612,
+      "OffTime": "Oct 22, 7:14 a.m.",
+      "ETR": "Oct 22, 10:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 22, 8:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "neenah",
+          "CityCusts": 21418,
+          "County": "winnebago",
+          "CountyCusts": 27779,
+          "Zip": "54956",
+          "ZipCusts": 21412,
+          "Region": "fox valley wi",
+          "RegionCusts": 143673
+        }
+      ]
+    },
+    {
+      "Latitude": 42.93448662919913,
+      "Longitude": -87.98421168772754,
+      "OffTime": "Oct 22, 8:09 a.m.",
+      "ETR": "Oct 22, 11:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 22, 8:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 15,
+          "City": "greendale",
+          "CityCusts": 7127,
+          "County": "milwaukee",
+          "CountyCusts": 480278,
+          "Zip": "53129",
+          "ZipCusts": 7126,
+          "Region": "southeast wi",
+          "RegionCusts": 1075823
+        }
+      ]
+    },
+    {
+      "Latitude": 42.91685916154314,
+      "Longitude": -88.08242112194931,
+      "OffTime": "Oct 22, 8:12 a.m.",
+      "ETR": "Oct 22, 11:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 22, 8:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 22,
+          "City": "muskego",
+          "CityCusts": 12263,
+          "County": "waukesha",
+          "CountyCusts": 203839,
+          "Zip": "53150",
+          "ZipCusts": 12263,
+          "Region": "southeast wi",
+          "RegionCusts": 1075823
+        }
+      ]
+    },
+    {
+      "Latitude": 46.00546322481137,
+      "Longitude": -89.35026503936429,
+      "OffTime": "Oct 22, 7:39 a.m.",
+      "ETR": "Oct 22, 10:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 22, 8:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "conover",
+          "CityCusts": 2092,
+          "County": "vilas",
+          "CountyCusts": 6275,
+          "Zip": "54519",
+          "ZipCusts": 2093,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41463
+        }
+      ]
+    }
+  ]
 }
