@@ -1,26 +1,95 @@
 {
-  "captured_at": "2026-10-23T09:35:43+00:00",
+  "captured_at": "2026-10-23T14:26:20+00:00",
   "events": [
     {
-      "Latitude": 44.198496362381526,
-      "Longitude": -88.2448448533309,
-      "OffTime": "Oct 23, 12:02 a.m.",
-      "ETR": "Oct 23, 6:30 a.m.",
+      "Latitude": 42.704548527689504,
+      "Longitude": -87.84271697351048,
+      "OffTime": "Oct 23, 7:27 a.m.",
+      "ETR": "Oct 23, 10:30 a.m.",
       "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 23, 4:30 a.m.",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 23, 9:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 5,
-          "City": "menasha",
-          "CityCusts": 4816,
-          "County": "calumet",
-          "CountyCusts": 14487,
-          "Zip": "54952",
-          "ZipCusts": 4829,
-          "Region": "fox valley wi",
-          "RegionCusts": 143673
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 59058,
+          "County": "racine",
+          "CountyCusts": 102812,
+          "Zip": "53406",
+          "ZipCusts": 14615,
+          "Region": "southeast wi",
+          "RegionCusts": 1075857
+        }
+      ]
+    },
+    {
+      "Latitude": 42.98235742523673,
+      "Longitude": -87.88269501213439,
+      "OffTime": "Oct 23, 9:14 a.m.",
+      "ETR": "Oct 23, 12:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 23, 9:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352411,
+          "County": "milwaukee",
+          "CountyCusts": 480298,
+          "Zip": "53207",
+          "ZipCusts": 20428,
+          "Region": "southeast wi",
+          "RegionCusts": 1075857
+        }
+      ]
+    },
+    {
+      "Latitude": 43.19326968549536,
+      "Longitude": -88.67420289225,
+      "OffTime": "Oct 23, 5:07 a.m.",
+      "ETR": "Oct 23, 12:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Oct 23, 9:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "watertown",
+          "CityCusts": 16265,
+          "County": "jefferson",
+          "CountyCusts": 35312,
+          "Zip": "53094",
+          "ZipCusts": 10273,
+          "Region": "southeast wi",
+          "RegionCusts": 1075857
+        }
+      ]
+    },
+    {
+      "Latitude": 42.91710252959794,
+      "Longitude": -88.13484973914007,
+      "OffTime": "Oct 23, 9:00 a.m.",
+      "ETR": "Oct 23, 12:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 23, 9:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "muskego",
+          "CityCusts": 12263,
+          "County": "waukesha",
+          "CountyCusts": 203839,
+          "Zip": "53150",
+          "ZipCusts": 12263,
+          "Region": "southeast wi",
+          "RegionCusts": 1075857
         }
       ]
     }
