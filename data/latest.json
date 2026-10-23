@@ -1,24 +1,24 @@
 {
-  "captured_at": "2026-10-23T00:09:25+00:00",
+  "captured_at": "2026-10-23T04:43:10+00:00",
   "events": [
     {
-      "Latitude": 43.00186685400405,
-      "Longitude": -87.9680514741815,
-      "OffTime": "Oct 22, 5:09 p.m.",
-      "ETR": "Oct 22, 8:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Vehicle accident",
-      "LastUpdated": "Oct 22, 7:00 p.m.",
+      "Latitude": 42.79397638060108,
+      "Longitude": -87.95275945587545,
+      "OffTime": "Oct 22, 10:15 p.m.",
+      "ETR": "Oct 23, 1:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 22, 11:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 5,
-          "City": "milwaukee",
-          "CityCusts": 352395,
-          "County": "milwaukee",
-          "CountyCusts": 480278,
-          "Zip": "53219",
-          "ZipCusts": 17491,
+          "AffectedCusts": 4,
+          "City": "caledonia",
+          "CityCusts": 2200,
+          "County": "racine",
+          "CountyCusts": 102799,
+          "Zip": "53108",
+          "ZipCusts": 1998,
           "Region": "southeast wi",
           "RegionCusts": 1075824
         }
@@ -28,10 +28,10 @@
       "Latitude": 44.225445592515975,
       "Longitude": -88.44993766994097,
       "OffTime": "Oct 22, 6:13 p.m.",
-      "ETR": "Oct 22, 9:00 p.m.",
+      "ETR": "Oct 23, 12:00 a.m.",
       "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 22, 7:00 p.m.",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Oct 22, 11:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,57 +48,23 @@
       ]
     },
     {
-      "Latitude": 42.950024922872515,
-      "Longitude": -87.96410241896686,
-      "OffTime": "Oct 22, 5:54 p.m.",
-      "ETR": "Oct 22, 8:30 p.m.",
+      "Latitude": 42.87364835982243,
+      "Longitude": -88.44712212926066,
+      "OffTime": "Oct 22, 10:06 p.m.",
+      "ETR": "Oct 23, 2:30 a.m.",
       "CrewStatus": "On site",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 22, 7:00 p.m.",
+      "LastUpdated": "Oct 22, 11:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "greenfield",
-          "CityCusts": 12586,
-          "County": "milwaukee",
-          "CountyCusts": 480278,
-          "Zip": "53221",
-          "ZipCusts": 18461,
-          "Region": "southeast wi",
-          "RegionCusts": 1075824
-        },
-        {
-          "AffectedCusts": 6,
-          "City": "milwaukee",
-          "CityCusts": 352395,
-          "County": "milwaukee",
-          "CountyCusts": 480278,
-          "Zip": "53221",
-          "ZipCusts": 18461,
-          "Region": "southeast wi",
-          "RegionCusts": 1075824
-        }
-      ]
-    },
-    {
-      "Latitude": 43.17002557970492,
-      "Longitude": -88.72850077389093,
-      "OffTime": "Oct 22, 2:35 p.m.",
-      "ETR": "Oct 22, 8:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Oct 22, 7:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "watertown",
-          "CityCusts": 16264,
-          "County": "jefferson",
-          "CountyCusts": 35311,
-          "Zip": "53094",
-          "ZipCusts": 10272,
+          "City": "eagle",
+          "CityCusts": 3000,
+          "County": "waukesha",
+          "CountyCusts": 203839,
+          "Zip": "53119",
+          "ZipCusts": 2999,
           "Region": "southeast wi",
           "RegionCusts": 1075824
         }
