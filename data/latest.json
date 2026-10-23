@@ -1,24 +1,81 @@
 {
-  "captured_at": "2026-10-22T21:31:30+00:00",
+  "captured_at": "2026-10-23T00:09:25+00:00",
   "events": [
     {
-      "Latitude": 43.00821786517692,
-      "Longitude": -87.95103738922454,
-      "OffTime": "Oct 22, 4:25 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 22, 4:30 p.m.",
+      "Latitude": 43.00186685400405,
+      "Longitude": -87.9680514741815,
+      "OffTime": "Oct 22, 5:09 p.m.",
+      "ETR": "Oct 22, 8:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Vehicle accident",
+      "LastUpdated": "Oct 22, 7:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
+          "AffectedCusts": 5,
           "City": "milwaukee",
           "CityCusts": 352395,
           "County": "milwaukee",
           "CountyCusts": 480278,
-          "Zip": "53215",
-          "ZipCusts": 22374,
+          "Zip": "53219",
+          "ZipCusts": 17491,
+          "Region": "southeast wi",
+          "RegionCusts": 1075824
+        }
+      ]
+    },
+    {
+      "Latitude": 44.225445592515975,
+      "Longitude": -88.44993766994097,
+      "OffTime": "Oct 22, 6:13 p.m.",
+      "ETR": "Oct 22, 9:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 22, 7:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "menasha",
+          "CityCusts": 4816,
+          "County": "winnebago",
+          "CountyCusts": 27779,
+          "Zip": "54952",
+          "ZipCusts": 4829,
+          "Region": "fox valley wi",
+          "RegionCusts": 143673
+        }
+      ]
+    },
+    {
+      "Latitude": 42.950024922872515,
+      "Longitude": -87.96410241896686,
+      "OffTime": "Oct 22, 5:54 p.m.",
+      "ETR": "Oct 22, 8:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Oct 22, 7:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "greenfield",
+          "CityCusts": 12586,
+          "County": "milwaukee",
+          "CountyCusts": 480278,
+          "Zip": "53221",
+          "ZipCusts": 18461,
+          "Region": "southeast wi",
+          "RegionCusts": 1075824
+        },
+        {
+          "AffectedCusts": 6,
+          "City": "milwaukee",
+          "CityCusts": 352395,
+          "County": "milwaukee",
+          "CountyCusts": 480278,
+          "Zip": "53221",
+          "ZipCusts": 18461,
           "Region": "southeast wi",
           "RegionCusts": 1075824
         }
@@ -28,10 +85,10 @@
       "Latitude": 43.17002557970492,
       "Longitude": -88.72850077389093,
       "OffTime": "Oct 22, 2:35 p.m.",
-      "ETR": "Oct 22, 5:30 p.m.",
-      "CrewStatus": "On the way",
+      "ETR": "Oct 22, 8:30 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Third-party damage",
-      "LastUpdated": "Oct 22, 4:30 p.m.",
+      "LastUpdated": "Oct 22, 7:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -44,98 +101,6 @@
           "ZipCusts": 10272,
           "Region": "southeast wi",
           "RegionCusts": 1075824
-        }
-      ]
-    },
-    {
-      "Latitude": 42.857691766052724,
-      "Longitude": -88.26708122830892,
-      "OffTime": "Oct 22, 10:14 a.m.",
-      "ETR": "Oct 22, 5:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Vehicle accident",
-      "LastUpdated": "Oct 22, 4:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "mukwonago",
-          "CityCusts": 9920,
-          "County": "waukesha",
-          "CountyCusts": 203839,
-          "Zip": "53149",
-          "ZipCusts": 9936,
-          "Region": "southeast wi",
-          "RegionCusts": 1075824
-        }
-      ]
-    },
-    {
-      "Latitude": 45.816560005613674,
-      "Longitude": -88.06976566356282,
-      "OffTime": "Oct 22, 3:29 p.m.",
-      "ETR": "Oct 22, 6:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 22, 4:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 34,
-          "City": "iron mountain",
-          "CityCusts": 7103,
-          "County": "dickinson",
-          "CountyCusts": 14103,
-          "Zip": "49801",
-          "ZipCusts": 7106,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41463
-        }
-      ]
-    },
-    {
-      "Latitude": 46.026328301758674,
-      "Longitude": -89.30639657766834,
-      "OffTime": "Oct 22, 4:26 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 22, 4:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "conover",
-          "CityCusts": 2092,
-          "County": "vilas",
-          "CountyCusts": 6275,
-          "Zip": "54519",
-          "ZipCusts": 2093,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41463
-        }
-      ]
-    },
-    {
-      "Latitude": 45.80879693160276,
-      "Longitude": -88.08066748530764,
-      "OffTime": "Oct 22, 4:22 p.m.",
-      "ETR": "Oct 22, 7:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 22, 4:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "iron mountain",
-          "CityCusts": 7103,
-          "County": "dickinson",
-          "CountyCusts": 14103,
-          "Zip": "49801",
-          "ZipCusts": 7106,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41463
         }
       ]
     }
