@@ -1,72 +1,26 @@
 {
-  "captured_at": "2026-10-23T04:43:10+00:00",
+  "captured_at": "2026-10-23T09:35:43+00:00",
   "events": [
     {
-      "Latitude": 42.79397638060108,
-      "Longitude": -87.95275945587545,
-      "OffTime": "Oct 22, 10:15 p.m.",
-      "ETR": "Oct 23, 1:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 22, 11:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 4,
-          "City": "caledonia",
-          "CityCusts": 2200,
-          "County": "racine",
-          "CountyCusts": 102799,
-          "Zip": "53108",
-          "ZipCusts": 1998,
-          "Region": "southeast wi",
-          "RegionCusts": 1075824
-        }
-      ]
-    },
-    {
-      "Latitude": 44.225445592515975,
-      "Longitude": -88.44993766994097,
-      "OffTime": "Oct 22, 6:13 p.m.",
-      "ETR": "Oct 23, 12:00 a.m.",
+      "Latitude": 44.198496362381526,
+      "Longitude": -88.2448448533309,
+      "OffTime": "Oct 23, 12:02 a.m.",
+      "ETR": "Oct 23, 6:30 a.m.",
       "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Oct 22, 11:40 p.m.",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Oct 23, 4:30 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
+          "AffectedCusts": 5,
           "City": "menasha",
           "CityCusts": 4816,
-          "County": "winnebago",
-          "CountyCusts": 27779,
+          "County": "calumet",
+          "CountyCusts": 14487,
           "Zip": "54952",
           "ZipCusts": 4829,
           "Region": "fox valley wi",
           "RegionCusts": 143673
-        }
-      ]
-    },
-    {
-      "Latitude": 42.87364835982243,
-      "Longitude": -88.44712212926066,
-      "OffTime": "Oct 22, 10:06 p.m.",
-      "ETR": "Oct 23, 2:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 22, 11:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "eagle",
-          "CityCusts": 3000,
-          "County": "waukesha",
-          "CountyCusts": 203839,
-          "Zip": "53119",
-          "ZipCusts": 2999,
-          "Region": "southeast wi",
-          "RegionCusts": 1075824
         }
       ]
     }
