@@ -1,4 +1,51 @@
 {
-  "captured_at": "2026-10-24T03:58:37+00:00",
-  "events": []
+  "captured_at": "2026-10-24T08:41:42+00:00",
+  "events": [
+    {
+      "Latitude": 43.00796663472426,
+      "Longitude": -88.77392430549422,
+      "OffTime": "Oct 24, 12:50 a.m.",
+      "ETR": "Oct 24, 4:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies overhead line problem",
+      "LastUpdated": "Oct 24, 3:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 13,
+          "City": "jefferson",
+          "CityCusts": 1581,
+          "County": "jefferson",
+          "CountyCusts": 35312,
+          "Zip": "53549",
+          "ZipCusts": 1585,
+          "Region": "southeast wi",
+          "RegionCusts": 1075857
+        }
+      ]
+    },
+    {
+      "Latitude": 42.58042862365228,
+      "Longitude": -87.84776202726717,
+      "OffTime": "Oct 24, 1:40 a.m.",
+      "ETR": "Oct 24, 4:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 24, 3:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54345,
+          "County": "kenosha",
+          "CountyCusts": 80368,
+          "Zip": "53144",
+          "ZipCusts": 14062,
+          "Region": "southeast wi",
+          "RegionCusts": 1075857
+        }
+      ]
+    }
+  ]
 }
