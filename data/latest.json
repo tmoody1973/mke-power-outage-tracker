@@ -1,24 +1,24 @@
 {
-  "captured_at": "2026-10-24T16:22:52+00:00",
+  "captured_at": "2026-10-24T18:54:29+00:00",
   "events": [
     {
-      "Latitude": 43.422595658486024,
-      "Longitude": -88.18246281843808,
-      "OffTime": "Oct 24, 7:10 a.m.",
-      "ETR": "Oct 24, 1:30 p.m.",
+      "Latitude": 43.01489349932503,
+      "Longitude": -88.20257161531626,
+      "OffTime": "Oct 24, 12:54 p.m.",
+      "ETR": "Oct 24, 3:30 p.m.",
       "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 24, 11:20 a.m.",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 24, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 12,
-          "City": "west bend",
-          "CityCusts": 26130,
-          "County": "washington",
-          "CountyCusts": 61728,
-          "Zip": "53095",
-          "ZipCusts": 15599,
+          "AffectedCusts": 1,
+          "City": "waukesha",
+          "CityCusts": 48468,
+          "County": "waukesha",
+          "CountyCusts": 203839,
+          "Zip": "53186",
+          "ZipCusts": 17768,
           "Region": "southeast wi",
           "RegionCusts": 1075858
         }
@@ -27,11 +27,11 @@
     {
       "Latitude": 43.01078769148215,
       "Longitude": -87.94315294844155,
-      "OffTime": "Oct 24, 10:51 a.m.",
-      "ETR": "Oct 24, 1:30 p.m.",
-      "CrewStatus": "On the way",
+      "OffTime": "Oct 24, 12:50 p.m.",
+      "ETR": "Oct 24, 3:30 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 24, 11:20 a.m.",
+      "LastUpdated": "Oct 24, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,23 +48,34 @@
       ]
     },
     {
-      "Latitude": 43.077468686273846,
-      "Longitude": -87.88839734999316,
-      "OffTime": "Oct 24, 10:33 a.m.",
-      "ETR": "Oct 24, 1:30 p.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 43.005054484390435,
+      "Longitude": -88.03024914051383,
+      "OffTime": "Oct 24, 12:34 p.m.",
+      "ETR": "Oct 24, 3:30 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 24, 11:20 a.m.",
+      "LastUpdated": "Oct 24, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 34,
+          "AffectedCusts": 5,
           "City": "milwaukee",
           "CityCusts": 352412,
           "County": "milwaukee",
           "CountyCusts": 480298,
-          "Zip": "53211",
-          "ZipCusts": 18162,
+          "Zip": "53227",
+          "ZipCusts": 12606,
+          "Region": "southeast wi",
+          "RegionCusts": 1075858
+        },
+        {
+          "AffectedCusts": 9,
+          "City": "west allis",
+          "CityCusts": 15159,
+          "County": "milwaukee",
+          "CountyCusts": 480298,
+          "Zip": "53227",
+          "ZipCusts": 12606,
           "Region": "southeast wi",
           "RegionCusts": 1075858
         }
