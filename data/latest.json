@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-10-24T12:55:18+00:00",
+  "captured_at": "2026-10-24T16:22:52+00:00",
   "events": [
     {
       "Latitude": 43.422595658486024,
       "Longitude": -88.18246281843808,
       "OffTime": "Oct 24, 7:10 a.m.",
-      "ETR": "Oct 24, 10:00 a.m.",
+      "ETR": "Oct 24, 1:30 p.m.",
       "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 24, 7:50 a.m.",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Oct 24, 11:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -20,99 +20,53 @@
           "Zip": "53095",
           "ZipCusts": 15599,
           "Region": "southeast wi",
-          "RegionCusts": 1075857
+          "RegionCusts": 1075858
         }
       ]
     },
     {
-      "Latitude": 42.70737278832748,
-      "Longitude": -87.95732076909194,
-      "OffTime": "Oct 24, 7:47 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Assigned",
+      "Latitude": 43.01078769148215,
+      "Longitude": -87.94315294844155,
+      "OffTime": "Oct 24, 10:51 a.m.",
+      "ETR": "Oct 24, 1:30 p.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 24, 7:50 a.m.",
+      "LastUpdated": "Oct 24, 11:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "sturtevant",
-          "CityCusts": 4054,
-          "County": "racine",
-          "CountyCusts": 102812,
-          "Zip": "53177",
-          "ZipCusts": 4808,
+          "City": "milwaukee",
+          "CityCusts": 352412,
+          "County": "milwaukee",
+          "CountyCusts": 480298,
+          "Zip": "53204",
+          "ZipCusts": 17670,
           "Region": "southeast wi",
-          "RegionCusts": 1075857
+          "RegionCusts": 1075858
         }
       ]
     },
     {
-      "Latitude": 42.74786461222697,
-      "Longitude": -88.32041847198256,
-      "OffTime": "Oct 24, 7:28 a.m.",
-      "ETR": "Oct 24, 10:30 a.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 24, 7:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 3,
-          "City": "burlington",
-          "CityCusts": 15581,
-          "County": "walworth",
-          "CountyCusts": 24258,
-          "Zip": "53105",
-          "ZipCusts": 15623,
-          "Region": "southeast wi",
-          "RegionCusts": 1075857
-        }
-      ]
-    },
-    {
-      "Latitude": 43.00796663472426,
-      "Longitude": -88.77392430549422,
-      "OffTime": "Oct 24, 12:50 a.m.",
-      "ETR": "Oct 24, 10:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Broken pole",
-      "LastUpdated": "Oct 24, 7:50 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 4,
-          "City": "jefferson",
-          "CityCusts": 1581,
-          "County": "jefferson",
-          "CountyCusts": 35312,
-          "Zip": "53549",
-          "ZipCusts": 1585,
-          "Region": "southeast wi",
-          "RegionCusts": 1075857
-        }
-      ]
-    },
-    {
-      "Latitude": 43.16965356044078,
-      "Longitude": -89.06126590321212,
-      "OffTime": "Oct 24, 7:25 a.m.",
-      "ETR": "Oct 24, 10:00 a.m.",
+      "Latitude": 43.077468686273846,
+      "Longitude": -87.88839734999316,
+      "OffTime": "Oct 24, 10:33 a.m.",
+      "ETR": "Oct 24, 1:30 p.m.",
       "CrewStatus": "Assigned",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 24, 7:50 a.m.",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 24, 11:20 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 9,
-          "City": "marshall",
-          "CityCusts": 2697,
-          "County": "dane",
-          "CountyCusts": 3392,
-          "Zip": "53559",
-          "ZipCusts": 2699,
+          "AffectedCusts": 34,
+          "City": "milwaukee",
+          "CityCusts": 352412,
+          "County": "milwaukee",
+          "CountyCusts": 480298,
+          "Zip": "53211",
+          "ZipCusts": 18162,
           "Region": "southeast wi",
-          "RegionCusts": 1075857
+          "RegionCusts": 1075858
         }
       ]
     }
