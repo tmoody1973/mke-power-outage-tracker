@@ -1,26 +1,72 @@
 {
-  "captured_at": "2026-10-24T23:28:58+00:00",
+  "captured_at": "2026-10-25T01:26:21+00:00",
   "events": [
     {
-      "Latitude": 43.00700220585525,
-      "Longitude": -88.00566372979571,
-      "OffTime": "Oct 24, 6:18 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 42.82767252480185,
+      "Longitude": -87.99300913439376,
+      "OffTime": "Oct 24, 7:57 p.m.",
+      "ETR": "Oct 24, 11:00 p.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 24, 6:20 p.m.",
+      "LastUpdated": "Oct 24, 8:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352413,
-          "County": "milwaukee",
-          "CountyCusts": 480298,
-          "Zip": "53219",
-          "ZipCusts": 17491,
+          "City": "caledonia",
+          "CityCusts": 2200,
+          "County": "racine",
+          "CountyCusts": 102812,
+          "Zip": "53108",
+          "ZipCusts": 1998,
           "Region": "southeast wi",
           "RegionCusts": 1075859
+        }
+      ]
+    },
+    {
+      "Latitude": 42.841571417888865,
+      "Longitude": -88.55032603315928,
+      "OffTime": "Oct 24, 8:07 p.m.",
+      "ETR": "Oct 24, 11:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 24, 8:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "eagle",
+          "CityCusts": 3002,
+          "County": "walworth",
+          "CountyCusts": 24258,
+          "Zip": "53119",
+          "ZipCusts": 3001,
+          "Region": "southeast wi",
+          "RegionCusts": 1075859
+        }
+      ]
+    },
+    {
+      "Latitude": 44.3349486381503,
+      "Longitude": -88.625790601726,
+      "OffTime": "Oct 24, 6:41 p.m.",
+      "ETR": "Oct 24, 9:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 24, 8:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 26,
+          "City": "hortonville",
+          "CityCusts": 4675,
+          "County": "outagamie",
+          "CountyCusts": 80359,
+          "Zip": "54944",
+          "ZipCusts": 4681,
+          "Region": "fox valley wi",
+          "RegionCusts": 143680
         }
       ]
     }
