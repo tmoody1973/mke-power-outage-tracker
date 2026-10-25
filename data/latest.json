@@ -1,95 +1,49 @@
 {
-  "captured_at": "2026-10-25T15:18:16+00:00",
+  "captured_at": "2026-10-25T18:30:25+00:00",
   "events": [
     {
-      "Latitude": 42.888303041355535,
-      "Longitude": -88.1633548468636,
-      "OffTime": "Oct 25, 8:06 a.m.",
-      "ETR": "Oct 25, 11:00 a.m.",
+      "Latitude": 42.68471266645393,
+      "Longitude": -88.04608973354497,
+      "OffTime": "Oct 25, 11:32 a.m.",
+      "ETR": "Oct 25, 2:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies overhead line problem",
+      "LastUpdated": "Oct 25, 1:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "union grove",
+          "CityCusts": 5256,
+          "County": "racine",
+          "CountyCusts": 102812,
+          "Zip": "53182",
+          "ZipCusts": 5256,
+          "Region": "southeast wi",
+          "RegionCusts": 1075859
+        }
+      ]
+    },
+    {
+      "Latitude": 44.22056358225656,
+      "Longitude": -88.36110070067802,
+      "OffTime": "Oct 25, 11:09 a.m.",
+      "ETR": "Oct 25, 2:00 p.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 25, 10:10 a.m.",
+      "LastUpdated": "Oct 25, 1:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "muskego",
-          "CityCusts": 12263,
-          "County": "waukesha",
-          "CountyCusts": 203839,
-          "Zip": "53150",
-          "ZipCusts": 12263,
-          "Region": "southeast wi",
-          "RegionCusts": 1075859
-        }
-      ]
-    },
-    {
-      "Latitude": 42.53964716902711,
-      "Longitude": -87.8207393114363,
-      "OffTime": "Oct 25, 9:00 a.m.",
-      "ETR": "Oct 25, 12:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Oct 25, 10:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "pleasant pr",
-          "CityCusts": 6402,
-          "County": "kenosha",
-          "CountyCusts": 80368,
-          "Zip": "53158",
-          "ZipCusts": 9593,
-          "Region": "southeast wi",
-          "RegionCusts": 1075859
-        }
-      ]
-    },
-    {
-      "Latitude": 45.83873690779188,
-      "Longitude": -88.05047076812545,
-      "OffTime": "Oct 25, 8:43 a.m.",
-      "ETR": "Oct 25, 11:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Wildlife contact with equipment",
-      "LastUpdated": "Oct 25, 10:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 29,
-          "City": "iron mountain",
-          "CityCusts": 7103,
-          "County": "dickinson",
-          "CountyCusts": 14103,
-          "Zip": "49801",
-          "ZipCusts": 7106,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41461
-        }
-      ]
-    },
-    {
-      "Latitude": 43.561048736334094,
-      "Longitude": -87.95440754641032,
-      "OffTime": "Oct 25, 8:52 a.m.",
-      "ETR": "Oct 25, 11:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 25, 10:10 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "random lake",
-          "CityCusts": 1908,
-          "County": "sheboygan",
-          "CountyCusts": 14279,
-          "Zip": "53075",
-          "ZipCusts": 1911,
-          "Region": "southeast wi",
-          "RegionCusts": 1075859
+          "City": "menasha",
+          "CityCusts": 4822,
+          "County": "calumet",
+          "CountyCusts": 14494,
+          "Zip": "54952",
+          "ZipCusts": 4835,
+          "Region": "fox valley wi",
+          "RegionCusts": 143680
         }
       ]
     }
