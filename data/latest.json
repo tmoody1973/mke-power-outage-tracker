@@ -1,49 +1,118 @@
 {
-  "captured_at": "2026-10-25T18:30:25+00:00",
+  "captured_at": "2026-10-25T21:13:36+00:00",
   "events": [
     {
-      "Latitude": 42.68471266645393,
-      "Longitude": -88.04608973354497,
-      "OffTime": "Oct 25, 11:32 a.m.",
-      "ETR": "Oct 25, 2:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Oct 25, 1:30 p.m.",
+      "Latitude": 45.848484151456944,
+      "Longitude": -88.13215000367647,
+      "OffTime": "Oct 25, 2:06 p.m.",
+      "ETR": "Oct 25, 5:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 25, 4:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "union grove",
-          "CityCusts": 5256,
-          "County": "racine",
-          "CountyCusts": 102812,
-          "Zip": "53182",
-          "ZipCusts": 5256,
+          "City": "florence",
+          "CityCusts": 1534,
+          "County": "florence",
+          "CountyCusts": 3058,
+          "Zip": "54121",
+          "ZipCusts": 1541,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41461
+        }
+      ]
+    },
+    {
+      "Latitude": 42.98686947491032,
+      "Longitude": -87.88341461891471,
+      "OffTime": "Oct 25, 2:00 p.m.",
+      "ETR": "Oct 25, 5:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Oct 25, 4:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 40,
+          "City": "milwaukee",
+          "CityCusts": 352413,
+          "County": "milwaukee",
+          "CountyCusts": 480298,
+          "Zip": "53207",
+          "ZipCusts": 20428,
           "Region": "southeast wi",
           "RegionCusts": 1075859
         }
       ]
     },
     {
-      "Latitude": 44.22056358225656,
-      "Longitude": -88.36110070067802,
-      "OffTime": "Oct 25, 11:09 a.m.",
-      "ETR": "Oct 25, 2:00 p.m.",
+      "Latitude": 43.280683035099216,
+      "Longitude": -88.17556632468485,
+      "OffTime": "Oct 25, 2:26 p.m.",
+      "ETR": "Oct 25, 6:00 p.m.",
       "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Oct 25, 4:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 5,
+          "City": "richfield",
+          "CityCusts": 2115,
+          "County": "washington",
+          "CountyCusts": 61728,
+          "Zip": "53076",
+          "ZipCusts": 2097,
+          "Region": "southeast wi",
+          "RegionCusts": 1075859
+        }
+      ]
+    },
+    {
+      "Latitude": 42.9946523095125,
+      "Longitude": -87.90101556823171,
+      "OffTime": "Oct 25, 4:08 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 25, 1:30 p.m.",
+      "LastUpdated": "Oct 25, 4:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "menasha",
-          "CityCusts": 4822,
-          "County": "calumet",
-          "CountyCusts": 14494,
-          "Zip": "54952",
-          "ZipCusts": 4835,
-          "Region": "fox valley wi",
-          "RegionCusts": 143680
+          "City": "milwaukee",
+          "CityCusts": 352413,
+          "County": "milwaukee",
+          "CountyCusts": 480298,
+          "Zip": "53207",
+          "ZipCusts": 20428,
+          "Region": "southeast wi",
+          "RegionCusts": 1075859
+        }
+      ]
+    },
+    {
+      "Latitude": 43.917501582958565,
+      "Longitude": -87.72481539199299,
+      "OffTime": "Oct 25, 1:56 p.m.",
+      "ETR": "Oct 25, 5:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Vehicle accident",
+      "LastUpdated": "Oct 25, 4:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 65,
+          "City": "cleveland",
+          "CityCusts": 1054,
+          "County": "manitowic",
+          "CountyCusts": 1417,
+          "Zip": "53015",
+          "ZipCusts": 1054,
+          "Region": "southeast wi",
+          "RegionCusts": 1075859
         }
       ]
     }
