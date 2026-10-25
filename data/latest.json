@@ -1,64 +1,18 @@
 {
-  "captured_at": "2026-10-25T21:13:36+00:00",
+  "captured_at": "2026-10-25T23:16:30+00:00",
   "events": [
-    {
-      "Latitude": 45.848484151456944,
-      "Longitude": -88.13215000367647,
-      "OffTime": "Oct 25, 2:06 p.m.",
-      "ETR": "Oct 25, 5:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 25, 4:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "florence",
-          "CityCusts": 1534,
-          "County": "florence",
-          "CountyCusts": 3058,
-          "Zip": "54121",
-          "ZipCusts": 1541,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41461
-        }
-      ]
-    },
-    {
-      "Latitude": 42.98686947491032,
-      "Longitude": -87.88341461891471,
-      "OffTime": "Oct 25, 2:00 p.m.",
-      "ETR": "Oct 25, 5:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 25, 4:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 40,
-          "City": "milwaukee",
-          "CityCusts": 352413,
-          "County": "milwaukee",
-          "CountyCusts": 480298,
-          "Zip": "53207",
-          "ZipCusts": 20428,
-          "Region": "southeast wi",
-          "RegionCusts": 1075859
-        }
-      ]
-    },
     {
       "Latitude": 43.280683035099216,
       "Longitude": -88.17556632468485,
       "OffTime": "Oct 25, 2:26 p.m.",
-      "ETR": "Oct 25, 6:00 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "On site",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 25, 4:10 p.m.",
+      "LastUpdated": "Oct 25, 6:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 5,
+          "AffectedCusts": 3,
           "City": "richfield",
           "CityCusts": 2115,
           "County": "washington",
@@ -71,13 +25,13 @@
       ]
     },
     {
-      "Latitude": 42.9946523095125,
-      "Longitude": -87.90101556823171,
-      "OffTime": "Oct 25, 4:08 p.m.",
-      "ETR": "Not yet determined",
+      "Latitude": 43.09034567620022,
+      "Longitude": -87.96913312425933,
+      "OffTime": "Oct 25, 6:04 p.m.",
+      "ETR": "Oct 25, 9:00 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 25, 4:10 p.m.",
+      "LastUpdated": "Oct 25, 6:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -86,31 +40,8 @@
           "CityCusts": 352413,
           "County": "milwaukee",
           "CountyCusts": 480298,
-          "Zip": "53207",
-          "ZipCusts": 20428,
-          "Region": "southeast wi",
-          "RegionCusts": 1075859
-        }
-      ]
-    },
-    {
-      "Latitude": 43.917501582958565,
-      "Longitude": -87.72481539199299,
-      "OffTime": "Oct 25, 1:56 p.m.",
-      "ETR": "Oct 25, 5:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Vehicle accident",
-      "LastUpdated": "Oct 25, 4:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 65,
-          "City": "cleveland",
-          "CityCusts": 1054,
-          "County": "manitowic",
-          "CountyCusts": 1417,
-          "Zip": "53015",
-          "ZipCusts": 1054,
+          "Zip": "53216",
+          "ZipCusts": 14834,
           "Region": "southeast wi",
           "RegionCusts": 1075859
         }
