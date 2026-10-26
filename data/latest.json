@@ -1,41 +1,18 @@
 {
-  "captured_at": "2026-10-26T19:33:21+00:00",
+  "captured_at": "2026-10-26T23:20:19+00:00",
   "events": [
     {
-      "Latitude": 42.9435607194741,
-      "Longitude": -88.8454865684112,
-      "OffTime": "Oct 26, 2:05 p.m.",
-      "ETR": "Oct 26, 5:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 26, 2:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "fort atkinson",
-          "CityCusts": 10711,
-          "County": "jefferson",
-          "CountyCusts": 35312,
-          "Zip": "53538",
-          "ZipCusts": 10719,
-          "Region": "southeast wi",
-          "RegionCusts": 1075921
-        }
-      ]
-    },
-    {
-      "Latitude": 46.15763553120799,
-      "Longitude": -89.39723161981975,
+      "Latitude": 46.16171300947349,
+      "Longitude": -89.38531240517983,
       "OffTime": "Oct 26, 12:58 p.m.",
-      "ETR": "Oct 26, 4:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 26, 2:30 p.m.",
+      "ETR": "Oct 26, 8:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Oct 26, 6:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
+          "AffectedCusts": 2,
           "City": "land o lakes",
           "CityCusts": 1708,
           "County": "vilas",
@@ -48,59 +25,163 @@
       ]
     },
     {
-      "Latitude": 42.68412263102384,
-      "Longitude": -88.28774449518255,
-      "OffTime": "Oct 26, 2:17 p.m.",
-      "ETR": "Oct 26, 5:00 p.m.",
+      "Latitude": 44.294656625503784,
+      "Longitude": -88.42339761611504,
+      "OffTime": "Oct 26, 5:59 p.m.",
+      "ETR": "Oct 26, 9:00 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 26, 2:30 p.m.",
+      "LastUpdated": "Oct 26, 6:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 13,
-          "City": "burlington",
-          "CityCusts": 15583,
-          "County": "racine",
-          "CountyCusts": 102823,
-          "Zip": "53105",
-          "ZipCusts": 15625,
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 63115,
+          "County": "outagamie",
+          "CountyCusts": 80364,
+          "Zip": "54914",
+          "ZipCusts": 16353,
+          "Region": "fox valley wi",
+          "RegionCusts": 143688
+        }
+      ]
+    },
+    {
+      "Latitude": 43.669487842205584,
+      "Longitude": -87.78386856618582,
+      "OffTime": "Oct 26, 4:35 p.m.",
+      "ETR": "Oct 26, 7:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 26, 6:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "sheboygan fls",
+          "CityCusts": 606,
+          "County": "sheboygan",
+          "CountyCusts": 14279,
+          "Zip": "53085",
+          "ZipCusts": 694,
           "Region": "southeast wi",
           "RegionCusts": 1075921
         }
       ]
     },
     {
-      "Latitude": 44.2370937096845,
-      "Longitude": -88.42004195558236,
-      "OffTime": "Oct 26, 1:01 p.m.",
-      "ETR": "Oct 26, 4:00 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 42.9302747177213,
+      "Longitude": -87.86527710064547,
+      "OffTime": "Oct 26, 5:39 p.m.",
+      "ETR": "Oct 26, 8:30 p.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 26, 2:30 p.m.",
+      "LastUpdated": "Oct 26, 6:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 18,
-          "City": "appleton",
-          "CityCusts": 63115,
-          "County": "winnebago",
-          "CountyCusts": 27779,
-          "Zip": "54915",
-          "ZipCusts": 20166,
-          "Region": "fox valley wi",
-          "RegionCusts": 143688
-        },
+          "AffectedCusts": 127,
+          "City": "south milwaukee",
+          "CityCusts": 10364,
+          "County": "milwaukee",
+          "CountyCusts": 480332,
+          "Zip": "53172",
+          "ZipCusts": 10365,
+          "Region": "southeast wi",
+          "RegionCusts": 1075921
+        }
+      ]
+    },
+    {
+      "Latitude": 42.544024699287355,
+      "Longitude": -88.16722326649369,
+      "OffTime": "Oct 26, 5:11 p.m.",
+      "ETR": "Oct 26, 8:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 26, 6:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
         {
-          "AffectedCusts": 31,
-          "City": "menasha",
-          "CityCusts": 4822,
-          "County": "winnebago",
-          "CountyCusts": 27779,
-          "Zip": "54952",
-          "ZipCusts": 4835,
+          "AffectedCusts": 13,
+          "City": "silver lake",
+          "CityCusts": 1177,
+          "County": "kenosha",
+          "CountyCusts": 80369,
+          "Zip": "53170",
+          "ZipCusts": 1180,
+          "Region": "southeast wi",
+          "RegionCusts": 1075921
+        }
+      ]
+    },
+    {
+      "Latitude": 43.108132238924576,
+      "Longitude": -88.04520474006145,
+      "OffTime": "Oct 26, 5:43 p.m.",
+      "ETR": "Oct 26, 8:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 26, 6:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352436,
+          "County": "milwaukee",
+          "CountyCusts": 480332,
+          "Zip": "53225",
+          "ZipCusts": 12050,
+          "Region": "southeast wi",
+          "RegionCusts": 1075921
+        }
+      ]
+    },
+    {
+      "Latitude": 44.6051437378341,
+      "Longitude": -88.7093684514664,
+      "OffTime": "Oct 26, 5:45 p.m.",
+      "ETR": "Oct 26, 8:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 26, 6:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "clintonville",
+          "CityCusts": 497,
+          "County": "waupaca",
+          "CountyCusts": 8924,
+          "Zip": "54929",
+          "ZipCusts": 499,
           "Region": "fox valley wi",
           "RegionCusts": 143688
+        }
+      ]
+    },
+    {
+      "Latitude": 42.58458130615262,
+      "Longitude": -87.86215844282586,
+      "OffTime": "Oct 26, 5:49 p.m.",
+      "ETR": "Oct 26, 8:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 26, 6:10 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54346,
+          "County": "kenosha",
+          "CountyCusts": 80369,
+          "Zip": "53144",
+          "ZipCusts": 14062,
+          "Region": "southeast wi",
+          "RegionCusts": 1075921
         }
       ]
     }
