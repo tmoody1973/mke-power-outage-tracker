@@ -1,37 +1,14 @@
 {
-  "captured_at": "2026-10-27T02:13:32+00:00",
+  "captured_at": "2026-10-27T07:52:15+00:00",
   "events": [
-    {
-      "Latitude": 44.6051437378341,
-      "Longitude": -88.7093684514664,
-      "OffTime": "Oct 26, 5:45 p.m.",
-      "ETR": "Oct 26, 10:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "We Energies equipment problem",
-      "LastUpdated": "Oct 26, 9:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "clintonville",
-          "CityCusts": 497,
-          "County": "waupaca",
-          "CountyCusts": 8924,
-          "Zip": "54929",
-          "ZipCusts": 499,
-          "Region": "fox valley wi",
-          "RegionCusts": 143688
-        }
-      ]
-    },
     {
       "Latitude": 46.16171300947349,
       "Longitude": -89.38531240517983,
       "OffTime": "Oct 26, 12:58 p.m.",
-      "ETR": "Oct 27, 12:00 a.m.",
+      "ETR": "Oct 27, 4:00 a.m.",
       "CrewStatus": "On site",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 26, 9:10 p.m.",
+      "LastUpdated": "Oct 27, 2:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,47 +25,25 @@
       ]
     },
     {
-      "Latitude": 44.24940192876201,
-      "Longitude": -88.17791799271576,
-      "OffTime": "Oct 26, 8:19 p.m.",
-      "ETR": "Oct 26, 11:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 26, 9:10 p.m.",
+      "Latitude": 42.55814734084797,
+      "Longitude": -87.8310241537259,
+      "OffTime": "Oct 26, 9:17 p.m.",
+      "ETR": "Oct 27, 3:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Oct 27, 2:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 3,
-          "City": "kaukauna",
-          "CityCusts": 2414,
-          "County": "outagamie",
-          "CountyCusts": 80364,
-          "Zip": "54130",
-          "ZipCusts": 3001,
-          "Region": "fox valley wi",
-          "RegionCusts": 143688
-        },
-        {
-          "AffectedCusts": 48,
-          "City": "kaukauna",
-          "CityCusts": 2414,
-          "County": "brown",
-          "CountyCusts": 1902,
-          "Zip": "54130",
-          "ZipCusts": 3001,
-          "Region": "fox valley wi",
-          "RegionCusts": 143688
-        },
-        {
           "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 63115,
-          "County": "brown",
-          "CountyCusts": 1902,
-          "Zip": "54911",
-          "ZipCusts": 13387,
-          "Region": "fox valley wi",
-          "RegionCusts": 143688
+          "City": "kenosha",
+          "CityCusts": 54346,
+          "County": "kenosha",
+          "CountyCusts": 80369,
+          "Zip": "53143",
+          "ZipCusts": 10243,
+          "Region": "southeast wi",
+          "RegionCusts": 1075921
         }
       ]
     }
