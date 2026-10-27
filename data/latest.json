@@ -1,49 +1,129 @@
 {
-  "captured_at": "2026-10-27T07:52:15+00:00",
+  "captured_at": "2026-10-27T13:47:26+00:00",
   "events": [
     {
-      "Latitude": 46.16171300947349,
-      "Longitude": -89.38531240517983,
-      "OffTime": "Oct 26, 12:58 p.m.",
-      "ETR": "Oct 27, 4:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 27, 2:50 a.m.",
+      "Latitude": 43.01589171215815,
+      "Longitude": -88.02779690446263,
+      "OffTime": "Oct 27, 8:20 a.m.",
+      "ETR": "Oct 27, 11:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 27, 8:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "land o lakes",
-          "CityCusts": 1708,
-          "County": "vilas",
-          "CountyCusts": 6276,
-          "Zip": "54540",
-          "ZipCusts": 1706,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41466
+          "AffectedCusts": 4,
+          "City": "milwaukee",
+          "CityCusts": 352446,
+          "County": "milwaukee",
+          "CountyCusts": 480342,
+          "Zip": "53214",
+          "ZipCusts": 19812,
+          "Region": "southeast wi",
+          "RegionCusts": 1075954
+        },
+        {
+          "AffectedCusts": 33,
+          "City": "west allis",
+          "CityCusts": 15160,
+          "County": "milwaukee",
+          "CountyCusts": 480342,
+          "Zip": "53214",
+          "ZipCusts": 19812,
+          "Region": "southeast wi",
+          "RegionCusts": 1075954
         }
       ]
     },
     {
-      "Latitude": 42.55814734084797,
-      "Longitude": -87.8310241537259,
-      "OffTime": "Oct 26, 9:17 p.m.",
-      "ETR": "Oct 27, 3:30 a.m.",
+      "Latitude": 43.05980977845482,
+      "Longitude": -88.03662355786012,
+      "OffTime": "Oct 27, 7:15 a.m.",
+      "ETR": "Oct 27, 10:00 a.m.",
       "CrewStatus": "On site",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Oct 27, 2:50 a.m.",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 27, 8:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
+          "City": "wauwatosa",
+          "CityCusts": 10640,
+          "County": "milwaukee",
+          "CountyCusts": 480342,
+          "Zip": "53226",
+          "ZipCusts": 11013,
+          "Region": "southeast wi",
+          "RegionCusts": 1075954
+        }
+      ]
+    },
+    {
+      "Latitude": 42.57719372489952,
+      "Longitude": -87.83861659412787,
+      "OffTime": "Oct 27, 7:55 a.m.",
+      "ETR": "Oct 27, 10:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 27, 8:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 24,
           "City": "kenosha",
-          "CityCusts": 54346,
+          "CityCusts": 54349,
           "County": "kenosha",
-          "CountyCusts": 80369,
+          "CountyCusts": 80371,
           "Zip": "53143",
           "ZipCusts": 10243,
           "Region": "southeast wi",
-          "RegionCusts": 1075921
+          "RegionCusts": 1075954
+        }
+      ]
+    },
+    {
+      "Latitude": 46.0517486714962,
+      "Longitude": -88.2243329968035,
+      "OffTime": "Oct 27, 8:35 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 27, 8:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "crystal falls",
+          "CityCusts": 2032,
+          "County": "iron",
+          "CountyCusts": 4279,
+          "Zip": "49920",
+          "ZipCusts": 2035,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41467
+        }
+      ]
+    },
+    {
+      "Latitude": 43.120233858050646,
+      "Longitude": -88.03492784748103,
+      "OffTime": "Oct 27, 8:19 a.m.",
+      "ETR": "Oct 27, 11:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 27, 8:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 16,
+          "City": "milwaukee",
+          "CityCusts": 352446,
+          "County": "milwaukee",
+          "CountyCusts": 480342,
+          "Zip": "53225",
+          "ZipCusts": 12051,
+          "Region": "southeast wi",
+          "RegionCusts": 1075954
         }
       ]
     }
