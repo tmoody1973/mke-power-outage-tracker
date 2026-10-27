@@ -1,95 +1,49 @@
 {
-  "captured_at": "2026-10-27T19:06:23+00:00",
+  "captured_at": "2026-10-27T22:55:52+00:00",
   "events": [
     {
-      "Latitude": 43.10291876412857,
-      "Longitude": -88.41723141637925,
-      "OffTime": "Oct 27, 12:43 p.m.",
-      "ETR": "Oct 27, 3:00 p.m.",
+      "Latitude": 43.1767899806519,
+      "Longitude": -87.90721148464306,
+      "OffTime": "Oct 27, 5:47 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 27, 5:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352446,
+          "County": "milwaukee",
+          "CountyCusts": 480342,
+          "Zip": "53217",
+          "ZipCusts": 15175,
+          "Region": "southeast wi",
+          "RegionCusts": 1075954
+        }
+      ]
+    },
+    {
+      "Latitude": 42.94938732039941,
+      "Longitude": -87.98597834515436,
+      "OffTime": "Oct 27, 4:47 p.m.",
+      "ETR": "Oct 27, 7:30 p.m.",
       "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 27, 2:00 p.m.",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 27, 5:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "nashotah",
-          "CityCusts": 1829,
-          "County": "waukesha",
-          "CountyCusts": 203853,
-          "Zip": "53058",
-          "ZipCusts": 1839,
+          "City": "milwaukee",
+          "CityCusts": 352446,
+          "County": "milwaukee",
+          "CountyCusts": 480342,
+          "Zip": "53220",
+          "ZipCusts": 13719,
           "Region": "southeast wi",
           "RegionCusts": 1075954
-        }
-      ]
-    },
-    {
-      "Latitude": 44.796369755113446,
-      "Longitude": -88.56854225213843,
-      "OffTime": "Oct 27, 10:22 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "We Energies equipment problem",
-      "LastUpdated": "Oct 27, 2:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 21,
-          "City": "shawano",
-          "CityCusts": 2992,
-          "County": "shawano",
-          "CountyCusts": 8372,
-          "Zip": "54166",
-          "ZipCusts": 2992,
-          "Region": "fox valley wi",
-          "RegionCusts": 143688
-        }
-      ]
-    },
-    {
-      "Latitude": 42.8086367216856,
-      "Longitude": -88.37546016421646,
-      "OffTime": "Oct 27, 10:00 a.m.",
-      "ETR": "Oct 27, 4:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Transformer problem",
-      "LastUpdated": "Oct 27, 2:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "east troy",
-          "CityCusts": 6275,
-          "County": "walworth",
-          "CountyCusts": 24261,
-          "Zip": "53120",
-          "ZipCusts": 6267,
-          "Region": "southeast wi",
-          "RegionCusts": 1075954
-        }
-      ]
-    },
-    {
-      "Latitude": 45.791308808402555,
-      "Longitude": -88.06894462788804,
-      "OffTime": "Oct 27, 12:55 p.m.",
-      "ETR": "Oct 27, 3:30 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Squirrel contact with equipment",
-      "LastUpdated": "Oct 27, 2:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 27,
-          "City": "kingsford",
-          "CityCusts": 3516,
-          "County": "dickinson",
-          "CountyCusts": 14104,
-          "Zip": "49802",
-          "ZipCusts": 3493,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41467
         }
       ]
     },
@@ -98,9 +52,9 @@
       "Longitude": -88.69507642477346,
       "OffTime": "Oct 27, 10:17 a.m.",
       "ETR": "Oct 27, 8:00 p.m.",
-      "CrewStatus": "On the way",
+      "CrewStatus": "Specialized crew needed",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 27, 2:00 p.m.",
+      "LastUpdated": "Oct 27, 5:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
