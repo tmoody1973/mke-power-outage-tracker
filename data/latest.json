@@ -1,60 +1,14 @@
 {
-  "captured_at": "2026-10-28T19:53:19+00:00",
+  "captured_at": "2026-10-28T23:43:56+00:00",
   "events": [
     {
-      "Latitude": 43.461911913037916,
-      "Longitude": -87.86613554819576,
-      "OffTime": "Oct 28, 1:50 p.m.",
-      "ETR": "Oct 28, 4:30 p.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 42.96409548674167,
+      "Longitude": -88.04036643986753,
+      "OffTime": "Oct 28, 5:44 p.m.",
+      "ETR": "Oct 28, 8:30 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 28, 2:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "prt washingtn",
-          "CityCusts": 4254,
-          "County": "ozaukee",
-          "CountyCusts": 42798,
-          "Zip": "53074",
-          "ZipCusts": 7482,
-          "Region": "southeast wi",
-          "RegionCusts": 1075933
-        }
-      ]
-    },
-    {
-      "Latitude": 43.06226503454546,
-      "Longitude": -88.14611408042407,
-      "OffTime": "Oct 28, 12:43 p.m.",
-      "ETR": "Oct 28, 3:30 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact with utility equipment",
-      "LastUpdated": "Oct 28, 2:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 16,
-          "City": "brookfield",
-          "CityCusts": 23482,
-          "County": "waukesha",
-          "CountyCusts": 203856,
-          "Zip": "53045",
-          "ZipCusts": 11854,
-          "Region": "southeast wi",
-          "RegionCusts": 1075933
-        }
-      ]
-    },
-    {
-      "Latitude": 43.07804028539572,
-      "Longitude": -87.91637589302032,
-      "OffTime": "Oct 28, 2:12 p.m.",
-      "ETR": "Oct 28, 5:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 28, 2:50 p.m.",
+      "LastUpdated": "Oct 28, 6:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -63,8 +17,54 @@
           "CityCusts": 352430,
           "County": "milwaukee",
           "CountyCusts": 480326,
-          "Zip": "53212",
-          "ZipCusts": 17031,
+          "Zip": "53228",
+          "ZipCusts": 8264,
+          "Region": "southeast wi",
+          "RegionCusts": 1075933
+        }
+      ]
+    },
+    {
+      "Latitude": 46.128530398822775,
+      "Longitude": -88.7831103746707,
+      "OffTime": "Oct 28, 2:06 p.m.",
+      "ETR": "Oct 28, 7:15 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Oct 28, 6:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "iron river",
+          "CityCusts": 1766,
+          "County": "iron",
+          "CountyCusts": 4279,
+          "Zip": "49935",
+          "ZipCusts": 1767,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41469
+        }
+      ]
+    },
+    {
+      "Latitude": 43.51383126888073,
+      "Longitude": -87.93992533676915,
+      "OffTime": "Oct 28, 4:09 p.m.",
+      "ETR": "Oct 28, 9:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "We Energies fuse problem",
+      "LastUpdated": "Oct 28, 6:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "belgium",
+          "CityCusts": 1929,
+          "County": "ozaukee",
+          "CountyCusts": 42798,
+          "Zip": "53004",
+          "ZipCusts": 1924,
           "Region": "southeast wi",
           "RegionCusts": 1075933
         }
