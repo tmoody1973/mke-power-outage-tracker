@@ -1,83 +1,60 @@
 {
-  "captured_at": "2026-10-28T14:42:39+00:00",
+  "captured_at": "2026-10-28T19:53:19+00:00",
   "events": [
     {
-      "Latitude": 45.766763371073615,
-      "Longitude": -88.16121529614985,
-      "OffTime": "Oct 28, 9:19 a.m.",
-      "ETR": "Oct 28, 12:00 p.m.",
+      "Latitude": 43.461911913037916,
+      "Longitude": -87.86613554819576,
+      "OffTime": "Oct 28, 1:50 p.m.",
+      "ETR": "Oct 28, 4:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 28, 9:40 a.m.",
+      "LastUpdated": "Oct 28, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 2,
-          "City": "niagara",
-          "CityCusts": 2256,
-          "County": "florence",
-          "CountyCusts": 3059,
-          "Zip": "54151",
-          "ZipCusts": 2266,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41469
-        }
-      ]
-    },
-    {
-      "Latitude": 43.07217922007363,
-      "Longitude": -87.98989755696631,
-      "OffTime": "Oct 28, 9:15 a.m.",
-      "ETR": "Oct 28, 12:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 28, 9:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 49,
-          "City": "milwaukee",
-          "CityCusts": 352430,
-          "County": "milwaukee",
-          "CountyCusts": 480326,
-          "Zip": "53210",
-          "ZipCusts": 12262,
+          "AffectedCusts": 1,
+          "City": "prt washingtn",
+          "CityCusts": 4254,
+          "County": "ozaukee",
+          "CountyCusts": 42798,
+          "Zip": "53074",
+          "ZipCusts": 7482,
           "Region": "southeast wi",
           "RegionCusts": 1075933
         }
       ]
     },
     {
-      "Latitude": 44.30202547391782,
-      "Longitude": -88.53473143367728,
-      "OffTime": "Oct 28, 9:38 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 28, 9:40 a.m.",
+      "Latitude": 43.06226503454546,
+      "Longitude": -88.14611408042407,
+      "OffTime": "Oct 28, 12:43 p.m.",
+      "ETR": "Oct 28, 3:30 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Tree contact with utility equipment",
+      "LastUpdated": "Oct 28, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "greenville",
-          "CityCusts": 4901,
-          "County": "outagamie",
-          "CountyCusts": 80360,
-          "Zip": "54942",
-          "ZipCusts": 4886,
-          "Region": "fox valley wi",
-          "RegionCusts": 143679
+          "AffectedCusts": 16,
+          "City": "brookfield",
+          "CityCusts": 23482,
+          "County": "waukesha",
+          "CountyCusts": 203856,
+          "Zip": "53045",
+          "ZipCusts": 11854,
+          "Region": "southeast wi",
+          "RegionCusts": 1075933
         }
       ]
     },
     {
-      "Latitude": 43.12241285146327,
-      "Longitude": -88.02384143167203,
-      "OffTime": "Oct 28, 9:12 a.m.",
-      "ETR": "Oct 28, 12:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 43.07804028539572,
+      "Longitude": -87.91637589302032,
+      "OffTime": "Oct 28, 2:12 p.m.",
+      "ETR": "Oct 28, 5:00 p.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 28, 9:40 a.m.",
+      "LastUpdated": "Oct 28, 2:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -86,111 +63,8 @@
           "CityCusts": 352430,
           "County": "milwaukee",
           "CountyCusts": 480326,
-          "Zip": "53225",
-          "ZipCusts": 12052,
-          "Region": "southeast wi",
-          "RegionCusts": 1075933
-        }
-      ]
-    },
-    {
-      "Latitude": 42.711615191863814,
-      "Longitude": -87.8493921257426,
-      "OffTime": "Oct 28, 6:11 a.m.",
-      "ETR": "Oct 28, 1:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Oct 28, 9:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 59059,
-          "County": "racine",
-          "CountyCusts": 102823,
-          "Zip": "53406",
-          "ZipCusts": 14617,
-          "Region": "southeast wi",
-          "RegionCusts": 1075933
-        }
-      ]
-    },
-    {
-      "Latitude": 42.983882718556885,
-      "Longitude": -88.03664829333422,
-      "OffTime": "Oct 28, 8:13 a.m.",
-      "ETR": "Oct 28, 11:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 28, 9:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352430,
-          "County": "milwaukee",
-          "CountyCusts": 480326,
-          "Zip": "53228",
-          "ZipCusts": 8264,
-          "Region": "southeast wi",
-          "RegionCusts": 1075933
-        },
-        {
-          "AffectedCusts": 19,
-          "City": "milwaukee",
-          "CityCusts": 352430,
-          "County": "milwaukee",
-          "CountyCusts": 480326,
-          "Zip": "53227",
-          "ZipCusts": 12605,
-          "Region": "southeast wi",
-          "RegionCusts": 1075933
-        }
-      ]
-    },
-    {
-      "Latitude": 44.28653916942654,
-      "Longitude": -88.56849878972103,
-      "OffTime": "Oct 28, 9:37 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 28, 9:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "greenville",
-          "CityCusts": 4901,
-          "County": "outagamie",
-          "CountyCusts": 80360,
-          "Zip": "54942",
-          "ZipCusts": 4886,
-          "Region": "fox valley wi",
-          "RegionCusts": 143679
-        }
-      ]
-    },
-    {
-      "Latitude": 42.759501559955574,
-      "Longitude": -88.21492806215481,
-      "OffTime": "Oct 28, 8:34 a.m.",
-      "ETR": "Oct 28, 11:30 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 28, 9:40 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "waterford",
-          "CityCusts": 7632,
-          "County": "racine",
-          "CountyCusts": 102823,
-          "Zip": "53185",
-          "ZipCusts": 9936,
+          "Zip": "53212",
+          "ZipCusts": 17031,
           "Region": "southeast wi",
           "RegionCusts": 1075933
         }
