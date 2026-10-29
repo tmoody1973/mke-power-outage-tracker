@@ -1,266 +1,162 @@
 {
-  "captured_at": "2026-10-29T16:05:04+00:00",
+  "captured_at": "2026-10-29T21:05:23+00:00",
   "events": [
     {
-      "Latitude": 42.51850712541268,
-      "Longitude": -87.8634649634944,
-      "OffTime": "Oct 29, 10:49 a.m.",
-      "ETR": "Oct 29, 1:30 p.m.",
+      "Latitude": 46.17068008901381,
+      "Longitude": -88.16419318812535,
+      "OffTime": "Oct 29, 1:51 p.m.",
+      "ETR": "Oct 29, 4:30 p.m.",
       "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 29, 11:00 a.m.",
+      "Cause": "Tree contact with utility equipment",
+      "LastUpdated": "Oct 29, 4:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 3,
-          "City": "pleasant pr",
-          "CityCusts": 6403,
-          "County": "kenosha",
-          "CountyCusts": 80372,
-          "Zip": "53158",
-          "ZipCusts": 9593,
-          "Region": "southeast wi",
-          "RegionCusts": 1075948
-        }
-      ]
-    },
-    {
-      "Latitude": 46.496534270935456,
-      "Longitude": -87.92249537861011,
-      "OffTime": "Oct 29, 2:46 a.m.",
-      "ETR": "Oct 29, 12:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Pole equipment problem",
-      "LastUpdated": "Oct 29, 11:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 5,
-          "City": "republic",
-          "CityCusts": 24,
-          "County": "marquette",
-          "CountyCusts": 1443,
-          "Zip": "49879",
-          "ZipCusts": 26,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41468
-        },
-        {
-          "AffectedCusts": 34,
-          "City": "champion",
-          "CityCusts": 725,
-          "County": "marquette",
-          "CountyCusts": 1443,
-          "Zip": "49814",
-          "ZipCusts": 724,
+          "AffectedCusts": 1,
+          "City": "crystal falls",
+          "CityCusts": 2032,
+          "County": "iron",
+          "CountyCusts": 4279,
+          "Zip": "49815",
+          "ZipCusts": 439,
           "Region": "upper peninsula mi",
           "RegionCusts": 41468
         },
         {
           "AffectedCusts": 1,
-          "City": "humboldt",
-          "CityCusts": 6,
-          "County": "marquette",
-          "CountyCusts": 1443,
-          "Zip": "49814",
-          "ZipCusts": 724,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41468
-        }
-      ]
-    },
-    {
-      "Latitude": 42.96168920517102,
-      "Longitude": -87.92805928435425,
-      "OffTime": "Oct 29, 10:28 a.m.",
-      "ETR": "Oct 29, 1:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 29, 11:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 5,
-          "City": "milwaukee",
-          "CityCusts": 352433,
-          "County": "milwaukee",
-          "CountyCusts": 480332,
-          "Zip": "53221",
-          "ZipCusts": 18461,
-          "Region": "southeast wi",
-          "RegionCusts": 1075948
-        }
-      ]
-    },
-    {
-      "Latitude": 46.49796175287364,
-      "Longitude": -87.89773556829942,
-      "OffTime": "Oct 29, 2:25 a.m.",
-      "ETR": "Oct 29, 12:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "We Energies equipment problem",
-      "LastUpdated": "Oct 29, 11:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "humboldt",
-          "CityCusts": 6,
-          "County": "marquette",
-          "CountyCusts": 1443,
-          "Zip": "49849",
-          "ZipCusts": 14,
+          "City": "sagola",
+          "CityCusts": 411,
+          "County": "iron",
+          "CountyCusts": 4279,
+          "Zip": "49881",
+          "ZipCusts": 404,
           "Region": "upper peninsula mi",
           "RegionCusts": 41468
         },
         {
-          "AffectedCusts": 56,
-          "City": "champion",
-          "CityCusts": 725,
-          "County": "marquette",
-          "CountyCusts": 1443,
-          "Zip": "49814",
-          "ZipCusts": 724,
+          "AffectedCusts": 17,
+          "City": "channing",
+          "CityCusts": 438,
+          "County": "iron",
+          "CountyCusts": 4279,
+          "Zip": "49815",
+          "ZipCusts": 439,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41468
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "channing",
+          "CityCusts": 438,
+          "County": "iron",
+          "CountyCusts": 4279,
+          "Zip": "49920",
+          "ZipCusts": 2035,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41468
+        },
+        {
+          "AffectedCusts": 29,
+          "City": "crystal falls",
+          "CityCusts": 2032,
+          "County": "iron",
+          "CountyCusts": 4279,
+          "Zip": "49920",
+          "ZipCusts": 2035,
           "Region": "upper peninsula mi",
           "RegionCusts": 41468
         }
       ]
     },
     {
-      "Latitude": 42.799773728479124,
-      "Longitude": -87.92624412190466,
-      "OffTime": "Oct 29, 10:42 a.m.",
-      "ETR": "Oct 29, 1:30 p.m.",
+      "Latitude": 43.5654164894676,
+      "Longitude": -88.395577036018,
+      "OffTime": "Oct 29, 1:11 p.m.",
+      "ETR": "Oct 29, 6:00 p.m.",
       "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 29, 11:00 a.m.",
+      "Cause": "Transformer problem",
+      "LastUpdated": "Oct 29, 4:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "caledonia",
-          "CityCusts": 2200,
-          "County": "racine",
-          "CountyCusts": 102827,
-          "Zip": "53108",
-          "ZipCusts": 1998,
+          "City": "lomira",
+          "CityCusts": 1838,
+          "County": "fond du lac",
+          "CountyCusts": 6962,
+          "Zip": "53048",
+          "ZipCusts": 1837,
           "Region": "southeast wi",
           "RegionCusts": 1075948
         }
       ]
     },
     {
-      "Latitude": 42.67489385667334,
-      "Longitude": -88.28911828194393,
-      "OffTime": "Oct 29, 10:36 a.m.",
-      "ETR": "Oct 29, 1:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 43.18674652472567,
+      "Longitude": -87.94186312396397,
+      "OffTime": "Oct 29, 2:09 p.m.",
+      "ETR": "Oct 29, 5:00 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 29, 11:00 a.m.",
+      "LastUpdated": "Oct 29, 4:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "burlington",
-          "CityCusts": 15587,
-          "County": "racine",
-          "CountyCusts": 102827,
-          "Zip": "53105",
-          "ZipCusts": 15629,
-          "Region": "southeast wi",
-          "RegionCusts": 1075948
-        }
-      ]
-    },
-    {
-      "Latitude": 44.54356502107845,
-      "Longitude": -88.29585695824106,
-      "OffTime": "Oct 29, 10:05 a.m.",
-      "ETR": "Oct 29, 1:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 29, 11:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "seymour",
-          "CityCusts": 3969,
-          "County": "outagamie",
-          "CountyCusts": 80360,
-          "Zip": "54165",
-          "ZipCusts": 3989,
-          "Region": "fox valley wi",
-          "RegionCusts": 143686
-        }
-      ]
-    },
-    {
-      "Latitude": 42.97612900726591,
-      "Longitude": -87.92969223599145,
-      "OffTime": "Oct 29, 9:26 a.m.",
-      "ETR": "Oct 29, 12:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 29, 11:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 15,
           "City": "milwaukee",
           "CityCusts": 352433,
           "County": "milwaukee",
           "CountyCusts": 480332,
-          "Zip": "53221",
-          "ZipCusts": 18461,
+          "Zip": "53217",
+          "ZipCusts": 15176,
           "Region": "southeast wi",
           "RegionCusts": 1075948
         }
       ]
     },
     {
-      "Latitude": 43.20493342134608,
-      "Longitude": -88.12705161837752,
-      "OffTime": "Oct 29, 9:05 a.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "Latitude": 42.929894951348565,
+      "Longitude": -88.0600055594514,
+      "OffTime": "Oct 29, 2:54 p.m.",
+      "ETR": "Oct 29, 5:30 p.m.",
       "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Oct 29, 11:00 a.m.",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 29, 4:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "germantown",
-          "CityCusts": 10404,
-          "County": "washington",
-          "CountyCusts": 61731,
-          "Zip": "53022",
-          "ZipCusts": 10403,
+          "City": "franklin",
+          "CityCusts": 17470,
+          "County": "milwaukee",
+          "CountyCusts": 480332,
+          "Zip": "53132",
+          "ZipCusts": 17471,
           "Region": "southeast wi",
           "RegionCusts": 1075948
         }
       ]
     },
     {
-      "Latitude": 42.67512265522201,
-      "Longitude": -88.2887007248407,
-      "OffTime": "Oct 29, 10:34 a.m.",
-      "ETR": "Oct 29, 1:30 p.m.",
+      "Latitude": 45.978316718452064,
+      "Longitude": -89.17711642082419,
+      "OffTime": "Oct 29, 3:34 p.m.",
+      "ETR": "Oct 29, 6:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 29, 11:00 a.m.",
+      "LastUpdated": "Oct 29, 4:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 39,
-          "City": "burlington",
-          "CityCusts": 15587,
-          "County": "racine",
-          "CountyCusts": 102827,
-          "Zip": "53105",
-          "ZipCusts": 15629,
-          "Region": "southeast wi",
-          "RegionCusts": 1075948
+          "AffectedCusts": 1,
+          "City": "eagle river",
+          "CityCusts": 505,
+          "County": "vilas",
+          "CountyCusts": 6278,
+          "Zip": "54521",
+          "ZipCusts": 508,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41468
         }
       ]
     }
