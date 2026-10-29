@@ -1,49 +1,72 @@
 {
-  "captured_at": "2026-10-28T23:43:56+00:00",
+  "captured_at": "2026-10-29T02:54:18+00:00",
   "events": [
     {
-      "Latitude": 42.96409548674167,
-      "Longitude": -88.04036643986753,
-      "OffTime": "Oct 28, 5:44 p.m.",
-      "ETR": "Oct 28, 8:30 p.m.",
+      "Latitude": 42.76529204269467,
+      "Longitude": -87.79275968744919,
+      "OffTime": "Oct 28, 8:29 p.m.",
+      "ETR": "Oct 28, 11:30 p.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 28, 6:40 p.m.",
+      "LastUpdated": "Oct 28, 9:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352430,
-          "County": "milwaukee",
-          "CountyCusts": 480326,
-          "Zip": "53228",
-          "ZipCusts": 8264,
+          "City": "racine",
+          "CityCusts": 59059,
+          "County": "racine",
+          "CountyCusts": 102823,
+          "Zip": "53402",
+          "ZipCusts": 16001,
           "Region": "southeast wi",
           "RegionCusts": 1075933
         }
       ]
     },
     {
-      "Latitude": 46.128530398822775,
-      "Longitude": -88.7831103746707,
-      "OffTime": "Oct 28, 2:06 p.m.",
-      "ETR": "Oct 28, 7:15 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Oct 28, 6:40 p.m.",
+      "Latitude": 46.16776106353487,
+      "Longitude": -89.33839524194862,
+      "OffTime": "Oct 28, 9:22 p.m.",
+      "ETR": "Oct 29, 12:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 28, 9:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "land o lakes",
+          "CityCusts": 1708,
+          "County": "vilas",
+          "CountyCusts": 6278,
+          "Zip": "54540",
+          "ZipCusts": 1706,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41469
+        }
+      ]
+    },
+    {
+      "Latitude": 43.510233559875395,
+      "Longitude": -88.04061146805357,
+      "OffTime": "Oct 28, 6:50 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 28, 9:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "iron river",
-          "CityCusts": 1766,
-          "County": "iron",
-          "CountyCusts": 4279,
-          "Zip": "49935",
-          "ZipCusts": 1767,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41469
+          "City": "fredonia",
+          "CityCusts": 2472,
+          "County": "washington",
+          "CountyCusts": 61731,
+          "Zip": "53021",
+          "ZipCusts": 2532,
+          "Region": "southeast wi",
+          "RegionCusts": 1075933
         }
       ]
     },
@@ -51,10 +74,10 @@
       "Latitude": 43.51383126888073,
       "Longitude": -87.93992533676915,
       "OffTime": "Oct 28, 4:09 p.m.",
-      "ETR": "Oct 28, 9:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "ETR": "Oct 28, 10:00 p.m.",
+      "CrewStatus": "On site",
       "Cause": "We Energies fuse problem",
-      "LastUpdated": "Oct 28, 6:40 p.m.",
+      "LastUpdated": "Oct 28, 9:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
