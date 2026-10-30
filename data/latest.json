@@ -1,209 +1,37 @@
 {
-  "captured_at": "2026-10-30T18:51:32+00:00",
+  "captured_at": "2026-10-30T22:44:05+00:00",
   "events": [
     {
-      "Latitude": 43.08519604803801,
-      "Longitude": -88.02608161965016,
-      "OffTime": "Oct 30, 1:42 p.m.",
-      "ETR": "Oct 30, 4:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 30, 1:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352431,
-          "County": "milwaukee",
-          "CountyCusts": 480328,
-          "Zip": "53222",
-          "ZipCusts": 13595,
-          "Region": "southeast wi",
-          "RegionCusts": 1075951
-        }
-      ]
-    },
-    {
-      "Latitude": 45.79465879399927,
-      "Longitude": -88.12161648487606,
-      "OffTime": "Oct 30, 1:39 p.m.",
-      "ETR": "Oct 30, 4:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 30, 1:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "niagara",
-          "CityCusts": 2256,
-          "County": "marinette",
-          "CountyCusts": 1616,
-          "Zip": "54151",
-          "ZipCusts": 2266,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41471
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "niagara",
-          "CityCusts": 2256,
-          "County": "florence",
-          "CountyCusts": 3059,
-          "Zip": "54151",
-          "ZipCusts": 2266,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41471
-        }
-      ]
-    },
-    {
-      "Latitude": 42.93406746471015,
-      "Longitude": -87.94957185262642,
-      "OffTime": "Oct 30, 12:36 p.m.",
-      "ETR": "Oct 30, 3:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies equipment problem",
-      "LastUpdated": "Oct 30, 1:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352431,
-          "County": "milwaukee",
-          "CountyCusts": 480328,
-          "Zip": "53221",
-          "ZipCusts": 18460,
-          "Region": "southeast wi",
-          "RegionCusts": 1075951
-        }
-      ]
-    },
-    {
-      "Latitude": 45.65047813860215,
-      "Longitude": -87.7661465469372,
-      "OffTime": "Oct 30, 11:35 a.m.",
-      "ETR": "Oct 30, 2:00 p.m.",
+      "Latitude": 43.39995026432257,
+      "Longitude": -88.27971466775283,
+      "OffTime": "Oct 30, 4:01 p.m.",
+      "ETR": "Oct 30, 7:00 p.m.",
       "CrewStatus": "Assigned",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Oct 30, 1:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "faithorn",
-          "CityCusts": 32,
-          "County": "menominee",
-          "CountyCusts": 3008,
-          "Zip": "49892",
-          "ZipCusts": 1072,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41471
-        }
-      ]
-    },
-    {
-      "Latitude": 43.01054285599921,
-      "Longitude": -88.12538561968337,
-      "OffTime": "Oct 30, 1:24 p.m.",
-      "ETR": "Oct 30, 4:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 30, 1:50 p.m.",
+      "LastUpdated": "Oct 30, 5:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 4,
-          "City": "new berlin",
-          "CityCusts": 20465,
-          "County": "waukesha",
-          "CountyCusts": 203852,
-          "Zip": "53151",
-          "ZipCusts": 16754,
-          "Region": "southeast wi",
-          "RegionCusts": 1075951
-        }
-      ]
-    },
-    {
-      "Latitude": 43.1273731704183,
-      "Longitude": -88.30166644832846,
-      "OffTime": "Oct 30, 10:40 a.m.",
-      "ETR": "Oct 30, 4:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Oct 30, 1:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "merton",
-          "CityCusts": 281,
-          "County": "waukesha",
-          "CountyCusts": 203852,
-          "Zip": "53056",
-          "ZipCusts": 191,
-          "Region": "southeast wi",
-          "RegionCusts": 1075951
-        }
-      ]
-    },
-    {
-      "Latitude": 42.56468421739654,
-      "Longitude": -87.84686848024337,
-      "OffTime": "Oct 30, 1:30 p.m.",
-      "ETR": "Oct 30, 4:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 30, 1:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54350,
-          "County": "kenosha",
-          "CountyCusts": 80374,
-          "Zip": "53142",
-          "ZipCusts": 15172,
-          "Region": "southeast wi",
-          "RegionCusts": 1075951
-        }
-      ]
-    },
-    {
-      "Latitude": 43.23322757459367,
-      "Longitude": -88.25180396689515,
-      "OffTime": "Oct 30, 12:35 p.m.",
-      "ETR": "Oct 30, 3:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 30, 1:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 8,
-          "City": "hubertus",
-          "CityCusts": 2737,
+          "City": "west bend",
+          "CityCusts": 26130,
           "County": "washington",
           "CountyCusts": 61730,
-          "Zip": "53033",
-          "ZipCusts": 2744,
+          "Zip": "53095",
+          "ZipCusts": 15598,
           "Region": "southeast wi",
           "RegionCusts": 1075951
         }
       ]
     },
     {
-      "Latitude": 43.06861880366303,
-      "Longitude": -87.91909627744853,
-      "OffTime": "Oct 30, 1:25 p.m.",
-      "ETR": "Oct 30, 4:00 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 43.07575025860621,
+      "Longitude": -88.00614579005213,
+      "OffTime": "Oct 30, 5:11 p.m.",
+      "ETR": "Oct 30, 8:00 p.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 30, 1:50 p.m.",
+      "LastUpdated": "Oct 30, 5:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -212,54 +40,8 @@
           "CityCusts": 352431,
           "County": "milwaukee",
           "CountyCusts": 480328,
-          "Zip": "53212",
-          "ZipCusts": 17031,
-          "Region": "southeast wi",
-          "RegionCusts": 1075951
-        }
-      ]
-    },
-    {
-      "Latitude": 42.5685210490517,
-      "Longitude": -87.83310122022979,
-      "OffTime": "Oct 30, 11:06 a.m.",
-      "ETR": "Oct 30, 2:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Oct 30, 1:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54350,
-          "County": "kenosha",
-          "CountyCusts": 80374,
-          "Zip": "53143",
-          "ZipCusts": 10243,
-          "Region": "southeast wi",
-          "RegionCusts": 1075951
-        }
-      ]
-    },
-    {
-      "Latitude": 43.107327647207775,
-      "Longitude": -87.96211217049972,
-      "OffTime": "Oct 30, 12:51 p.m.",
-      "ETR": "Oct 30, 3:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies equipment problem",
-      "LastUpdated": "Oct 30, 1:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352431,
-          "County": "milwaukee",
-          "CountyCusts": 480328,
-          "Zip": "53209",
-          "ZipCusts": 24003,
+          "Zip": "53210",
+          "ZipCusts": 12264,
           "Region": "southeast wi",
           "RegionCusts": 1075951
         }
