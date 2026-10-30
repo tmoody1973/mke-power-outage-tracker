@@ -1,4 +1,107 @@
 {
-  "captured_at": "2026-10-30T06:43:00+00:00",
-  "events": []
+  "captured_at": "2026-10-30T13:35:56+00:00",
+  "events": [
+    {
+      "Latitude": 43.12005365187607,
+      "Longitude": -88.06061440096015,
+      "OffTime": "Oct 30, 6:15 a.m.",
+      "ETR": "Oct 30, 10:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies overhead line problem",
+      "LastUpdated": "Oct 30, 8:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 440,
+          "City": "milwaukee",
+          "CityCusts": 352431,
+          "County": "milwaukee",
+          "CountyCusts": 480328,
+          "Zip": "53225",
+          "ZipCusts": 12053,
+          "Region": "southeast wi",
+          "RegionCusts": 1075951
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "menomonee falls",
+          "CityCusts": 6041,
+          "County": "waukesha",
+          "CountyCusts": 203852,
+          "Zip": "53051",
+          "ZipCusts": 21604,
+          "Region": "southeast wi",
+          "RegionCusts": 1075951
+        },
+        {
+          "AffectedCusts": 6,
+          "City": "milwaukee",
+          "CityCusts": 352431,
+          "County": "milwaukee",
+          "CountyCusts": 480328,
+          "Zip": "53224",
+          "ZipCusts": 9526,
+          "Region": "southeast wi",
+          "RegionCusts": 1075951
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352431,
+          "County": "waukesha",
+          "CountyCusts": 203852,
+          "Zip": "53225",
+          "ZipCusts": 12053,
+          "Region": "southeast wi",
+          "RegionCusts": 1075951
+        }
+      ]
+    },
+    {
+      "Latitude": 46.23065065802651,
+      "Longitude": -88.71206951031546,
+      "OffTime": "Oct 30, 7:35 a.m.",
+      "ETR": "Oct 30, 10:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 30, 8:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "iron river",
+          "CityCusts": 1766,
+          "County": "iron",
+          "CountyCusts": 4279,
+          "Zip": "49935",
+          "ZipCusts": 1767,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41471
+        }
+      ]
+    },
+    {
+      "Latitude": 43.12656657391756,
+      "Longitude": -88.05525393010221,
+      "OffTime": "Oct 30, 7:39 a.m.",
+      "ETR": "Oct 30, 10:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 30, 8:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 8,
+          "City": "milwaukee",
+          "CityCusts": 352431,
+          "County": "milwaukee",
+          "CountyCusts": 480328,
+          "Zip": "53225",
+          "ZipCusts": 12053,
+          "Region": "southeast wi",
+          "RegionCusts": 1075951
+        }
+      ]
+    }
+  ]
 }
