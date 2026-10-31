@@ -1,26 +1,49 @@
 {
-  "captured_at": "2026-10-31T07:46:22+00:00",
+  "captured_at": "2026-10-31T14:04:37+00:00",
   "events": [
     {
-      "Latitude": 42.72551929781499,
-      "Longitude": -87.81182220926934,
-      "OffTime": "Oct 31, 12:46 a.m.",
-      "ETR": "Oct 31, 3:30 a.m.",
-      "CrewStatus": "On the way",
+      "Latitude": 43.013253332279334,
+      "Longitude": -87.91703332492618,
+      "OffTime": "Oct 31, 7:20 a.m.",
+      "ETR": "Oct 31, 10:30 a.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 31, 2:40 a.m.",
+      "LastUpdated": "Oct 31, 9:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 57,
+          "City": "milwaukee",
+          "CityCusts": 352431,
+          "County": "milwaukee",
+          "CountyCusts": 480328,
+          "Zip": "53204",
+          "ZipCusts": 17670,
+          "Region": "southeast wi",
+          "RegionCusts": 1075951
+        }
+      ]
+    },
+    {
+      "Latitude": 44.27247815503793,
+      "Longitude": -88.6758773271719,
+      "OffTime": "Oct 31, 8:06 a.m.",
+      "ETR": "Oct 31, 11:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 31, 9:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 59063,
-          "County": "racine",
-          "CountyCusts": 102832,
-          "Zip": "53405",
-          "ZipCusts": 11780,
-          "Region": "southeast wi",
-          "RegionCusts": 1075951
+          "City": "hortonville",
+          "CityCusts": 4673,
+          "County": "outagamie",
+          "CountyCusts": 80363,
+          "Zip": "54944",
+          "ZipCusts": 4679,
+          "Region": "fox valley wi",
+          "RegionCusts": 143692
         }
       ]
     }
