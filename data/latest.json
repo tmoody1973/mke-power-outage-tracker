@@ -1,49 +1,72 @@
 {
-  "captured_at": "2026-10-31T14:04:37+00:00",
+  "captured_at": "2026-10-31T18:30:00+00:00",
   "events": [
     {
-      "Latitude": 43.013253332279334,
-      "Longitude": -87.91703332492618,
-      "OffTime": "Oct 31, 7:20 a.m.",
-      "ETR": "Oct 31, 10:30 a.m.",
-      "CrewStatus": "On site",
+      "Latitude": 42.72359517446063,
+      "Longitude": -87.95161114855483,
+      "OffTime": "Oct 31, 1:04 p.m.",
+      "ETR": "Oct 31, 4:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 31, 9:00 a.m.",
+      "LastUpdated": "Oct 31, 1:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 57,
-          "City": "milwaukee",
-          "CityCusts": 352431,
-          "County": "milwaukee",
-          "CountyCusts": 480328,
-          "Zip": "53204",
-          "ZipCusts": 17670,
+          "AffectedCusts": 1,
+          "City": "mount pleasant",
+          "CityCusts": 5600,
+          "County": "racine",
+          "CountyCusts": 102832,
+          "Zip": "53177",
+          "ZipCusts": 4809,
           "Region": "southeast wi",
           "RegionCusts": 1075951
         }
       ]
     },
     {
-      "Latitude": 44.27247815503793,
-      "Longitude": -88.6758773271719,
-      "OffTime": "Oct 31, 8:06 a.m.",
-      "ETR": "Oct 31, 11:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 31, 9:00 a.m.",
+      "Latitude": 43.06312405642939,
+      "Longitude": -88.15698004606195,
+      "OffTime": "Oct 31, 11:05 a.m.",
+      "ETR": "Oct 31, 2:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Oct 31, 1:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "hortonville",
-          "CityCusts": 4673,
-          "County": "outagamie",
-          "CountyCusts": 80363,
-          "Zip": "54944",
-          "ZipCusts": 4679,
-          "Region": "fox valley wi",
-          "RegionCusts": 143692
+          "City": "brookfield",
+          "CityCusts": 23478,
+          "County": "waukesha",
+          "CountyCusts": 203852,
+          "Zip": "53045",
+          "ZipCusts": 11852,
+          "Region": "southeast wi",
+          "RegionCusts": 1075951
+        }
+      ]
+    },
+    {
+      "Latitude": 42.94764230808275,
+      "Longitude": -88.41545657997712,
+      "OffTime": "Oct 31, 9:02 a.m.",
+      "ETR": "Oct 31, 2:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Oct 31, 1:20 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "north prairie",
+          "CityCusts": 1212,
+          "County": "waukesha",
+          "CountyCusts": 203852,
+          "Zip": "53153",
+          "ZipCusts": 1214,
+          "Region": "southeast wi",
+          "RegionCusts": 1075951
         }
       ]
     }
