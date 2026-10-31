@@ -1,14 +1,37 @@
 {
-  "captured_at": "2026-10-30T22:44:05+00:00",
+  "captured_at": "2026-10-31T01:51:19+00:00",
   "events": [
+    {
+      "Latitude": 43.29643662337915,
+      "Longitude": -88.42840279676295,
+      "OffTime": "Oct 30, 7:07 p.m.",
+      "ETR": "Oct 30, 10:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Oct 30, 8:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "rubicon",
+          "CityCusts": 1039,
+          "County": "dodge",
+          "CountyCusts": 17217,
+          "Zip": "53078",
+          "ZipCusts": 1035,
+          "Region": "southeast wi",
+          "RegionCusts": 1075951
+        }
+      ]
+    },
     {
       "Latitude": 43.39995026432257,
       "Longitude": -88.27971466775283,
       "OffTime": "Oct 30, 4:01 p.m.",
-      "ETR": "Oct 30, 7:00 p.m.",
-      "CrewStatus": "Assigned",
+      "ETR": "Oct 30, 9:30 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 30, 5:40 p.m.",
+      "LastUpdated": "Oct 30, 8:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -19,29 +42,6 @@
           "CountyCusts": 61730,
           "Zip": "53095",
           "ZipCusts": 15598,
-          "Region": "southeast wi",
-          "RegionCusts": 1075951
-        }
-      ]
-    },
-    {
-      "Latitude": 43.07575025860621,
-      "Longitude": -88.00614579005213,
-      "OffTime": "Oct 30, 5:11 p.m.",
-      "ETR": "Oct 30, 8:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Oct 30, 5:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352431,
-          "County": "milwaukee",
-          "CountyCusts": 480328,
-          "Zip": "53210",
-          "ZipCusts": 12264,
           "Region": "southeast wi",
           "RegionCusts": 1075951
         }
