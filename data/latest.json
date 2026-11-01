@@ -1,14 +1,60 @@
 {
-  "captured_at": "2026-11-01T00:34:27+00:00",
+  "captured_at": "2026-11-01T06:50:26+00:00",
   "events": [
     {
-      "Latitude": 43.188414798879435,
-      "Longitude": -88.00955815288235,
-      "OffTime": "Oct 31, 7:27 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 42.80128839359899,
+      "Longitude": -87.7885218513527,
+      "OffTime": "Nov 1, 12:54 a.m.",
+      "ETR": "Nov 1, 3:30 a.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Oct 31, 7:30 p.m.",
+      "LastUpdated": "Nov 1, 1:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "racine",
+          "CityCusts": 59063,
+          "County": "racine",
+          "CountyCusts": 102832,
+          "Zip": "53402",
+          "ZipCusts": 16004,
+          "Region": "southeast wi",
+          "RegionCusts": 1075951
+        }
+      ]
+    },
+    {
+      "Latitude": 43.126546314469564,
+      "Longitude": -88.53746388375573,
+      "OffTime": "Oct 31, 8:42 p.m.",
+      "ETR": "Nov 1, 4:00 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Nov 1, 1:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 5,
+          "City": "oconomowoc",
+          "CityCusts": 8571,
+          "County": "waukesha",
+          "CountyCusts": 203852,
+          "Zip": "53066",
+          "ZipCusts": 8903,
+          "Region": "southeast wi",
+          "RegionCusts": 1075951
+        }
+      ]
+    },
+    {
+      "Latitude": 43.11294566187586,
+      "Longitude": -87.96829227635757,
+      "OffTime": "Oct 31, 10:10 p.m.",
+      "ETR": "Nov 1, 3:00 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Nov 1, 1:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -17,8 +63,8 @@
           "CityCusts": 352431,
           "County": "milwaukee",
           "CountyCusts": 480328,
-          "Zip": "53223",
-          "ZipCusts": 14134,
+          "Zip": "53218",
+          "ZipCusts": 17034,
           "Region": "southeast wi",
           "RegionCusts": 1075951
         }
