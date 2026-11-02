@@ -1,93 +1,35 @@
 {
-  "captured_at": "2026-11-02T01:40:10+00:00",
+  "captured_at": "2026-11-02T08:17:57+00:00",
   "events": [
     {
-      "Latitude": 42.876857274943404,
-      "Longitude": -88.31638834856768,
-      "OffTime": "Nov 1, 2:09 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Assigned",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Nov 1, 7:40 p.m.",
+      "Latitude": 42.729002851217516,
+      "Longitude": -87.8940458192982,
+      "OffTime": "Nov 2, 12:52 a.m.",
+      "ETR": "Nov 2, 3:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 2, 2:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "mukwonago",
-          "CityCusts": 9922,
-          "County": "waukesha",
-          "CountyCusts": 203852,
-          "Zip": "53149",
-          "ZipCusts": 9938,
+          "AffectedCusts": 5,
+          "City": "mount pleasant",
+          "CityCusts": 5600,
+          "County": "racine",
+          "CountyCusts": 102832,
+          "Zip": "53406",
+          "ZipCusts": 14623,
           "Region": "southeast wi",
           "RegionCusts": 1075951
-        }
-      ]
-    },
-    {
-      "Latitude": 43.41464269186931,
-      "Longitude": -88.24947912572978,
-      "OffTime": "Nov 1, 1:28 p.m.",
-      "ETR": "Nov 1, 8:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Nov 1, 7:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
+        },
         {
-          "AffectedCusts": 1,
-          "City": "west bend",
-          "CityCusts": 26130,
-          "County": "washington",
-          "CountyCusts": 61730,
-          "Zip": "53095",
-          "ZipCusts": 15598,
-          "Region": "southeast wi",
-          "RegionCusts": 1075951
-        }
-      ]
-    },
-    {
-      "Latitude": 44.33200912581601,
-      "Longitude": -88.53798485264466,
-      "OffTime": "Nov 1, 2:32 p.m.",
-      "ETR": "Nov 1, 8:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Nov 1, 7:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "hortonville",
-          "CityCusts": 4673,
-          "County": "outagamie",
-          "CountyCusts": 80363,
-          "Zip": "54944",
-          "ZipCusts": 4679,
-          "Region": "fox valley wi",
-          "RegionCusts": 143692
-        }
-      ]
-    },
-    {
-      "Latitude": 43.08823626967267,
-      "Longitude": -88.09400795364171,
-      "OffTime": "Nov 1, 1:45 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Nov 1, 7:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 4,
-          "City": "brookfield",
-          "CityCusts": 23478,
-          "County": "waukesha",
-          "CountyCusts": 203852,
-          "Zip": "53005",
-          "ZipCusts": 11572,
+          "AffectedCusts": 3,
+          "City": "racine",
+          "CityCusts": 59063,
+          "County": "racine",
+          "CountyCusts": 102832,
+          "Zip": "53406",
+          "ZipCusts": 14623,
           "Region": "southeast wi",
           "RegionCusts": 1075951
         }
