@@ -1,37 +1,14 @@
 {
-  "captured_at": "2026-11-01T22:26:06+00:00",
+  "captured_at": "2026-11-02T01:40:10+00:00",
   "events": [
-    {
-      "Latitude": 43.41464269186931,
-      "Longitude": -88.24947912572978,
-      "OffTime": "Nov 1, 1:28 p.m.",
-      "ETR": "Nov 1, 6:30 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Nov 1, 4:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "west bend",
-          "CityCusts": 26130,
-          "County": "washington",
-          "CountyCusts": 61730,
-          "Zip": "53095",
-          "ZipCusts": 15598,
-          "Region": "southeast wi",
-          "RegionCusts": 1075951
-        }
-      ]
-    },
     {
       "Latitude": 42.876857274943404,
       "Longitude": -88.31638834856768,
       "OffTime": "Nov 1, 2:09 p.m.",
-      "ETR": "Nov 1, 5:00 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Nov 1, 4:20 p.m.",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Nov 1, 7:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -48,13 +25,36 @@
       ]
     },
     {
+      "Latitude": 43.41464269186931,
+      "Longitude": -88.24947912572978,
+      "OffTime": "Nov 1, 1:28 p.m.",
+      "ETR": "Nov 1, 8:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Nov 1, 7:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "west bend",
+          "CityCusts": 26130,
+          "County": "washington",
+          "CountyCusts": 61730,
+          "Zip": "53095",
+          "ZipCusts": 15598,
+          "Region": "southeast wi",
+          "RegionCusts": 1075951
+        }
+      ]
+    },
+    {
       "Latitude": 44.33200912581601,
       "Longitude": -88.53798485264466,
       "OffTime": "Nov 1, 2:32 p.m.",
-      "ETR": "Nov 1, 5:30 p.m.",
-      "CrewStatus": "Assigned",
+      "ETR": "Nov 1, 8:30 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Nov 1, 4:20 p.m.",
+      "LastUpdated": "Nov 1, 7:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -74,14 +74,14 @@
       "Latitude": 43.08823626967267,
       "Longitude": -88.09400795364171,
       "OffTime": "Nov 1, 1:45 p.m.",
-      "ETR": "Nov 1, 4:30 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "On site",
       "Cause": "Underground cable problem",
-      "LastUpdated": "Nov 1, 4:20 p.m.",
+      "LastUpdated": "Nov 1, 7:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 16,
+          "AffectedCusts": 4,
           "City": "brookfield",
           "CityCusts": 23478,
           "County": "waukesha",
