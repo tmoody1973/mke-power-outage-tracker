@@ -1,14 +1,129 @@
 {
-  "captured_at": "2026-11-03T01:16:04+00:00",
+  "captured_at": "2026-11-03T08:08:56+00:00",
   "events": [
     {
-      "Latitude": 44.616396681277735,
-      "Longitude": -88.58641397636633,
-      "OffTime": "Nov 2, 6:09 p.m.",
-      "ETR": "Nov 2, 9:00 p.m.",
+      "Latitude": 44.22079815104507,
+      "Longitude": -88.94676463787708,
+      "OffTime": "Nov 3, 12:30 a.m.",
+      "ETR": "Nov 3, 3:30 a.m.",
       "CrewStatus": "Specialized crew needed",
+      "Cause": "We Energies fuse problem",
+      "LastUpdated": "Nov 3, 2:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 3,
+          "City": "fremont",
+          "CityCusts": 3212,
+          "County": "waushara",
+          "CountyCusts": 870,
+          "Zip": "54940",
+          "ZipCusts": 3211,
+          "Region": "fox valley wi",
+          "RegionCusts": 143696
+        }
+      ]
+    },
+    {
+      "Latitude": 44.22108481861578,
+      "Longitude": -88.9469022475379,
+      "OffTime": "Nov 2, 11:25 p.m.",
+      "ETR": "Nov 3, 4:00 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "We Energies fuse problem",
+      "LastUpdated": "Nov 3, 2:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 4,
+          "City": "fremont",
+          "CityCusts": 3212,
+          "County": "waushara",
+          "CountyCusts": 870,
+          "Zip": "54940",
+          "ZipCusts": 3211,
+          "Region": "fox valley wi",
+          "RegionCusts": 143696
+        }
+      ]
+    },
+    {
+      "Latitude": 44.222500706613886,
+      "Longitude": -88.94696714653725,
+      "OffTime": "Nov 2, 10:25 p.m.",
+      "ETR": "Nov 3, 3:30 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "We Energies fuse problem",
+      "LastUpdated": "Nov 3, 2:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "fremont",
+          "CityCusts": 3212,
+          "County": "waushara",
+          "CountyCusts": 870,
+          "Zip": "54940",
+          "ZipCusts": 3211,
+          "Region": "fox valley wi",
+          "RegionCusts": 143696
+        }
+      ]
+    },
+    {
+      "Latitude": 43.32369339005442,
+      "Longitude": -87.95456214111,
+      "OffTime": "Nov 2, 11:04 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Nov 2, 7:10 p.m.",
+      "LastUpdated": "Nov 3, 2:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "grafton",
+          "CityCusts": 10621,
+          "County": "ozaukee",
+          "CountyCusts": 42797,
+          "Zip": "53024",
+          "ZipCusts": 10642,
+          "Region": "southeast wi",
+          "RegionCusts": 1075966
+        }
+      ]
+    },
+    {
+      "Latitude": 44.27516027038774,
+      "Longitude": -88.42310586997138,
+      "OffTime": "Nov 3, 12:30 a.m.",
+      "ETR": "Nov 3, 3:30 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 3, 2:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 63113,
+          "County": "outagamie",
+          "CountyCusts": 80360,
+          "Zip": "54914",
+          "ZipCusts": 16352,
+          "Region": "fox valley wi",
+          "RegionCusts": 143696
+        }
+      ]
+    },
+    {
+      "Latitude": 44.61724466707464,
+      "Longitude": -88.58990492918463,
+      "OffTime": "Nov 2, 6:09 p.m.",
+      "ETR": "Nov 3, 3:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Nov 3, 2:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
