@@ -1,93 +1,241 @@
 {
-  "captured_at": "2026-11-03T16:11:21+00:00",
+  "captured_at": "2026-11-03T21:45:15+00:00",
   "events": [
     {
-      "Latitude": 43.01140376838558,
-      "Longitude": -88.01249822758813,
-      "OffTime": "Nov 3, 10:06 a.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 43.130194101637684,
+      "Longitude": -88.00793051237005,
+      "OffTime": "Nov 3, 3:07 p.m.",
+      "ETR": "Nov 3, 6:30 p.m.",
+      "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Nov 3, 10:10 a.m.",
+      "LastUpdated": "Nov 3, 3:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "west allis",
-          "CityCusts": 15161,
+          "AffectedCusts": 2450,
+          "City": "milwaukee",
+          "CityCusts": 352460,
           "County": "milwaukee",
           "CountyCusts": 480370,
-          "Zip": "53214",
-          "ZipCusts": 19813,
+          "Zip": "53218",
+          "ZipCusts": 17035,
+          "Region": "southeast wi",
+          "RegionCusts": 1076036
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352460,
+          "County": "milwaukee",
+          "CountyCusts": 480370,
+          "Zip": "53209",
+          "ZipCusts": 24007,
+          "Region": "southeast wi",
+          "RegionCusts": 1076036
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352460,
+          "County": "milwaukee",
+          "CountyCusts": 480370,
+          "Zip": "53216",
+          "ZipCusts": 14840,
           "Region": "southeast wi",
           "RegionCusts": 1076036
         }
       ]
     },
     {
-      "Latitude": 44.68732870917045,
-      "Longitude": -88.26297089361954,
-      "OffTime": "Nov 3, 9:05 a.m.",
-      "ETR": "Nov 3, 12:00 p.m.",
+      "Latitude": 43.092593988496475,
+      "Longitude": -88.00123011818843,
+      "OffTime": "Nov 3, 3:32 p.m.",
+      "ETR": "Nov 3, 6:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 3, 3:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352460,
+          "County": "milwaukee",
+          "CountyCusts": 480370,
+          "Zip": "53216",
+          "ZipCusts": 14840,
+          "Region": "southeast wi",
+          "RegionCusts": 1076036
+        }
+      ]
+    },
+    {
+      "Latitude": 43.06901517973746,
+      "Longitude": -87.9781047337365,
+      "OffTime": "Nov 3, 3:34 p.m.",
+      "ETR": "Nov 3, 6:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 3, 3:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352460,
+          "County": "milwaukee",
+          "CountyCusts": 480370,
+          "Zip": "53210",
+          "ZipCusts": 12262,
+          "Region": "southeast wi",
+          "RegionCusts": 1076036
+        }
+      ]
+    },
+    {
+      "Latitude": 43.13018993953578,
+      "Longitude": -88.00815686030757,
+      "OffTime": "Nov 3, 3:28 p.m.",
+      "ETR": "Nov 3, 6:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 3, 3:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 32,
+          "City": "milwaukee",
+          "CityCusts": 352460,
+          "County": "milwaukee",
+          "CountyCusts": 480370,
+          "Zip": "53216",
+          "ZipCusts": 14840,
+          "Region": "southeast wi",
+          "RegionCusts": 1076036
+        },
+        {
+          "AffectedCusts": 127,
+          "City": "milwaukee",
+          "CityCusts": 352460,
+          "County": "milwaukee",
+          "CountyCusts": 480370,
+          "Zip": "53218",
+          "ZipCusts": 17035,
+          "Region": "southeast wi",
+          "RegionCusts": 1076036
+        }
+      ]
+    },
+    {
+      "Latitude": 43.12134187905133,
+      "Longitude": -87.98547077347494,
+      "OffTime": "Nov 3, 3:31 p.m.",
+      "ETR": "Nov 3, 6:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 3, 3:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352460,
+          "County": "milwaukee",
+          "CountyCusts": 480370,
+          "Zip": "53218",
+          "ZipCusts": 17035,
+          "Region": "southeast wi",
+          "RegionCusts": 1076036
+        }
+      ]
+    },
+    {
+      "Latitude": 42.95216004050749,
+      "Longitude": -87.87181559446267,
+      "OffTime": "Nov 3, 3:14 p.m.",
+      "ETR": "Nov 3, 6:00 p.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Nov 3, 10:10 a.m.",
+      "LastUpdated": "Nov 3, 3:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 26,
-          "City": "pulaski",
-          "CityCusts": 2765,
-          "County": "shawano",
-          "CountyCusts": 8374,
-          "Zip": "54162",
-          "ZipCusts": 2766,
-          "Region": "fox valley wi",
-          "RegionCusts": 143700
+          "AffectedCusts": 9,
+          "City": "cudahy",
+          "CityCusts": 9872,
+          "County": "milwaukee",
+          "CountyCusts": 480370,
+          "Zip": "53110",
+          "ZipCusts": 9871,
+          "Region": "southeast wi",
+          "RegionCusts": 1076036
         }
       ]
     },
     {
-      "Latitude": 44.27516027038774,
-      "Longitude": -88.42310586997138,
-      "OffTime": "Nov 3, 9:37 a.m.",
-      "ETR": "Nov 3, 12:30 p.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 42.91326250827564,
+      "Longitude": -88.84613566336789,
+      "OffTime": "Nov 3, 3:37 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Nov 3, 10:10 a.m.",
+      "LastUpdated": "Nov 3, 3:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 63114,
-          "County": "outagamie",
-          "CountyCusts": 80362,
-          "Zip": "54914",
-          "ZipCusts": 16352,
-          "Region": "fox valley wi",
-          "RegionCusts": 143700
+          "City": "milwaukee",
+          "CityCusts": 352460,
+          "County": "milwaukee",
+          "CountyCusts": 480370,
+          "Zip": "53218",
+          "ZipCusts": 17035,
+          "Region": "southeast wi",
+          "RegionCusts": 1076036
         }
       ]
     },
     {
-      "Latitude": 43.612788609867756,
-      "Longitude": -88.01195537995098,
-      "OffTime": "Nov 3, 9:24 a.m.",
-      "ETR": "Nov 3, 12:00 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 43.08917837833908,
+      "Longitude": -87.9989024668117,
+      "OffTime": "Nov 3, 3:33 p.m.",
+      "ETR": "Nov 3, 6:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Nov 3, 10:10 a.m.",
+      "LastUpdated": "Nov 3, 3:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "adell",
-          "CityCusts": 960,
-          "County": "sheboygan",
-          "CountyCusts": 14277,
-          "Zip": "53001",
-          "ZipCusts": 959,
+          "City": "milwaukee",
+          "CityCusts": 352460,
+          "County": "milwaukee",
+          "CountyCusts": 480370,
+          "Zip": "53216",
+          "ZipCusts": 14840,
+          "Region": "southeast wi",
+          "RegionCusts": 1076036
+        }
+      ]
+    },
+    {
+      "Latitude": 43.102010026990506,
+      "Longitude": -87.99217919974242,
+      "OffTime": "Nov 3, 3:23 p.m.",
+      "ETR": "Nov 3, 6:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 3, 3:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1395,
+          "City": "milwaukee",
+          "CityCusts": 352460,
+          "County": "milwaukee",
+          "CountyCusts": 480370,
+          "Zip": "53218",
+          "ZipCusts": 17035,
           "Region": "southeast wi",
           "RegionCusts": 1076036
         }
