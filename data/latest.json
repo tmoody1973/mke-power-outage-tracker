@@ -1,175 +1,26 @@
 {
-  "captured_at": "2026-11-02T18:37:52+00:00",
+  "captured_at": "2026-11-03T01:16:04+00:00",
   "events": [
     {
-      "Latitude": 42.977030071776895,
-      "Longitude": -87.99721210696612,
-      "OffTime": "Nov 2, 12:02 p.m.",
-      "ETR": "Nov 2, 3:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 44.616396681277735,
+      "Longitude": -88.58641397636633,
+      "OffTime": "Nov 2, 6:09 p.m.",
+      "ETR": "Nov 2, 9:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
       "Cause": "Not yet determined",
-      "LastUpdated": "Nov 2, 12:30 p.m.",
+      "LastUpdated": "Nov 2, 7:10 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352449,
-          "County": "milwaukee",
-          "CountyCusts": 480350,
-          "Zip": "53220",
-          "ZipCusts": 13721,
-          "Region": "southeast wi",
-          "RegionCusts": 1075966
-        }
-      ]
-    },
-    {
-      "Latitude": 43.123934581509936,
-      "Longitude": -88.02217222460841,
-      "OffTime": "Nov 2, 12:22 p.m.",
-      "ETR": "Nov 2, 3:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Nov 2, 12:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 46,
-          "City": "milwaukee",
-          "CityCusts": 352449,
-          "County": "milwaukee",
-          "CountyCusts": 480350,
-          "Zip": "53225",
-          "ZipCusts": 12057,
-          "Region": "southeast wi",
-          "RegionCusts": 1075966
-        }
-      ]
-    },
-    {
-      "Latitude": 44.622075630714534,
-      "Longitude": -88.27151591165126,
-      "OffTime": "Nov 2, 11:18 a.m.",
-      "ETR": "Nov 2, 2:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Nov 2, 12:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "pulaski",
-          "CityCusts": 2765,
-          "County": "brown",
-          "CountyCusts": 1903,
-          "Zip": "54162",
-          "ZipCusts": 2766,
-          "Region": "fox valley wi",
-          "RegionCusts": 143696
-        },
-        {
-          "AffectedCusts": 4,
-          "City": "pulaski",
-          "CityCusts": 2765,
+          "City": "shiocton",
+          "CityCusts": 2129,
           "County": "shawano",
           "CountyCusts": 8374,
-          "Zip": "54162",
-          "ZipCusts": 2766,
+          "Zip": "54170",
+          "ZipCusts": 2130,
           "Region": "fox valley wi",
           "RegionCusts": 143696
-        }
-      ]
-    },
-    {
-      "Latitude": 43.08882316210577,
-      "Longitude": -87.9464460028537,
-      "OffTime": "Nov 2, 12:16 p.m.",
-      "ETR": "Nov 2, 3:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Nov 2, 12:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352449,
-          "County": "milwaukee",
-          "CountyCusts": 480350,
-          "Zip": "53206",
-          "ZipCusts": 10802,
-          "Region": "southeast wi",
-          "RegionCusts": 1075966
-        }
-      ]
-    },
-    {
-      "Latitude": 42.92026125933482,
-      "Longitude": -87.97561388400348,
-      "OffTime": "Nov 2, 10:17 a.m.",
-      "ETR": "Nov 2, 1:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Nov 2, 12:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "franklin",
-          "CityCusts": 17469,
-          "County": "milwaukee",
-          "CountyCusts": 480350,
-          "Zip": "53132",
-          "ZipCusts": 17470,
-          "Region": "southeast wi",
-          "RegionCusts": 1075966
-        }
-      ]
-    },
-    {
-      "Latitude": 43.26282431397263,
-      "Longitude": -88.16547060636657,
-      "OffTime": "Nov 2, 9:23 a.m.",
-      "ETR": "Nov 2, 2:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Underground cable problem",
-      "LastUpdated": "Nov 2, 12:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "richfield",
-          "CityCusts": 2116,
-          "County": "washington",
-          "CountyCusts": 61734,
-          "Zip": "53076",
-          "ZipCusts": 2098,
-          "Region": "southeast wi",
-          "RegionCusts": 1075966
-        }
-      ]
-    },
-    {
-      "Latitude": 43.01463226437573,
-      "Longitude": -88.00904652814681,
-      "OffTime": "Nov 2, 11:56 a.m.",
-      "ETR": "Nov 2, 2:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Nov 2, 12:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "west allis",
-          "CityCusts": 15159,
-          "County": "milwaukee",
-          "CountyCusts": 480350,
-          "Zip": "53214",
-          "ZipCusts": 19813,
-          "Region": "southeast wi",
-          "RegionCusts": 1075966
         }
       ]
     }
