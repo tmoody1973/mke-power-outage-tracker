@@ -1,118 +1,432 @@
 {
-  "captured_at": "2026-11-04T16:27:18+00:00",
+  "captured_at": "2026-11-04T22:01:52+00:00",
   "events": [
     {
-      "Latitude": 43.10515172756785,
-      "Longitude": -87.93752256062119,
-      "OffTime": "Nov 4, 9:56 a.m.",
-      "ETR": "Nov 4, 12:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Nov 4, 10:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 26,
-          "City": "milwaukee",
-          "CityCusts": 352269,
-          "County": "milwaukee",
-          "CountyCusts": 480136,
-          "Zip": "53209",
-          "ZipCusts": 23995,
-          "Region": "southeast wi",
-          "RegionCusts": 1075656
-        }
-      ]
-    },
-    {
-      "Latitude": 42.70064604272531,
-      "Longitude": -87.80845246655826,
-      "OffTime": "Nov 4, 9:08 a.m.",
-      "ETR": "Nov 4, 12:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Nov 4, 10:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 59041,
-          "County": "racine",
-          "CountyCusts": 102813,
-          "Zip": "53403",
-          "ZipCusts": 14397,
-          "Region": "southeast wi",
-          "RegionCusts": 1075656
-        }
-      ]
-    },
-    {
-      "Latitude": 44.28262778546074,
-      "Longitude": -88.43353980208336,
-      "OffTime": "Nov 4, 10:17 a.m.",
-      "ETR": "Not yet determined",
+      "Latitude": 44.38551939361234,
+      "Longitude": -88.29111593579033,
+      "OffTime": "Nov 4, 2:01 p.m.",
+      "ETR": "Nov 4, 5:00 p.m.",
       "CrewStatus": "Assigned",
-      "Cause": "Scheduled system improvement work",
-      "LastUpdated": "Nov 4, 10:20 a.m.",
+      "Cause": "Vehicle accident",
+      "LastUpdated": "Nov 4, 4:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 59,
+          "AffectedCusts": 156,
+          "City": "freedom",
+          "CityCusts": 1100,
+          "County": "outagamie",
+          "CountyCusts": 80343,
+          "Zip": "54130",
+          "ZipCusts": 3000,
+          "Region": "fox valley wi",
+          "RegionCusts": 143659
+        },
+        {
+          "AffectedCusts": 107,
           "City": "appleton",
           "CityCusts": 63092,
           "County": "outagamie",
           "CountyCusts": 80343,
-          "Zip": "54914",
-          "ZipCusts": 16348,
+          "Zip": "54913",
+          "ZipCusts": 14035,
+          "Region": "fox valley wi",
+          "RegionCusts": 143659
+        },
+        {
+          "AffectedCusts": 329,
+          "City": "kaukauna",
+          "CityCusts": 2413,
+          "County": "outagamie",
+          "CountyCusts": 80343,
+          "Zip": "54130",
+          "ZipCusts": 3000,
+          "Region": "fox valley wi",
+          "RegionCusts": 143659
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "appleton",
+          "CityCusts": 63092,
+          "County": "calumet",
+          "CountyCusts": 14496,
+          "Zip": "54913",
+          "ZipCusts": 14035,
+          "Region": "fox valley wi",
+          "RegionCusts": 143659
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "freedom",
+          "CityCusts": 1100,
+          "County": "outagamie",
+          "CountyCusts": 80343,
+          "Zip": "54915",
+          "ZipCusts": 20160,
+          "Region": "fox valley wi",
+          "RegionCusts": 143659
+        },
+        {
+          "AffectedCusts": 56,
+          "City": "freedom",
+          "CityCusts": 1100,
+          "County": "outagamie",
+          "CountyCusts": 80343,
+          "Zip": "54913",
+          "ZipCusts": 14035,
+          "Region": "fox valley wi",
+          "RegionCusts": 143659
+        },
+        {
+          "AffectedCusts": 5,
+          "City": "freedom",
+          "CityCusts": 1100,
+          "County": "outagamie",
+          "CountyCusts": 80343,
+          "Zip": "54131",
+          "ZipCusts": 10,
           "Region": "fox valley wi",
           "RegionCusts": 143659
         }
       ]
     },
     {
-      "Latitude": 43.21731528721303,
-      "Longitude": -87.97432381903614,
-      "OffTime": "Nov 4, 8:05 a.m.",
-      "ETR": "Nov 4, 11:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Nov 4, 10:20 a.m.",
+      "Latitude": 43.16758502318124,
+      "Longitude": -88.02812892744186,
+      "OffTime": "Nov 4, 1:58 p.m.",
+      "ETR": "Nov 4, 5:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "",
+      "LastUpdated": "Nov 4, 4:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "mequon",
-          "CityCusts": 12369,
-          "County": "ozaukee",
-          "CountyCusts": 42809,
-          "Zip": "53092",
-          "ZipCusts": 11529,
+          "City": "milwaukee",
+          "CityCusts": 352270,
+          "County": "milwaukee",
+          "CountyCusts": 480136,
+          "Zip": "53224",
+          "ZipCusts": 9515,
           "Region": "southeast wi",
-          "RegionCusts": 1075656
+          "RegionCusts": 1075657
         }
       ]
     },
     {
-      "Latitude": 42.94198734262508,
-      "Longitude": -88.18786246252117,
-      "OffTime": "Nov 4, 8:34 a.m.",
-      "ETR": "Nov 4, 11:30 a.m.",
+      "Latitude": 43.104934351125266,
+      "Longitude": -88.42371246840327,
+      "OffTime": "Nov 4, 2:43 p.m.",
+      "ETR": "Nov 4, 5:30 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Squirrel contact with equipment",
+      "LastUpdated": "Nov 4, 4:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 98,
+          "City": "nashotah",
+          "CityCusts": 1829,
+          "County": "waukesha",
+          "CountyCusts": 203793,
+          "Zip": "53058",
+          "ZipCusts": 1839,
+          "Region": "southeast wi",
+          "RegionCusts": 1075657
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "merton",
+          "CityCusts": 280,
+          "County": "waukesha",
+          "CountyCusts": 203793,
+          "Zip": "53058",
+          "ZipCusts": 1839,
+          "Region": "southeast wi",
+          "RegionCusts": 1075657
+        }
+      ]
+    },
+    {
+      "Latitude": 44.38551939361234,
+      "Longitude": -88.29111593579033,
+      "OffTime": "Nov 4, 2:46 p.m.",
+      "ETR": "Nov 4, 5:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Vehicle accident",
+      "LastUpdated": "Nov 4, 4:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 46,
+          "City": "appleton",
+          "CityCusts": 63092,
+          "County": "outagamie",
+          "CountyCusts": 80343,
+          "Zip": "54913",
+          "ZipCusts": 14035,
+          "Region": "fox valley wi",
+          "RegionCusts": 143659
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "freedom",
+          "CityCusts": 1100,
+          "County": "outagamie",
+          "CountyCusts": 80343,
+          "Zip": "54131",
+          "ZipCusts": 10,
+          "Region": "fox valley wi",
+          "RegionCusts": 143659
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "freedom",
+          "CityCusts": 1100,
+          "County": "calumet",
+          "CountyCusts": 14496,
+          "Zip": "54913",
+          "ZipCusts": 14035,
+          "Region": "fox valley wi",
+          "RegionCusts": 143659
+        },
+        {
+          "AffectedCusts": 137,
+          "City": "freedom",
+          "CityCusts": 1100,
+          "County": "outagamie",
+          "CountyCusts": 80343,
+          "Zip": "54130",
+          "ZipCusts": 3000,
+          "Region": "fox valley wi",
+          "RegionCusts": 143659
+        },
+        {
+          "AffectedCusts": 80,
+          "City": "freedom",
+          "CityCusts": 1100,
+          "County": "outagamie",
+          "CountyCusts": 80343,
+          "Zip": "54913",
+          "ZipCusts": 14035,
+          "Region": "fox valley wi",
+          "RegionCusts": 143659
+        },
+        {
+          "AffectedCusts": 208,
+          "City": "kaukauna",
+          "CityCusts": 2413,
+          "County": "outagamie",
+          "CountyCusts": 80343,
+          "Zip": "54130",
+          "ZipCusts": 3000,
+          "Region": "fox valley wi",
+          "RegionCusts": 143659
+        }
+      ]
+    },
+    {
+      "Latitude": 43.06613664428203,
+      "Longitude": -88.06805224670975,
+      "OffTime": "Nov 4, 1:59 p.m.",
+      "ETR": "Nov 4, 5:00 p.m.",
       "CrewStatus": "On site",
       "Cause": "Tree contact with service wire",
-      "LastUpdated": "Nov 4, 10:20 a.m.",
+      "LastUpdated": "Nov 4, 4:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "new berlin",
-          "CityCusts": 20453,
+          "City": "brookfield",
+          "CityCusts": 23471,
           "County": "waukesha",
           "CountyCusts": 203793,
-          "Zip": "53146",
-          "ZipCusts": 3699,
+          "Zip": "53005",
+          "ZipCusts": 11571,
           "Region": "southeast wi",
-          "RegionCusts": 1075656
+          "RegionCusts": 1075657
+        }
+      ]
+    },
+    {
+      "Latitude": 43.1889131886875,
+      "Longitude": -87.90901468659435,
+      "OffTime": "Nov 4, 2:59 p.m.",
+      "ETR": "Nov 4, 6:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "",
+      "LastUpdated": "Nov 4, 4:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352270,
+          "County": "milwaukee",
+          "CountyCusts": 480136,
+          "Zip": "53217",
+          "ZipCusts": 15170,
+          "Region": "southeast wi",
+          "RegionCusts": 1075657
+        }
+      ]
+    },
+    {
+      "Latitude": 44.62658241664699,
+      "Longitude": -88.3953742051521,
+      "OffTime": "Nov 4, 11:51 a.m.",
+      "ETR": "Nov 4, 5:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Broken pole",
+      "LastUpdated": "Nov 4, 4:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "pulaski",
+          "CityCusts": 2764,
+          "County": "shawano",
+          "CountyCusts": 8374,
+          "Zip": "54162",
+          "ZipCusts": 2765,
+          "Region": "fox valley wi",
+          "RegionCusts": 143659
+        }
+      ]
+    },
+    {
+      "Latitude": 44.38551939361234,
+      "Longitude": -88.29111593579033,
+      "OffTime": "Nov 4, 2:01 p.m.",
+      "ETR": "Nov 4, 5:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Vehicle accident",
+      "LastUpdated": "Nov 4, 4:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 44,
+          "City": "freedom",
+          "CityCusts": 1100,
+          "County": "outagamie",
+          "CountyCusts": 80343,
+          "Zip": "54913",
+          "ZipCusts": 14035,
+          "Region": "fox valley wi",
+          "RegionCusts": 143659
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "freedom",
+          "CityCusts": 1100,
+          "County": "outagamie",
+          "CountyCusts": 80343,
+          "Zip": "54131",
+          "ZipCusts": 10,
+          "Region": "fox valley wi",
+          "RegionCusts": 143659
+        },
+        {
+          "AffectedCusts": 82,
+          "City": "freedom",
+          "CityCusts": 1100,
+          "County": "outagamie",
+          "CountyCusts": 80343,
+          "Zip": "54130",
+          "ZipCusts": 3000,
+          "Region": "fox valley wi",
+          "RegionCusts": 143659
+        },
+        {
+          "AffectedCusts": 135,
+          "City": "kaukauna",
+          "CityCusts": 2413,
+          "County": "outagamie",
+          "CountyCusts": 80343,
+          "Zip": "54130",
+          "ZipCusts": 3000,
+          "Region": "fox valley wi",
+          "RegionCusts": 143659
+        },
+        {
+          "AffectedCusts": 86,
+          "City": "appleton",
+          "CityCusts": 63092,
+          "County": "outagamie",
+          "CountyCusts": 80343,
+          "Zip": "54913",
+          "ZipCusts": 14035,
+          "Region": "fox valley wi",
+          "RegionCusts": 143659
+        }
+      ]
+    },
+    {
+      "Latitude": 43.025663980862554,
+      "Longitude": -88.01745180114466,
+      "OffTime": "Nov 4, 3:03 p.m.",
+      "ETR": "Nov 4, 6:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 4, 4:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352270,
+          "County": "milwaukee",
+          "CountyCusts": 480136,
+          "Zip": "53214",
+          "ZipCusts": 19802,
+          "Region": "southeast wi",
+          "RegionCusts": 1075657
+        }
+      ]
+    },
+    {
+      "Latitude": 43.06302160107696,
+      "Longitude": -88.23161487672999,
+      "OffTime": "Nov 4, 1:09 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Nov 4, 4:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 9,
+          "City": "pewaukee",
+          "CityCusts": 14895,
+          "County": "waukesha",
+          "CountyCusts": 203793,
+          "Zip": "53072",
+          "ZipCusts": 14960,
+          "Region": "southeast wi",
+          "RegionCusts": 1075657
+        }
+      ]
+    },
+    {
+      "Latitude": 43.104829476570636,
+      "Longitude": -88.4219184673027,
+      "OffTime": "Nov 4, 2:45 p.m.",
+      "ETR": "Nov 4, 5:30 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 4, 4:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "nashotah",
+          "CityCusts": 1829,
+          "County": "waukesha",
+          "CountyCusts": 203793,
+          "Zip": "53058",
+          "ZipCusts": 1839,
+          "Region": "southeast wi",
+          "RegionCusts": 1075657
         }
       ]
     }
