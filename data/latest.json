@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-11-05T22:50:02+00:00",
+  "captured_at": "2026-11-06T02:58:15+00:00",
   "events": [
     {
-      "Latitude": 43.00159180760869,
-      "Longitude": -87.97300350013869,
-      "OffTime": "Nov 5, 3:47 p.m.",
-      "ETR": "Nov 5, 6:30 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 44.286957001845686,
+      "Longitude": -88.41628419077458,
+      "OffTime": "Nov 5, 8:19 p.m.",
+      "ETR": "Nov 5, 11:00 p.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Nov 5, 4:40 p.m.",
+      "LastUpdated": "Nov 5, 8:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -17,30 +17,31 @@
           "CityCusts": 63096,
           "County": "outagamie",
           "CountyCusts": 80351,
-          "Zip": "54913",
-          "ZipCusts": 14039,
-          "Region": "southeast wi",
-          "RegionCusts": 1075603
-        },
+          "Zip": "54911",
+          "ZipCusts": 13378,
+          "Region": "fox valley wi",
+          "RegionCusts": 143672
+        }
+      ]
+    },
+    {
+      "Latitude": 42.63158399886295,
+      "Longitude": -87.83475299105146,
+      "OffTime": "Nov 5, 7:06 p.m.",
+      "ETR": "Nov 5, 10:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 5, 8:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
         {
-          "AffectedCusts": 1365,
-          "City": "milwaukee",
-          "CityCusts": 352196,
-          "County": "milwaukee",
-          "CountyCusts": 480086,
-          "Zip": "53215",
-          "ZipCusts": 22367,
-          "Region": "southeast wi",
-          "RegionCusts": 1075603
-        },
-        {
-          "AffectedCusts": 51,
-          "City": "milwaukee",
-          "CityCusts": 352196,
-          "County": "milwaukee",
-          "CountyCusts": 480086,
-          "Zip": "53219",
-          "ZipCusts": 17486,
+          "AffectedCusts": 135,
+          "City": "kenosha",
+          "CityCusts": 54320,
+          "County": "kenosha",
+          "CountyCusts": 80347,
+          "Zip": "53140",
+          "ZipCusts": 14874,
           "Region": "southeast wi",
           "RegionCusts": 1075603
         }
