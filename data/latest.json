@@ -1,4 +1,74 @@
 {
-  "captured_at": "2026-11-06T10:26:04+00:00",
-  "events": []
+  "captured_at": "2026-11-06T17:36:33+00:00",
+  "events": [
+    {
+      "Latitude": 43.08099842261137,
+      "Longitude": -87.93286061421769,
+      "OffTime": "Nov 6, 9:38 a.m.",
+      "ETR": "Nov 6, 12:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 6, 11:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352166,
+          "County": "milwaukee",
+          "CountyCusts": 480062,
+          "Zip": "53206",
+          "ZipCusts": 10779,
+          "Region": "southeast wi",
+          "RegionCusts": 1075627
+        }
+      ]
+    },
+    {
+      "Latitude": 42.99025945077039,
+      "Longitude": -88.11080937951654,
+      "OffTime": "Nov 6, 11:01 a.m.",
+      "ETR": "Nov 6, 2:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 6, 11:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "new berlin",
+          "CityCusts": 20456,
+          "County": "waukesha",
+          "CountyCusts": 203823,
+          "Zip": "53151",
+          "ZipCusts": 16745,
+          "Region": "southeast wi",
+          "RegionCusts": 1075627
+        }
+      ]
+    },
+    {
+      "Latitude": 43.53425242759999,
+      "Longitude": -88.23455312713826,
+      "OffTime": "Nov 6, 11:12 a.m.",
+      "ETR": "Nov 6, 2:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 6, 11:30 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kewaskum",
+          "CityCusts": 4417,
+          "County": "washington",
+          "CountyCusts": 61734,
+          "Zip": "53040",
+          "ZipCusts": 4423,
+          "Region": "southeast wi",
+          "RegionCusts": 1075627
+        }
+      ]
+    }
+  ]
 }
