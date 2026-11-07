@@ -1,93 +1,47 @@
 {
-  "captured_at": "2026-11-07T15:09:06+00:00",
+  "captured_at": "2026-11-07T19:23:34+00:00",
   "events": [
     {
-      "Latitude": 43.01781989089406,
-      "Longitude": -87.9415265418039,
-      "OffTime": "Nov 7, 8:40 a.m.",
-      "ETR": "Nov 7, 11:30 a.m.",
+      "Latitude": 46.00794605264819,
+      "Longitude": -89.24138311832819,
+      "OffTime": "Nov 7, 11:49 a.m.",
+      "ETR": "Nov 7, 2:30 p.m.",
       "CrewStatus": "Assigned",
       "Cause": "Not yet determined",
-      "LastUpdated": "Nov 7, 9:00 a.m.",
+      "LastUpdated": "Nov 7, 1:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352166,
-          "County": "milwaukee",
-          "CountyCusts": 480062,
-          "Zip": "53204",
-          "ZipCusts": 17646,
-          "Region": "southeast wi",
-          "RegionCusts": 1075627
+          "City": "conover",
+          "CityCusts": 2093,
+          "County": "vilas",
+          "CountyCusts": 6279,
+          "Zip": "54519",
+          "ZipCusts": 2094,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41470
         }
       ]
     },
     {
-      "Latitude": 43.47076833602694,
-      "Longitude": -88.29300498998815,
-      "OffTime": "Nov 7, 6:16 a.m.",
-      "ETR": "Nov 7, 12:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Vehicle accident",
-      "LastUpdated": "Nov 7, 9:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "west bend",
-          "CityCusts": 26131,
-          "County": "washington",
-          "CountyCusts": 61734,
-          "Zip": "53090",
-          "ZipCusts": 10561,
-          "Region": "southeast wi",
-          "RegionCusts": 1075627
-        }
-      ]
-    },
-    {
-      "Latitude": 43.04107099415626,
-      "Longitude": -87.9294646976598,
-      "OffTime": "Nov 7, 8:00 a.m.",
-      "ETR": "Nov 7, 11:00 a.m.",
-      "CrewStatus": "On site",
-      "Cause": "Wildlife contact with equipment",
-      "LastUpdated": "Nov 7, 9:00 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 116,
-          "City": "milwaukee",
-          "CityCusts": 352166,
-          "County": "milwaukee",
-          "CountyCusts": 480062,
-          "Zip": "53233",
-          "ZipCusts": 6761,
-          "Region": "southeast wi",
-          "RegionCusts": 1075627
-        }
-      ]
-    },
-    {
-      "Latitude": 42.66944806833437,
-      "Longitude": -88.38682734866275,
-      "OffTime": "Nov 7, 8:55 a.m.",
-      "ETR": "Not yet determined",
+      "Latitude": 43.3228822720234,
+      "Longitude": -88.0677780459331,
+      "OffTime": "Nov 7, 1:05 p.m.",
+      "ETR": "Nov 7, 4:00 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Nov 7, 9:00 a.m.",
+      "LastUpdated": "Nov 7, 1:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "lyons",
-          "CityCusts": 103,
-          "County": "walworth",
-          "CountyCusts": 24256,
-          "Zip": "53148",
-          "ZipCusts": 81,
+          "AffectedCusts": 3,
+          "City": "cedarburg",
+          "CityCusts": 2885,
+          "County": "washington",
+          "CountyCusts": 61734,
+          "Zip": "53012",
+          "ZipCusts": 2879,
           "Region": "southeast wi",
           "RegionCusts": 1075627
         }
