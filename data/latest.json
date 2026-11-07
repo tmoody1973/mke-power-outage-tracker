@@ -1,47 +1,104 @@
 {
-  "captured_at": "2026-11-07T19:23:34+00:00",
+  "captured_at": "2026-11-07T22:51:06+00:00",
   "events": [
     {
-      "Latitude": 46.00794605264819,
-      "Longitude": -89.24138311832819,
-      "OffTime": "Nov 7, 11:49 a.m.",
-      "ETR": "Nov 7, 2:30 p.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 43.06033564887379,
+      "Longitude": -87.99324172351648,
+      "OffTime": "Nov 7, 4:41 p.m.",
+      "ETR": "Nov 7, 7:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Nov 7, 1:20 p.m.",
+      "LastUpdated": "Nov 7, 4:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "conover",
-          "CityCusts": 2093,
-          "County": "vilas",
-          "CountyCusts": 6279,
-          "Zip": "54519",
-          "ZipCusts": 2094,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41470
+          "City": "wauwatosa",
+          "CityCusts": 10664,
+          "County": "milwaukee",
+          "CountyCusts": 480062,
+          "Zip": "53213",
+          "ZipCusts": 13883,
+          "Region": "southeast wi",
+          "RegionCusts": 1075627
         }
       ]
     },
     {
-      "Latitude": 43.3228822720234,
-      "Longitude": -88.0677780459331,
-      "OffTime": "Nov 7, 1:05 p.m.",
-      "ETR": "Nov 7, 4:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "Latitude": 43.010573306793646,
+      "Longitude": -87.98847531573594,
+      "OffTime": "Nov 7, 3:34 p.m.",
+      "ETR": "Nov 7, 6:30 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Nov 7, 1:20 p.m.",
+      "LastUpdated": "Nov 7, 4:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 3,
-          "City": "cedarburg",
-          "CityCusts": 2885,
-          "County": "washington",
-          "CountyCusts": 61734,
-          "Zip": "53012",
-          "ZipCusts": 2879,
+          "AffectedCusts": 1,
+          "City": "west allis",
+          "CityCusts": 15156,
+          "County": "milwaukee",
+          "CountyCusts": 480062,
+          "Zip": "53219",
+          "ZipCusts": 17486,
+          "Region": "southeast wi",
+          "RegionCusts": 1075627
+        }
+      ]
+    },
+    {
+      "Latitude": 44.39171086543326,
+      "Longitude": -88.3346393658266,
+      "OffTime": "Nov 7, 3:02 p.m.",
+      "ETR": "Nov 7, 6:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Nov 7, 4:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 10,
+          "City": "kaukauna",
+          "CityCusts": 2414,
+          "County": "outagamie",
+          "CountyCusts": 80351,
+          "Zip": "54130",
+          "ZipCusts": 3002,
+          "Region": "fox valley wi",
+          "RegionCusts": 143674
+        },
+        {
+          "AffectedCusts": 2,
+          "City": "freedom",
+          "CityCusts": 1101,
+          "County": "outagamie",
+          "CountyCusts": 80351,
+          "Zip": "54130",
+          "ZipCusts": 3002,
+          "Region": "fox valley wi",
+          "RegionCusts": 143674
+        }
+      ]
+    },
+    {
+      "Latitude": 43.08679118818319,
+      "Longitude": -87.93895590320994,
+      "OffTime": "Nov 7, 4:13 p.m.",
+      "ETR": "Nov 7, 7:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Nov 7, 4:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 52,
+          "City": "milwaukee",
+          "CityCusts": 352166,
+          "County": "milwaukee",
+          "CountyCusts": 480062,
+          "Zip": "53206",
+          "ZipCusts": 10779,
           "Region": "southeast wi",
           "RegionCusts": 1075627
         }
