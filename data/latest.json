@@ -1,14 +1,14 @@
 {
-  "captured_at": "2026-11-08T15:29:58+00:00",
+  "captured_at": "2026-11-08T19:53:18+00:00",
   "events": [
     {
-      "Latitude": 43.038038768088036,
-      "Longitude": -87.95311149414006,
-      "OffTime": "Nov 8, 9:04 a.m.",
-      "ETR": "Nov 8, 12:00 p.m.",
-      "CrewStatus": "Assigned",
+      "Latitude": 43.08556830997183,
+      "Longitude": -87.88927753780246,
+      "OffTime": "Nov 8, 1:45 p.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Nov 8, 9:20 a.m.",
+      "LastUpdated": "Nov 8, 1:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -17,8 +17,31 @@
           "CityCusts": 352166,
           "County": "milwaukee",
           "CountyCusts": 480062,
-          "Zip": "53208",
-          "ZipCusts": 15445,
+          "Zip": "53211",
+          "ZipCusts": 18159,
+          "Region": "southeast wi",
+          "RegionCusts": 1075627
+        }
+      ]
+    },
+    {
+      "Latitude": 43.417077846804254,
+      "Longitude": -88.17511160257982,
+      "OffTime": "Nov 8, 12:56 p.m.",
+      "ETR": "Nov 8, 3:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 8, 1:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "west bend",
+          "CityCusts": 26131,
+          "County": "washington",
+          "CountyCusts": 61734,
+          "Zip": "53095",
+          "ZipCusts": 15601,
           "Region": "southeast wi",
           "RegionCusts": 1075627
         }
