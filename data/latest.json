@@ -1,4 +1,28 @@
 {
-  "captured_at": "2026-11-08T08:29:37+00:00",
-  "events": []
+  "captured_at": "2026-11-08T15:29:58+00:00",
+  "events": [
+    {
+      "Latitude": 43.038038768088036,
+      "Longitude": -87.95311149414006,
+      "OffTime": "Nov 8, 9:04 a.m.",
+      "ETR": "Nov 8, 12:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 8, 9:20 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352166,
+          "County": "milwaukee",
+          "CountyCusts": 480062,
+          "Zip": "53208",
+          "ZipCusts": 15445,
+          "Region": "southeast wi",
+          "RegionCusts": 1075627
+        }
+      ]
+    }
+  ]
 }
