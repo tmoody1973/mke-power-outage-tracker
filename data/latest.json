@@ -1,60 +1,14 @@
 {
-  "captured_at": "2026-11-08T23:18:52+00:00",
+  "captured_at": "2026-11-09T02:49:47+00:00",
   "events": [
-    {
-      "Latitude": 45.61142018986002,
-      "Longitude": -87.55301926372016,
-      "OffTime": "Nov 8, 3:36 p.m.",
-      "ETR": "Nov 8, 6:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Nov 8, 5:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 2,
-          "City": "nadeau",
-          "CityCusts": 78,
-          "County": "menominee",
-          "CountyCusts": 3008,
-          "Zip": "49863",
-          "ZipCusts": 76,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41470
-        }
-      ]
-    },
-    {
-      "Latitude": 46.23239159049059,
-      "Longitude": -88.44854780274555,
-      "OffTime": "Nov 8, 3:26 p.m.",
-      "ETR": "Nov 8, 6:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Nov 8, 5:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "amasa",
-          "CityCusts": 170,
-          "County": "iron",
-          "CountyCusts": 4282,
-          "Zip": "49903",
-          "ZipCusts": 168,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41470
-        }
-      ]
-    },
     {
       "Latitude": 42.94941881066296,
       "Longitude": -87.98776822312102,
       "OffTime": "Nov 8, 3:24 p.m.",
-      "ETR": "Nov 8, 6:00 p.m.",
+      "ETR": "Nov 8, 9:00 p.m.",
       "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Nov 8, 5:10 p.m.",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Nov 8, 8:40 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -76,52 +30,6 @@
           "CountyCusts": 480062,
           "Zip": "53220",
           "ZipCusts": 13723,
-          "Region": "southeast wi",
-          "RegionCusts": 1075627
-        }
-      ]
-    },
-    {
-      "Latitude": 43.074447392379135,
-      "Longitude": -87.92325453313148,
-      "OffTime": "Nov 8, 4:50 p.m.",
-      "ETR": "Nov 8, 7:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Nov 8, 5:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352166,
-          "County": "milwaukee",
-          "CountyCusts": 480062,
-          "Zip": "53206",
-          "ZipCusts": 10779,
-          "Region": "southeast wi",
-          "RegionCusts": 1075627
-        }
-      ]
-    },
-    {
-      "Latitude": 43.097294943724485,
-      "Longitude": -88.40217511232834,
-      "OffTime": "Nov 8, 3:16 p.m.",
-      "ETR": "Nov 8, 6:00 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Nov 8, 5:10 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "nashotah",
-          "CityCusts": 1828,
-          "County": "waukesha",
-          "CountyCusts": 203823,
-          "Zip": "53058",
-          "ZipCusts": 1838,
           "Region": "southeast wi",
           "RegionCusts": 1075627
         }
