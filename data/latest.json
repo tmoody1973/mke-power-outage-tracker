@@ -1,48 +1,94 @@
 {
-  "captured_at": "2026-11-11T05:29:23+00:00",
+  "captured_at": "2026-11-11T12:53:27+00:00",
   "events": [
     {
       "Latitude": 43.036418800911456,
       "Longitude": -87.9173384503414,
       "OffTime": "Nov 10, 2:45 p.m.",
-      "ETR": "Nov 11, 12:00 a.m.",
+      "ETR": "Nov 11, 7:00 a.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "We Energies equipment problem",
-      "LastUpdated": "Nov 10, 11:20 p.m.",
+      "LastUpdated": "Nov 11, 6:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
           "City": "milwaukee",
-          "CityCusts": 352101,
+          "CityCusts": 352043,
           "County": "milwaukee",
-          "CountyCusts": 479991,
-          "Zip": "53233",
-          "ZipCusts": 6760,
-          "Region": "southeast wi",
-          "RegionCusts": 1075552
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352101,
-          "County": "milwaukee",
-          "CountyCusts": 479991,
-          "Zip": "53223",
-          "ZipCusts": 14127,
-          "Region": "southeast wi",
-          "RegionCusts": 1075552
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352101,
-          "County": "milwaukee",
-          "CountyCusts": 479991,
+          "CountyCusts": 479926,
           "Zip": "53204",
-          "ZipCusts": 17639,
+          "ZipCusts": 17625,
           "Region": "southeast wi",
-          "RegionCusts": 1075552
+          "RegionCusts": 1075507
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352043,
+          "County": "milwaukee",
+          "CountyCusts": 479926,
+          "Zip": "53223",
+          "ZipCusts": 14125,
+          "Region": "southeast wi",
+          "RegionCusts": 1075507
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352043,
+          "County": "milwaukee",
+          "CountyCusts": 479926,
+          "Zip": "53233",
+          "ZipCusts": 6761,
+          "Region": "southeast wi",
+          "RegionCusts": 1075507
+        }
+      ]
+    },
+    {
+      "Latitude": 42.704435494546836,
+      "Longitude": -87.80465257828487,
+      "OffTime": "Nov 11, 1:11 a.m.",
+      "ETR": "Nov 11, 10:00 a.m.",
+      "CrewStatus": "On site",
+      "Cause": "Vehicle accident",
+      "LastUpdated": "Nov 11, 6:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 59,
+          "City": "racine",
+          "CityCusts": 59040,
+          "County": "racine",
+          "CountyCusts": 102828,
+          "Zip": "53403",
+          "ZipCusts": 14390,
+          "Region": "southeast wi",
+          "RegionCusts": 1075507
+        }
+      ]
+    },
+    {
+      "Latitude": 43.02654219915937,
+      "Longitude": -87.94009847838697,
+      "OffTime": "Nov 11, 6:08 a.m.",
+      "ETR": "Nov 11, 9:00 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 11, 6:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 352043,
+          "County": "milwaukee",
+          "CountyCusts": 479926,
+          "Zip": "53215",
+          "ZipCusts": 22333,
+          "Region": "southeast wi",
+          "RegionCusts": 1075507
         }
       ]
     }
