@@ -1,80 +1,24 @@
 {
-  "captured_at": "2026-11-12T01:45:18+00:00",
+  "captured_at": "2026-11-12T08:59:34+00:00",
   "events": [
     {
-      "Latitude": 43.036418800911456,
-      "Longitude": -87.9173384503414,
-      "OffTime": "Nov 10, 2:45 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
-      "CrewStatus": "Assigned",
-      "Cause": "We Energies equipment problem",
-      "LastUpdated": "Nov 11, 7:40 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352043,
-          "County": "milwaukee",
-          "CountyCusts": 479926,
-          "Zip": "53223",
-          "ZipCusts": 14125,
-          "Region": "southeast wi",
-          "RegionCusts": 1075507
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352043,
-          "County": "milwaukee",
-          "CountyCusts": 479926,
-          "Zip": "53204",
-          "ZipCusts": 17625,
-          "Region": "southeast wi",
-          "RegionCusts": 1075507
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 352043,
-          "County": "milwaukee",
-          "CountyCusts": 479926,
-          "Zip": "53233",
-          "ZipCusts": 6761,
-          "Region": "southeast wi",
-          "RegionCusts": 1075507
-        }
-      ]
-    },
-    {
-      "Latitude": 43.15336563340063,
-      "Longitude": -87.9048886488419,
-      "OffTime": "Nov 11, 6:02 p.m.",
-      "ETR": "Nov 11, 9:00 p.m.",
-      "CrewStatus": "On site",
+      "Latitude": 42.655939651642655,
+      "Longitude": -88.11061299306664,
+      "OffTime": "Nov 12, 2:03 a.m.",
+      "ETR": "Nov 12, 5:00 a.m.",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Nov 11, 7:40 p.m.",
+      "LastUpdated": "Nov 12, 2:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 7,
-          "City": "milwaukee",
-          "CityCusts": 352043,
-          "County": "milwaukee",
-          "CountyCusts": 479926,
-          "Zip": "53217",
-          "ZipCusts": 15170,
-          "Region": "southeast wi",
-          "RegionCusts": 1075507
-        },
-        {
-          "AffectedCusts": 2,
-          "City": "fox point",
-          "CityCusts": 1367,
-          "County": "milwaukee",
-          "CountyCusts": 479926,
-          "Zip": "53217",
-          "ZipCusts": 15170,
+          "AffectedCusts": 24,
+          "City": "kansasville",
+          "CityCusts": 1750,
+          "County": "kenosha",
+          "CountyCusts": 80342,
+          "Zip": "53139",
+          "ZipCusts": 1757,
           "Region": "southeast wi",
           "RegionCusts": 1075507
         }
