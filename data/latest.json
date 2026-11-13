@@ -1,4 +1,51 @@
 {
-  "captured_at": "2026-11-13T18:17:48+00:00",
-  "events": []
+  "captured_at": "2026-11-13T23:44:54+00:00",
+  "events": [
+    {
+      "Latitude": 42.756033259164305,
+      "Longitude": -87.91431458953815,
+      "OffTime": "Nov 13, 5:20 p.m.",
+      "ETR": "Nov 13, 8:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 13, 5:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "franksville",
+          "CityCusts": 3945,
+          "County": "racine",
+          "CountyCusts": 102831,
+          "Zip": "53126",
+          "ZipCusts": 4025,
+          "Region": "southeast wi",
+          "RegionCusts": 1075526
+        }
+      ]
+    },
+    {
+      "Latitude": 45.8129261668376,
+      "Longitude": -88.0636370383766,
+      "OffTime": "Nov 13, 4:44 p.m.",
+      "ETR": "Nov 13, 7:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 13, 5:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 13,
+          "City": "iron mountain",
+          "CityCusts": 7102,
+          "County": "dickinson",
+          "CountyCusts": 14104,
+          "Zip": "49801",
+          "ZipCusts": 7105,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41481
+        }
+      ]
+    }
+  ]
 }
