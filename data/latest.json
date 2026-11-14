@@ -1,93 +1,68 @@
 {
-  "captured_at": "2026-11-14T03:36:38+00:00",
+  "captured_at": "2026-11-14T10:55:14+00:00",
   "events": [
     {
-      "Latitude": 43.050181161999745,
-      "Longitude": -87.99031922914763,
-      "OffTime": "Nov 13, 8:54 p.m.",
-      "ETR": "Nov 13, 11:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Nov 13, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "wauwatosa",
-          "CityCusts": 10657,
-          "County": "milwaukee",
-          "CountyCusts": 479869,
-          "Zip": "53213",
-          "ZipCusts": 13874,
-          "Region": "southeast wi",
-          "RegionCusts": 1075526
-        }
-      ]
-    },
-    {
-      "Latitude": 43.101568144472985,
-      "Longitude": -87.94739621367462,
-      "OffTime": "Nov 13, 9:23 p.m.",
-      "ETR": "Nov 14, 12:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Nov 13, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 351986,
-          "County": "milwaukee",
-          "CountyCusts": 479869,
-          "Zip": "53209",
-          "ZipCusts": 23961,
-          "Region": "southeast wi",
-          "RegionCusts": 1075526
-        }
-      ]
-    },
-    {
-      "Latitude": 45.8129261668376,
-      "Longitude": -88.0636370383766,
-      "OffTime": "Nov 13, 4:44 p.m.",
-      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "Latitude": 42.53902612733729,
+      "Longitude": -88.0468601580408,
+      "OffTime": "Nov 14, 12:33 a.m.",
+      "ETR": "Nov 14, 6:00 a.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Nov 13, 9:30 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 13,
-          "City": "iron mountain",
-          "CityCusts": 7102,
-          "County": "dickinson",
-          "CountyCusts": 14104,
-          "Zip": "49801",
-          "ZipCusts": 7105,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41481
-        }
-      ]
-    },
-    {
-      "Latitude": 42.723763590497896,
-      "Longitude": -87.78323746416366,
-      "OffTime": "Nov 13, 9:01 p.m.",
-      "ETR": "Nov 14, 12:00 a.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Nov 13, 9:30 p.m.",
+      "LastUpdated": "Nov 14, 4:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "racine",
-          "CityCusts": 59038,
-          "County": "racine",
-          "CountyCusts": 102831,
-          "Zip": "53403",
-          "ZipCusts": 14390,
+          "City": "bristol",
+          "CityCusts": 3686,
+          "County": "kenosha",
+          "CountyCusts": 80349,
+          "Zip": "53142",
+          "ZipCusts": 15169,
+          "Region": "southeast wi",
+          "RegionCusts": 1075526
+        },
+        {
+          "AffectedCusts": 208,
+          "City": "bristol",
+          "CityCusts": 3686,
+          "County": "kenosha",
+          "CountyCusts": 80349,
+          "Zip": "53104",
+          "ZipCusts": 3678,
+          "Region": "southeast wi",
+          "RegionCusts": 1075526
+        },
+        {
+          "AffectedCusts": 3,
+          "City": "pleasant prairie",
+          "CityCusts": 3186,
+          "County": "kenosha",
+          "CountyCusts": 80349,
+          "Zip": "53158",
+          "ZipCusts": 9596,
+          "Region": "southeast wi",
+          "RegionCusts": 1075526
+        },
+        {
+          "AffectedCusts": 103,
+          "City": "kenosha",
+          "CityCusts": 54325,
+          "County": "kenosha",
+          "CountyCusts": 80349,
+          "Zip": "53142",
+          "ZipCusts": 15169,
+          "Region": "southeast wi",
+          "RegionCusts": 1075526
+        },
+        {
+          "AffectedCusts": 2,
+          "City": "woodworth",
+          "CityCusts": 2,
+          "County": "kenosha",
+          "CountyCusts": 80349,
+          "Zip": "53194",
+          "ZipCusts": 2,
           "Region": "southeast wi",
           "RegionCusts": 1075526
         }
