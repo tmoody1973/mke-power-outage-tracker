@@ -1,24 +1,47 @@
 {
-  "captured_at": "2026-11-13T23:44:54+00:00",
+  "captured_at": "2026-11-14T03:36:38+00:00",
   "events": [
     {
-      "Latitude": 42.756033259164305,
-      "Longitude": -87.91431458953815,
-      "OffTime": "Nov 13, 5:20 p.m.",
-      "ETR": "Nov 13, 8:00 p.m.",
+      "Latitude": 43.050181161999745,
+      "Longitude": -87.99031922914763,
+      "OffTime": "Nov 13, 8:54 p.m.",
+      "ETR": "Nov 13, 11:30 p.m.",
       "CrewStatus": "Awaiting Assignment",
       "Cause": "Not yet determined",
-      "LastUpdated": "Nov 13, 5:40 p.m.",
+      "LastUpdated": "Nov 13, 9:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "franksville",
-          "CityCusts": 3945,
-          "County": "racine",
-          "CountyCusts": 102831,
-          "Zip": "53126",
-          "ZipCusts": 4025,
+          "City": "wauwatosa",
+          "CityCusts": 10657,
+          "County": "milwaukee",
+          "CountyCusts": 479869,
+          "Zip": "53213",
+          "ZipCusts": 13874,
+          "Region": "southeast wi",
+          "RegionCusts": 1075526
+        }
+      ]
+    },
+    {
+      "Latitude": 43.101568144472985,
+      "Longitude": -87.94739621367462,
+      "OffTime": "Nov 13, 9:23 p.m.",
+      "ETR": "Nov 14, 12:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 13, 9:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 351986,
+          "County": "milwaukee",
+          "CountyCusts": 479869,
+          "Zip": "53209",
+          "ZipCusts": 23961,
           "Region": "southeast wi",
           "RegionCusts": 1075526
         }
@@ -28,10 +51,10 @@
       "Latitude": 45.8129261668376,
       "Longitude": -88.0636370383766,
       "OffTime": "Nov 13, 4:44 p.m.",
-      "ETR": "Nov 13, 7:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Nov 13, 5:40 p.m.",
+      "LastUpdated": "Nov 13, 9:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -44,6 +67,29 @@
           "ZipCusts": 7105,
           "Region": "upper peninsula mi",
           "RegionCusts": 41481
+        }
+      ]
+    },
+    {
+      "Latitude": 42.723763590497896,
+      "Longitude": -87.78323746416366,
+      "OffTime": "Nov 13, 9:01 p.m.",
+      "ETR": "Nov 14, 12:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 13, 9:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 59038,
+          "County": "racine",
+          "CountyCusts": 102831,
+          "Zip": "53403",
+          "ZipCusts": 14390,
+          "Region": "southeast wi",
+          "RegionCusts": 1075526
         }
       ]
     }
