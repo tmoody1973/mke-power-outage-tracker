@@ -1,26 +1,72 @@
 {
-  "captured_at": "2026-11-15T14:57:40+00:00",
+  "captured_at": "2026-11-15T20:08:03+00:00",
   "events": [
     {
-      "Latitude": 42.521548716755966,
-      "Longitude": -88.13059131267786,
-      "OffTime": "Nov 15, 8:30 a.m.",
-      "ETR": "Nov 15, 11:30 a.m.",
+      "Latitude": 42.811503023383054,
+      "Longitude": -88.27697612153732,
+      "OffTime": "Nov 15, 1:38 p.m.",
+      "ETR": "Nov 15, 4:30 p.m.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Nov 15, 8:50 a.m.",
+      "LastUpdated": "Nov 15, 2:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 7,
-          "City": "trevor",
-          "CityCusts": 2968,
-          "County": "kenosha",
-          "CountyCusts": 80349,
-          "Zip": "53179",
-          "ZipCusts": 2973,
+          "AffectedCusts": 1,
+          "City": "waterford",
+          "CityCusts": 7626,
+          "County": "racine",
+          "CountyCusts": 102831,
+          "Zip": "53185",
+          "ZipCusts": 9930,
           "Region": "southeast wi",
           "RegionCusts": 1075526
+        }
+      ]
+    },
+    {
+      "Latitude": 43.536229796506234,
+      "Longitude": -88.46641403643908,
+      "OffTime": "Nov 15, 1:44 p.m.",
+      "ETR": "Nov 15, 4:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 15, 2:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "theresa",
+          "CityCusts": 1197,
+          "County": "dodge",
+          "CountyCusts": 17227,
+          "Zip": "53091",
+          "ZipCusts": 1197,
+          "Region": "southeast wi",
+          "RegionCusts": 1075526
+        }
+      ]
+    },
+    {
+      "Latitude": 44.57107713411466,
+      "Longitude": -88.27322653952443,
+      "OffTime": "Nov 15, 12:17 p.m.",
+      "ETR": "Nov 15, 3:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Wildlife contact with equipment",
+      "LastUpdated": "Nov 15, 2:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 2,
+          "City": "seymour",
+          "CityCusts": 3970,
+          "County": "outagamie",
+          "CountyCusts": 80404,
+          "Zip": "54165",
+          "ZipCusts": 3990,
+          "Region": "fox valley wi",
+          "RegionCusts": 143751
         }
       ]
     }
