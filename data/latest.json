@@ -1,4 +1,97 @@
 {
-  "captured_at": "2026-11-15T23:57:01+00:00",
-  "events": []
+  "captured_at": "2026-11-16T04:34:55+00:00",
+  "events": [
+    {
+      "Latitude": 43.09562000793578,
+      "Longitude": -87.96348112099778,
+      "OffTime": "Nov 15, 10:19 p.m.",
+      "ETR": "Nov 16, 1:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 15, 10:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 351986,
+          "County": "milwaukee",
+          "CountyCusts": 479869,
+          "Zip": "53216",
+          "ZipCusts": 14814,
+          "Region": "southeast wi",
+          "RegionCusts": 1075526
+        }
+      ]
+    },
+    {
+      "Latitude": 43.09555597279568,
+      "Longitude": -87.96448710909694,
+      "OffTime": "Nov 15, 10:24 p.m.",
+      "ETR": "Nov 16, 1:00 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 15, 10:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 351986,
+          "County": "milwaukee",
+          "CountyCusts": 479869,
+          "Zip": "53216",
+          "ZipCusts": 14814,
+          "Region": "southeast wi",
+          "RegionCusts": 1075526
+        }
+      ]
+    },
+    {
+      "Latitude": 43.38661647602155,
+      "Longitude": -88.77619288932561,
+      "OffTime": "Nov 15, 8:46 p.m.",
+      "ETR": "Nov 15, 11:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 15, 10:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "juneau",
+          "CityCusts": 399,
+          "County": "dodge",
+          "CountyCusts": 17227,
+          "Zip": "53039",
+          "ZipCusts": 404,
+          "Region": "southeast wi",
+          "RegionCusts": 1075526
+        }
+      ]
+    },
+    {
+      "Latitude": 43.08878045432069,
+      "Longitude": -87.88334494894723,
+      "OffTime": "Nov 15, 10:19 p.m.",
+      "ETR": "Nov 16, 1:00 a.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 15, 10:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "shorewood",
+          "CityCusts": 2469,
+          "County": "milwaukee",
+          "CountyCusts": 479869,
+          "Zip": "53211",
+          "ZipCusts": 18157,
+          "Region": "southeast wi",
+          "RegionCusts": 1075526
+        }
+      ]
+    }
+  ]
 }
