@@ -1,38 +1,85 @@
 {
-  "captured_at": "2026-11-17T14:00:00+00:00",
+  "captured_at": "2026-11-17T22:05:54+00:00",
   "events": [
     {
-      "Latitude": 43.09009255574334,
-      "Longitude": -88.75886424957645,
-      "OffTime": "Nov 17, 7:13 a.m.",
-      "ETR": "Nov 17, 10:30 a.m.",
+      "Latitude": 42.844818673991035,
+      "Longitude": -88.33450889042096,
+      "OffTime": "Nov 17, 12:55 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
       "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Nov 17, 7:50 a.m.",
+      "LastUpdated": "Nov 17, 4:00 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 6,
-          "City": "johnson creek",
-          "CityCusts": 2585,
-          "County": "jefferson",
-          "CountyCusts": 35299,
-          "Zip": "53094",
-          "ZipCusts": 10281,
+          "AffectedCusts": 9,
+          "City": "mukwonago",
+          "CityCusts": 9927,
+          "County": "waukesha",
+          "CountyCusts": 203910,
+          "Zip": "53149",
+          "ZipCusts": 9943,
           "Region": "southeast wi",
-          "RegionCusts": 1075681
-        },
+          "RegionCusts": 1075683
+        }
+      ]
+    },
+    {
+      "Latitude": 46.15887123533117,
+      "Longitude": -87.23739237105568,
+      "OffTime": "Nov 17, 3:04 p.m.",
+      "ETR": "Nov 17, 6:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 17, 4:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
         {
-          "AffectedCusts": 3,
-          "City": "johnson creek",
-          "CityCusts": 2585,
-          "County": "jefferson",
-          "CountyCusts": 35299,
-          "Zip": "53038",
-          "ZipCusts": 2521,
+          "AffectedCusts": 1,
+          "City": "rock",
+          "CityCusts": 573,
+          "County": "marquette",
+          "CountyCusts": 1446,
+          "Zip": "49880",
+          "ZipCusts": 574,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41484
+        }
+      ]
+    },
+    {
+      "Latitude": 43.10710564563391,
+      "Longitude": -87.97704885682288,
+      "OffTime": "Nov 17, 3:54 p.m.",
+      "ETR": "Nov 17, 6:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 17, 4:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 351961,
+          "County": "milwaukee",
+          "CountyCusts": 479950,
+          "Zip": "53218",
+          "ZipCusts": 16998,
           "Region": "southeast wi",
-          "RegionCusts": 1075681
-        },
+          "RegionCusts": 1075683
+        }
+      ]
+    },
+    {
+      "Latitude": 43.093724877135955,
+      "Longitude": -88.77732732907312,
+      "OffTime": "Nov 17, 3:39 p.m.",
+      "ETR": "Nov 17, 6:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 17, 4:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
         {
           "AffectedCusts": 1,
           "City": "watertown",
@@ -42,7 +89,30 @@
           "Zip": "53094",
           "ZipCusts": 10281,
           "Region": "southeast wi",
-          "RegionCusts": 1075681
+          "RegionCusts": 1075683
+        }
+      ]
+    },
+    {
+      "Latitude": 43.05212099478437,
+      "Longitude": -87.95069198901673,
+      "OffTime": "Nov 17, 3:52 p.m.",
+      "ETR": "Nov 17, 6:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 17, 4:00 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 351961,
+          "County": "milwaukee",
+          "CountyCusts": 479950,
+          "Zip": "53208",
+          "ZipCusts": 15435,
+          "Region": "southeast wi",
+          "RegionCusts": 1075683
         }
       ]
     }
