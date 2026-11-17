@@ -1,4 +1,50 @@
 {
-  "captured_at": "2026-11-17T04:53:43+00:00",
-  "events": []
+  "captured_at": "2026-11-17T14:00:00+00:00",
+  "events": [
+    {
+      "Latitude": 43.09009255574334,
+      "Longitude": -88.75886424957645,
+      "OffTime": "Nov 17, 7:13 a.m.",
+      "ETR": "Nov 17, 10:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 17, 7:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 6,
+          "City": "johnson creek",
+          "CityCusts": 2585,
+          "County": "jefferson",
+          "CountyCusts": 35299,
+          "Zip": "53094",
+          "ZipCusts": 10281,
+          "Region": "southeast wi",
+          "RegionCusts": 1075681
+        },
+        {
+          "AffectedCusts": 3,
+          "City": "johnson creek",
+          "CityCusts": 2585,
+          "County": "jefferson",
+          "CountyCusts": 35299,
+          "Zip": "53038",
+          "ZipCusts": 2521,
+          "Region": "southeast wi",
+          "RegionCusts": 1075681
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "watertown",
+          "CityCusts": 16275,
+          "County": "jefferson",
+          "CountyCusts": 35299,
+          "Zip": "53094",
+          "ZipCusts": 10281,
+          "Region": "southeast wi",
+          "RegionCusts": 1075681
+        }
+      ]
+    }
+  ]
 }
