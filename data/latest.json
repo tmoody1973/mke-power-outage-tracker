@@ -1,52 +1,6 @@
 {
-  "captured_at": "2026-11-20T08:29:27+00:00",
+  "captured_at": "2026-11-20T17:08:45+00:00",
   "events": [
-    {
-      "Latitude": 46.15905545908315,
-      "Longitude": -89.35960697944431,
-      "OffTime": "Nov 19, 12:11 p.m.",
-      "ETR": "Nov 20, 12:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Tree contact with utility equipment",
-      "LastUpdated": "Nov 20, 2:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 6,
-          "City": "land o lakes",
-          "CityCusts": 1708,
-          "County": "vilas",
-          "CountyCusts": 6284,
-          "Zip": "54540",
-          "ZipCusts": 1707,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41484
-        }
-      ]
-    },
-    {
-      "Latitude": 46.335017213417615,
-      "Longitude": -89.35600973373477,
-      "OffTime": "Nov 19, 8:56 p.m.",
-      "ETR": "Nov 20, 12:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Nov 20, 2:20 a.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "paulding",
-          "CityCusts": 73,
-          "County": "ontonagon",
-          "CountyCusts": 1708,
-          "Zip": "49912",
-          "ZipCusts": 789,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41484
-        }
-      ]
-    },
     {
       "Latitude": 45.91009615921756,
       "Longitude": -88.61331743466728,
@@ -54,7 +8,7 @@
       "ETR": "Nov 20, 12:00 p.m.",
       "CrewStatus": "Specialized crew needed",
       "Cause": "Tree contact with utility equipment",
-      "LastUpdated": "Nov 20, 2:20 a.m.",
+      "LastUpdated": "Nov 20, 11:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -66,18 +20,7 @@
           "Zip": "54120",
           "ZipCusts": 51,
           "Region": "upper peninsula mi",
-          "RegionCusts": 41484
-        },
-        {
-          "AffectedCusts": 1,
-          "City": "long lake",
-          "CityCusts": 492,
-          "County": "forest",
-          "CountyCusts": 743,
-          "Zip": "54542",
-          "ZipCusts": 1182,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41484
+          "RegionCusts": 41490
         },
         {
           "AffectedCusts": 2,
@@ -88,7 +31,41 @@
           "Zip": "54511",
           "ZipCusts": 256,
           "Region": "upper peninsula mi",
-          "RegionCusts": 41484
+          "RegionCusts": 41490
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "long lake",
+          "CityCusts": 492,
+          "County": "forest",
+          "CountyCusts": 743,
+          "Zip": "54542",
+          "ZipCusts": 1182,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41490
+        }
+      ]
+    },
+    {
+      "Latitude": 45.932753861707525,
+      "Longitude": -88.5916602946352,
+      "OffTime": "Nov 20, 10:57 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 20, 11:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "tipler",
+          "CityCusts": 354,
+          "County": "florence",
+          "CountyCusts": 3059,
+          "Zip": "54542",
+          "ZipCusts": 1182,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41490
         }
       ]
     },
@@ -96,10 +73,10 @@
       "Latitude": 46.55426437177855,
       "Longitude": -88.2054391074663,
       "OffTime": "Nov 19, 10:30 a.m.",
-      "ETR": "Nov 20, 8:30 a.m.",
-      "CrewStatus": "Assigned",
+      "ETR": "Nov 20, 12:00 p.m.",
+      "CrewStatus": "On the way",
       "Cause": "Tree contact with We Energies equipment",
-      "LastUpdated": "Nov 20, 2:20 a.m.",
+      "LastUpdated": "Nov 20, 11:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -111,7 +88,7 @@
           "Zip": "49861",
           "ZipCusts": 948,
           "Region": "upper peninsula mi",
-          "RegionCusts": 41484
+          "RegionCusts": 41490
         }
       ]
     },
@@ -120,9 +97,9 @@
       "Longitude": -87.78906590209074,
       "OffTime": "Nov 19, 2:39 p.m.",
       "ETR": "Nov 20, 12:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
+      "CrewStatus": "On the way",
       "Cause": "Not yet determined",
-      "LastUpdated": "Nov 20, 2:20 a.m.",
+      "LastUpdated": "Nov 20, 11:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -130,11 +107,149 @@
           "City": "stephenson",
           "CityCusts": 7,
           "County": "menominee",
-          "CountyCusts": 3007,
+          "CountyCusts": 3005,
           "Zip": "49887",
           "ZipCusts": 7,
           "Region": "upper peninsula mi",
-          "RegionCusts": 41484
+          "RegionCusts": 41490
+        }
+      ]
+    },
+    {
+      "Latitude": 42.74499528471058,
+      "Longitude": -87.79245273473371,
+      "OffTime": "Nov 20, 8:37 a.m.",
+      "ETR": "Nov 20, 11:30 a.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 20, 11:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 59035,
+          "County": "racine",
+          "CountyCusts": 102836,
+          "Zip": "53402",
+          "ZipCusts": 15990,
+          "Region": "southeast wi",
+          "RegionCusts": 1075535
+        }
+      ]
+    },
+    {
+      "Latitude": 43.02055098141652,
+      "Longitude": -87.95709829886697,
+      "OffTime": "Nov 20, 10:46 a.m.",
+      "ETR": "Nov 20, 1:30 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 20, 11:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 351859,
+          "County": "milwaukee",
+          "CountyCusts": 479847,
+          "Zip": "53215",
+          "ZipCusts": 22312,
+          "Region": "southeast wi",
+          "RegionCusts": 1075535
+        }
+      ]
+    },
+    {
+      "Latitude": 42.58044896699831,
+      "Longitude": -87.85306805185854,
+      "OffTime": "Nov 20, 9:03 a.m.",
+      "ETR": "Nov 20, 12:00 p.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 20, 11:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54320,
+          "County": "kenosha",
+          "CountyCusts": 80345,
+          "Zip": "53144",
+          "ZipCusts": 14065,
+          "Region": "southeast wi",
+          "RegionCusts": 1075535
+        }
+      ]
+    },
+    {
+      "Latitude": 43.57179991491816,
+      "Longitude": -88.01359324636492,
+      "OffTime": "Nov 20, 10:44 a.m.",
+      "ETR": "Nov 20, 1:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 20, 11:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "random lake",
+          "CityCusts": 1908,
+          "County": "sheboygan",
+          "CountyCusts": 14279,
+          "Zip": "53075",
+          "ZipCusts": 1911,
+          "Region": "southeast wi",
+          "RegionCusts": 1075535
+        }
+      ]
+    },
+    {
+      "Latitude": 43.123975742458335,
+      "Longitude": -87.99659791801315,
+      "OffTime": "Nov 20, 10:27 a.m.",
+      "ETR": "Nov 20, 1:30 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 20, 11:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 351859,
+          "County": "milwaukee",
+          "CountyCusts": 479847,
+          "Zip": "53218",
+          "ZipCusts": 16987,
+          "Region": "southeast wi",
+          "RegionCusts": 1075535
+        }
+      ]
+    },
+    {
+      "Latitude": 43.08249541130003,
+      "Longitude": -88.00799571120257,
+      "OffTime": "Nov 20, 10:10 a.m.",
+      "ETR": "Nov 20, 1:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 20, 11:00 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 351859,
+          "County": "milwaukee",
+          "CountyCusts": 479847,
+          "Zip": "53222",
+          "ZipCusts": 13584,
+          "Region": "southeast wi",
+          "RegionCusts": 1075535
         }
       ]
     },
@@ -142,22 +257,22 @@
       "Latitude": 46.16370875445644,
       "Longitude": -89.2042010109546,
       "OffTime": "Nov 19, 9:56 a.m.",
-      "ETR": "Nov 20, 12:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
+      "ETR": "Nov 20, 1:30 p.m.",
+      "CrewStatus": "On site",
       "Cause": "Tree contact with utility equipment",
-      "LastUpdated": "Nov 20, 2:20 a.m.",
+      "LastUpdated": "Nov 20, 11:00 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
           "City": "land o lakes",
-          "CityCusts": 1708,
+          "CityCusts": 1709,
           "County": "vilas",
-          "CountyCusts": 6284,
+          "CountyCusts": 6285,
           "Zip": "54540",
-          "ZipCusts": 1707,
+          "ZipCusts": 1708,
           "Region": "upper peninsula mi",
-          "RegionCusts": 41484
+          "RegionCusts": 41490
         }
       ]
     }
