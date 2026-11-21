@@ -1,4 +1,74 @@
 {
-  "captured_at": "2026-11-21T11:59:06+00:00",
-  "events": []
+  "captured_at": "2026-11-21T18:49:06+00:00",
+  "events": [
+    {
+      "Latitude": 42.840172963221725,
+      "Longitude": -87.93109686448553,
+      "OffTime": "Nov 21, 11:10 a.m.",
+      "ETR": "Nov 21, 2:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies equipment problem",
+      "LastUpdated": "Nov 21, 12:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "caledonia",
+          "CityCusts": 2209,
+          "County": "racine",
+          "CountyCusts": 102836,
+          "Zip": "53108",
+          "ZipCusts": 2002,
+          "Region": "southeast wi",
+          "RegionCusts": 1075535
+        }
+      ]
+    },
+    {
+      "Latitude": 43.066369657988645,
+      "Longitude": -87.93605556760205,
+      "OffTime": "Nov 21, 12:19 p.m.",
+      "ETR": "Nov 21, 3:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 21, 12:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 351859,
+          "County": "milwaukee",
+          "CountyCusts": 479847,
+          "Zip": "53206",
+          "ZipCusts": 10744,
+          "Region": "southeast wi",
+          "RegionCusts": 1075535
+        }
+      ]
+    },
+    {
+      "Latitude": 43.06038196749749,
+      "Longitude": -88.29899675957554,
+      "OffTime": "Nov 21, 11:20 a.m.",
+      "ETR": "Nov 21, 2:00 p.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Nov 21, 12:40 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 146,
+          "City": "pewaukee",
+          "CityCusts": 14893,
+          "County": "waukesha",
+          "CountyCusts": 203896,
+          "Zip": "53072",
+          "ZipCusts": 14958,
+          "Region": "southeast wi",
+          "RegionCusts": 1075535
+        }
+      ]
+    }
+  ]
 }
