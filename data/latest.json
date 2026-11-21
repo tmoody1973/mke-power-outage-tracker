@@ -1,72 +1,185 @@
 {
-  "captured_at": "2026-11-21T18:49:06+00:00",
+  "captured_at": "2026-11-21T23:38:24+00:00",
   "events": [
     {
-      "Latitude": 42.840172963221725,
-      "Longitude": -87.93109686448553,
-      "OffTime": "Nov 21, 11:10 a.m.",
-      "ETR": "Nov 21, 2:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies equipment problem",
-      "LastUpdated": "Nov 21, 12:40 p.m.",
+      "Latitude": 45.90098194535433,
+      "Longitude": -88.06623788512638,
+      "OffTime": "Nov 21, 5:04 p.m.",
+      "ETR": "Nov 21, 8:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 21, 5:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 14,
+          "City": "iron mountain",
+          "CityCusts": 7103,
+          "County": "dickinson",
+          "CountyCusts": 14107,
+          "Zip": "49801",
+          "ZipCusts": 7106,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41490
+        }
+      ]
+    },
+    {
+      "Latitude": 46.14230667408696,
+      "Longitude": -88.36794598275642,
+      "OffTime": "Nov 21, 4:29 p.m.",
+      "ETR": "Nov 21, 7:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 21, 5:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "caledonia",
-          "CityCusts": 2209,
-          "County": "racine",
-          "CountyCusts": 102836,
-          "Zip": "53108",
-          "ZipCusts": 2002,
+          "City": "crystal falls",
+          "CityCusts": 2034,
+          "County": "iron",
+          "CountyCusts": 4286,
+          "Zip": "49929",
+          "ZipCusts": 162,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41490
+        },
+        {
+          "AffectedCusts": 83,
+          "City": "amasa",
+          "CityCusts": 170,
+          "County": "iron",
+          "CountyCusts": 4286,
+          "Zip": "49903",
+          "ZipCusts": 168,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41490
+        },
+        {
+          "AffectedCusts": 449,
+          "City": "crystal falls",
+          "CityCusts": 2034,
+          "County": "iron",
+          "CountyCusts": 4286,
+          "Zip": "49920",
+          "ZipCusts": 2037,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41490
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "amasa",
+          "CityCusts": 170,
+          "County": "iron",
+          "CountyCusts": 4286,
+          "Zip": "49920",
+          "ZipCusts": 2037,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41490
+        },
+        {
+          "AffectedCusts": 1,
+          "City": "pulaski",
+          "CityCusts": 2768,
+          "County": "brown",
+          "CountyCusts": 1903,
+          "Zip": "54162",
+          "ZipCusts": 2769,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41490
+        }
+      ]
+    },
+    {
+      "Latitude": 43.168006479423234,
+      "Longitude": -88.7037663333228,
+      "OffTime": "Nov 21, 12:51 p.m.",
+      "ETR": "Nov 21, 6:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Nov 21, 5:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 11,
+          "City": "watertown",
+          "CityCusts": 16272,
+          "County": "jefferson",
+          "CountyCusts": 35292,
+          "Zip": "53094",
+          "ZipCusts": 10277,
           "Region": "southeast wi",
           "RegionCusts": 1075535
         }
       ]
     },
     {
-      "Latitude": 43.066369657988645,
-      "Longitude": -87.93605556760205,
-      "OffTime": "Nov 21, 12:19 p.m.",
-      "ETR": "Nov 21, 3:00 p.m.",
+      "Latitude": 42.697632853620846,
+      "Longitude": -87.83395166804783,
+      "OffTime": "Nov 21, 3:52 p.m.",
+      "ETR": "Nov 21, 6:30 p.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Nov 21, 12:40 p.m.",
+      "LastUpdated": "Nov 21, 5:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 351859,
-          "County": "milwaukee",
-          "CountyCusts": 479847,
-          "Zip": "53206",
-          "ZipCusts": 10744,
+          "City": "racine",
+          "CityCusts": 59035,
+          "County": "racine",
+          "CountyCusts": 102836,
+          "Zip": "53405",
+          "ZipCusts": 11761,
           "Region": "southeast wi",
           "RegionCusts": 1075535
         }
       ]
     },
     {
-      "Latitude": 43.06038196749749,
-      "Longitude": -88.29899675957554,
-      "OffTime": "Nov 21, 11:20 a.m.",
-      "ETR": "Nov 21, 2:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Third-party damage",
-      "LastUpdated": "Nov 21, 12:40 p.m.",
+      "Latitude": 46.222901762312254,
+      "Longitude": -88.4712504752912,
+      "OffTime": "Nov 21, 5:08 p.m.",
+      "ETR": "Nov 21, 8:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 21, 5:30 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 146,
-          "City": "pewaukee",
-          "CityCusts": 14893,
-          "County": "waukesha",
-          "CountyCusts": 203896,
-          "Zip": "53072",
-          "ZipCusts": 14958,
-          "Region": "southeast wi",
-          "RegionCusts": 1075535
+          "AffectedCusts": 1,
+          "City": "crystal falls",
+          "CityCusts": 2034,
+          "County": "iron",
+          "CountyCusts": 4286,
+          "Zip": "49920",
+          "ZipCusts": 2037,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41490
+        }
+      ]
+    },
+    {
+      "Latitude": 46.036653688765526,
+      "Longitude": -88.4712303568046,
+      "OffTime": "Nov 21, 3:53 p.m.",
+      "ETR": "Nov 21, 6:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 21, 5:30 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 58,
+          "City": "crystal falls",
+          "CityCusts": 2034,
+          "County": "iron",
+          "CountyCusts": 4286,
+          "Zip": "49920",
+          "ZipCusts": 2037,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41490
         }
       ]
     }
