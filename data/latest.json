@@ -1,163 +1,93 @@
 {
-  "captured_at": "2026-11-22T18:51:40+00:00",
+  "captured_at": "2026-11-22T23:56:29+00:00",
   "events": [
     {
-      "Latitude": 43.326019333890514,
-      "Longitude": -87.95698779281861,
-      "OffTime": "Nov 22, 10:14 a.m.",
-      "ETR": "Nov 22, 1:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Nov 22, 12:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "grafton",
-          "CityCusts": 10633,
-          "County": "ozaukee",
-          "CountyCusts": 42845,
-          "Zip": "53024",
-          "ZipCusts": 10654,
-          "Region": "southeast wi",
-          "RegionCusts": 1075535
-        }
-      ]
-    },
-    {
-      "Latitude": 43.17240936265623,
-      "Longitude": -88.0060933917094,
-      "OffTime": "Nov 22, 12:48 p.m.",
-      "ETR": "Not yet determined",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Nov 22, 12:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 351859,
-          "County": "milwaukee",
-          "CountyCusts": 479847,
-          "Zip": "53223",
-          "ZipCusts": 14120,
-          "Region": "southeast wi",
-          "RegionCusts": 1075535
-        }
-      ]
-    },
-    {
-      "Latitude": 42.59586844824453,
-      "Longitude": -87.84275864216568,
-      "OffTime": "Nov 22, 10:01 a.m.",
-      "ETR": "Nov 22, 1:00 p.m.",
+      "Latitude": 42.733975704021354,
+      "Longitude": -87.83816536660213,
+      "OffTime": "Nov 22, 2:23 p.m.",
+      "ETR": "Nov 22, 7:00 p.m.",
       "CrewStatus": "Assigned",
-      "Cause": "Vehicle accident",
-      "LastUpdated": "Nov 22, 12:50 p.m.",
+      "Cause": "Tree contact with utility equipment",
+      "LastUpdated": "Nov 22, 5:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 19,
-          "City": "kenosha",
-          "CityCusts": 54320,
-          "County": "kenosha",
-          "CountyCusts": 80345,
-          "Zip": "53144",
-          "ZipCusts": 14065,
+          "AffectedCusts": 1,
+          "City": "mount pleasant",
+          "CityCusts": 5628,
+          "County": "racine",
+          "CountyCusts": 102836,
+          "Zip": "53405",
+          "ZipCusts": 11761,
           "Region": "southeast wi",
           "RegionCusts": 1075535
         },
         {
-          "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54320,
-          "County": "kenosha",
-          "CountyCusts": 80345,
-          "Zip": "53140",
-          "ZipCusts": 14876,
+          "AffectedCusts": 9,
+          "City": "racine",
+          "CityCusts": 59035,
+          "County": "racine",
+          "CountyCusts": 102836,
+          "Zip": "53406",
+          "ZipCusts": 14663,
+          "Region": "southeast wi",
+          "RegionCusts": 1075535
+        },
+        {
+          "AffectedCusts": 5,
+          "City": "racine",
+          "CityCusts": 59035,
+          "County": "racine",
+          "CountyCusts": 102836,
+          "Zip": "53405",
+          "ZipCusts": 11761,
+          "Region": "southeast wi",
+          "RegionCusts": 1075535
+        },
+        {
+          "AffectedCusts": 4,
+          "City": "mount pleasant",
+          "CityCusts": 5628,
+          "County": "racine",
+          "CountyCusts": 102836,
+          "Zip": "53406",
+          "ZipCusts": 14663,
           "Region": "southeast wi",
           "RegionCusts": 1075535
         }
       ]
     },
     {
-      "Latitude": 44.50300758320606,
-      "Longitude": -88.45042891979473,
-      "OffTime": "Nov 22, 12:39 p.m.",
-      "ETR": "Nov 22, 3:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Nov 22, 12:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "black creek",
-          "CityCusts": 2435,
-          "County": "outagamie",
-          "CountyCusts": 80438,
-          "Zip": "54106",
-          "ZipCusts": 2437,
-          "Region": "fox valley wi",
-          "RegionCusts": 143813
-        }
-      ]
-    },
-    {
-      "Latitude": 43.10693576542609,
-      "Longitude": -87.94478962733352,
-      "OffTime": "Nov 22, 10:08 a.m.",
-      "ETR": "Nov 22, 1:00 p.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "Equipment damaged by wind",
-      "LastUpdated": "Nov 22, 12:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 351859,
-          "County": "milwaukee",
-          "CountyCusts": 479847,
-          "Zip": "53209",
-          "ZipCusts": 23951,
-          "Region": "southeast wi",
-          "RegionCusts": 1075535
-        }
-      ]
-    },
-    {
-      "Latitude": 43.65093913059738,
-      "Longitude": -88.01513860478211,
-      "OffTime": "Nov 22, 10:06 a.m.",
-      "ETR": "Nov 22, 1:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Nov 22, 12:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "cascade",
-          "CityCusts": 760,
-          "County": "sheboygan",
-          "CountyCusts": 14279,
-          "Zip": "53011",
-          "ZipCusts": 759,
-          "Region": "southeast wi",
-          "RegionCusts": 1075535
-        }
-      ]
-    },
-    {
-      "Latitude": 42.595784367567155,
-      "Longitude": -87.84628153862832,
-      "OffTime": "Nov 22, 12:36 p.m.",
-      "ETR": "Nov 22, 3:30 p.m.",
+      "Latitude": 42.70669920502238,
+      "Longitude": -87.80361184424368,
+      "OffTime": "Nov 22, 12:51 p.m.",
+      "ETR": "Nov 22, 6:30 p.m.",
       "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Nov 22, 12:50 p.m.",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Nov 22, 5:50 p.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "racine",
+          "CityCusts": 59035,
+          "County": "racine",
+          "CountyCusts": 102836,
+          "Zip": "53403",
+          "ZipCusts": 14387,
+          "Region": "southeast wi",
+          "RegionCusts": 1075535
+        }
+      ]
+    },
+    {
+      "Latitude": 42.577935434792586,
+      "Longitude": -87.85974633747655,
+      "OffTime": "Nov 22, 3:27 p.m.",
+      "ETR": "Nov 22, 6:00 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "We Energies overhead line problem",
+      "LastUpdated": "Nov 22, 5:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
@@ -166,56 +96,10 @@
           "CityCusts": 54320,
           "County": "kenosha",
           "CountyCusts": 80345,
-          "Zip": "53144",
-          "ZipCusts": 14065,
+          "Zip": "53142",
+          "ZipCusts": 15167,
           "Region": "southeast wi",
           "RegionCusts": 1075535
-        }
-      ]
-    },
-    {
-      "Latitude": 43.42220381619814,
-      "Longitude": -87.9759276709588,
-      "OffTime": "Nov 22, 11:20 a.m.",
-      "ETR": "Nov 22, 2:00 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Nov 22, 12:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "saukville",
-          "CityCusts": 3442,
-          "County": "ozaukee",
-          "CountyCusts": 42845,
-          "Zip": "53080",
-          "ZipCusts": 3438,
-          "Region": "southeast wi",
-          "RegionCusts": 1075535
-        }
-      ]
-    },
-    {
-      "Latitude": 45.83688858939371,
-      "Longitude": -88.06202670817451,
-      "OffTime": "Nov 22, 7:25 a.m.",
-      "ETR": "Nov 22, 1:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Tree contact with utility equipment",
-      "LastUpdated": "Nov 22, 12:50 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 61,
-          "City": "iron mountain",
-          "CityCusts": 7103,
-          "County": "dickinson",
-          "CountyCusts": 14107,
-          "Zip": "49801",
-          "ZipCusts": 7106,
-          "Region": "upper peninsula mi",
-          "RegionCusts": 41490
         }
       ]
     }
