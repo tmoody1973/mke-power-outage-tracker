@@ -1,72 +1,106 @@
 {
-  "captured_at": "2026-11-25T05:24:52+00:00",
+  "captured_at": "2026-11-25T15:52:03+00:00",
   "events": [
     {
-      "Latitude": 42.55457075568865,
-      "Longitude": -88.10881969744216,
-      "OffTime": "Nov 24, 6:03 p.m.",
-      "ETR": "Nov 25, 1:00 a.m.",
+      "Latitude": 43.43486125764598,
+      "Longitude": -88.20137197650577,
+      "OffTime": "Nov 25, 6:47 a.m.",
+      "ETR": "Nov 25, 11:00 a.m.",
       "CrewStatus": "Specialized crew needed",
-      "Cause": "Third-party damage to utility equipment",
-      "LastUpdated": "Nov 24, 11:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 8,
-          "City": "salem",
-          "CityCusts": 4978,
-          "County": "kenosha",
-          "CountyCusts": 80346,
-          "Zip": "53168",
-          "ZipCusts": 4989,
-          "Region": "southeast wi",
-          "RegionCusts": 1075582
-        }
-      ]
-    },
-    {
-      "Latitude": 43.092287943420175,
-      "Longitude": -88.31332472874203,
-      "OffTime": "Nov 24, 5:59 p.m.",
-      "ETR": "Nov 25, 2:30 a.m.",
-      "CrewStatus": "Specialized crew needed",
-      "Cause": "",
-      "LastUpdated": "Nov 24, 11:20 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 39,
-          "City": "pewaukee",
-          "CityCusts": 14895,
-          "County": "waukesha",
-          "CountyCusts": 203927,
-          "Zip": "53072",
-          "ZipCusts": 14960,
-          "Region": "southeast wi",
-          "RegionCusts": 1075582
-        }
-      ]
-    },
-    {
-      "Latitude": 42.59323327486032,
-      "Longitude": -87.8455674598564,
-      "OffTime": "Nov 24, 8:49 p.m.",
-      "ETR": "Nov 24, 11:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Nov 24, 11:20 p.m.",
+      "Cause": "Underground cable problem",
+      "LastUpdated": "Nov 25, 9:50 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "kenosha",
-          "CityCusts": 54320,
-          "County": "kenosha",
-          "CountyCusts": 80346,
-          "Zip": "53144",
-          "ZipCusts": 14068,
+          "City": "west bend",
+          "CityCusts": 26124,
+          "County": "washington",
+          "CountyCusts": 61735,
+          "Zip": "53090",
+          "ZipCusts": 10555,
           "Region": "southeast wi",
-          "RegionCusts": 1075582
+          "RegionCusts": 1075485
+        }
+      ]
+    },
+    {
+      "Latitude": 42.55457075568865,
+      "Longitude": -88.10881969744216,
+      "OffTime": "Nov 25, 8:50 a.m.",
+      "ETR": "Nov 25, 11:30 a.m.",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 25, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "salem",
+          "CityCusts": 4978,
+          "County": "kenosha",
+          "CountyCusts": 80341,
+          "Zip": "53168",
+          "ZipCusts": 4989,
+          "Region": "southeast wi",
+          "RegionCusts": 1075485
+        }
+      ]
+    },
+    {
+      "Latitude": 46.1307985384508,
+      "Longitude": -88.71079535987913,
+      "OffTime": "Nov 25, 9:15 a.m.",
+      "ETR": "Nov 25, 12:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 25, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "iron river",
+          "CityCusts": 1769,
+          "County": "iron",
+          "CountyCusts": 4285,
+          "Zip": "49935",
+          "ZipCusts": 1770,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41487
+        }
+      ]
+    },
+    {
+      "Latitude": 43.110809601420065,
+      "Longitude": -87.90602188034393,
+      "OffTime": "Nov 25, 9:48 a.m.",
+      "ETR": "Not yet determined",
+      "CrewStatus": "Awaiting Assignment",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 25, 9:50 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 25,
+          "City": "milwaukee",
+          "CityCusts": 351801,
+          "County": "milwaukee",
+          "CountyCusts": 479776,
+          "Zip": "53217",
+          "ZipCusts": 15173,
+          "Region": "southeast wi",
+          "RegionCusts": 1075485
+        },
+        {
+          "AffectedCusts": 17,
+          "City": "whitefish bay",
+          "CityCusts": 1809,
+          "County": "milwaukee",
+          "CountyCusts": 479776,
+          "Zip": "53217",
+          "ZipCusts": 15173,
+          "Region": "southeast wi",
+          "RegionCusts": 1075485
         }
       ]
     }
