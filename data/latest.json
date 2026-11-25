@@ -1,93 +1,70 @@
 {
-  "captured_at": "2026-11-24T23:09:16+00:00",
+  "captured_at": "2026-11-25T05:24:52+00:00",
   "events": [
     {
-      "Latitude": 43.06540728476241,
-      "Longitude": -87.94186492915303,
-      "OffTime": "Nov 24, 3:40 p.m.",
-      "ETR": "Nov 24, 6:30 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "We Energies overhead line problem",
-      "LastUpdated": "Nov 24, 5:00 p.m.",
+      "Latitude": 42.55457075568865,
+      "Longitude": -88.10881969744216,
+      "OffTime": "Nov 24, 6:03 p.m.",
+      "ETR": "Nov 25, 1:00 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Third-party damage to utility equipment",
+      "LastUpdated": "Nov 24, 11:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 16,
-          "City": "milwaukee",
-          "CityCusts": 351863,
-          "County": "milwaukee",
-          "CountyCusts": 479842,
-          "Zip": "53206",
-          "ZipCusts": 10746,
+          "AffectedCusts": 8,
+          "City": "salem",
+          "CityCusts": 4978,
+          "County": "kenosha",
+          "CountyCusts": 80346,
+          "Zip": "53168",
+          "ZipCusts": 4989,
           "Region": "southeast wi",
           "RegionCusts": 1075582
         }
       ]
     },
     {
-      "Latitude": 43.09521496093939,
-      "Longitude": -88.13681146810035,
-      "OffTime": "Nov 24, 3:17 p.m.",
-      "ETR": "Nov 24, 6:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Tree contact with utility equipment",
-      "LastUpdated": "Nov 24, 5:00 p.m.",
+      "Latitude": 43.092287943420175,
+      "Longitude": -88.31332472874203,
+      "OffTime": "Nov 24, 5:59 p.m.",
+      "ETR": "Nov 25, 2:30 a.m.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "",
+      "LastUpdated": "Nov 24, 11:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 9,
-          "City": "brookfield",
-          "CityCusts": 23474,
+          "AffectedCusts": 39,
+          "City": "pewaukee",
+          "CityCusts": 14895,
           "County": "waukesha",
           "CountyCusts": 203927,
-          "Zip": "53045",
-          "ZipCusts": 11850,
+          "Zip": "53072",
+          "ZipCusts": 14960,
           "Region": "southeast wi",
           "RegionCusts": 1075582
         }
       ]
     },
     {
-      "Latitude": 43.10175228056785,
-      "Longitude": -87.93346848517427,
-      "OffTime": "Nov 24, 4:03 p.m.",
-      "ETR": "Nov 24, 7:00 p.m.",
+      "Latitude": 42.59323327486032,
+      "Longitude": -87.8455674598564,
+      "OffTime": "Nov 24, 8:49 p.m.",
+      "ETR": "Nov 24, 11:30 p.m.",
       "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Nov 24, 5:00 p.m.",
+      "LastUpdated": "Nov 24, 11:20 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 351863,
-          "County": "milwaukee",
-          "CountyCusts": 479842,
-          "Zip": "53209",
-          "ZipCusts": 23948,
-          "Region": "southeast wi",
-          "RegionCusts": 1075582
-        }
-      ]
-    },
-    {
-      "Latitude": 43.01076263282334,
-      "Longitude": -87.9373597679909,
-      "OffTime": "Nov 24, 4:42 p.m.",
-      "ETR": "Nov 24, 7:30 p.m.",
-      "CrewStatus": "On the way",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Nov 24, 5:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 351863,
-          "County": "milwaukee",
-          "CountyCusts": 479842,
-          "Zip": "53204",
-          "ZipCusts": 17624,
+          "City": "kenosha",
+          "CityCusts": 54320,
+          "County": "kenosha",
+          "CountyCusts": 80346,
+          "Zip": "53144",
+          "ZipCusts": 14068,
           "Region": "southeast wi",
           "RegionCusts": 1075582
         }
