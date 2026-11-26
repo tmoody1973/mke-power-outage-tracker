@@ -1,4 +1,51 @@
 {
-  "captured_at": "2026-11-26T06:04:07+00:00",
-  "events": []
+  "captured_at": "2026-11-26T16:47:27+00:00",
+  "events": [
+    {
+      "Latitude": 43.11288478282917,
+      "Longitude": -87.99423010898863,
+      "OffTime": "Nov 26, 7:33 a.m.",
+      "ETR": "Nov 26, 12:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Tree contact with service wire",
+      "LastUpdated": "Nov 26, 10:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "milwaukee",
+          "CityCusts": 351801,
+          "County": "milwaukee",
+          "CountyCusts": 479777,
+          "Zip": "53218",
+          "ZipCusts": 16976,
+          "Region": "southeast wi",
+          "RegionCusts": 1075500
+        }
+      ]
+    },
+    {
+      "Latitude": 43.03639946490759,
+      "Longitude": -87.95585554007353,
+      "OffTime": "Nov 26, 9:59 a.m.",
+      "ETR": "Nov 26, 1:00 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 26, 10:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 32,
+          "City": "milwaukee",
+          "CityCusts": 351801,
+          "County": "milwaukee",
+          "CountyCusts": 479777,
+          "Zip": "53208",
+          "ZipCusts": 15424,
+          "Region": "southeast wi",
+          "RegionCusts": 1075500
+        }
+      ]
+    }
+  ]
 }
