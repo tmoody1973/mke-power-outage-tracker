@@ -1,24 +1,47 @@
 {
-  "captured_at": "2026-11-27T00:53:47+00:00",
+  "captured_at": "2026-11-27T09:18:51+00:00",
   "events": [
     {
-      "Latitude": 43.18765577765186,
-      "Longitude": -87.91505910110983,
-      "OffTime": "Nov 26, 6:41 p.m.",
-      "ETR": "Nov 26, 9:30 p.m.",
-      "CrewStatus": "On the way",
+      "Latitude": 43.10449826683967,
+      "Longitude": -88.1115252667861,
+      "OffTime": "Nov 26, 11:58 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "On site",
       "Cause": "Not yet determined",
-      "LastUpdated": "Nov 26, 6:50 p.m.",
+      "LastUpdated": "Nov 27, 3:10 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
-          "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 351801,
-          "County": "milwaukee",
-          "CountyCusts": 479777,
-          "Zip": "53217",
-          "ZipCusts": 15182,
+          "AffectedCusts": 29,
+          "City": "brookfield",
+          "CityCusts": 23476,
+          "County": "waukesha",
+          "CountyCusts": 203924,
+          "Zip": "53005",
+          "ZipCusts": 11571,
+          "Region": "southeast wi",
+          "RegionCusts": 1075500
+        }
+      ]
+    },
+    {
+      "Latitude": 42.5621474605726,
+      "Longitude": -88.0014483164282,
+      "OffTime": "Nov 26, 10:09 p.m.",
+      "ETR": "Reassessing\u00a0\u2013\u00a0Outage may require multiple crews. New ETR will post when necessary resources arrive on site to complete restoration.",
+      "CrewStatus": "Specialized crew needed",
+      "Cause": "Tree contact with We Energies equipment",
+      "LastUpdated": "Nov 27, 3:10 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 5,
+          "City": "bristol",
+          "CityCusts": 3688,
+          "County": "kenosha",
+          "CountyCusts": 80338,
+          "Zip": "53104",
+          "ZipCusts": 3680,
           "Region": "southeast wi",
           "RegionCusts": 1075500
         }
