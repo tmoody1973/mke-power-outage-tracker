@@ -1,26 +1,72 @@
 {
-  "captured_at": "2026-11-28T09:41:13+00:00",
+  "captured_at": "2026-11-28T17:48:39+00:00",
   "events": [
     {
-      "Latitude": 44.33578405892096,
-      "Longitude": -88.41541681197752,
-      "OffTime": "Nov 28, 3:15 a.m.",
-      "ETR": "Nov 28, 6:00 a.m.",
-      "CrewStatus": "On the way",
+      "Latitude": 43.04670469884637,
+      "Longitude": -88.1298326601265,
+      "OffTime": "Nov 28, 9:37 a.m.",
+      "ETR": "Nov 28, 12:30 p.m.",
+      "CrewStatus": "Specialized crew needed",
       "Cause": "Not yet determined",
-      "LastUpdated": "Nov 28, 3:40 a.m.",
+      "LastUpdated": "Nov 28, 11:40 a.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "appleton",
-          "CityCusts": 63168,
-          "County": "outagamie",
-          "CountyCusts": 80456,
-          "Zip": "54913",
-          "ZipCusts": 14054,
-          "Region": "fox valley wi",
-          "RegionCusts": 143842
+          "City": "brookfield",
+          "CityCusts": 23475,
+          "County": "waukesha",
+          "CountyCusts": 203917,
+          "Zip": "53045",
+          "ZipCusts": 11851,
+          "Region": "southeast wi",
+          "RegionCusts": 1075447
+        }
+      ]
+    },
+    {
+      "Latitude": 42.580580424017306,
+      "Longitude": -87.86912388850776,
+      "OffTime": "Nov 28, 11:27 a.m.",
+      "ETR": "Nov 28, 2:30 p.m.",
+      "CrewStatus": "Assigned",
+      "Cause": "Not yet determined",
+      "LastUpdated": "Nov 28, 11:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "kenosha",
+          "CityCusts": 54314,
+          "County": "kenosha",
+          "CountyCusts": 80334,
+          "Zip": "53142",
+          "ZipCusts": 15164,
+          "Region": "southeast wi",
+          "RegionCusts": 1075447
+        }
+      ]
+    },
+    {
+      "Latitude": 46.53389824906306,
+      "Longitude": -89.28203871717518,
+      "OffTime": "Nov 28, 9:37 a.m.",
+      "ETR": "Nov 28, 12:30 p.m.",
+      "CrewStatus": "On site",
+      "Cause": "We Energies overhead line problem",
+      "LastUpdated": "Nov 28, 11:40 a.m.",
+      "IsGlobal": false,
+      "Slices": [
+        {
+          "AffectedCusts": 1,
+          "City": "ewen",
+          "CityCusts": 236,
+          "County": "ontonagon",
+          "CountyCusts": 1709,
+          "Zip": "49925",
+          "ZipCusts": 237,
+          "Region": "upper peninsula mi",
+          "RegionCusts": 41491
         }
       ]
     }
