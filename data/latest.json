@@ -1,95 +1,26 @@
 {
-  "captured_at": "2026-11-27T19:05:26+00:00",
+  "captured_at": "2026-11-28T01:56:01+00:00",
   "events": [
     {
-      "Latitude": 43.17981455849251,
-      "Longitude": -88.02711759521894,
-      "OffTime": "Nov 27, 12:53 p.m.",
-      "ETR": "Nov 27, 3:30 p.m.",
-      "CrewStatus": "Awaiting Assignment",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Nov 27, 1:00 p.m.",
+      "Latitude": 44.42926268577199,
+      "Longitude": -88.3317639596792,
+      "OffTime": "Nov 27, 4:18 p.m.",
+      "ETR": "Nov 27, 10:00 p.m.",
+      "CrewStatus": "On the way",
+      "Cause": "Third-party damage",
+      "LastUpdated": "Nov 27, 7:50 p.m.",
       "IsGlobal": false,
       "Slices": [
         {
           "AffectedCusts": 1,
-          "City": "milwaukee",
-          "CityCusts": 351782,
-          "County": "milwaukee",
-          "CountyCusts": 479751,
-          "Zip": "53224",
-          "ZipCusts": 9511,
-          "Region": "southeast wi",
-          "RegionCusts": 1075447
-        }
-      ]
-    },
-    {
-      "Latitude": 43.32051119039884,
-      "Longitude": -87.9044386919781,
-      "OffTime": "Nov 27, 10:57 a.m.",
-      "ETR": "Nov 27, 2:00 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "",
-      "LastUpdated": "Nov 27, 1:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 66,
-          "City": "grafton",
-          "CityCusts": 10636,
-          "County": "ozaukee",
-          "CountyCusts": 42850,
-          "Zip": "53024",
-          "ZipCusts": 10657,
-          "Region": "southeast wi",
-          "RegionCusts": 1075447
-        }
-      ]
-    },
-    {
-      "Latitude": 43.02452447893718,
-      "Longitude": -88.17913485370792,
-      "OffTime": "Nov 27, 8:33 a.m.",
-      "ETR": "Nov 27, 2:30 p.m.",
-      "CrewStatus": "Assigned",
-      "Cause": "Tree contact with service wire",
-      "LastUpdated": "Nov 27, 1:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 1,
-          "City": "waukesha",
-          "CityCusts": 48478,
-          "County": "waukesha",
-          "CountyCusts": 203917,
-          "Zip": "53186",
-          "ZipCusts": 17774,
-          "Region": "southeast wi",
-          "RegionCusts": 1075447
-        }
-      ]
-    },
-    {
-      "Latitude": 42.94884074067414,
-      "Longitude": -87.85382509719484,
-      "OffTime": "Nov 27, 12:09 p.m.",
-      "ETR": "Nov 27, 3:00 p.m.",
-      "CrewStatus": "On site",
-      "Cause": "Not yet determined",
-      "LastUpdated": "Nov 27, 1:00 p.m.",
-      "IsGlobal": false,
-      "Slices": [
-        {
-          "AffectedCusts": 21,
-          "City": "cudahy",
-          "CityCusts": 9861,
-          "County": "milwaukee",
-          "CountyCusts": 479751,
-          "Zip": "53110",
-          "ZipCusts": 9860,
-          "Region": "southeast wi",
-          "RegionCusts": 1075447
+          "City": "seymour",
+          "CityCusts": 3995,
+          "County": "outagamie",
+          "CountyCusts": 80456,
+          "Zip": "54165",
+          "ZipCusts": 4015,
+          "Region": "fox valley wi",
+          "RegionCusts": 143842
         }
       ]
     }
